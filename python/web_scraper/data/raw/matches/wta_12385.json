@@ -1,0 +1,3107 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "500828",
+    "matchId": "500828",
+    "date": "2019-06-29T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 7982,
+    "player2Id": 4076,
+    "tournamentId": 12385,
+    "match_winner": 7982,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500843",
+    "matchId": "500843",
+    "date": "2019-06-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 7982,
+    "player2Id": 8652,
+    "tournamentId": 12385,
+    "match_winner": 7982,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500837",
+    "matchId": "500837",
+    "date": "2019-06-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11449,
+    "player2Id": 5817,
+    "tournamentId": 12385,
+    "match_winner": 11449,
+    "result": "1-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.9",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500842",
+    "matchId": "500842",
+    "date": "2019-06-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 4076,
+    "player2Id": 8324,
+    "tournamentId": 12385,
+    "match_winner": 4076,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.87",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500874",
+    "matchId": "500874",
+    "date": "2019-06-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7982,
+    "player2Id": 14054,
+    "tournamentId": 12385,
+    "match_winner": 7982,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500886",
+    "matchId": "500886",
+    "date": "2019-06-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8652,
+    "player2Id": 18455,
+    "tournamentId": 12385,
+    "match_winner": 8652,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500832",
+    "matchId": "500832",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5817,
+    "player2Id": 4263,
+    "tournamentId": 12385,
+    "match_winner": 5817,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500836",
+    "matchId": "500836",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 5600,
+    "tournamentId": 12385,
+    "match_winner": 18455,
+    "result": "2-6 6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.96",
+    "odd2": "1.42",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500840",
+    "matchId": "500840",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11449,
+    "player2Id": 7857,
+    "tournamentId": 12385,
+    "match_winner": 11449,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5.55",
+    "odd2": "1.161",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500841",
+    "matchId": "500841",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8324,
+    "player2Id": 7926,
+    "tournamentId": 12385,
+    "match_winner": 8324,
+    "result": "6-1 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500865",
+    "matchId": "500865",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8652,
+    "player2Id": 12389,
+    "tournamentId": 12385,
+    "match_winner": 8652,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500868",
+    "matchId": "500868",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 4076,
+    "player2Id": 13180,
+    "tournamentId": 12385,
+    "match_winner": 4076,
+    "result": "7-6(4) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.161",
+    "odd2": "5.55",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500869",
+    "matchId": "500869",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 13351,
+    "tournamentId": 12385,
+    "match_winner": 7982,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500880",
+    "matchId": "500880",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14054,
+    "player2Id": 16628,
+    "tournamentId": 12385,
+    "match_winner": 14054,
+    "result": "6-3 2-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500821",
+    "matchId": "500821",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 487,
+    "tournamentId": 12385,
+    "match_winner": 8324,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500822",
+    "matchId": "500822",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 495,
+    "tournamentId": 12385,
+    "match_winner": 4076,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500823",
+    "matchId": "500823",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 888,
+    "tournamentId": 12385,
+    "match_winner": 11449,
+    "result": "2-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500826",
+    "matchId": "500826",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5600,
+    "player2Id": 945,
+    "tournamentId": 12385,
+    "match_winner": 5600,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500827",
+    "matchId": "500827",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7926,
+    "player2Id": 1058,
+    "tournamentId": 12385,
+    "match_winner": 7926,
+    "result": "7-6(3) 0-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "3",
+    "odd2": "1.41",
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500831",
+    "matchId": "500831",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7926,
+    "player2Id": 4120,
+    "tournamentId": 12385,
+    "match_winner": 7926,
+    "result": "2-6 6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500848",
+    "matchId": "500848",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13180,
+    "player2Id": 9857,
+    "tournamentId": 12385,
+    "match_winner": 13180,
+    "result": "7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500849",
+    "matchId": "500849",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 10033,
+    "tournamentId": 12385,
+    "match_winner": 16628,
+    "result": "1-6 6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500852",
+    "matchId": "500852",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4263,
+    "player2Id": 10334,
+    "tournamentId": 12385,
+    "match_winner": 4263,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500854",
+    "matchId": "500854",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9857,
+    "player2Id": 10394,
+    "tournamentId": 12385,
+    "match_winner": 9857,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.9",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500860",
+    "matchId": "500860",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5817,
+    "player2Id": 11371,
+    "tournamentId": 12385,
+    "match_winner": 5817,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.5",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500866",
+    "matchId": "500866",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8652,
+    "player2Id": 12390,
+    "tournamentId": 12385,
+    "match_winner": 8652,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500870",
+    "matchId": "500870",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12389,
+    "player2Id": 13385,
+    "tournamentId": 12385,
+    "match_winner": 12389,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500872",
+    "matchId": "500872",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 13541,
+    "tournamentId": 12385,
+    "match_winner": 7857,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500875",
+    "matchId": "500875",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 14056,
+    "tournamentId": 12385,
+    "match_winner": 14054,
+    "result": "6-7(6) 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.84",
+    "odd2": "1.45",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500879",
+    "matchId": "500879",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 16119,
+    "tournamentId": 12385,
+    "match_winner": 14056,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500888",
+    "matchId": "500888",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 495,
+    "player2Id": 23432,
+    "tournamentId": 12385,
+    "match_winner": 495,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.63",
+    "odd2": "1.51",
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500889",
+    "matchId": "500889",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 27035,
+    "tournamentId": 12385,
+    "match_winner": 18455,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.333",
+    "odd2": "3.42",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500893",
+    "matchId": "500893",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 32168,
+    "tournamentId": 12385,
+    "match_winner": 13351,
+    "result": "6-1 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500825",
+    "matchId": "500825",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5600,
+    "player2Id": 902,
+    "tournamentId": 12385,
+    "match_winner": 5600,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500834",
+    "matchId": "500834",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 5548,
+    "tournamentId": 12385,
+    "match_winner": 11449,
+    "result": "1-6 7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500835",
+    "matchId": "500835",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 5582,
+    "tournamentId": 12385,
+    "match_winner": 16628,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500838",
+    "matchId": "500838",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27035,
+    "player2Id": 5873,
+    "tournamentId": 12385,
+    "match_winner": 27035,
+    "result": "4-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.49",
+    "odd2": "1.56",
+    "player1": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 5873,
+     "name": "Carla Suarez Navarro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500844",
+    "matchId": "500844",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 487,
+    "player2Id": 8696,
+    "tournamentId": 12385,
+    "match_winner": 487,
+    "result": "6-3 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500855",
+    "matchId": "500855",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 10749,
+    "tournamentId": 12385,
+    "match_winner": 10334,
+    "result": "6-0 6-7(2) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500862",
+    "matchId": "500862",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 11575,
+    "tournamentId": 12385,
+    "match_winner": 12390,
+    "result": "5-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500864",
+    "matchId": "500864",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 12144,
+    "tournamentId": 12385,
+    "match_winner": 32168,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.44",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500871",
+    "matchId": "500871",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 13484,
+    "tournamentId": 12385,
+    "match_winner": 7982,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500845",
+    "matchId": "500845",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4120,
+    "player2Id": 9357,
+    "tournamentId": 12385,
+    "match_winner": 4120,
+    "result": "7-6(2) 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500847",
+    "matchId": "500847",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 9503,
+    "tournamentId": 12385,
+    "match_winner": 14054,
+    "result": "6-2 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500850",
+    "matchId": "500850",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 10222,
+    "tournamentId": 12385,
+    "match_winner": 13351,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500859",
+    "matchId": "500859",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 11071,
+    "tournamentId": 12385,
+    "match_winner": 5817,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.4",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500863",
+    "matchId": "500863",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 11712,
+    "tournamentId": 12385,
+    "match_winner": 13541,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.63",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500867",
+    "matchId": "500867",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13180,
+    "player2Id": 12842,
+    "tournamentId": 12385,
+    "match_winner": 13180,
+    "result": "4-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500877",
+    "matchId": "500877",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 14609,
+    "tournamentId": 12385,
+    "match_winner": 13385,
+    "result": "3-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.25",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500881",
+    "matchId": "500881",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12389,
+    "player2Id": 16664,
+    "tournamentId": 12385,
+    "match_winner": 12389,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500884",
+    "matchId": "500884",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13484,
+    "player2Id": 17501,
+    "tournamentId": 12385,
+    "match_winner": 13484,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.76",
+    "player1": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500885",
+    "matchId": "500885",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 945,
+    "player2Id": 17503,
+    "tournamentId": 12385,
+    "match_winner": 945,
+    "result": "5-7 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500894",
+    "matchId": "500894",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 32631,
+    "tournamentId": 12385,
+    "match_winner": 4263,
+    "result": "7-6(7) 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 32631,
+     "name": "Katie Swan",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500895",
+    "matchId": "500895",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7857,
+    "player2Id": 37266,
+    "tournamentId": 12385,
+    "match_winner": 7857,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "500905",
+    "matchId": "500905",
+    "date": "2019-06-29T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11101,
+    "player2Id": 66316,
+    "tournamentId": 12385,
+    "match_winner": 11101,
+    "result": "2-6 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66316,
+     "name": "Kirsten Flipkens/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500891",
+    "matchId": "500891",
+    "date": "2019-06-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 66316,
+    "player2Id": 30152,
+    "tournamentId": 12385,
+    "match_winner": 66316,
+    "result": "6-7(4) 6-2 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66316,
+     "name": "Kirsten Flipkens/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30152,
+     "name": "Simona Halep/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500907",
+    "matchId": "500907",
+    "date": "2019-06-28T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 66458,
+    "player2Id": 66318,
+    "tournamentId": 12385,
+    "match_winner": 66458,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.72",
+    "odd2": "1.46",
+    "player1": {
+     "id": 66458,
+     "name": "Mihaela Buzarnescu/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66318,
+     "name": "Aryna Sabalenka/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500908",
+    "matchId": "500908",
+    "date": "2019-06-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11101,
+    "player2Id": 66458,
+    "tournamentId": 12385,
+    "match_winner": 11101,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66458,
+     "name": "Mihaela Buzarnescu/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500890",
+    "matchId": "500890",
+    "date": "2019-06-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66318,
+    "player2Id": 28606,
+    "tournamentId": 12385,
+    "match_winner": 66318,
+    "result": "6-4 2-6 10-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.63",
+    "player1": {
+     "id": 66318,
+     "name": "Aryna Sabalenka/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500903",
+    "matchId": "500903",
+    "date": "2019-06-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66458,
+    "player2Id": 65450,
+    "tournamentId": 12385,
+    "match_winner": 66458,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66458,
+     "name": "Mihaela Buzarnescu/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65450,
+     "name": "Nadiya Kichenok/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500898",
+    "matchId": "500898",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 66316,
+    "player2Id": 57102,
+    "tournamentId": 12385,
+    "match_winner": 66316,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66316,
+     "name": "Kirsten Flipkens/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500901",
+    "matchId": "500901",
+    "date": "2019-06-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 30152,
+    "player2Id": 64408,
+    "tournamentId": 12385,
+    "match_winner": 30152,
+    "result": "2-6 6-0 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.08",
+    "odd2": "1.75",
+    "player1": {
+     "id": 30152,
+     "name": "Simona Halep/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64408,
+     "name": "Alicja Rosolska/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500899",
+    "matchId": "500899",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66317,
+    "player2Id": 63644,
+    "tournamentId": 12385,
+    "match_winner": 66317,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.09",
+    "player1": {
+     "id": 66317,
+     "name": "Raquel Atawo/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63644,
+     "name": "Daria Kasatkina/Anett Kontaveit",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500900",
+    "matchId": "500900",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 64036,
+    "tournamentId": 12385,
+    "match_winner": 11101,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.08",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64036,
+     "name": "Anna-Lena Groenefeld/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500902",
+    "matchId": "500902",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57102,
+    "player2Id": 65060,
+    "tournamentId": 12385,
+    "match_winner": 57102,
+    "result": "4-6 7-6(1) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.64",
+    "player1": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65060,
+     "name": "Harriet Dart/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500904",
+    "matchId": "500904",
+    "date": "2019-06-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66316,
+    "player2Id": 66032,
+    "tournamentId": 12385,
+    "match_winner": 66316,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66316,
+     "name": "Kirsten Flipkens/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66032,
+     "name": "Darija Jurak Schreiber/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500858",
+    "matchId": "500858",
+    "date": "2019-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64408,
+    "player2Id": 10877,
+    "tournamentId": 12385,
+    "match_winner": 64408,
+    "result": "6-2 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.63",
+    "player1": {
+     "id": 64408,
+     "name": "Alicja Rosolska/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10877,
+     "name": "Lucie Hradecka/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500897",
+    "matchId": "500897",
+    "date": "2019-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30152,
+    "player2Id": 51399,
+    "tournamentId": 12385,
+    "match_winner": 30152,
+    "result": "7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30152,
+     "name": "Simona Halep/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "500824",
+    "matchId": "500824",
+    "date": "2019-06-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11712,
+    "player2Id": 888,
+    "tournamentId": 12385,
+    "match_winner": 11712,
+    "result": "6-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.91",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500830",
+    "matchId": "500830",
+    "date": "2019-06-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 7926,
+    "player2Id": 4120,
+    "tournamentId": 12385,
+    "match_winner": 7926,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500846",
+    "matchId": "500846",
+    "date": "2019-06-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 495,
+    "player2Id": 9357,
+    "tournamentId": 12385,
+    "match_winner": 495,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.99",
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500851",
+    "matchId": "500851",
+    "date": "2019-06-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16664,
+    "player2Id": 10334,
+    "tournamentId": 12385,
+    "match_winner": 16664,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500853",
+    "matchId": "500853",
+    "date": "2019-06-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16119,
+    "player2Id": 10394,
+    "tournamentId": 12385,
+    "match_winner": 16119,
+    "result": "7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.32",
+    "odd2": "1.61",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500856",
+    "matchId": "500856",
+    "date": "2019-06-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 37266,
+    "player2Id": 10749,
+    "tournamentId": 12385,
+    "match_winner": 37266,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500829",
+    "matchId": "500829",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 4090,
+    "tournamentId": 12385,
+    "match_winner": 10749,
+    "result": "6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500833",
+    "matchId": "500833",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11712,
+    "player2Id": 5369,
+    "tournamentId": 12385,
+    "match_winner": 11712,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500839",
+    "matchId": "500839",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9357,
+    "player2Id": 6577,
+    "tournamentId": 12385,
+    "match_winner": 9357,
+    "result": "7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 6577,
+     "name": "Urszula Radwanska",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500857",
+    "matchId": "500857",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16664,
+    "player2Id": 10814,
+    "tournamentId": 12385,
+    "match_winner": 16664,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.82",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500873",
+    "matchId": "500873",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10394,
+    "player2Id": 13946,
+    "tournamentId": 12385,
+    "match_winner": 10394,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13946,
+     "name": "Alicia Barnett",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500876",
+    "matchId": "500876",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16119,
+    "player2Id": 14259,
+    "tournamentId": 12385,
+    "match_winner": 16119,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500878",
+    "matchId": "500878",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 888,
+    "player2Id": 14902,
+    "tournamentId": 12385,
+    "match_winner": 888,
+    "result": "2-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.36",
+    "odd2": "1.59",
+    "player1": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500882",
+    "matchId": "500882",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4120,
+    "player2Id": 16971,
+    "tournamentId": 12385,
+    "match_winner": 4120,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 16971,
+     "name": "Lizette Cabrera",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500883",
+    "matchId": "500883",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7926,
+    "player2Id": 17021,
+    "tournamentId": 12385,
+    "match_winner": 7926,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500887",
+    "matchId": "500887",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37266,
+    "player2Id": 18460,
+    "tournamentId": 12385,
+    "match_winner": 37266,
+    "result": "6-0 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.064",
+    "odd2": "8.8",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 18460,
+     "name": "Freya Christie",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500892",
+    "matchId": "500892",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10334,
+    "player2Id": 30915,
+    "tournamentId": 12385,
+    "match_winner": 10334,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 30915,
+     "name": "Vera Lapko",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "500896",
+    "matchId": "500896",
+    "date": "2019-06-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 495,
+    "player2Id": 45854,
+    "tournamentId": 12385,
+    "match_winner": 495,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12385,
+     "name": "Nature Valley International - Eastbourne",
+     "courtId": 5,
+     "date": "2019-06-24T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

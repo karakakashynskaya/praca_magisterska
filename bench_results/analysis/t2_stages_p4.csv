@@ -1,0 +1,14 @@
+architecture,layer,czas [s],udział [%]
+DV,ANALYZE dbo,3.109,27.2
+DV,ANALYZE dmart,0.205,1.8
+DV,ANALYZE stg,1.613,14.1
+DV,dbo: huby i linki,0.78,6.8
+DV,dbo: satelity opisowe,0.713,6.2
+DV,dbo: satelity statusu,1.049,9.2
+DV,dmart,1.601,14.0
+DV,stg,2.37,20.7
+STAR,ANALYZE star,0.204,4.0
+STAR,ANALYZE stg,1.601,31.5
+STAR,star: fakty,0.503,9.9
+STAR,star: wymiary,0.401,7.9
+STAR,stg,2.381,46.8

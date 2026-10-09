@@ -1,0 +1,9 @@
+FROM liquibase/liquibase:4.29
+
+USER root
+RUN rm -f /liquibase/lib/postgresql.jar
+USER liquibase
+
+WORKDIR /liquibase/changelog
+
+ENTRYPOINT ["liquibase"]

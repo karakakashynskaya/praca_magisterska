@@ -1,0 +1,3686 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "574172",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 8696,
+    "player2Id": 7982,
+    "tournamentId": 13581,
+    "match_winner": 8696,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574192",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 8696,
+    "player2Id": 11712,
+    "tournamentId": 13581,
+    "match_winner": 8696,
+    "result": "6-3 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.1",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574220",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 7982,
+    "player2Id": 18455,
+    "tournamentId": 13581,
+    "match_winner": 7982,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574165",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 5416,
+    "tournamentId": 13581,
+    "match_winner": 18455,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.49",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574189",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 11449,
+    "tournamentId": 13581,
+    "match_winner": 11712,
+    "result": "1-6 7-6(4) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.74",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574205",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7982,
+    "player2Id": 13839,
+    "tournamentId": 13581,
+    "match_winner": 7982,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.65",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574240",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8696,
+    "player2Id": 54663,
+    "tournamentId": 13581,
+    "match_winner": 8696,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.18",
+    "odd2": "1.75",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574173",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8696,
+    "player2Id": 8234,
+    "tournamentId": 13581,
+    "match_winner": 8696,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574175",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 8549,
+    "tournamentId": 13581,
+    "match_winner": 18455,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.15",
+    "odd2": "6.2",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574190",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 11575,
+    "tournamentId": 13581,
+    "match_winner": 11712,
+    "result": "6-4 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574204",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 13541,
+    "tournamentId": 13581,
+    "match_winner": 5416,
+    "result": "6-4 3-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574218",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13839,
+    "player2Id": 17501,
+    "tournamentId": 13581,
+    "match_winner": 13839,
+    "result": "6-7(4) 6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.18",
+    "odd2": "1.75",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574230",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11449,
+    "player2Id": 39226,
+    "tournamentId": 13581,
+    "match_winner": 11449,
+    "result": "6-7(5) 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "2.02",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574232",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 41564,
+    "tournamentId": 13581,
+    "match_winner": 7982,
+    "result": "6-1 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.56",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574167",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 6740,
+    "tournamentId": 13581,
+    "match_winner": 11712,
+    "result": "1-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.75",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574174",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 8324,
+    "tournamentId": 13581,
+    "match_winner": 11575,
+    "result": "2-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574182",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 10033,
+    "tournamentId": 13581,
+    "match_winner": 18455,
+    "result": "7-6(4) 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.5",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574188",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 11371,
+    "tournamentId": 13581,
+    "match_winner": 7857,
+    "result": "3-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.84",
+    "odd2": "1.45",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574202",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 13498,
+    "tournamentId": 13581,
+    "match_winner": 7982,
+    "result": "4-6 6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.7",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574207",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8696,
+    "player2Id": 14448,
+    "tournamentId": 13581,
+    "match_winner": 8696,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574208",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 14539,
+    "tournamentId": 13581,
+    "match_winner": 41564,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.15",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574212",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 16119,
+    "tournamentId": 13581,
+    "match_winner": 13541,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.92",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574217",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8549,
+    "player2Id": 17142,
+    "tournamentId": 13581,
+    "match_winner": 8549,
+    "result": "1-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574219",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 17503,
+    "tournamentId": 13581,
+    "match_winner": 11449,
+    "result": "2-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.31",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574222",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13839,
+    "player2Id": 24368,
+    "tournamentId": 13581,
+    "match_winner": 13839,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574231",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 40156,
+    "tournamentId": 13581,
+    "match_winner": 54663,
+    "result": "5-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.32",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574164",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7857,
+    "player2Id": 4263,
+    "tournamentId": 13581,
+    "match_winner": 7857,
+    "result": "4-6 5-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574166",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 6019,
+    "tournamentId": 13581,
+    "match_winner": 5416,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574168",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 7574,
+    "tournamentId": 13581,
+    "match_winner": 17503,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574171",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 7944,
+    "tournamentId": 13581,
+    "match_winner": 54663,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574183",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 10455,
+    "tournamentId": 13581,
+    "match_winner": 6740,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574185",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17501,
+    "player2Id": 10633,
+    "tournamentId": 13581,
+    "match_winner": 17501,
+    "result": "6-2 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.66",
+    "odd2": "1.3",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574196",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 12390,
+    "tournamentId": 13581,
+    "match_winner": 16119,
+    "result": "1-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574197",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 12635,
+    "tournamentId": 13581,
+    "match_winner": 13498,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574200",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 13351,
+    "tournamentId": 13581,
+    "match_winner": 8696,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.64",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574201",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11712,
+    "player2Id": 13385,
+    "tournamentId": 13581,
+    "match_winner": 11712,
+    "result": "5-7 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574203",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13839,
+    "player2Id": 13511,
+    "tournamentId": 13581,
+    "match_winner": 13839,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574209",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 39226,
+    "player2Id": 14609,
+    "tournamentId": 13581,
+    "match_winner": 39226,
+    "result": "6-1 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574214",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 16664,
+    "tournamentId": 13581,
+    "match_winner": 8234,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.92",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574216",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 17021,
+    "tournamentId": 13581,
+    "match_winner": 11575,
+    "result": "4-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.66",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574228",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 36558,
+    "tournamentId": 13581,
+    "match_winner": 24368,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574229",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 37266,
+    "tournamentId": 13581,
+    "match_winner": 10033,
+    "result": "6-4 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574178",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14448,
+    "player2Id": 9357,
+    "tournamentId": 13581,
+    "match_winner": 14448,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574180",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16664,
+    "player2Id": 9503,
+    "tournamentId": 13581,
+    "match_winner": 16664,
+    "result": "2-6 6-2 0-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574181",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 9772,
+    "tournamentId": 13581,
+    "match_winner": 6019,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574186",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 10749,
+    "tournamentId": 13581,
+    "match_winner": 17142,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.727",
+    "odd2": "2.16",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574191",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8549,
+    "player2Id": 11672,
+    "tournamentId": 13581,
+    "match_winner": 8549,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5.15",
+    "odd2": "1.181",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574194",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 12267,
+    "tournamentId": 13581,
+    "match_winner": 40156,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.58",
+    "odd2": "1.53",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574199",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 12997,
+    "tournamentId": 13581,
+    "match_winner": 41564,
+    "result": "6-1 4-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574213",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17501,
+    "player2Id": 16628,
+    "tournamentId": 13581,
+    "match_winner": 17501,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574221",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14539,
+    "player2Id": 18482,
+    "tournamentId": 13581,
+    "match_winner": 14539,
+    "result": "6-3 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.36",
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574223",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 24572,
+    "tournamentId": 13581,
+    "match_winner": 13541,
+    "result": "6-4 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.163",
+    "odd2": "5.5",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574233",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 41858,
+    "tournamentId": 13581,
+    "match_winner": 11449,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.2",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574238",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14609,
+    "player2Id": 49081,
+    "tournamentId": 13581,
+    "match_winner": 14609,
+    "result": "7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.66",
+    "odd2": "1.3",
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "574226",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 71500,
+    "player2Id": 30174,
+    "tournamentId": 13581,
+    "match_winner": 71500,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.67",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574255",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 30174,
+    "player2Id": 71365,
+    "tournamentId": 13581,
+    "match_winner": 30174,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.375",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574263",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 71500,
+    "player2Id": 74781,
+    "tournamentId": 13581,
+    "match_winner": 71500,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.4",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74781,
+     "name": "Veronika Kudermetova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574244",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 30174,
+    "player2Id": 60391,
+    "tournamentId": 13581,
+    "match_winner": 30174,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574247",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71500,
+    "player2Id": 63696,
+    "tournamentId": 13581,
+    "match_winner": 71500,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574252",
+    "date": "2021-08-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 74781,
+    "player2Id": 71187,
+    "tournamentId": 13581,
+    "match_winner": 74781,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74781,
+     "name": "Veronika Kudermetova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71187,
+     "name": "Ulrikke Eikeri/Catherine Harrison",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574245",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 63696,
+    "player2Id": 60799,
+    "tournamentId": 13581,
+    "match_winner": 63696,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.172",
+    "odd2": "5",
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60799,
+     "name": "Leylah Annie Fernandez/Rebecca Marino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574246",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71500,
+    "player2Id": 62065,
+    "tournamentId": 13581,
+    "match_winner": 71500,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62065,
+     "name": "Emina Bektas/Tara Moore",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574257",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 74781,
+    "player2Id": 73965,
+    "tournamentId": 13581,
+    "match_winner": 74781,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74781,
+     "name": "Veronika Kudermetova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73965,
+     "name": "Karolina Muchova/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574259",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 30174,
+    "player2Id": 74321,
+    "tournamentId": 13581,
+    "match_winner": 30174,
+    "result": "6-0 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.4",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74321,
+     "name": "Vivian Heisen/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574260",
+    "date": "2021-08-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71365,
+    "player2Id": 74699,
+    "tournamentId": 13581,
+    "match_winner": 71365,
+    "result": "1-6 6-2 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574227",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30174,
+    "player2Id": 36325,
+    "tournamentId": 13581,
+    "match_winner": 30174,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.39",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36325,
+     "name": "Paula Badosa Gibert/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574248",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73965,
+    "player2Id": 63712,
+    "tournamentId": 13581,
+    "match_winner": 73965,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73965,
+     "name": "Karolina Muchova/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63712,
+     "name": "Harriet Dart/Anett Kontaveit",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574250",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71365,
+    "player2Id": 67099,
+    "tournamentId": 13581,
+    "match_winner": 71365,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.83",
+    "odd2": "1.43",
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574251",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 74699,
+    "player2Id": 68427,
+    "tournamentId": 13581,
+    "match_winner": 74699,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68427,
+     "name": "Jelena Ostapenko/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574253",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60799,
+    "player2Id": 71239,
+    "tournamentId": 13581,
+    "match_winner": 60799,
+    "result": "5-7 6-3 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.2",
+    "player1": {
+     "id": 60799,
+     "name": "Leylah Annie Fernandez/Rebecca Marino",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71239,
+     "name": "Elixane Lechemia/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574261",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71500,
+    "player2Id": 74779,
+    "tournamentId": 13581,
+    "match_winner": 71500,
+    "result": "6-4 4-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74779,
+     "name": "Julia Lohoff/Renata Voracova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574266",
+    "date": "2021-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 60391,
+    "player2Id": 74784,
+    "tournamentId": 13581,
+    "match_winner": 60391,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74784,
+     "name": "Melodie Collard/Carol Zhao",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574242",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74699,
+    "player2Id": 57030,
+    "tournamentId": 13581,
+    "match_winner": 74699,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.2",
+    "player1": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57030,
+     "name": "Lyudmyla Kichenok/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574254",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71187,
+    "player2Id": 71299,
+    "tournamentId": 13581,
+    "match_winner": 71187,
+    "result": "6-3 2-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71187,
+     "name": "Ulrikke Eikeri/Catherine Harrison",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574264",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74321,
+    "player2Id": 74782,
+    "tournamentId": 13581,
+    "match_winner": 74321,
+    "result": "7-6(5) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74321,
+     "name": "Vivian Heisen/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74782,
+     "name": "Erin Routliffe/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574267",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71365,
+    "player2Id": 74785,
+    "tournamentId": 13581,
+    "match_winner": 71365,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.7",
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74785,
+     "name": "Oksana Kalashnikova/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574268",
+    "date": "2021-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68427,
+    "player2Id": 74837,
+    "tournamentId": 13581,
+    "match_winner": 68427,
+    "result": "4-6 6-4 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68427,
+     "name": "Jelena Ostapenko/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74837,
+     "name": "Oceane Dodin/Kamilla Rakhimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574243",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 62065,
+    "player2Id": 59299,
+    "tournamentId": 13581,
+    "match_winner": 62065,
+    "result": "6-3 5-7 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.8",
+    "player1": {
+     "id": 62065,
+     "name": "Emina Bektas/Tara Moore",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 59299,
+     "name": "Polona Hercog/Alison Van Uytvanck",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574256",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74781,
+    "player2Id": 72050,
+    "tournamentId": 13581,
+    "match_winner": 74781,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.67",
+    "player1": {
+     "id": 74781,
+     "name": "Veronika Kudermetova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574262",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71187,
+    "player2Id": 74780,
+    "tournamentId": 13581,
+    "match_winner": 71187,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.54",
+    "odd2": "1.49",
+    "player1": {
+     "id": 71187,
+     "name": "Ulrikke Eikeri/Catherine Harrison",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74780,
+     "name": "Kaitlyn Christian/Christina Mchale",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574265",
+    "date": "2021-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74784,
+    "player2Id": 74783,
+    "tournamentId": 13581,
+    "match_winner": 74784,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74784,
+     "name": "Melodie Collard/Carol Zhao",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74783,
+     "name": "Beatrice Gumulya/Emily Webley-Smith",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "574170",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12997,
+    "player2Id": 7926,
+    "tournamentId": 13581,
+    "match_winner": 12997,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.56",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574176",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14609,
+    "player2Id": 8665,
+    "tournamentId": 13581,
+    "match_winner": 14609,
+    "result": "2-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.63",
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574179",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 40156,
+    "player2Id": 9458,
+    "tournamentId": 13581,
+    "match_winner": 40156,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574184",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10455,
+    "player2Id": 10595,
+    "tournamentId": 13581,
+    "match_winner": 10455,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.4",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574187",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 41858,
+    "player2Id": 11071,
+    "tournamentId": 13581,
+    "match_winner": 41858,
+    "result": "1-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574235",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 41564,
+    "player2Id": 45072,
+    "tournamentId": 13581,
+    "match_winner": 41564,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.19",
+    "odd2": "4.7",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574236",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12635,
+    "player2Id": 45192,
+    "tournamentId": 13581,
+    "match_winner": 12635,
+    "result": "6-7(4) 6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.14",
+    "player1": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574237",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14539,
+    "player2Id": 45866,
+    "tournamentId": 13581,
+    "match_winner": 14539,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574163",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41858,
+    "player2Id": 972,
+    "tournamentId": 13581,
+    "match_winner": 41858,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 972,
+     "name": "Emily Webley-Smith",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574177",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9458,
+    "player2Id": 9099,
+    "tournamentId": 13581,
+    "match_winner": 9458,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "6.95",
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9099,
+     "name": "Lyudmyla Kichenok",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574193",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10595,
+    "player2Id": 11991,
+    "tournamentId": 13581,
+    "match_winner": 10595,
+    "result": "1-6 7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11991,
+     "name": "Nicole Melichar",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574195",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12997,
+    "player2Id": 12286,
+    "tournamentId": 13581,
+    "match_winner": 12997,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.044",
+    "odd2": "10.5",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12286,
+     "name": "Demi Schuurs",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574198",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12635,
+    "player2Id": 12640,
+    "tournamentId": 13581,
+    "match_winner": 12635,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.066",
+    "odd2": "8.7",
+    "player1": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 12640,
+     "name": "Makoto Ninomiya",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574206",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14609,
+    "player2Id": 14259,
+    "tournamentId": 13581,
+    "match_winner": 14609,
+    "result": "3-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574210",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10455,
+    "player2Id": 14733,
+    "tournamentId": 13581,
+    "match_winner": 10455,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.172",
+    "odd2": "5",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14733,
+     "name": "Francoise Abanda",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574211",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45192,
+    "player2Id": 14902,
+    "tournamentId": 13581,
+    "match_winner": 45192,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.65",
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574215",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7926,
+    "player2Id": 16947,
+    "tournamentId": 13581,
+    "match_winner": 7926,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 16947,
+     "name": "Harmony Tan",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574224",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41564,
+    "player2Id": 25513,
+    "tournamentId": 13581,
+    "match_winner": 41564,
+    "result": "6-3 1-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.172",
+    "odd2": "5",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574225",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11071,
+    "player2Id": 29178,
+    "tournamentId": 13581,
+    "match_winner": 11071,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.172",
+    "odd2": "5",
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574234",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 40156,
+    "player2Id": 43858,
+    "tournamentId": 13581,
+    "match_winner": 40156,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 43858,
+     "name": "Layne Sleeth",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574239",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45072,
+    "player2Id": 53765,
+    "tournamentId": 13581,
+    "match_winner": 45072,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 53765,
+     "name": "Melodie Collard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574241",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8665,
+    "player2Id": 55956,
+    "tournamentId": 13581,
+    "match_winner": 8665,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 55956,
+     "name": "Raphaelle Lacasse",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574249",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45866,
+    "player2Id": 66757,
+    "tournamentId": 13581,
+    "match_winner": 45866,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.066",
+    "odd2": "8.7",
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66757,
+     "name": "Mia Kupres",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574258",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14539,
+    "player2Id": 73977,
+    "tournamentId": 13581,
+    "match_winner": 14539,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 73977,
+     "name": "Kayla Cross",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13581,
+     "name": "Rogers Cup - Montreal",
+     "courtId": 1,
+     "date": "2021-08-09T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

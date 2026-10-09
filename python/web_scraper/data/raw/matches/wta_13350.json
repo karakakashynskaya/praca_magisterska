@@ -1,0 +1,6625 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "558042",
+    "date": "2021-02-20T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 16430,
+    "player2Id": 13325,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557971",
+    "date": "2021-02-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 16430,
+    "player2Id": 241,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.24",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558072",
+    "date": "2021-02-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13325,
+    "player2Id": 18482,
+    "tournamentId": 13350,
+    "match_winner": 13325,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558026",
+    "date": "2021-02-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13325,
+    "player2Id": 11712,
+    "tournamentId": 13350,
+    "match_winner": 13325,
+    "result": "4-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "3.06",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558038",
+    "date": "2021-02-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18482,
+    "player2Id": 12966,
+    "tournamentId": 13350,
+    "match_winner": 18482,
+    "result": "1-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557975",
+    "date": "2021-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16430,
+    "player2Id": 487,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558003",
+    "date": "2021-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 241,
+    "player2Id": 8324,
+    "tournamentId": 13350,
+    "match_winner": 241,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558023",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11712,
+    "player2Id": 11371,
+    "tournamentId": 13350,
+    "match_winner": 11712,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.06",
+    "odd2": "1.42",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558031",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 12966,
+    "player2Id": 12267,
+    "tournamentId": 13350,
+    "match_winner": 12966,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "4.1",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558043",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 18482,
+    "player2Id": 13351,
+    "tournamentId": 13350,
+    "match_winner": 18482,
+    "result": "7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558046",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 13325,
+    "player2Id": 13498,
+    "tournamentId": 13350,
+    "match_winner": 13325,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558019",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 16430,
+    "player2Id": 10633,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558071",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 241,
+    "player2Id": 18455,
+    "tournamentId": 13350,
+    "match_winner": 241,
+    "result": "6-4 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558087",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 487,
+    "player2Id": 32168,
+    "tournamentId": 13350,
+    "match_winner": 487,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.32",
+    "odd2": "1.37",
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558101",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 8324,
+    "player2Id": 45854,
+    "tournamentId": 13350,
+    "match_winner": 8324,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557974",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13498,
+    "player2Id": 467,
+    "tournamentId": 13350,
+    "match_winner": 13498,
+    "result": "5-7 7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557999",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18482,
+    "player2Id": 7982,
+    "tournamentId": 13350,
+    "match_winner": 18482,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.35",
+    "odd2": "1.65",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558008",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 9458,
+    "tournamentId": 13350,
+    "match_winner": 11712,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.81",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558032",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 12390,
+    "tournamentId": 13350,
+    "match_winner": 11371,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558044",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12267,
+    "player2Id": 13385,
+    "tournamentId": 13350,
+    "match_winner": 12267,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558052",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12966,
+    "player2Id": 14054,
+    "tournamentId": 13350,
+    "match_winner": 12966,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.74",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558053",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13351,
+    "player2Id": 14056,
+    "tournamentId": 13350,
+    "match_winner": 13351,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558093",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13325,
+    "player2Id": 38911,
+    "tournamentId": 13350,
+    "match_winner": 13325,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.97",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557982",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 487,
+    "player2Id": 4121,
+    "tournamentId": 13350,
+    "match_winner": 487,
+    "result": "6-4 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.43",
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557989",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32168,
+    "player2Id": 6019,
+    "tournamentId": 13350,
+    "match_winner": 32168,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.44",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558016",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10633,
+    "player2Id": 10394,
+    "tournamentId": 13350,
+    "match_winner": 10633,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.089",
+    "odd2": "8.8",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558024",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16430,
+    "player2Id": 11449,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558061",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8324,
+    "player2Id": 16119,
+    "tournamentId": 13350,
+    "match_winner": 8324,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558063",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 16664,
+    "tournamentId": 13350,
+    "match_winner": 45854,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.82",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558096",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 241,
+    "player2Id": 40156,
+    "tournamentId": 13350,
+    "match_winner": 241,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558102",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 45866,
+    "tournamentId": 13350,
+    "match_winner": 18455,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "4.333",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557973",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 457,
+    "tournamentId": 13350,
+    "match_winner": 14056,
+    "result": "7-5 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.07",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557976",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 495,
+    "tournamentId": 13350,
+    "match_winner": 11712,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.5",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557991",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13325,
+    "player2Id": 6201,
+    "tournamentId": 13350,
+    "match_winner": 13325,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.132",
+    "odd2": "6.3",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558010",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 9669,
+    "tournamentId": 13350,
+    "match_winner": 18482,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.147",
+    "odd2": "5.9",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558015",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 10334,
+    "tournamentId": 13350,
+    "match_winner": 12966,
+    "result": "6-1 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.123",
+    "odd2": "6.6",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558021",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 11071,
+    "tournamentId": 13350,
+    "match_winner": 13385,
+    "result": "6-7(5) 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.198",
+    "odd2": "4.85",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558025",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 11575,
+    "tournamentId": 13350,
+    "match_winner": 7982,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558028",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 12089,
+    "tournamentId": 13350,
+    "match_winner": 13351,
+    "result": "7-6(8) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558035",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 12635,
+    "tournamentId": 13350,
+    "match_winner": 12390,
+    "result": "6-4 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558041",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 13267,
+    "tournamentId": 13350,
+    "match_winner": 14054,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558048",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 38911,
+    "player2Id": 13706,
+    "tournamentId": 13350,
+    "match_winner": 38911,
+    "result": "3-6 7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558051",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9458,
+    "player2Id": 13937,
+    "tournamentId": 13350,
+    "match_winner": 9458,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558057",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13498,
+    "player2Id": 14448,
+    "tournamentId": 13350,
+    "match_winner": 13498,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558075",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 467,
+    "player2Id": 23432,
+    "tournamentId": 13350,
+    "match_winner": 467,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558095",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12267,
+    "player2Id": 39749,
+    "tournamentId": 13350,
+    "match_winner": 12267,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558108",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 54663,
+    "tournamentId": 13350,
+    "match_winner": 11371,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557970",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4121,
+    "player2Id": 151,
+    "tournamentId": 13350,
+    "match_winner": 4121,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557988",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45866,
+    "player2Id": 5817,
+    "tournamentId": 13350,
+    "match_winner": 45866,
+    "result": "6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558001",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6019,
+    "player2Id": 8234,
+    "tournamentId": 13350,
+    "match_winner": 6019,
+    "result": "6-4 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.92",
+    "odd2": "1.27",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558005",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 8549,
+    "tournamentId": 13350,
+    "match_winner": 32168,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558007",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 8696,
+    "tournamentId": 13350,
+    "match_winner": 45854,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.8",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558009",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 9503,
+    "tournamentId": 13350,
+    "match_winner": 8324,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558017",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 10455,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558018",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40156,
+    "player2Id": 10600,
+    "tournamentId": 13350,
+    "match_winner": 40156,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.52",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558040",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 13265,
+    "tournamentId": 13350,
+    "match_winner": 11449,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558055",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10394,
+    "player2Id": 14259,
+    "tournamentId": 13350,
+    "match_winner": 10394,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.7",
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558059",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 241,
+    "player2Id": 14884,
+    "tournamentId": 13350,
+    "match_winner": 241,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558068",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 17503,
+    "tournamentId": 13350,
+    "match_winner": 18455,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558077",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10633,
+    "player2Id": 24368,
+    "tournamentId": 13350,
+    "match_winner": 10633,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.067",
+    "odd2": "9.5",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558090",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16664,
+    "player2Id": 36558,
+    "tournamentId": 13350,
+    "match_winner": 16664,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.24",
+    "odd2": "1.363",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558094",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 487,
+    "player2Id": 39226,
+    "tournamentId": 13350,
+    "match_winner": 487,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558100",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 44510,
+    "tournamentId": 13350,
+    "match_winner": 16119,
+    "result": "5-7 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.4",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557979",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 457,
+    "player2Id": 1058,
+    "tournamentId": 13350,
+    "match_winner": 457,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.19",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557985",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45866,
+    "player2Id": 4263,
+    "tournamentId": 13350,
+    "match_winner": 45866,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557986",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11712,
+    "player2Id": 5416,
+    "tournamentId": 13350,
+    "match_winner": 11712,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557990",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6201,
+    "player2Id": 6159,
+    "tournamentId": 13350,
+    "match_winner": 6201,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "4.05",
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557995",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39749,
+    "player2Id": 7574,
+    "tournamentId": 13350,
+    "match_winner": 39749,
+    "result": "7-5 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.86",
+    "odd2": "1.444",
+    "player1": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557996",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38911,
+    "player2Id": 7857,
+    "tournamentId": 13350,
+    "match_winner": 38911,
+    "result": "4-6 2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "3.44",
+    "odd2": "1.33",
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557998",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 467,
+    "player2Id": 7944,
+    "tournamentId": 13350,
+    "match_winner": 467,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558000",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11071,
+    "player2Id": 7983,
+    "tournamentId": 13350,
+    "match_winner": 11071,
+    "result": "7-6(4) 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558006",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14448,
+    "player2Id": 8665,
+    "tournamentId": 13350,
+    "match_winner": 14448,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.2",
+    "player1": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558011",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 9728,
+    "tournamentId": 13350,
+    "match_winner": 11575,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.38",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558014",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 10033,
+    "tournamentId": 13350,
+    "match_winner": 12390,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.8",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558020",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 10738,
+    "tournamentId": 13350,
+    "match_winner": 14054,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558029",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 12144,
+    "tournamentId": 13350,
+    "match_winner": 13267,
+    "result": "6-3 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558030",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 12205,
+    "tournamentId": 13350,
+    "match_winner": 14056,
+    "result": "6-3 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558034",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12966,
+    "player2Id": 12525,
+    "tournamentId": 13350,
+    "match_winner": 12966,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.083",
+    "odd2": "8.4",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558036",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 12842,
+    "tournamentId": 13350,
+    "match_winner": 13385,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.92",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558037",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 12882,
+    "tournamentId": 13350,
+    "match_winner": 13498,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558045",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10633,
+    "player2Id": 13484,
+    "tournamentId": 13350,
+    "match_winner": 10633,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.071",
+    "odd2": "9.2",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558047",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9458,
+    "player2Id": 13541,
+    "tournamentId": 13350,
+    "match_winner": 9458,
+    "result": "6-2 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.58",
+    "odd2": "1.31",
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558049",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13706,
+    "player2Id": 13810,
+    "tournamentId": 13350,
+    "match_winner": 13706,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558050",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 13839,
+    "tournamentId": 13350,
+    "match_winner": 10334,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558056",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 14362,
+    "tournamentId": 13350,
+    "match_winner": 7982,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558060",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13937,
+    "player2Id": 14902,
+    "tournamentId": 13350,
+    "match_winner": 13937,
+    "result": "2-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.08",
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558062",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 16628,
+    "tournamentId": 13350,
+    "match_winner": 18482,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.42",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558065",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 17021,
+    "tournamentId": 13350,
+    "match_winner": 54663,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558066",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 17142,
+    "tournamentId": 13350,
+    "match_winner": 24368,
+    "result": "6-7(4) 7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.95",
+    "odd2": "1.89",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558070",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13325,
+    "player2Id": 18452,
+    "tournamentId": 13350,
+    "match_winner": 13325,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.158",
+    "odd2": "5.6",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18452,
+     "name": "Aliona Bolsova",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558078",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11371,
+    "player2Id": 24572,
+    "tournamentId": 13350,
+    "match_winner": 11371,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558079",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 25513,
+    "tournamentId": 13350,
+    "match_winner": 23432,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.088",
+    "odd2": "8.1",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558086",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 495,
+    "player2Id": 30238,
+    "tournamentId": 13350,
+    "match_winner": 495,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558092",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 38210,
+    "tournamentId": 13350,
+    "match_winner": 12267,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 38210,
+     "name": "Francesca Jones",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558097",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12635,
+    "player2Id": 41858,
+    "tournamentId": 13350,
+    "match_winner": 12635,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558103",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12089,
+    "player2Id": 45990,
+    "tournamentId": 13350,
+    "match_winner": 12089,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.29",
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558106",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 49081,
+    "tournamentId": 13350,
+    "match_winner": 13351,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558109",
+    "date": "2021-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9669,
+    "player2Id": 54664,
+    "tournamentId": 13350,
+    "match_winner": 9669,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.15",
+    "odd2": "1.38",
+    "player1": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557972",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 431,
+    "tournamentId": 13350,
+    "match_winner": 36558,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557977",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 151,
+    "player2Id": 902,
+    "tournamentId": 13350,
+    "match_winner": 151,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557978",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 945,
+    "tournamentId": 13350,
+    "match_winner": 11449,
+    "result": "6-3 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557980",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 487,
+    "player2Id": 3867,
+    "tournamentId": 13350,
+    "match_winner": 487,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.2",
+    "odd2": "1.37",
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557981",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 4076,
+    "tournamentId": 13350,
+    "match_winner": 14259,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.55",
+    "odd2": "1.54",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557983",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 4174,
+    "tournamentId": 13350,
+    "match_winner": 8696,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557984",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 241,
+    "player2Id": 4177,
+    "tournamentId": 13350,
+    "match_winner": 241,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557987",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 5582,
+    "tournamentId": 13350,
+    "match_winner": 39226,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.5",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557992",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14884,
+    "player2Id": 6651,
+    "tournamentId": 13350,
+    "match_winner": 14884,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.36",
+    "player1": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557993",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 6740,
+    "tournamentId": 13350,
+    "match_winner": 16430,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557994",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45854,
+    "player2Id": 6933,
+    "tournamentId": 13350,
+    "match_winner": 45854,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557997",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 7926,
+    "tournamentId": 13350,
+    "match_winner": 10455,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558002",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 8262,
+    "tournamentId": 13350,
+    "match_winner": 9503,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558004",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4121,
+    "player2Id": 8531,
+    "tournamentId": 13350,
+    "match_winner": 4121,
+    "result": "2-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.42",
+    "odd2": "1.59",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558012",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 9752,
+    "tournamentId": 13350,
+    "match_winner": 5817,
+    "result": "6-2 4-6 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.175",
+    "odd2": "5.25",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9752,
+     "name": "Valeria Savinykh",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558013",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 9772,
+    "tournamentId": 13350,
+    "match_winner": 40156,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558027",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 11944,
+    "tournamentId": 13350,
+    "match_winner": 6019,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11944,
+     "name": "Patricia Maria Tig",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558033",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10600,
+    "player2Id": 12402,
+    "tournamentId": 13350,
+    "match_winner": 10600,
+    "result": "7-6(0) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.666",
+    "odd2": "2.26",
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 12402,
+     "name": "Ysaline Bonaventure",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558039",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 13180,
+    "tournamentId": 13350,
+    "match_winner": 32168,
+    "result": "2-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.38",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558054",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 14175,
+    "tournamentId": 13350,
+    "match_winner": 17503,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558058",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13265,
+    "player2Id": 14600,
+    "tournamentId": 13350,
+    "match_winner": 13265,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 14600,
+     "name": "Mayo Hibi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558064",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8324,
+    "player2Id": 16971,
+    "tournamentId": 13350,
+    "match_winner": 8324,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 16971,
+     "name": "Lizette Cabrera",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558067",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16664,
+    "player2Id": 17501,
+    "tournamentId": 13350,
+    "match_winner": 16664,
+    "result": "6-7(5) 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.16",
+    "odd2": "1.727",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558069",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8549,
+    "player2Id": 18427,
+    "tournamentId": 13350,
+    "match_winner": 8549,
+    "result": "6-0 7-6(9)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.5",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558080",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 26356,
+    "tournamentId": 13350,
+    "match_winner": 8234,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558082",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10394,
+    "player2Id": 27035,
+    "tournamentId": 13350,
+    "match_winner": 10394,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.66",
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558085",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18455,
+    "player2Id": 29373,
+    "tournamentId": 13350,
+    "match_winner": 18455,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.067",
+    "odd2": "9.5",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558088",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 34747,
+    "tournamentId": 13350,
+    "match_winner": 44510,
+    "result": "6-1 3-6 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.66",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558104",
+    "date": "2021-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 47742,
+    "tournamentId": 13350,
+    "match_winner": 16119,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.52",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "558083",
+    "date": "2021-02-19T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 63696,
+    "player2Id": 27301,
+    "tournamentId": 13350,
+    "match_winner": 63696,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558127",
+    "date": "2021-02-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 27301,
+    "player2Id": 70214,
+    "tournamentId": 13350,
+    "match_winner": 27301,
+    "result": "3-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558132",
+    "date": "2021-02-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 63696,
+    "player2Id": 71299,
+    "tournamentId": 13350,
+    "match_winner": 63696,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558123",
+    "date": "2021-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71299,
+    "player2Id": 67088,
+    "tournamentId": 13350,
+    "match_winner": 71299,
+    "result": "7-6(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558124",
+    "date": "2021-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 63696,
+    "player2Id": 67099,
+    "tournamentId": 13350,
+    "match_winner": 63696,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558138",
+    "date": "2021-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27301,
+    "player2Id": 72039,
+    "tournamentId": 13350,
+    "match_winner": 27301,
+    "result": "7-5 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.197",
+    "odd2": "4.85",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72039,
+     "name": "Sharon Fichman/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558151",
+    "date": "2021-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 70214,
+    "player2Id": 72233,
+    "tournamentId": 13350,
+    "match_winner": 70214,
+    "result": "6-7(3) 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72233,
+     "name": "Aleksandra Krunic/Martina Trevisan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558081",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 71299,
+    "player2Id": 26936,
+    "tournamentId": 13350,
+    "match_winner": 71299,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558114",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 67088,
+    "player2Id": 60391,
+    "tournamentId": 13350,
+    "match_winner": 67088,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558153",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 27301,
+    "player2Id": 72337,
+    "tournamentId": 13350,
+    "match_winner": 27301,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.177",
+    "odd2": "4.9",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72337,
+     "name": "Bernarda Pera/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558154",
+    "date": "2021-02-15T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 72039,
+    "player2Id": 72338,
+    "tournamentId": 13350,
+    "match_winner": 72039,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72039,
+     "name": "Sharon Fichman/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72338,
+     "name": "Leylah Annie Fernandez/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558113",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 72233,
+    "player2Id": 58045,
+    "tournamentId": 13350,
+    "match_winner": 72233,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72233,
+     "name": "Aleksandra Krunic/Martina Trevisan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58045,
+     "name": "Anna Kalinskaya/Viktoria Hruncakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558125",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 67099,
+    "player2Id": 68115,
+    "tournamentId": 13350,
+    "match_winner": 67099,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.2",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558131",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 63696,
+    "player2Id": 71166,
+    "tournamentId": 13350,
+    "match_winner": 63696,
+    "result": "6-3 6-7(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558152",
+    "date": "2021-02-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 70214,
+    "player2Id": 72336,
+    "tournamentId": 13350,
+    "match_winner": 70214,
+    "result": "1-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.4",
+    "player1": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72336,
+     "name": "Aliona Bolsova/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558076",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 23604,
+    "tournamentId": 13350,
+    "match_winner": 26936,
+    "result": "6-1 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.6",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23604,
+     "name": "Andreea Mitu/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558091",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71299,
+    "player2Id": 37555,
+    "tournamentId": 13350,
+    "match_winner": 71299,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37555,
+     "name": "Vera Lapko/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558112",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 70214,
+    "player2Id": 57865,
+    "tournamentId": 13350,
+    "match_winner": 70214,
+    "result": "7-6(5) 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558121",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 60391,
+    "player2Id": 65497,
+    "tournamentId": 13350,
+    "match_winner": 60391,
+    "result": "6-1 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65497,
+     "name": "Arina Rodionova/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558129",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72337,
+    "player2Id": 70833,
+    "tournamentId": 13350,
+    "match_winner": 72337,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72337,
+     "name": "Bernarda Pera/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70833,
+     "name": "Arantxa Rus/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558137",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72336,
+    "player2Id": 71889,
+    "tournamentId": 13350,
+    "match_winner": 72336,
+    "result": "7-6(3) 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.75",
+    "odd2": "1.171",
+    "player1": {
+     "id": 72336,
+     "name": "Aliona Bolsova/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71889,
+     "name": "Kirsten Flipkens/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558139",
+    "date": "2021-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71166,
+    "player2Id": 72041,
+    "tournamentId": 13350,
+    "match_winner": 71166,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.86",
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72041,
+     "name": "Kateryna Volodko/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558098",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67099,
+    "player2Id": 42740,
+    "tournamentId": 13350,
+    "match_winner": 67099,
+    "result": "5-7 7-6(5) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.7",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42740,
+     "name": "Lizette Cabrera/Maddison Inglis",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558130",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72039,
+    "player2Id": 71100,
+    "tournamentId": 13350,
+    "match_winner": 72039,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72039,
+     "name": "Sharon Fichman/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71100,
+     "name": "Lucie Hradecka/Kristyna Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558140",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 58045,
+    "player2Id": 72046,
+    "tournamentId": 13350,
+    "match_winner": 58045,
+    "result": "2-6 7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 58045,
+     "name": "Anna Kalinskaya/Viktoria Hruncakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558143",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67088,
+    "player2Id": 72220,
+    "tournamentId": 13350,
+    "match_winner": 67088,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72220,
+     "name": "Gabriela Dabrowski/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558145",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72233,
+    "player2Id": 72224,
+    "tournamentId": 13350,
+    "match_winner": 72233,
+    "result": "6-4 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72233,
+     "name": "Aleksandra Krunic/Martina Trevisan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72224,
+     "name": "Mona Barthel/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558147",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72338,
+    "player2Id": 72227,
+    "tournamentId": 13350,
+    "match_winner": 72338,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.26",
+    "player1": {
+     "id": 72338,
+     "name": "Leylah Annie Fernandez/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72227,
+     "name": "Olivia Gadecki/Belinda Woolcock",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558150",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27301,
+    "player2Id": 72231,
+    "tournamentId": 13350,
+    "match_winner": 27301,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.2",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72231,
+     "name": "Ons Jabeur/Christina Mchale",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558159",
+    "date": "2021-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 68115,
+    "player2Id": 72343,
+    "tournamentId": 13350,
+    "match_winner": 68115,
+    "result": "4-6 6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72343,
+     "name": "Paula Badosa Gibert/Danka Kovinic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558022",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72039,
+    "player2Id": 11101,
+    "tournamentId": 13350,
+    "match_winner": 72039,
+    "result": "1-6 7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.55",
+    "odd2": "1.186",
+    "player1": {
+     "id": 72039,
+     "name": "Sharon Fichman/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558089",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70833,
+    "player2Id": 35510,
+    "tournamentId": 13350,
+    "match_winner": 70833,
+    "result": "6-1 6-7(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.17",
+    "player1": {
+     "id": 70833,
+     "name": "Arantxa Rus/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 35510,
+     "name": "Alison Riske/Ajla Tomljanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558105",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72337,
+    "player2Id": 47871,
+    "tournamentId": 13350,
+    "match_winner": 72337,
+    "result": "3-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.2",
+    "odd2": "1.21",
+    "player1": {
+     "id": 72337,
+     "name": "Bernarda Pera/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47871,
+     "name": "Anna Blinkova/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558110",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71166,
+    "player2Id": 57103,
+    "tournamentId": 13350,
+    "match_winner": 71166,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.2",
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57103,
+     "name": "Kimberly Birrell/Jaimee Fourlis",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558111",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 58045,
+    "player2Id": 57221,
+    "tournamentId": 13350,
+    "match_winner": 58045,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.7",
+    "player1": {
+     "id": 58045,
+     "name": "Anna Kalinskaya/Viktoria Hruncakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57221,
+     "name": "Zarina Diyas/Yulia Putintseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558119",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57865,
+    "player2Id": 65099,
+    "tournamentId": 13350,
+    "match_winner": 57865,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.108",
+    "odd2": "6.2",
+    "player1": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65099,
+     "name": "Destanee Aiava/Astra Sharma",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558120",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71889,
+    "player2Id": 65186,
+    "tournamentId": 13350,
+    "match_winner": 71889,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71889,
+     "name": "Kirsten Flipkens/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65186,
+     "name": "Georgina Garcia-Perez/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558122",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72231,
+    "player2Id": 65598,
+    "tournamentId": 13350,
+    "match_winner": 72231,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72231,
+     "name": "Ons Jabeur/Christina Mchale",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65598,
+     "name": "Daria Saville/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558126",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71299,
+    "player2Id": 68621,
+    "tournamentId": 13350,
+    "match_winner": 71299,
+    "result": "3-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68621,
+     "name": "Fiona Ferro/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558136",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70214,
+    "player2Id": 71694,
+    "tournamentId": 13350,
+    "match_winner": 70214,
+    "result": "6-0 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "1.99",
+    "player1": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71694,
+     "name": "Irina-Camelia Begu/Nadia Podoroska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558141",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68115,
+    "player2Id": 72047,
+    "tournamentId": 13350,
+    "match_winner": 68115,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72047,
+     "name": "Elena Rybakina/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558155",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72227,
+    "player2Id": 72339,
+    "tournamentId": 13350,
+    "match_winner": 72227,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.25",
+    "odd2": "1.615",
+    "player1": {
+     "id": 72227,
+     "name": "Olivia Gadecki/Belinda Woolcock",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72339,
+     "name": "Mihaela Buzarnescu/Ankita Raina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558156",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65497,
+    "player2Id": 72340,
+    "tournamentId": 13350,
+    "match_winner": 65497,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65497,
+     "name": "Arina Rodionova/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72340,
+     "name": "Simona Halep/Charlotte Kempenaers-Pocz",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558158",
+    "date": "2021-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42740,
+    "player2Id": 72342,
+    "tournamentId": 13350,
+    "match_winner": 42740,
+    "result": "7-6(3) 4-6 7-6(10)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.67",
+    "odd2": "1.45",
+    "player1": {
+     "id": 42740,
+     "name": "Lizette Cabrera/Maddison Inglis",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72342,
+     "name": "Renata Voracova/Yafan Wang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558073",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72233,
+    "player2Id": 18503,
+    "tournamentId": 13350,
+    "match_winner": 72233,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.32",
+    "player1": {
+     "id": 72233,
+     "name": "Aleksandra Krunic/Martina Trevisan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 18503,
+     "name": "Yingying Duan/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558074",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 20506,
+    "tournamentId": 13350,
+    "match_winner": 67099,
+    "result": "4-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.7",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 20506,
+     "name": "Asia Muhammad/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558084",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72338,
+    "player2Id": 28606,
+    "tournamentId": 13350,
+    "match_winner": 72338,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72338,
+     "name": "Leylah Annie Fernandez/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558099",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72343,
+    "player2Id": 43739,
+    "tournamentId": 13350,
+    "match_winner": 72343,
+    "result": "6-2 4-6 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.86",
+    "odd2": "1.4",
+    "player1": {
+     "id": 72343,
+     "name": "Paula Badosa Gibert/Danka Kovinic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43739,
+     "name": "Misaki Doi/Nao Hibino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558107",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23604,
+    "player2Id": 49259,
+    "tournamentId": 13350,
+    "match_winner": 23604,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.95",
+    "odd2": "1.82",
+    "player1": {
+     "id": 23604,
+     "name": "Andreea Mitu/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49259,
+     "name": "Monica Niculescu/Patricia Maria Tig",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558115",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72046,
+    "player2Id": 61055,
+    "tournamentId": 13350,
+    "match_winner": 72046,
+    "result": "6-3 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.25",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61055,
+     "name": "Anastasia Pavlyuchenkova/Anastasija Sevastova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558116",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37555,
+    "player2Id": 62892,
+    "tournamentId": 13350,
+    "match_winner": 37555,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.28",
+    "player1": {
+     "id": 37555,
+     "name": "Vera Lapko/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62892,
+     "name": "Madison Brengle/Lauren Davis",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558117",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72336,
+    "player2Id": 63644,
+    "tournamentId": 13350,
+    "match_winner": 72336,
+    "result": "7-6(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.98",
+    "odd2": "1.23",
+    "player1": {
+     "id": 72336,
+     "name": "Aliona Bolsova/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63644,
+     "name": "Daria Kasatkina/Anett Kontaveit",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558118",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72220,
+    "player2Id": 64038,
+    "tournamentId": 13350,
+    "match_winner": 72220,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.98",
+    "player1": {
+     "id": 72220,
+     "name": "Gabriela Dabrowski/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64038,
+     "name": "Lara Arruabarrena/Kaitlyn Christian",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558128",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60391,
+    "player2Id": 70747,
+    "tournamentId": 13350,
+    "match_winner": 60391,
+    "result": "6-3 2-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70747,
+     "name": "Belinda Bencic/Sofia Kenin",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558133",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27301,
+    "player2Id": 71398,
+    "tournamentId": 13350,
+    "match_winner": 27301,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.168",
+    "odd2": "4.8",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71398,
+     "name": "Ana Bogdan/Rebecca Peterson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558134",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72224,
+    "player2Id": 71413,
+    "tournamentId": 13350,
+    "match_winner": 72224,
+    "result": "6-1 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72224,
+     "name": "Mona Barthel/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71413,
+     "name": "Marta Kostyuk/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558135",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67088,
+    "player2Id": 71688,
+    "tournamentId": 13350,
+    "match_winner": 67088,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71688,
+     "name": "Caroline Dolehide/Shelby Rogers",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558142",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71100,
+    "player2Id": 72048,
+    "tournamentId": 13350,
+    "match_winner": 71100,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71100,
+     "name": "Lucie Hradecka/Kristyna Pliskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72048,
+     "name": "Ekaterina Alexandrova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558144",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72230,
+    "player2Id": 72221,
+    "tournamentId": 13350,
+    "match_winner": 72230,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.043",
+    "odd2": "9.5",
+    "player1": {
+     "id": 72230,
+     "name": "Ashleigh Barty/Jennifer Brady",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72221,
+     "name": "Abbie Myers/Ivana Popovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558146",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72041,
+    "player2Id": 72225,
+    "tournamentId": 13350,
+    "match_winner": 72041,
+    "result": "5-7 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.78",
+    "player1": {
+     "id": 72041,
+     "name": "Kateryna Volodko/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558148",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63696,
+    "player2Id": 72229,
+    "tournamentId": 13350,
+    "match_winner": 63696,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72229,
+     "name": "Cornelia Lister/Alison Van Uytvanck",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "558157",
+    "date": "2021-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26936,
+    "player2Id": 72341,
+    "tournamentId": 13350,
+    "match_winner": 26936,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.46",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72341,
+     "name": "Makoto Ninomiya/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13350,
+     "name": "Australian Open - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-08T00:00:00.000Z",
+     "rankId": 4,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

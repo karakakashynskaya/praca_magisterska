@@ -1,0 +1,3021 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "761578",
+    "date": "2024-01-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 36558,
+    "player2Id": 18455,
+    "tournamentId": 15201,
+    "match_winner": 36558,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761543",
+    "date": "2024-01-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 5416,
+    "tournamentId": 15201,
+    "match_winner": 18455,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.96",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761608",
+    "date": "2024-01-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 36558,
+    "player2Id": 66597,
+    "tournamentId": 15201,
+    "match_winner": 36558,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761572",
+    "date": "2024-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 5416,
+    "player2Id": 16628,
+    "tournamentId": 15201,
+    "match_winner": 5416,
+    "result": "6-3 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761575",
+    "date": "2024-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 17503,
+    "tournamentId": 15201,
+    "match_winner": 18455,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.1",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761593",
+    "date": "2024-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 40156,
+    "tournamentId": 15201,
+    "match_winner": 36558,
+    "result": "6-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761614",
+    "date": "2024-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 66597,
+    "player2Id": 77934,
+    "tournamentId": 15201,
+    "match_winner": 66597,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.7",
+    "odd2": "1.28",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761545",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 77934,
+    "player2Id": 6159,
+    "tournamentId": 15201,
+    "match_winner": 77934,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761546",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16628,
+    "player2Id": 7982,
+    "tournamentId": 15201,
+    "match_winner": 16628,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.625",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761548",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17503,
+    "player2Id": 9357,
+    "tournamentId": 15201,
+    "match_winner": 17503,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761559",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 12089,
+    "tournamentId": 15201,
+    "match_winner": 18455,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.122",
+    "odd2": "6.2",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761563",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 36558,
+    "player2Id": 13351,
+    "tournamentId": 15201,
+    "match_winner": 36558,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761569",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 40156,
+    "player2Id": 16119,
+    "tournamentId": 15201,
+    "match_winner": 40156,
+    "result": "7-5 6-7(7) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761594",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 41858,
+    "tournamentId": 15201,
+    "match_winner": 5416,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761602",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 66597,
+    "player2Id": 52500,
+    "tournamentId": 15201,
+    "match_winner": 66597,
+    "result": "6-1 6-7(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761544",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66597,
+    "player2Id": 6019,
+    "tournamentId": 15201,
+    "match_winner": 66597,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "2",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761547",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 8696,
+    "tournamentId": 15201,
+    "match_winner": 16628,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.39",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761551",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 10033,
+    "tournamentId": 15201,
+    "match_winner": 13351,
+    "result": "2-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.23",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761552",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40156,
+    "player2Id": 10334,
+    "tournamentId": 15201,
+    "match_winner": 40156,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761557",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12089,
+    "player2Id": 11575,
+    "tournamentId": 15201,
+    "match_winner": 12089,
+    "result": "1-6 6-3 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761562",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 13265,
+    "tournamentId": 15201,
+    "match_winner": 16119,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761565",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 52500,
+    "player2Id": 14054,
+    "tournamentId": 15201,
+    "match_winner": 52500,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761568",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41858,
+    "player2Id": 16043,
+    "tournamentId": 15201,
+    "match_winner": 41858,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761570",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 16430,
+    "tournamentId": 15201,
+    "match_winner": 7982,
+    "result": "3-6 7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761581",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9357,
+    "player2Id": 24344,
+    "tournamentId": 15201,
+    "match_winner": 9357,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.77",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761582",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77934,
+    "player2Id": 24368,
+    "tournamentId": 15201,
+    "match_winner": 77934,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.97",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761586",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 27032,
+    "tournamentId": 15201,
+    "match_winner": 18455,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.038",
+    "odd2": "11.25",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761596",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 43865,
+    "tournamentId": 15201,
+    "match_winner": 36558,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761599",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 47742,
+    "tournamentId": 15201,
+    "match_winner": 17503,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761553",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66597,
+    "player2Id": 10600,
+    "tournamentId": 15201,
+    "match_winner": 66597,
+    "result": "5-7 7-6(8) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761560",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52500,
+    "player2Id": 12432,
+    "tournamentId": 15201,
+    "match_winner": 52500,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.74",
+    "player1": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761577",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43865,
+    "player2Id": 18427,
+    "tournamentId": 15201,
+    "match_winner": 43865,
+    "result": "4-6 6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761580",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6159,
+    "player2Id": 23432,
+    "tournamentId": 15201,
+    "match_winner": 6159,
+    "result": "7-5 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761590",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 32480,
+    "tournamentId": 15201,
+    "match_winner": 5416,
+    "result": "6-1 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761600",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 48254,
+    "tournamentId": 15201,
+    "match_winner": 11575,
+    "result": "6-1 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761601",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41858,
+    "player2Id": 49991,
+    "tournamentId": 15201,
+    "match_winner": 41858,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761605",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27032,
+    "player2Id": 64343,
+    "tournamentId": 15201,
+    "match_winner": 27032,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.64",
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761567",
+    "date": "2024-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 14694,
+    "tournamentId": 15201,
+    "match_winner": 16430,
+    "result": "6-3 7-6(9)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.28",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761591",
+    "date": "2024-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 37266,
+    "tournamentId": 15201,
+    "match_winner": 10334,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.22",
+    "odd2": "1.35",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761549",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 9728,
+    "tournamentId": 15201,
+    "match_winner": 47742,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761554",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6159,
+    "player2Id": 10738,
+    "tournamentId": 15201,
+    "match_winner": 6159,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.625",
+    "odd2": "1.49",
+    "player1": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761566",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 14259,
+    "tournamentId": 15201,
+    "match_winner": 32480,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.57",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761574",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 17501,
+    "tournamentId": 15201,
+    "match_winner": 10033,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761584",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24344,
+    "player2Id": 26356,
+    "tournamentId": 15201,
+    "match_winner": 24344,
+    "result": "5-7 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.81",
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761587",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13265,
+    "player2Id": 28585,
+    "tournamentId": 15201,
+    "match_winner": 13265,
+    "result": "3-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.6",
+    "odd2": "1.5",
+    "player1": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761603",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 53793,
+    "tournamentId": 15201,
+    "match_winner": 8696,
+    "result": "5-7 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761606",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77934,
+    "player2Id": 65911,
+    "tournamentId": 15201,
+    "match_winner": 77934,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "761623",
+    "date": "2024-01-06T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 26936,
+    "player2Id": 91394,
+    "tournamentId": 15201,
+    "match_winner": 26936,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91394,
+     "name": "Greetje Minnen/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761619",
+    "date": "2024-01-05T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 91394,
+    "player2Id": 89069,
+    "tournamentId": 15201,
+    "match_winner": 91394,
+    "result": "2-6 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 91394,
+     "name": "Greetje Minnen/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89069,
+     "name": "Cristina Bucsa/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761611",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 26936,
+    "player2Id": 71365,
+    "tournamentId": 15201,
+    "match_winner": 26936,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.22",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761620",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 91394,
+    "player2Id": 89124,
+    "tournamentId": 15201,
+    "match_winner": 91394,
+    "result": "7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.64",
+    "player1": {
+     "id": 91394,
+     "name": "Greetje Minnen/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89124,
+     "name": "Danielle Rose Collins/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761625",
+    "date": "2024-01-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 89069,
+    "player2Id": 91396,
+    "tournamentId": 15201,
+    "match_winner": 89069,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 89069,
+     "name": "Cristina Bucsa/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761579",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66734,
+    "player2Id": 21932,
+    "tournamentId": 15201,
+    "match_winner": 66734,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761612",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 91394,
+    "player2Id": 73265,
+    "tournamentId": 15201,
+    "match_winner": 91394,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91394,
+     "name": "Greetje Minnen/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761613",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 89124,
+    "player2Id": 76352,
+    "tournamentId": 15201,
+    "match_winner": 89124,
+    "result": "1-6 6-4 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.48",
+    "player1": {
+     "id": 89124,
+     "name": "Danielle Rose Collins/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761615",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 91396,
+    "player2Id": 79446,
+    "tournamentId": 15201,
+    "match_winner": 91396,
+    "result": "3-6 6-4 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761618",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 46660,
+    "player2Id": 88510,
+    "tournamentId": 15201,
+    "match_winner": 46660,
+    "result": "7-6(5) 6-7(4) 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.46",
+    "player1": {
+     "id": 46660,
+     "name": "Daria Saville/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761622",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 89715,
+    "tournamentId": 15201,
+    "match_winner": 26936,
+    "result": "5-7 7-5 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.35",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89715,
+     "name": "Ekaterina Alexandrova/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761627",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 89069,
+    "player2Id": 91398,
+    "tournamentId": 15201,
+    "match_winner": 89069,
+    "result": "4-6 6-4 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.69",
+    "odd2": "1.43",
+    "player1": {
+     "id": 89069,
+     "name": "Cristina Bucsa/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91398,
+     "name": "Timea Babos/Marta Kostyuk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761629",
+    "date": "2024-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71365,
+    "player2Id": 91451,
+    "tournamentId": 15201,
+    "match_winner": 71365,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91451,
+     "name": "Linda Noskova/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761610",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91396,
+    "player2Id": 67968,
+    "tournamentId": 15201,
+    "match_winner": 91396,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67968,
+     "name": "Sofia Kenin/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761616",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89715,
+    "player2Id": 84744,
+    "tournamentId": 15201,
+    "match_winner": 89715,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.1",
+    "player1": {
+     "id": 89715,
+     "name": "Ekaterina Alexandrova/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761617",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71365,
+    "player2Id": 87405,
+    "tournamentId": 15201,
+    "match_winner": 71365,
+    "result": "6-3 3-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.1",
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 87405,
+     "name": "Fang-Hsien Wu/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761624",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91394,
+    "player2Id": 91395,
+    "tournamentId": 15201,
+    "match_winner": 91394,
+    "result": "6-4 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 91394,
+     "name": "Greetje Minnen/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91395,
+     "name": "Caroline Dolehide/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761626",
+    "date": "2024-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89069,
+    "player2Id": 91397,
+    "tournamentId": 15201,
+    "match_winner": 89069,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.07",
+    "player1": {
+     "id": 89069,
+     "name": "Cristina Bucsa/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91397,
+     "name": "Naiktha Bains/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761607",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89124,
+    "player2Id": 66041,
+    "tournamentId": 15201,
+    "match_winner": 89124,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 89124,
+     "name": "Danielle Rose Collins/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66041,
+     "name": "Shuko Aoyama/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761621",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66734,
+    "player2Id": 89448,
+    "tournamentId": 15201,
+    "match_winner": 66734,
+    "result": "7-6(2) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.66",
+    "player1": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89448,
+     "name": "Talia Gibson/Priscilla Hon",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761628",
+    "date": "2023-12-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 46660,
+    "player2Id": 91399,
+    "tournamentId": 15201,
+    "match_winner": 46660,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.92",
+    "player1": {
+     "id": 46660,
+     "name": "Daria Saville/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91399,
+     "name": "Lidziya Marozava/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "761550",
+    "date": "2023-12-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 43865,
+    "player2Id": 9752,
+    "tournamentId": 15201,
+    "match_winner": 43865,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.14",
+    "player1": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9752,
+     "name": "Valeria Savinykh",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761561",
+    "date": "2023-12-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 49991,
+    "player2Id": 12842,
+    "tournamentId": 15201,
+    "match_winner": 49991,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761592",
+    "date": "2023-12-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52500,
+    "player2Id": 39326,
+    "tournamentId": 15201,
+    "match_winner": 52500,
+    "result": "6-7(3) 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 39326,
+     "name": "Mai Hontama",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761595",
+    "date": "2023-12-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 37266,
+    "player2Id": 41888,
+    "tournamentId": 15201,
+    "match_winner": 37266,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.32",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761598",
+    "date": "2023-12-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 48254,
+    "player2Id": 47741,
+    "tournamentId": 15201,
+    "match_winner": 48254,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.12",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47741,
+     "name": "Sofya Lansere",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761604",
+    "date": "2023-12-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10600,
+    "player2Id": 63749,
+    "tournamentId": 15201,
+    "match_winner": 10600,
+    "result": "5-7 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.7",
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 63749,
+     "name": "Talia Gibson",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761542",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37266,
+    "player2Id": 487,
+    "tournamentId": 15201,
+    "match_winner": 37266,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.34",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761555",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 43865,
+    "player2Id": 10791,
+    "tournamentId": 15201,
+    "match_winner": 43865,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.25",
+    "player1": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761556",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 49991,
+    "player2Id": 11071,
+    "tournamentId": 15201,
+    "match_winner": 49991,
+    "result": "3-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.5",
+    "odd2": "1.285",
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761558",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 63749,
+    "player2Id": 11959,
+    "tournamentId": 15201,
+    "match_winner": 63749,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.68",
+    "player1": {
+     "id": 63749,
+     "name": "Talia Gibson",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761564",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 39326,
+    "player2Id": 13810,
+    "tournamentId": 15201,
+    "match_winner": 39326,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.3",
+    "player1": {
+     "id": 39326,
+     "name": "Mai Hontama",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761571",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52500,
+    "player2Id": 16627,
+    "tournamentId": 15201,
+    "match_winner": 52500,
+    "result": "3-6 7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761573",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10600,
+    "player2Id": 17062,
+    "tournamentId": 15201,
+    "match_winner": 10600,
+    "result": "7-6(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761576",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47741,
+    "player2Id": 18097,
+    "tournamentId": 15201,
+    "match_winner": 47741,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.86",
+    "player1": {
+     "id": 47741,
+     "name": "Sofya Lansere",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18097,
+     "name": "Martina Capurro Taborda",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761583",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41888,
+    "player2Id": 25513,
+    "tournamentId": 15201,
+    "match_winner": 41888,
+    "result": "6-3 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761585",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48254,
+    "player2Id": 26509,
+    "tournamentId": 15201,
+    "match_winner": 48254,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.88",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 26509,
+     "name": "Gabriela Andrea Knutson",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761588",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 29547,
+    "tournamentId": 15201,
+    "match_winner": 12842,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "6.45",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 29547,
+     "name": "Seone Mendez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "761589",
+    "date": "2023-12-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9752,
+    "player2Id": 31267,
+    "tournamentId": 15201,
+    "match_winner": 9752,
+    "result": "6-7(8) 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9752,
+     "name": "Valeria Savinykh",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 31267,
+     "name": "Jaimee Fourlis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15201,
+     "name": "Brisbane International - Brisbane",
+     "courtId": 1,
+     "date": "2024-01-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

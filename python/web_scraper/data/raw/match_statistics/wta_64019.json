@@ -1,0 +1,81 @@
+[
+ {
+  "id": "498732",
+  "matchId": "498732",
+  "date": "2019-02-09T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 10008,
+  "player2Id": 64019,
+  "tournamentId": 12361,
+  "match_winner": 10008,
+  "result": "6-1 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 10008,
+   "name": "Lara Arruabarrena",
+   "countryAcr": "ESP"
+  },
+  "player2": {
+   "id": 64019,
+   "name": "Mariana Ramirez Nieto",
+   "countryAcr": "COL"
+  },
+  "tournament": {
+   "id": 12361,
+   "name": "Qatar Total Open - Doha",
+   "courtId": 1,
+   "date": "2019-02-11T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "QAT",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:48:41",
+   "player1": {
+    "firstServe": 21,
+    "firstServeOf": 34,
+    "aces": 1,
+    "doubleFaults": 0,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 19,
+    "winningOnFirstServeOf": 21,
+    "winningOnSecondServe": 9,
+    "winningOnSecondServeOf": 13,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 9,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 57,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 27,
+    "firstServeOf": 53,
+    "aces": 5,
+    "doubleFaults": 6,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 17,
+    "winningOnFirstServeOf": 27,
+    "winningOnSecondServe": 7,
+    "winningOnSecondServeOf": 26,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 30,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

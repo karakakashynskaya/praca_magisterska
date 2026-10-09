@@ -1,0 +1,2135 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "540670",
+    "matchId": "540670",
+    "date": "2020-02-16T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 8652,
+    "player2Id": 36558,
+    "tournamentId": 13019,
+    "match_winner": 8652,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540653",
+    "matchId": "540653",
+    "date": "2020-02-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 36558,
+    "player2Id": 13541,
+    "tournamentId": 13019,
+    "match_winner": 36558,
+    "result": "3-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540654",
+    "matchId": "540654",
+    "date": "2020-02-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 8652,
+    "player2Id": 14054,
+    "tournamentId": 13019,
+    "match_winner": 8652,
+    "result": "6-1 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540655",
+    "matchId": "540655",
+    "date": "2020-02-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 14056,
+    "tournamentId": 13019,
+    "match_winner": 13541,
+    "result": "2-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540657",
+    "matchId": "540657",
+    "date": "2020-02-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 14539,
+    "tournamentId": 13019,
+    "match_winner": 36558,
+    "result": "6-7(5) 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540673",
+    "matchId": "540673",
+    "date": "2020-02-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8652,
+    "player2Id": 40156,
+    "tournamentId": 13019,
+    "match_winner": 8652,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540633",
+    "matchId": "540633",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 5817,
+    "tournamentId": 13019,
+    "match_winner": 13541,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540647",
+    "matchId": "540647",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 12635,
+    "tournamentId": 13019,
+    "match_winner": 8234,
+    "result": "7-6(1) 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540652",
+    "matchId": "540652",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 13498,
+    "tournamentId": 13019,
+    "match_winner": 14054,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540658",
+    "matchId": "540658",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8652,
+    "player2Id": 16119,
+    "tournamentId": 13019,
+    "match_winner": 8652,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540631",
+    "matchId": "540631",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 457,
+    "tournamentId": 13019,
+    "match_winner": 14056,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540635",
+    "matchId": "540635",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14539,
+    "player2Id": 7857,
+    "tournamentId": 13019,
+    "match_winner": 14539,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540640",
+    "matchId": "540640",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40156,
+    "player2Id": 9503,
+    "tournamentId": 13019,
+    "match_winner": 40156,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540659",
+    "matchId": "540659",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 16628,
+    "tournamentId": 13019,
+    "match_winner": 5817,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.79",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540661",
+    "matchId": "540661",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 16664,
+    "tournamentId": 13019,
+    "match_winner": 36558,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540639",
+    "matchId": "540639",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12635,
+    "player2Id": 9458,
+    "tournamentId": 13019,
+    "match_winner": 12635,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.05",
+    "odd2": "1.74",
+    "player1": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540642",
+    "matchId": "540642",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16664,
+    "player2Id": 10455,
+    "tournamentId": 13019,
+    "match_winner": 16664,
+    "result": "7-5 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.76",
+    "odd2": "1.47",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540643",
+    "matchId": "540643",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 10595,
+    "tournamentId": 13019,
+    "match_winner": 13498,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.1",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540646",
+    "matchId": "540646",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 12390,
+    "tournamentId": 13019,
+    "match_winner": 16119,
+    "result": "7-6(4) 1-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.76",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540650",
+    "matchId": "540650",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 457,
+    "player2Id": 13325,
+    "tournamentId": 13019,
+    "match_winner": 457,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540663",
+    "matchId": "540663",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 17503,
+    "tournamentId": 13019,
+    "match_winner": 14054,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540668",
+    "matchId": "540668",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14539,
+    "player2Id": 29373,
+    "tournamentId": 13019,
+    "match_winner": 14539,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540669",
+    "matchId": "540669",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 32168,
+    "tournamentId": 13019,
+    "match_winner": 9503,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540638",
+    "matchId": "540638",
+    "date": "2020-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 9247,
+    "tournamentId": 13019,
+    "match_winner": 13541,
+    "result": "3-6 6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540662",
+    "matchId": "540662",
+    "date": "2020-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 17501,
+    "tournamentId": 13019,
+    "match_winner": 36558,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540667",
+    "matchId": "540667",
+    "date": "2020-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 24368,
+    "tournamentId": 13019,
+    "match_winner": 40156,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "540677",
+    "matchId": "540677",
+    "date": "2020-02-16T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 67099,
+    "player2Id": 55548,
+    "tournamentId": 13019,
+    "match_winner": 67099,
+    "result": "4-6 6-0 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.4",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55548,
+     "name": "Kaitlyn Christian/Alexa Guarachi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540689",
+    "matchId": "540689",
+    "date": "2020-02-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 55548,
+    "player2Id": 70548,
+    "tournamentId": 13019,
+    "match_winner": 55548,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.25",
+    "odd2": "1.615",
+    "player1": {
+     "id": 55548,
+     "name": "Kaitlyn Christian/Alexa Guarachi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70548,
+     "name": "Caroline Garcia/Johanna Konta",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540686",
+    "matchId": "540686",
+    "date": "2020-02-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 67099,
+    "player2Id": 70545,
+    "tournamentId": 13019,
+    "match_winner": 67099,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.49",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70545,
+     "name": "Hayley Carter/Sharon Fichman",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540671",
+    "matchId": "540671",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 55548,
+    "player2Id": 37277,
+    "tournamentId": 13019,
+    "match_winner": 55548,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 55548,
+     "name": "Kaitlyn Christian/Alexa Guarachi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37277,
+     "name": "Alla Kudryavtseva/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540680",
+    "matchId": "540680",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 70548,
+    "player2Id": 63844,
+    "tournamentId": 13019,
+    "match_winner": 70548,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.41",
+    "player1": {
+     "id": 70548,
+     "name": "Caroline Garcia/Johanna Konta",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63844,
+     "name": "Cornelia Lister/Renata Voracova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540685",
+    "matchId": "540685",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 67099,
+    "player2Id": 70544,
+    "tournamentId": 13019,
+    "match_winner": 67099,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70544,
+     "name": "Anastasia Potapova/Yulia Putintseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540687",
+    "matchId": "540687",
+    "date": "2020-02-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 70545,
+    "player2Id": 70546,
+    "tournamentId": 13019,
+    "match_winner": 70545,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 70545,
+     "name": "Hayley Carter/Sharon Fichman",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70546,
+     "name": "Monique Adamczak/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540679",
+    "matchId": "540679",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 55548,
+    "player2Id": 63821,
+    "tournamentId": 13019,
+    "match_winner": 55548,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 55548,
+     "name": "Kaitlyn Christian/Alexa Guarachi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63821,
+     "name": "Daria Mishina/Ekaterina Shalimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540681",
+    "matchId": "540681",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70545,
+    "player2Id": 64139,
+    "tournamentId": 13019,
+    "match_winner": 70545,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.84",
+    "player1": {
+     "id": 70545,
+     "name": "Hayley Carter/Sharon Fichman",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64139,
+     "name": "Ekaterina Alexandrova/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540683",
+    "matchId": "540683",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70544,
+    "player2Id": 67966,
+    "tournamentId": 13019,
+    "match_winner": 70544,
+    "result": "7-6(4) 4-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70544,
+     "name": "Anastasia Potapova/Yulia Putintseva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67966,
+     "name": "Alicja Rosolska/Ajla Tomljanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540688",
+    "matchId": "540688",
+    "date": "2020-02-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37277,
+    "player2Id": 70547,
+    "tournamentId": 13019,
+    "match_winner": 37277,
+    "result": "6-3 2-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 37277,
+     "name": "Alla Kudryavtseva/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70547,
+     "name": "Oksana Kalashnikova/Andreea Mitu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540648",
+    "matchId": "540648",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63844,
+    "player2Id": 12893,
+    "tournamentId": 13019,
+    "match_winner": 63844,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.69",
+    "odd2": "1.444",
+    "player1": {
+     "id": 63844,
+     "name": "Cornelia Lister/Renata Voracova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540682",
+    "matchId": "540682",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70546,
+    "player2Id": 65908,
+    "tournamentId": 13019,
+    "match_winner": 70546,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.36",
+    "odd2": "1.59",
+    "player1": {
+     "id": 70546,
+     "name": "Monique Adamczak/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65908,
+     "name": "Vitalia Diatchenko/Natela Dzalamidze",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540684",
+    "matchId": "540684",
+    "date": "2020-02-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 70543,
+    "tournamentId": 13019,
+    "match_winner": 67099,
+    "result": "4-6 6-1 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.46",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70543,
+     "name": "Darija Jurak Schreiber/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540676",
+    "matchId": "540676",
+    "date": "2020-02-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70548,
+    "player2Id": 55203,
+    "tournamentId": 13019,
+    "match_winner": 70548,
+    "result": "6-3 3-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.116",
+    "odd2": "5.95",
+    "player1": {
+     "id": 70548,
+     "name": "Caroline Garcia/Johanna Konta",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55203,
+     "name": "Vivian Heisen/Valeriya Strakhova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "540630",
+    "matchId": "540630",
+    "date": "2020-02-09T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 5817,
+    "player2Id": 431,
+    "tournamentId": 13019,
+    "match_winner": 5817,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.36",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540632",
+    "matchId": "540632",
+    "date": "2020-02-09T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 40156,
+    "player2Id": 4120,
+    "tournamentId": 13019,
+    "match_winner": 40156,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.64",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540644",
+    "matchId": "540644",
+    "date": "2020-02-09T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24368,
+    "player2Id": 10600,
+    "tournamentId": 13019,
+    "match_winner": 24368,
+    "result": "5-7 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540649",
+    "matchId": "540649",
+    "date": "2020-02-09T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10595,
+    "player2Id": 12997,
+    "tournamentId": 13019,
+    "match_winner": 10595,
+    "result": "7-6(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.18",
+    "odd2": "1.65",
+    "player1": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540660",
+    "matchId": "540660",
+    "date": "2020-02-09T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14539,
+    "player2Id": 16664,
+    "tournamentId": 13019,
+    "match_winner": 14539,
+    "result": "7-6(7) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540665",
+    "matchId": "540665",
+    "date": "2020-02-09T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9247,
+    "player2Id": 23230,
+    "tournamentId": 13019,
+    "match_winner": 9247,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.36",
+    "odd2": "1.56",
+    "player1": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540634",
+    "matchId": "540634",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 40156,
+    "player2Id": 7385,
+    "tournamentId": 13019,
+    "match_winner": 40156,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.102",
+    "odd2": "6.35",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 7385,
+     "name": "Martina Di Giuseppe",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540637",
+    "matchId": "540637",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16664,
+    "player2Id": 8584,
+    "tournamentId": 13019,
+    "match_winner": 16664,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.9",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 8584,
+     "name": "Marina Melnikova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540641",
+    "matchId": "540641",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5817,
+    "player2Id": 9665,
+    "tournamentId": 13019,
+    "match_winner": 5817,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.127",
+    "odd2": "5.65",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9665,
+     "name": "Valentyna Ivakhnenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540645",
+    "matchId": "540645",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9247,
+    "player2Id": 10966,
+    "tournamentId": 13019,
+    "match_winner": 9247,
+    "result": "6-7(8) 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10966,
+     "name": "Daria Mishina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540651",
+    "matchId": "540651",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 431,
+    "player2Id": 13484,
+    "tournamentId": 13019,
+    "match_winner": 431,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.16",
+    "odd2": "1.666",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540656",
+    "matchId": "540656",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10595,
+    "player2Id": 14188,
+    "tournamentId": 13019,
+    "match_winner": 10595,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.058",
+    "odd2": "8.4",
+    "player1": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14188,
+     "name": "Valeriya Strakhova",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540664",
+    "matchId": "540664",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23230,
+    "player2Id": 17542,
+    "tournamentId": 13019,
+    "match_winner": 23230,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17542,
+     "name": "Anastasiya Komardina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540666",
+    "matchId": "540666",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4120,
+    "player2Id": 24344,
+    "tournamentId": 13019,
+    "match_winner": 4120,
+    "result": "5-7 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540672",
+    "matchId": "540672",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24368,
+    "player2Id": 37907,
+    "tournamentId": 13019,
+    "match_winner": 24368,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 37907,
+     "name": "Ekaterina Shalimova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540674",
+    "matchId": "540674",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14539,
+    "player2Id": 44510,
+    "tournamentId": 13019,
+    "match_winner": 14539,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.94",
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540675",
+    "matchId": "540675",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10600,
+    "player2Id": 45072,
+    "tournamentId": 13019,
+    "match_winner": 10600,
+    "result": "3-6 6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.46",
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540678",
+    "matchId": "540678",
+    "date": "2020-02-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12997,
+    "player2Id": 60791,
+    "tournamentId": 13019,
+    "match_winner": 12997,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13019,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2020-02-10T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,2006 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "766279",
+    "date": "2024-10-20T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 17503,
+    "player2Id": 77934,
+    "tournamentId": 15253,
+    "match_winner": 17503,
+    "result": "6-0 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.2",
+    "odd2": "1.35",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766246",
+    "date": "2024-10-19T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17503,
+    "player2Id": 17142,
+    "tournamentId": 15253,
+    "match_winner": 17503,
+    "result": "6-4 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766250",
+    "date": "2024-10-19T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 77934,
+    "player2Id": 18482,
+    "tournamentId": 15253,
+    "match_winner": 77934,
+    "result": "6-2 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.53",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766237",
+    "date": "2024-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17503,
+    "player2Id": 12390,
+    "tournamentId": 15253,
+    "match_winner": 17503,
+    "result": "6-4 1-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.89",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766238",
+    "date": "2024-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17142,
+    "player2Id": 13094,
+    "tournamentId": 15253,
+    "match_winner": 17142,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766239",
+    "date": "2024-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 77934,
+    "player2Id": 13267,
+    "tournamentId": 15253,
+    "match_winner": 77934,
+    "result": "7-6(5) 3-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.95",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766258",
+    "date": "2024-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18482,
+    "player2Id": 32480,
+    "tournamentId": 15253,
+    "match_winner": 18482,
+    "result": "2-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766241",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13094,
+    "player2Id": 14175,
+    "tournamentId": 15253,
+    "match_winner": 13094,
+    "result": "7-6(2) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.4",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766249",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 17614,
+    "tournamentId": 15253,
+    "match_winner": 18482,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.093",
+    "odd2": "7.2",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766253",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 29825,
+    "tournamentId": 15253,
+    "match_winner": 13267,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 29825,
+     "name": "Yexin Ma",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766259",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 37410,
+    "tournamentId": 15253,
+    "match_winner": 32480,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766234",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37410,
+    "player2Id": 9503,
+    "tournamentId": 15253,
+    "match_winner": 37410,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.96",
+    "odd2": "1.84",
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766242",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77934,
+    "player2Id": 14694,
+    "tournamentId": 15253,
+    "match_winner": 77934,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766247",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 17501,
+    "tournamentId": 15253,
+    "match_winner": 17503,
+    "result": "1-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766262",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 43865,
+    "tournamentId": 15253,
+    "match_winner": 18482,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.112",
+    "odd2": "6.5",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766263",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 43872,
+    "tournamentId": 15253,
+    "match_winner": 17142,
+    "result": "6-7(4) 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766275",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 72064,
+    "tournamentId": 15253,
+    "match_winner": 12390,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.065",
+    "odd2": "8.7",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766230",
+    "date": "2024-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 4121,
+    "tournamentId": 15253,
+    "match_winner": 14175,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.14",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766233",
+    "date": "2024-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17501,
+    "player2Id": 9357,
+    "tournamentId": 15253,
+    "match_winner": 17501,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766236",
+    "date": "2024-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72064,
+    "player2Id": 12059,
+    "tournamentId": 15253,
+    "match_winner": 72064,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12059,
+     "name": "Kathinka Von Deichmann",
+     "countryAcr": "LIE"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766244",
+    "date": "2024-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 16627,
+    "tournamentId": 15253,
+    "match_winner": 32480,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766251",
+    "date": "2024-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 29825,
+    "player2Id": 23430,
+    "tournamentId": 15253,
+    "match_winner": 29825,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29825,
+     "name": "Yexin Ma",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 23430,
+     "name": "Xiaodi You",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766229",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77934,
+    "player2Id": 461,
+    "tournamentId": 15253,
+    "match_winner": 77934,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.117",
+    "odd2": "6.35",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766252",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 28585,
+    "tournamentId": 15253,
+    "match_winner": 12390,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766257",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14694,
+    "player2Id": 31728,
+    "tournamentId": 15253,
+    "match_winner": 14694,
+    "result": "6-7(4) 7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766264",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43872,
+    "player2Id": 45072,
+    "tournamentId": 15253,
+    "match_winner": 43872,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.17",
+    "player1": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766269",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 65911,
+    "tournamentId": 15253,
+    "match_winner": 17142,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "766280",
+    "date": "2024-10-20T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 97230,
+    "player2Id": 78908,
+    "tournamentId": 15253,
+    "match_winner": 97230,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 97230,
+     "name": "Demi Schuurs/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766282",
+    "date": "2024-10-19T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78908,
+    "player2Id": 86349,
+    "tournamentId": 15253,
+    "match_winner": 78908,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.4",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766287",
+    "date": "2024-10-19T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 97230,
+    "player2Id": 97229,
+    "tournamentId": 15253,
+    "match_winner": 97230,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 97230,
+     "name": "Demi Schuurs/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 97229,
+     "name": "Aldila Sutjiadi/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766268",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 97229,
+    "player2Id": 64029,
+    "tournamentId": 15253,
+    "match_winner": 97229,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 97229,
+     "name": "Aldila Sutjiadi/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64029,
+     "name": "Zhaoxuan Yang/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766281",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 86349,
+    "player2Id": 79960,
+    "tournamentId": 15253,
+    "match_winner": 86349,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.4",
+    "player1": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79960,
+     "name": "Alexandra Eala/En Shuo Liang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766284",
+    "date": "2024-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78908,
+    "player2Id": 91973,
+    "tournamentId": 15253,
+    "match_winner": 78908,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.47",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91973,
+     "name": "Ulrikke Eikeri/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766270",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86349,
+    "player2Id": 66734,
+    "tournamentId": 15253,
+    "match_winner": 86349,
+    "result": "7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.22",
+    "player1": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766277",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91973,
+    "player2Id": 73328,
+    "tournamentId": 15253,
+    "match_winner": 91973,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91973,
+     "name": "Ulrikke Eikeri/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73328,
+     "name": "Anna Bondar/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766288",
+    "date": "2024-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52522,
+    "player2Id": 97231,
+    "tournamentId": 15253,
+    "match_winner": 52522,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52522,
+     "name": "Hao-Ching Chan/Barbora Krejcikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 97231,
+     "name": "Olivia Gadecki/Kamilla Rakhimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766286",
+    "date": "2024-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78908,
+    "player2Id": 94430,
+    "tournamentId": 15253,
+    "match_winner": 78908,
+    "result": "3-6 7-6(3) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.61",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766265",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64029,
+    "player2Id": 48573,
+    "tournamentId": 15253,
+    "match_winner": 64029,
+    "result": "7-6(3) 2-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.61",
+    "odd2": "1.444",
+    "player1": {
+     "id": 64029,
+     "name": "Zhaoxuan Yang/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766283",
+    "date": "2024-10-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 97230,
+    "player2Id": 91830,
+    "tournamentId": 15253,
+    "match_winner": 97230,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.82",
+    "player1": {
+     "id": 97230,
+     "name": "Demi Schuurs/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91830,
+     "name": "Ella Seidel/Kathinka Von Deichmann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "766235",
+    "date": "2024-10-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 461,
+    "player2Id": 12059,
+    "tournamentId": 15253,
+    "match_winner": 461,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12059,
+     "name": "Kathinka Von Deichmann",
+     "countryAcr": "LIE"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766243",
+    "date": "2024-10-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45072,
+    "player2Id": 14694,
+    "tournamentId": 15253,
+    "match_winner": 45072,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.36",
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766245",
+    "date": "2024-10-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 23430,
+    "player2Id": 16627,
+    "tournamentId": 15253,
+    "match_winner": 23430,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.35",
+    "odd2": "1.54",
+    "player1": {
+     "id": 23430,
+     "name": "Xiaodi You",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766254",
+    "date": "2024-10-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4121,
+    "player2Id": 29825,
+    "tournamentId": 15253,
+    "match_winner": 4121,
+    "result": "6-0 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.47",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 29825,
+     "name": "Yexin Ma",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766256",
+    "date": "2024-10-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 43865,
+    "player2Id": 31728,
+    "tournamentId": 15253,
+    "match_winner": 43865,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.35",
+    "player1": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766274",
+    "date": "2024-10-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9503,
+    "player2Id": 72064,
+    "tournamentId": 15253,
+    "match_winner": 9503,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.625",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766231",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 43865,
+    "player2Id": 4263,
+    "tournamentId": 15253,
+    "match_winner": 43865,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.67",
+    "player1": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766232",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 461,
+    "player2Id": 6744,
+    "tournamentId": 15253,
+    "match_winner": 461,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6744,
+     "name": "Jia-Jing Lu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766240",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9503,
+    "player2Id": 13511,
+    "tournamentId": 15253,
+    "match_winner": 9503,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.144",
+    "odd2": "5",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766248",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12059,
+    "player2Id": 17614,
+    "tournamentId": 15253,
+    "match_winner": 12059,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12059,
+     "name": "Kathinka Von Deichmann",
+     "countryAcr": "LIE"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766255",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4121,
+    "player2Id": 31727,
+    "tournamentId": 15253,
+    "match_winner": 4121,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.86",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 31727,
+     "name": "Xinyu Gao",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766260",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14694,
+    "player2Id": 39535,
+    "tournamentId": 15253,
+    "match_winner": 14694,
+    "result": "6-4 1-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 39535,
+     "name": "En Shuo Liang",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766261",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23430,
+    "player2Id": 41888,
+    "tournamentId": 15253,
+    "match_winner": 23430,
+    "result": "7-6(6) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23430,
+     "name": "Xiaodi You",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766267",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 29825,
+    "player2Id": 58588,
+    "tournamentId": 15253,
+    "match_winner": 29825,
+    "result": "7-5 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.15",
+    "odd2": "1.32",
+    "player1": {
+     "id": 29825,
+     "name": "Yexin Ma",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 58588,
+     "name": "Sijia Wei",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766271",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 72064,
+    "player2Id": 67639,
+    "tournamentId": 15253,
+    "match_winner": 72064,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 67639,
+     "name": "Han Shi",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766272",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16627,
+    "player2Id": 67792,
+    "tournamentId": 15253,
+    "match_winner": 16627,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.615",
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766276",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45072,
+    "player2Id": 72881,
+    "tournamentId": 15253,
+    "match_winner": 45072,
+    "result": "4-6 7-6(1) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.26",
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 72881,
+     "name": "Tatiana Prozorova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "766278",
+    "date": "2024-10-12T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 31728,
+    "player2Id": 76098,
+    "tournamentId": 15253,
+    "match_winner": 31728,
+    "result": "6-7(4) 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 76098,
+     "name": "Xinxin Yao",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15253,
+     "name": "Ningbo Open - Ningbo",
+     "courtId": 1,
+     "date": "2024-10-14T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

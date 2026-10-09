@@ -1,0 +1,2251 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "594114",
+    "date": "2022-06-19T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11449,
+    "player2Id": 14056,
+    "tournamentId": 13858,
+    "match_winner": 11449,
+    "result": "6-3 2-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.18",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594112",
+    "date": "2022-06-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 14056,
+    "player2Id": 13541,
+    "tournamentId": 13858,
+    "match_winner": 14056,
+    "result": "6-7(6) 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.8",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594139",
+    "date": "2022-06-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11449,
+    "player2Id": 54663,
+    "tournamentId": 13858,
+    "match_winner": 11449,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.97",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594099",
+    "date": "2022-06-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 54663,
+    "player2Id": 7982,
+    "tournamentId": 13858,
+    "match_winner": 54663,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594111",
+    "date": "2022-06-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11449,
+    "player2Id": 12842,
+    "tournamentId": 13858,
+    "match_winner": 11449,
+    "result": "6-7(3) 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.333",
+    "odd2": "3.55",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594117",
+    "date": "2022-06-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14056,
+    "player2Id": 16119,
+    "tournamentId": 13858,
+    "match_winner": 14056,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.375",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594120",
+    "date": "2022-06-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 17503,
+    "tournamentId": 13858,
+    "match_winner": 13541,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594124",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 24368,
+    "tournamentId": 13858,
+    "match_winner": 16119,
+    "result": "6-3 6-7(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594128",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 32480,
+    "tournamentId": 13858,
+    "match_winner": 14056,
+    "result": "6-4 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.179",
+    "odd2": "5.15",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594135",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 45540,
+    "tournamentId": 13858,
+    "match_winner": 11449,
+    "result": "6-2 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.131",
+    "odd2": "6.35",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594137",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 47152,
+    "tournamentId": 13858,
+    "match_winner": 54663,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594094",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12842,
+    "player2Id": 945,
+    "tournamentId": 13858,
+    "match_winner": 12842,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.666",
+    "odd2": "2.26",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594102",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 10334,
+    "tournamentId": 13858,
+    "match_winner": 13541,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594113",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 14054,
+    "tournamentId": 13858,
+    "match_winner": 17503,
+    "result": "5-7 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.69",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594130",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 39226,
+    "tournamentId": 13858,
+    "match_winner": 7982,
+    "result": "6-4 2-6 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594136",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 45866,
+    "tournamentId": 13858,
+    "match_winner": 54663,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594096",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 5817,
+    "tournamentId": 13858,
+    "match_winner": 32480,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594103",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 945,
+    "player2Id": 10633,
+    "tournamentId": 13858,
+    "match_winner": 945,
+    "result": "7-6(8) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.875",
+    "odd2": "1.44",
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594106",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 11573,
+    "tournamentId": 13858,
+    "match_winner": 14054,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11573,
+     "name": "Maryna Zanevska",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594107",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 11959,
+    "tournamentId": 13858,
+    "match_winner": 13541,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594121",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 18455,
+    "tournamentId": 13858,
+    "match_winner": 16119,
+    "result": "2-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.6",
+    "odd2": "1.52",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594122",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 18482,
+    "tournamentId": 13858,
+    "match_winner": 11449,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.42",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594125",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 27035,
+    "tournamentId": 13858,
+    "match_winner": 24368,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594134",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 45192,
+    "tournamentId": 13858,
+    "match_winner": 14056,
+    "result": "6-4 5-7 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.52",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594138",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45540,
+    "player2Id": 53128,
+    "tournamentId": 13858,
+    "match_winner": 45540,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594093",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 467,
+    "tournamentId": 13858,
+    "match_winner": 7982,
+    "result": "6-7(5) 6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.47",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594115",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 14694,
+    "tournamentId": 13858,
+    "match_winner": 47152,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594116",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 16043,
+    "tournamentId": 13858,
+    "match_winner": 17503,
+    "result": "5-7 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.8",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594118",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 17021,
+    "tournamentId": 13858,
+    "match_winner": 10334,
+    "result": "6-7(2) 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594119",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 17501,
+    "tournamentId": 13858,
+    "match_winner": 39226,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594127",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 29385,
+    "tournamentId": 13858,
+    "match_winner": 12842,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "594149",
+    "date": "2022-06-19T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 78378,
+    "player2Id": 78371,
+    "tournamentId": 13858,
+    "match_winner": 78378,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.36",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78371,
+     "name": "Alize Cornet/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594155",
+    "date": "2022-06-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78378,
+    "player2Id": 79922,
+    "tournamentId": 13858,
+    "match_winner": 78378,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.73",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79922,
+     "name": "Bianca Vanessa Andreescu/Sabine Lisicki",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594144",
+    "date": "2022-06-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78371,
+    "player2Id": 72892,
+    "tournamentId": 13858,
+    "match_winner": 78371,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.58",
+    "player1": {
+     "id": 78371,
+     "name": "Alize Cornet/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594146",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72892,
+    "player2Id": 77220,
+    "tournamentId": 13858,
+    "match_winner": 72892,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77220,
+     "name": "Kaitlyn Christian/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594148",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 79922,
+    "player2Id": 78227,
+    "tournamentId": 13858,
+    "match_winner": 79922,
+    "result": "7-6(4) 1-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79922,
+     "name": "Bianca Vanessa Andreescu/Sabine Lisicki",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78227,
+     "name": "Asia Muhammad/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594150",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78378,
+    "player2Id": 78908,
+    "tournamentId": 13858,
+    "match_winner": 78378,
+    "result": "3-6 7-6(5) 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594151",
+    "date": "2022-06-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78371,
+    "player2Id": 78909,
+    "tournamentId": 13858,
+    "match_winner": 78371,
+    "result": "7-5 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "1.95",
+    "player1": {
+     "id": 78371,
+     "name": "Alize Cornet/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78909,
+     "name": "Alexa Guarachi/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594123",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78371,
+    "player2Id": 21932,
+    "tournamentId": 13858,
+    "match_winner": 78371,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.71",
+    "player1": {
+     "id": 78371,
+     "name": "Alize Cornet/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594152",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78378,
+    "player2Id": 78913,
+    "tournamentId": 13858,
+    "match_winner": 78378,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78913,
+     "name": "Xinyun Han/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594153",
+    "date": "2022-06-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78908,
+    "player2Id": 79920,
+    "tournamentId": 13858,
+    "match_winner": 78908,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79920,
+     "name": "Anna Kalinskaya/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594143",
+    "date": "2022-06-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79922,
+    "player2Id": 72046,
+    "tournamentId": 13858,
+    "match_winner": 79922,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79922,
+     "name": "Bianca Vanessa Andreescu/Sabine Lisicki",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594145",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72892,
+    "player2Id": 76361,
+    "tournamentId": 13858,
+    "match_winner": 72892,
+    "result": "4-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594147",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78909,
+    "player2Id": 77731,
+    "tournamentId": 13858,
+    "match_winner": 78909,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78909,
+     "name": "Alexa Guarachi/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77731,
+     "name": "Ulrikke Eikeri/Viktoria Hruncakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594154",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78227,
+    "player2Id": 79921,
+    "tournamentId": 13858,
+    "match_winner": 78227,
+    "result": "6-3 3-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 78227,
+     "name": "Asia Muhammad/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79921,
+     "name": "Jule Niemeier/Andrea Petkovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594156",
+    "date": "2022-06-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77220,
+    "player2Id": 79923,
+    "tournamentId": 13858,
+    "match_winner": 77220,
+    "result": "6-4 3-6 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 77220,
+     "name": "Kaitlyn Christian/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79923,
+     "name": "Ons Jabeur/Garbine Muguruza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "594095",
+    "date": "2022-06-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11959,
+    "player2Id": 5369,
+    "tournamentId": 13858,
+    "match_winner": 11959,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.76",
+    "player1": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594097",
+    "date": "2022-06-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10334,
+    "player2Id": 6037,
+    "tournamentId": 13858,
+    "match_winner": 10334,
+    "result": "6-0 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.56",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594104",
+    "date": "2022-06-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 29385,
+    "player2Id": 11205,
+    "tournamentId": 13858,
+    "match_winner": 29385,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.4",
+    "player1": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594109",
+    "date": "2022-06-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 47152,
+    "player2Id": 12389,
+    "tournamentId": 13858,
+    "match_winner": 47152,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594110",
+    "date": "2022-06-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14694,
+    "player2Id": 12722,
+    "tournamentId": 13858,
+    "match_winner": 14694,
+    "result": "7-6(7) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.3",
+    "odd2": "1.62",
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594133",
+    "date": "2022-06-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45540,
+    "player2Id": 45072,
+    "tournamentId": 13858,
+    "match_winner": 45540,
+    "result": "2-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594098",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5369,
+    "player2Id": 6687,
+    "tournamentId": 13858,
+    "match_winner": 5369,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 6687,
+     "name": "Xinyun Han",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594100",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6037,
+    "player2Id": 8535,
+    "tournamentId": 13858,
+    "match_winner": 6037,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.11",
+    "player1": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594101",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45540,
+    "player2Id": 9594,
+    "tournamentId": 13858,
+    "match_winner": 45540,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594105",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45072,
+    "player2Id": 11278,
+    "tournamentId": 13858,
+    "match_winner": 45072,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.91",
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 11278,
+     "name": "Isabella Shinikova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594108",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11959,
+    "player2Id": 12139,
+    "tournamentId": 13858,
+    "match_winner": 11959,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.11",
+    "player1": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12139,
+     "name": "Natalija Stevanovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594126",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14694,
+    "player2Id": 27926,
+    "tournamentId": 13858,
+    "match_winner": 14694,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 27926,
+     "name": "Lena Papadakis",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594129",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47152,
+    "player2Id": 32675,
+    "tournamentId": 13858,
+    "match_winner": 47152,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 32675,
+     "name": "Ekaterina Kazionova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594131",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12389,
+    "player2Id": 39908,
+    "tournamentId": 13858,
+    "match_winner": 12389,
+    "result": "6-3 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 39908,
+     "name": "Suzan Lamens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594132",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 29385,
+    "player2Id": 44525,
+    "tournamentId": 13858,
+    "match_winner": 29385,
+    "result": "4-6 7-6(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.83",
+    "odd2": "1.98",
+    "player1": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594140",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11205,
+    "player2Id": 57876,
+    "tournamentId": 13858,
+    "match_winner": 11205,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 57876,
+     "name": "Ekaterina Makarova (1996)",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594141",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10334,
+    "player2Id": 59575,
+    "tournamentId": 13858,
+    "match_winner": 10334,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.106",
+    "odd2": "6.7",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 59575,
+     "name": "Noma Akugue Noha",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "594142",
+    "date": "2022-06-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12722,
+    "player2Id": 63769,
+    "tournamentId": 13858,
+    "match_winner": 12722,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 63769,
+     "name": "Nastasja Mariana Schunk",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13858,
+     "name": "bett1open - Berlin",
+     "courtId": 5,
+     "date": "2022-06-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

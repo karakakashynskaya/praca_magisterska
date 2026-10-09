@@ -1,0 +1,2041 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "817687",
+    "date": "2025-09-14T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 80381,
+    "player2Id": 39540,
+    "tournamentId": 15985,
+    "match_winner": 80381,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817693",
+    "date": "2025-09-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 39540,
+    "player2Id": 57147,
+    "tournamentId": 15985,
+    "match_winner": 39540,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817700",
+    "date": "2025-09-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 80381,
+    "player2Id": 71092,
+    "tournamentId": 15985,
+    "match_winner": 80381,
+    "result": "6-3 6-7(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 71092,
+     "name": "Nikola Bartunkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817661",
+    "date": "2025-09-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 57147,
+    "player2Id": 4110,
+    "tournamentId": 15985,
+    "match_winner": 57147,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.14",
+    "player1": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817675",
+    "date": "2025-09-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66176,
+    "player2Id": 16628,
+    "tournamentId": 15985,
+    "match_winner": 66176,
+    "result": "6-4 6-7(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817676",
+    "date": "2025-09-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71092,
+    "player2Id": 17155,
+    "tournamentId": 15985,
+    "match_winner": 71092,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.62",
+    "odd2": "1.49",
+    "player1": {
+     "id": 71092,
+     "name": "Nikola Bartunkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817698",
+    "date": "2025-09-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 39540,
+    "player2Id": 66176,
+    "tournamentId": 15985,
+    "match_winner": 39540,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817699",
+    "date": "2025-09-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 80381,
+    "player2Id": 70327,
+    "tournamentId": 15985,
+    "match_winner": 80381,
+    "result": "6-3 3-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817670",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 39540,
+    "player2Id": 12722,
+    "tournamentId": 15985,
+    "match_winner": 39540,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817671",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 57147,
+    "player2Id": 13351,
+    "tournamentId": 15985,
+    "match_winner": 57147,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817674",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 70327,
+    "player2Id": 16119,
+    "tournamentId": 15985,
+    "match_winner": 70327,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.68",
+    "odd2": "1.28",
+    "player1": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817685",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17155,
+    "player2Id": 32633,
+    "tournamentId": 15985,
+    "match_winner": 17155,
+    "result": "6-1 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817688",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 80381,
+    "player2Id": 44040,
+    "tournamentId": 15985,
+    "match_winner": 80381,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817662",
+    "date": "2025-09-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4110,
+    "player2Id": 8549,
+    "tournamentId": 15985,
+    "match_winner": 4110,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817665",
+    "date": "2025-09-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32633,
+    "player2Id": 10033,
+    "tournamentId": 15985,
+    "match_winner": 32633,
+    "result": "6-4 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817697",
+    "date": "2025-09-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71092,
+    "player2Id": 61710,
+    "tournamentId": 15985,
+    "match_winner": 71092,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71092,
+     "name": "Nikola Bartunkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 61710,
+     "name": "Darja Vidmanova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817663",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39540,
+    "player2Id": 9357,
+    "tournamentId": 15985,
+    "match_winner": 39540,
+    "result": "6-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.38",
+    "odd2": "1.58",
+    "player1": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817666",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8549,
+    "player2Id": 10738,
+    "tournamentId": 15985,
+    "match_winner": 8549,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817672",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57147,
+    "player2Id": 13541,
+    "tournamentId": 15985,
+    "match_winner": 57147,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817677",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12722,
+    "player2Id": 17501,
+    "tournamentId": 15985,
+    "match_winner": 12722,
+    "result": "7-6(5) 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5.15",
+    "odd2": "1.164",
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817689",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 45072,
+    "tournamentId": 15985,
+    "match_winner": 44040,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.05",
+    "odd2": "1.77",
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817691",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 49991,
+    "tournamentId": 15985,
+    "match_winner": 4110,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817695",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66176,
+    "player2Id": 60791,
+    "tournamentId": 15985,
+    "match_winner": 66176,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817667",
+    "date": "2025-09-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 80381,
+    "player2Id": 11066,
+    "tournamentId": 15985,
+    "match_winner": 80381,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817673",
+    "date": "2025-09-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71092,
+    "player2Id": 15504,
+    "tournamentId": 15985,
+    "match_winner": 71092,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 71092,
+     "name": "Nikola Bartunkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 15504,
+     "name": "Nicole Fossa Huergo",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817690",
+    "date": "2025-09-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61710,
+    "player2Id": 45540,
+    "tournamentId": 15985,
+    "match_winner": 61710,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61710,
+     "name": "Darja Vidmanova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817702",
+    "date": "2025-09-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70327,
+    "player2Id": 73771,
+    "tournamentId": 15985,
+    "match_winner": 70327,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "player2": {
+     "id": 73771,
+     "name": "Elena Pridankina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "817709",
+    "date": "2025-09-14T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 49580,
+    "player2Id": 102557,
+    "tournamentId": 15985,
+    "match_winner": 49580,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.85",
+    "player1": {
+     "id": 49580,
+     "name": "Irina Khromacheva/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102557,
+     "name": "Giuliana Olmos/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817714",
+    "date": "2025-09-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 49580,
+    "player2Id": 103772,
+    "tournamentId": 15985,
+    "match_winner": 49580,
+    "result": "4-6 7-5 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.04",
+    "player1": {
+     "id": 49580,
+     "name": "Irina Khromacheva/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103772,
+     "name": "Magali Kempen/Katarzyna Piter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817703",
+    "date": "2025-09-12T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 102557,
+    "player2Id": 75510,
+    "tournamentId": 15985,
+    "match_winner": 102557,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 102557,
+     "name": "Giuliana Olmos/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75510,
+     "name": "Jessie Aney/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817707",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 49580,
+    "player2Id": 98869,
+    "tournamentId": 15985,
+    "match_winner": 49580,
+    "result": "7-6(1) 6-7(5) 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.4",
+    "player1": {
+     "id": 49580,
+     "name": "Irina Khromacheva/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98869,
+     "name": "Maria Kozyreva/Iryna Shymanovich",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817718",
+    "date": "2025-09-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 102557,
+    "player2Id": 103776,
+    "tournamentId": 15985,
+    "match_winner": 102557,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 102557,
+     "name": "Giuliana Olmos/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103776,
+     "name": "Fernanda Contreras Gomez/Rebecca Marino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817706",
+    "date": "2025-09-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 75510,
+    "player2Id": 97226,
+    "tournamentId": 15985,
+    "match_winner": 75510,
+    "result": "3-6 7-6(6) 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.74",
+    "player1": {
+     "id": 75510,
+     "name": "Jessie Aney/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 97226,
+     "name": "Sabrina Santamaria/Qianhui Tang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817713",
+    "date": "2025-09-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98869,
+    "player2Id": 103771,
+    "tournamentId": 15985,
+    "match_winner": 98869,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.2",
+    "player1": {
+     "id": 98869,
+     "name": "Maria Kozyreva/Iryna Shymanovich",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103771,
+     "name": "Monica Niculescu/Maria Camila Osorio Serrano",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817710",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 85729,
+    "player2Id": 103490,
+    "tournamentId": 15985,
+    "match_winner": 85729,
+    "result": "6-2 2-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 85729,
+     "name": "Elsa Jacquemot/Polina Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103490,
+     "name": "Anastasia Detiuc/Elena Pridankina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817715",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 103772,
+    "player2Id": 103773,
+    "tournamentId": 15985,
+    "match_winner": 103772,
+    "result": "6-7(1) 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.2",
+    "player1": {
+     "id": 103772,
+     "name": "Magali Kempen/Katarzyna Piter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103773,
+     "name": "Nicole Fossa Huergo/Martyna Kubka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817716",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 103775,
+    "player2Id": 103774,
+    "tournamentId": 15985,
+    "match_winner": 103775,
+    "result": "7-5 4-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 103775,
+     "name": "Alana Smith/Darja Vidmanova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103774,
+     "name": "Iva Jovic/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817719",
+    "date": "2025-09-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 97226,
+    "player2Id": 103944,
+    "tournamentId": 15985,
+    "match_winner": 97226,
+    "result": "6-1 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 97226,
+     "name": "Sabrina Santamaria/Qianhui Tang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103944,
+     "name": "Nikola Bartunkova/Victoria Jimenez Kasintseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817692",
+    "date": "2025-09-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75510,
+    "player2Id": 55213,
+    "tournamentId": 15985,
+    "match_winner": 75510,
+    "result": "6-2 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.07",
+    "player1": {
+     "id": 75510,
+     "name": "Jessie Aney/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55213,
+     "name": "Carmen Corley/Ivana Corley",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817708",
+    "date": "2025-09-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49580,
+    "player2Id": 101513,
+    "tournamentId": 15985,
+    "match_winner": 49580,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.09",
+    "player1": {
+     "id": 49580,
+     "name": "Irina Khromacheva/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 101513,
+     "name": "Storm Hunter/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "817664",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 66176,
+    "player2Id": 9391,
+    "tournamentId": 15985,
+    "match_winner": 66176,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.48",
+    "player1": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 9391,
+     "name": "Amandine Hesse",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817680",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 66176,
+    "player2Id": 18454,
+    "tournamentId": 15985,
+    "match_winner": 66176,
+    "result": "4-6 6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 18454,
+     "name": "Iryna Shymanovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817681",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 15504,
+    "player2Id": 25513,
+    "tournamentId": 15985,
+    "match_winner": 15504,
+    "result": "5-7 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 15504,
+     "name": "Nicole Fossa Huergo",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817683",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 61710,
+    "player2Id": 30451,
+    "tournamentId": 15985,
+    "match_winner": 61710,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61710,
+     "name": "Darja Vidmanova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817684",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 73771,
+    "player2Id": 30909,
+    "tournamentId": 15985,
+    "match_winner": 73771,
+    "result": "7-5 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73771,
+     "name": "Elena Pridankina",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 30909,
+     "name": "Alana Smith",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817686",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 32633,
+    "player2Id": 33820,
+    "tournamentId": 15985,
+    "match_winner": 32633,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.94",
+    "player1": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 33820,
+     "name": "Anastasia Kulikova",
+     "countryAcr": "FIN"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817701",
+    "date": "2025-09-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 70327,
+    "player2Id": 71462,
+    "tournamentId": 15985,
+    "match_winner": 70327,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.06",
+    "player1": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "player2": {
+     "id": 71462,
+     "name": "Cadence Brace",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817660",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30909,
+    "player2Id": 461,
+    "tournamentId": 15985,
+    "match_winner": 30909,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30909,
+     "name": "Alana Smith",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817668",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18454,
+    "player2Id": 11991,
+    "tournamentId": 15985,
+    "match_winner": 18454,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18454,
+     "name": "Iryna Shymanovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11991,
+     "name": "Nicole Melichar",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817669",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32633,
+    "player2Id": 12116,
+    "tournamentId": 15985,
+    "match_winner": 32633,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.26",
+    "player1": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817678",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 61710,
+    "player2Id": 17831,
+    "tournamentId": 15985,
+    "match_winner": 61710,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61710,
+     "name": "Darja Vidmanova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817679",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 70327,
+    "player2Id": 18337,
+    "tournamentId": 15985,
+    "match_winner": 70327,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.011",
+    "odd2": "11.75",
+    "player1": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "player2": {
+     "id": 18337,
+     "name": "Maria Navarro Oliva",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817682",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25513,
+    "player2Id": 27810,
+    "tournamentId": 15985,
+    "match_winner": 25513,
+    "result": "6-1 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.22",
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 27810,
+     "name": "Vivian Wolff",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817694",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 33820,
+    "player2Id": 57896,
+    "tournamentId": 15985,
+    "match_winner": 33820,
+    "result": "2-6 7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.45",
+    "player1": {
+     "id": 33820,
+     "name": "Anastasia Kulikova",
+     "countryAcr": "FIN"
+    },
+    "player2": {
+     "id": 57896,
+     "name": "Hina Inoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817696",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 71462,
+    "player2Id": 61096,
+    "tournamentId": 15985,
+    "match_winner": 71462,
+    "result": "1-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71462,
+     "name": "Cadence Brace",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 61096,
+     "name": "Martyna Kubka",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817705",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30451,
+    "player2Id": 90651,
+    "tournamentId": 15985,
+    "match_winner": 30451,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 90651,
+     "name": "Natalia Sousa Salazar",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817711",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 73771,
+    "player2Id": 103735,
+    "tournamentId": 15985,
+    "match_winner": 73771,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73771,
+     "name": "Elena Pridankina",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 103735,
+     "name": "Abril Cardenas Olivares",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817712",
+    "date": "2025-09-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 15504,
+    "player2Id": 103736,
+    "tournamentId": 15985,
+    "match_winner": 15504,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 15504,
+     "name": "Nicole Fossa Huergo",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 103736,
+     "name": "Marianne Angel",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15985,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2025-09-08T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

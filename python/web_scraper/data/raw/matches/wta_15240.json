@@ -1,0 +1,3686 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "765133",
+    "date": "2024-08-12T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11712,
+    "player2Id": 41564,
+    "tournamentId": 15240,
+    "match_winner": 11712,
+    "result": "6-3 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765134",
+    "date": "2024-08-11T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 41564,
+    "player2Id": 42098,
+    "tournamentId": 15240,
+    "match_winner": 41564,
+    "result": "6-3 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765147",
+    "date": "2024-08-11T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11712,
+    "player2Id": 65911,
+    "tournamentId": 15240,
+    "match_winner": 11712,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765090",
+    "date": "2024-08-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 42098,
+    "player2Id": 13621,
+    "tournamentId": 15240,
+    "match_winner": 42098,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.69",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765109",
+    "date": "2024-08-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 41564,
+    "player2Id": 18455,
+    "tournamentId": 15240,
+    "match_winner": 41564,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.65",
+    "odd2": "1.194",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765112",
+    "date": "2024-08-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 65911,
+    "player2Id": 24368,
+    "tournamentId": 15240,
+    "match_winner": 65911,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.74",
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765141",
+    "date": "2024-08-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 53793,
+    "tournamentId": 15240,
+    "match_winner": 11712,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.78",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765069",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 53793,
+    "player2Id": 5416,
+    "tournamentId": 15240,
+    "match_winner": 53793,
+    "result": "6-4 4-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765087",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 24368,
+    "player2Id": 13351,
+    "tournamentId": 15240,
+    "match_winner": 24368,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765094",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 14175,
+    "tournamentId": 15240,
+    "match_winner": 18455,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765101",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13621,
+    "player2Id": 16628,
+    "tournamentId": 15240,
+    "match_winner": 13621,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.625",
+    "odd2": "1.49",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765125",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 41564,
+    "player2Id": 32480,
+    "tournamentId": 15240,
+    "match_winner": 41564,
+    "result": "6-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.79",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765137",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 42098,
+    "player2Id": 47742,
+    "tournamentId": 15240,
+    "match_winner": 42098,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765142",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 65911,
+    "player2Id": 54663,
+    "tournamentId": 15240,
+    "match_winner": 65911,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765146",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 64343,
+    "tournamentId": 15240,
+    "match_winner": 11712,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.88",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765074",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 9357,
+    "tournamentId": 15240,
+    "match_winner": 42098,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "3.02",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765076",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 9857,
+    "tournamentId": 15240,
+    "match_winner": 32480,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765080",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 11371,
+    "tournamentId": 15240,
+    "match_winner": 47742,
+    "result": "6-2 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765082",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53793,
+    "player2Id": 11672,
+    "tournamentId": 15240,
+    "match_winner": 53793,
+    "result": "3-6 7-5 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "3.7",
+    "odd2": "1.28",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765085",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 12882,
+    "tournamentId": 15240,
+    "match_winner": 54663,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.101",
+    "odd2": "6.95",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765086",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14175,
+    "player2Id": 13094,
+    "tournamentId": 15240,
+    "match_winner": 14175,
+    "result": "1-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765099",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 16430,
+    "tournamentId": 15240,
+    "match_winner": 13351,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765102",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 17142,
+    "tournamentId": 15240,
+    "match_winner": 16628,
+    "result": "3-6 7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765103",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65911,
+    "player2Id": 17155,
+    "tournamentId": 15240,
+    "match_winner": 65911,
+    "result": "2-6 6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765105",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 17503,
+    "tournamentId": 15240,
+    "match_winner": 41564,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765114",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 26356,
+    "tournamentId": 15240,
+    "match_winner": 5416,
+    "result": "3-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.96",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765129",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 37410,
+    "tournamentId": 15240,
+    "match_winner": 18455,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765138",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 64343,
+    "player2Id": 49081,
+    "tournamentId": 15240,
+    "match_winner": 64343,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.02",
+    "odd2": "1.39",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765139",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 52254,
+    "tournamentId": 15240,
+    "match_winner": 24368,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765148",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13621,
+    "player2Id": 66176,
+    "tournamentId": 15240,
+    "match_winner": 13621,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.76",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765072",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 7982,
+    "tournamentId": 15240,
+    "match_winner": 11712,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765073",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 8549,
+    "tournamentId": 15240,
+    "match_winner": 9357,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.66",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765081",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 11449,
+    "tournamentId": 15240,
+    "match_winner": 16430,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765093",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 13937,
+    "tournamentId": 15240,
+    "match_winner": 49081,
+    "result": "6-3 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765095",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 14259,
+    "tournamentId": 15240,
+    "match_winner": 14175,
+    "result": "6-4 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765097",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65911,
+    "player2Id": 14609,
+    "tournamentId": 15240,
+    "match_winner": 65911,
+    "result": "6-3 3-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765111",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37410,
+    "player2Id": 24344,
+    "tournamentId": 15240,
+    "match_winner": 37410,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765113",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13094,
+    "player2Id": 24572,
+    "tournamentId": 15240,
+    "match_winner": 13094,
+    "result": "5-7 6-2 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.1",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765117",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 28585,
+    "tournamentId": 15240,
+    "match_winner": 41564,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765126",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53793,
+    "player2Id": 34747,
+    "tournamentId": 15240,
+    "match_winner": 53793,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765140",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 52790,
+    "tournamentId": 15240,
+    "match_winner": 13351,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.76",
+    "odd2": "2.07",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765143",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64343,
+    "player2Id": 54664,
+    "tournamentId": 15240,
+    "match_winner": 64343,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.71",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765144",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 54989,
+    "tournamentId": 15240,
+    "match_winner": 17142,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.92",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765150",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66176,
+    "player2Id": 69652,
+    "tournamentId": 15240,
+    "match_winner": 66176,
+    "result": "6-7(5) 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765068",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 4110,
+    "tournamentId": 15240,
+    "match_winner": 47742,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765071",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 6740,
+    "tournamentId": 15240,
+    "match_winner": 5416,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.39",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765077",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26356,
+    "player2Id": 10033,
+    "tournamentId": 15240,
+    "match_winner": 26356,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.73",
+    "odd2": "1.46",
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765083",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11371,
+    "player2Id": 12267,
+    "tournamentId": 15240,
+    "match_winner": 11371,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765084",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52254,
+    "player2Id": 12432,
+    "tournamentId": 15240,
+    "match_winner": 52254,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.67",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765096",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 14448,
+    "tournamentId": 15240,
+    "match_winner": 7982,
+    "result": "6-4 7-6(10)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765104",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 17345,
+    "tournamentId": 15240,
+    "match_winner": 32480,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765110",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12882,
+    "player2Id": 23432,
+    "tournamentId": 15240,
+    "match_winner": 12882,
+    "result": "7-5 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.76",
+    "odd2": "2.07",
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765128",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 37266,
+    "tournamentId": 15240,
+    "match_winner": 13621,
+    "result": "6-3 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765131",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9857,
+    "player2Id": 39226,
+    "tournamentId": 15240,
+    "match_winner": 9857,
+    "result": "0-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765132",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17155,
+    "player2Id": 40156,
+    "tournamentId": 15240,
+    "match_winner": 17155,
+    "result": "4-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "765155",
+    "date": "2024-08-12T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 91775,
+    "player2Id": 88669,
+    "tournamentId": 15240,
+    "match_winner": 91775,
+    "result": "7-6(2) 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765149",
+    "date": "2024-08-11T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 91775,
+    "player2Id": 68431,
+    "tournamentId": 15240,
+    "match_winner": 91775,
+    "result": "6-2 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765151",
+    "date": "2024-08-11T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 88669,
+    "player2Id": 71512,
+    "tournamentId": 15240,
+    "match_winner": 88669,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.6",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71512,
+     "name": "Bianca Jolie Fernandez/Leylah Annie Fernandez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765154",
+    "date": "2024-08-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71512,
+    "player2Id": 85759,
+    "tournamentId": 15240,
+    "match_winner": 71512,
+    "result": "7-5 5-7 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71512,
+     "name": "Bianca Jolie Fernandez/Leylah Annie Fernandez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 85759,
+     "name": "Kristina Mladenovic/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765160",
+    "date": "2024-08-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 88669,
+    "player2Id": 95397,
+    "tournamentId": 15240,
+    "match_winner": 88669,
+    "result": "3-6 6-3 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.119",
+    "odd2": "5.65",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95397,
+     "name": "Ariana Arseneault/Mia Kupres",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765156",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 88669,
+    "player2Id": 89802,
+    "tournamentId": 15240,
+    "match_winner": 88669,
+    "result": "6-7(0) 7-6(3) 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.2",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89802,
+     "name": "Magda Linette/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765162",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 68431,
+    "player2Id": 95615,
+    "tournamentId": 15240,
+    "match_winner": 68431,
+    "result": "4-6 7-6(8) 10-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.42",
+    "player1": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765165",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 85759,
+    "player2Id": 95793,
+    "tournamentId": 15240,
+    "match_winner": 85759,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 85759,
+     "name": "Kristina Mladenovic/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95793,
+     "name": "Elise Mertens/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765170",
+    "date": "2024-08-09T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 91775,
+    "player2Id": 95798,
+    "tournamentId": 15240,
+    "match_winner": 91775,
+    "result": "7-6(5) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95798,
+     "name": "Giuliana Olmos/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765127",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 95798,
+    "player2Id": 36765,
+    "tournamentId": 15240,
+    "match_winner": 95798,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 95798,
+     "name": "Giuliana Olmos/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36765,
+     "name": "Sloane Stephens/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765161",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 68431,
+    "player2Id": 95612,
+    "tournamentId": 15240,
+    "match_winner": 68431,
+    "result": "6-3 5-7 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.5",
+    "player1": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95612,
+     "name": "Liudmila Samsonova/Yafan Wang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765168",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71512,
+    "player2Id": 95796,
+    "tournamentId": 15240,
+    "match_winner": 71512,
+    "result": "6-3 4-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71512,
+     "name": "Bianca Jolie Fernandez/Leylah Annie Fernandez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95796,
+     "name": "Catherine Harrison/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765171",
+    "date": "2024-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 91775,
+    "player2Id": 95799,
+    "tournamentId": 15240,
+    "match_winner": 91775,
+    "result": "2-6 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95799,
+     "name": "Hanyu Guo/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765115",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 95615,
+    "player2Id": 26936,
+    "tournamentId": 15240,
+    "match_winner": 95615,
+    "result": "7-6(7) 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.69",
+    "odd2": "1.43",
+    "player1": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765158",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36765,
+    "player2Id": 94430,
+    "tournamentId": 15240,
+    "match_winner": 36765,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.84",
+    "player1": {
+     "id": 36765,
+     "name": "Sloane Stephens/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765159",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95792,
+    "player2Id": 94919,
+    "tournamentId": 15240,
+    "match_winner": 95792,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95792,
+     "name": "Marie Bouzkova/Anna Danilina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94919,
+     "name": "Timea Babos/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765172",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95612,
+    "player2Id": 95801,
+    "tournamentId": 15240,
+    "match_winner": 95612,
+    "result": "6-4 3-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.24",
+    "player1": {
+     "id": 95612,
+     "name": "Liudmila Samsonova/Yafan Wang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95801,
+     "name": "Alycia Parks/Bibiane Schoofs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765173",
+    "date": "2024-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68431,
+    "player2Id": 95935,
+    "tournamentId": 15240,
+    "match_winner": 68431,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95935,
+     "name": "Chloe Paquet/Katie Volynets",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765122",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95799,
+    "player2Id": 30703,
+    "tournamentId": 15240,
+    "match_winner": 95799,
+    "result": "7-6(9) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.06",
+    "player1": {
+     "id": 95799,
+     "name": "Hanyu Guo/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30703,
+     "name": "Shuko Aoyama/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765152",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95397,
+    "player2Id": 75993,
+    "tournamentId": 15240,
+    "match_winner": 95397,
+    "result": "1-6 7-6(5) 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "7.1",
+    "odd2": "1.075",
+    "player1": {
+     "id": 95397,
+     "name": "Ariana Arseneault/Mia Kupres",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75993,
+     "name": "Ulrikke Eikeri/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765153",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95615,
+    "player2Id": 79446,
+    "tournamentId": 15240,
+    "match_winner": 95615,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.666",
+    "player1": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765157",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71512,
+    "player2Id": 91547,
+    "tournamentId": 15240,
+    "match_winner": 71512,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5.7",
+    "odd2": "1.117",
+    "player1": {
+     "id": 71512,
+     "name": "Bianca Jolie Fernandez/Leylah Annie Fernandez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91547,
+     "name": "Demi Schuurs/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765163",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89802,
+    "player2Id": 95791,
+    "tournamentId": 15240,
+    "match_winner": 89802,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.66",
+    "player1": {
+     "id": 89802,
+     "name": "Magda Linette/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95791,
+     "name": "Moyuka Uchijima/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765166",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 85759,
+    "player2Id": 95794,
+    "tournamentId": 15240,
+    "match_winner": 85759,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 85759,
+     "name": "Kristina Mladenovic/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95794,
+     "name": "Quinn Gleason/Ingrid Martins",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765167",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95796,
+    "player2Id": 95795,
+    "tournamentId": 15240,
+    "match_winner": 95796,
+    "result": "3-6 6-0 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95796,
+     "name": "Catherine Harrison/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95795,
+     "name": "Harriet Dart/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765169",
+    "date": "2024-08-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95798,
+    "player2Id": 95797,
+    "tournamentId": 15240,
+    "match_winner": 95798,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95798,
+     "name": "Giuliana Olmos/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95797,
+     "name": "Cristina Bucsa/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "765088",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 64343,
+    "player2Id": 13511,
+    "tournamentId": 15240,
+    "match_winner": 64343,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.88",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765089",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 69652,
+    "player2Id": 13621,
+    "tournamentId": 15240,
+    "match_winner": 69652,
+    "result": "7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765091",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12882,
+    "player2Id": 13810,
+    "tournamentId": 15240,
+    "match_winner": 12882,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.47",
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765092",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14259,
+    "player2Id": 13937,
+    "tournamentId": 15240,
+    "match_winner": 14259,
+    "result": "2-6 6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.1",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765098",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17345,
+    "player2Id": 14609,
+    "tournamentId": 15240,
+    "match_winner": 17345,
+    "result": "4-6 6-6 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765107",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52790,
+    "player2Id": 17893,
+    "tournamentId": 15240,
+    "match_winner": 52790,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.123",
+    "odd2": "5.55",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17893,
+     "name": "Stacey Fung",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765120",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 26356,
+    "player2Id": 30238,
+    "tournamentId": 15240,
+    "match_winner": 26356,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.88",
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765121",
+    "date": "2024-08-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52254,
+    "player2Id": 30510,
+    "tournamentId": 15240,
+    "match_winner": 52254,
+    "result": "4-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.1",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765070",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17345,
+    "player2Id": 6159,
+    "tournamentId": 15240,
+    "match_winner": 17345,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.57",
+    "player1": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765075",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13511,
+    "player2Id": 9458,
+    "tournamentId": 15240,
+    "match_winner": 13511,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765078",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26356,
+    "player2Id": 10600,
+    "tournamentId": 15240,
+    "match_winner": 26356,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765079",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52254,
+    "player2Id": 10814,
+    "tournamentId": 15240,
+    "match_winner": 52254,
+    "result": "5-7 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.1",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765100",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 64343,
+    "player2Id": 16627,
+    "tournamentId": 15240,
+    "match_winner": 64343,
+    "result": "4-6 7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.52",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765106",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 17831,
+    "tournamentId": 15240,
+    "match_winner": 13621,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.2",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765108",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13810,
+    "player2Id": 18427,
+    "tournamentId": 15240,
+    "match_winner": 13810,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765116",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52790,
+    "player2Id": 27243,
+    "tournamentId": 15240,
+    "match_winner": 52790,
+    "result": "0-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.68",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27243,
+     "name": "Yuriko Miyazaki",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765118",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30510,
+    "player2Id": 28732,
+    "tournamentId": 15240,
+    "match_winner": 30510,
+    "result": "3-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.73",
+    "odd2": "1.42",
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765119",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13937,
+    "player2Id": 29178,
+    "tournamentId": 15240,
+    "match_winner": 13937,
+    "result": "6-2 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765123",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12882,
+    "player2Id": 31920,
+    "tournamentId": 15240,
+    "match_winner": 12882,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.98",
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765124",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 32365,
+    "tournamentId": 15240,
+    "match_winner": 14259,
+    "result": "1-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "3.98",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32365,
+     "name": "Miriam Bianca Bulgaru",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765130",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 69652,
+    "player2Id": 37530,
+    "tournamentId": 15240,
+    "match_winner": 69652,
+    "result": "7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 37530,
+     "name": "Carson Branstine",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765135",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17893,
+    "player2Id": 45192,
+    "tournamentId": 15240,
+    "match_winner": 17893,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.35",
+    "odd2": "1.189",
+    "player1": {
+     "id": 17893,
+     "name": "Stacey Fung",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765136",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30238,
+    "player2Id": 45540,
+    "tournamentId": 15240,
+    "match_winner": 30238,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.14",
+    "odd2": "1.33",
+    "player1": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765145",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14609,
+    "player2Id": 64341,
+    "tournamentId": 15240,
+    "match_winner": 14609,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.9",
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15240,
+     "name": "National Bank Open - Toronto",
+     "courtId": 1,
+     "date": "2024-08-05T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

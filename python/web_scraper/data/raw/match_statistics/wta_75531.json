@@ -1,0 +1,189 @@
+[
+ {
+  "id": "607959",
+  "matchId": "607959",
+  "date": "2022-05-15T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 74341,
+  "player2Id": 75531,
+  "tournamentId": 14055,
+  "match_winner": 74341,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 74341,
+   "name": "Isabel Pascual Montalvo",
+   "countryAcr": "ESP"
+  },
+  "player2": {
+   "id": 75531,
+   "name": "Madison Beckham",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 14055,
+   "name": "W15 Cancun 5",
+   "courtId": 1,
+   "date": "2022-05-16T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "MEX",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "606879",
+  "matchId": "606879",
+  "date": "2022-05-08T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 78936,
+  "player2Id": 75531,
+  "tournamentId": 14040,
+  "match_winner": 78936,
+  "result": "6-0 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 78936,
+   "name": "Jargal Altansarnai",
+   "countryAcr": "MGL"
+  },
+  "player2": {
+   "id": 75531,
+   "name": "Madison Beckham",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 14040,
+   "name": "W15 Cancun 4",
+   "courtId": 1,
+   "date": "2022-05-09T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "MEX",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "584056",
+  "matchId": "584056",
+  "date": "2021-10-05T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 75670,
+  "player2Id": 75531,
+  "tournamentId": 13715,
+  "match_winner": 75670,
+  "result": "6-1 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 75670,
+   "name": "Carly Kunkler",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 75531,
+   "name": "Madison Beckham",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 13715,
+   "name": "W15 Hilton Head 1",
+   "courtId": 2,
+   "date": "2021-10-04T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "579747",
+  "matchId": "579747",
+  "date": "2021-09-25T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 902,
+  "player2Id": 75531,
+  "tournamentId": 13654,
+  "match_winner": 902,
+  "result": "6-0 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.014",
+  "odd2": "15",
+  "player1": {
+   "id": 902,
+   "name": "Kirsten Flipkens",
+   "countryAcr": "BEL"
+  },
+  "player2": {
+   "id": 75531,
+   "name": "Madison Beckham",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 13654,
+   "name": "Chicago Fall Tennis Classic - Chicago",
+   "courtId": 1,
+   "date": "2021-09-27T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:42:00",
+   "player1": {
+    "firstServe": 19,
+    "firstServeOf": 30,
+    "aces": 0,
+    "doubleFaults": 1,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 16,
+    "winningOnFirstServeOf": 19,
+    "winningOnSecondServe": 8,
+    "winningOnSecondServeOf": 11,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 11,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 52,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 20,
+    "firstServeOf": 39,
+    "aces": 0,
+    "doubleFaults": 4,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 6,
+    "winningOnFirstServeOf": 20,
+    "winningOnSecondServe": 5,
+    "winningOnSecondServeOf": 19,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 17,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

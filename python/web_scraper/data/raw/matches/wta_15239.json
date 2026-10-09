@@ -1,0 +1,1761 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "765036",
+    "date": "2024-08-04T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 17142,
+    "player2Id": 24572,
+    "tournamentId": 15239,
+    "match_winner": 17142,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765032",
+    "date": "2024-08-03T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 24572,
+    "player2Id": 18455,
+    "tournamentId": 15239,
+    "match_winner": 24572,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765037",
+    "date": "2024-08-03T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17142,
+    "player2Id": 28585,
+    "tournamentId": 15239,
+    "match_winner": 17142,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.92",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765014",
+    "date": "2024-08-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 5416,
+    "tournamentId": 15239,
+    "match_winner": 18455,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.34",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765041",
+    "date": "2024-08-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 28585,
+    "player2Id": 41564,
+    "tournamentId": 15239,
+    "match_winner": 28585,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765047",
+    "date": "2024-08-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17142,
+    "player2Id": 53487,
+    "tournamentId": 15239,
+    "match_winner": 17142,
+    "result": "4-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765052",
+    "date": "2024-08-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24572,
+    "player2Id": 64341,
+    "tournamentId": 15239,
+    "match_winner": 24572,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765023",
+    "date": "2024-08-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 12882,
+    "tournamentId": 15239,
+    "match_winner": 5416,
+    "result": "6-1 6-7(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765025",
+    "date": "2024-08-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24572,
+    "player2Id": 13621,
+    "tournamentId": 15239,
+    "match_winner": 24572,
+    "result": "7-5 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.31",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765035",
+    "date": "2024-08-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 24368,
+    "tournamentId": 15239,
+    "match_winner": 17142,
+    "result": "6-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.81",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765016",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 6740,
+    "tournamentId": 15239,
+    "match_winner": 41564,
+    "result": "6-1 6-7(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765028",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 28585,
+    "player2Id": 17503,
+    "tournamentId": 15239,
+    "match_winner": 28585,
+    "result": "2-6 7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.62",
+    "odd2": "1.29",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765042",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 45072,
+    "tournamentId": 15239,
+    "match_winner": 18455,
+    "result": "7-5 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.05",
+    "odd2": "10",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765048",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53487,
+    "player2Id": 53793,
+    "tournamentId": 15239,
+    "match_winner": 53487,
+    "result": "7-6(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.34",
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765034",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 23432,
+    "tournamentId": 15239,
+    "match_winner": 17142,
+    "result": "6-1 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765040",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 40156,
+    "tournamentId": 15239,
+    "match_winner": 13621,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.39",
+    "odd2": "1.58",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765044",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 48254,
+    "tournamentId": 15239,
+    "match_winner": 5416,
+    "result": "7-6(6) 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765045",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 48900,
+    "tournamentId": 15239,
+    "match_winner": 24572,
+    "result": "6-4 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765046",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45072,
+    "player2Id": 52790,
+    "tournamentId": 15239,
+    "match_winner": 45072,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765057",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53793,
+    "player2Id": 73190,
+    "tournamentId": 15239,
+    "match_winner": 53793,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765017",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12882,
+    "player2Id": 7982,
+    "tournamentId": 15239,
+    "match_winner": 12882,
+    "result": "5-7 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.05",
+    "odd2": "1.38",
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765018",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 9857,
+    "tournamentId": 15239,
+    "match_winner": 28585,
+    "result": "6-1 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765019",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 10033,
+    "tournamentId": 15239,
+    "match_winner": 41564,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765022",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64341,
+    "player2Id": 12267,
+    "tournamentId": 15239,
+    "match_winner": 64341,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765024",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53487,
+    "player2Id": 13351,
+    "tournamentId": 15239,
+    "match_winner": 53487,
+    "result": "6-2 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765053",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 64343,
+    "tournamentId": 15239,
+    "match_winner": 6740,
+    "result": "6-3 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "765067",
+    "date": "2024-08-03T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 29261,
+    "player2Id": 95615,
+    "tournamentId": 15239,
+    "match_winner": 29261,
+    "result": "7-6(0) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.89",
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765058",
+    "date": "2024-08-02T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 95615,
+    "player2Id": 79446,
+    "tournamentId": 15239,
+    "match_winner": 95615,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765055",
+    "date": "2024-08-01T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 95615,
+    "player2Id": 66734,
+    "tournamentId": 15239,
+    "match_winner": 95615,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765066",
+    "date": "2024-08-01T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 79446,
+    "player2Id": 95614,
+    "tournamentId": 15239,
+    "match_winner": 79446,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95614,
+     "name": "Ashlyn Krueger/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765051",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 29261,
+    "player2Id": 62769,
+    "tournamentId": 15239,
+    "match_winner": 29261,
+    "result": "6-0 4-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.6",
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62769,
+     "name": "Hailey Baptiste/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765060",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95615,
+    "player2Id": 86349,
+    "tournamentId": 15239,
+    "match_winner": 95615,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.12",
+    "odd2": "1.67",
+    "player1": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765061",
+    "date": "2024-07-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66734,
+    "player2Id": 89118,
+    "tournamentId": 15239,
+    "match_winner": 66734,
+    "result": "3-6 7-6(5) 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.38",
+    "player1": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89118,
+     "name": "Robin Montgomery/Clervie Ngounoue",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765049",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95614,
+    "player2Id": 53932,
+    "tournamentId": 15239,
+    "match_winner": 95614,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95614,
+     "name": "Ashlyn Krueger/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 53932,
+     "name": "Eugenie Bouchard/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765062",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95612,
+    "player2Id": 93928,
+    "tournamentId": 15239,
+    "match_winner": 95612,
+    "result": "7-6(4) 2-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 95612,
+     "name": "Liudmila Samsonova/Yafan Wang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93928,
+     "name": "Maia Lumsden/Anna Siskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765063",
+    "date": "2024-07-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79446,
+    "player2Id": 94430,
+    "tournamentId": 15239,
+    "match_winner": 79446,
+    "result": "6-2 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765033",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 85622,
+    "player2Id": 21932,
+    "tournamentId": 15239,
+    "match_winner": 85622,
+    "result": "7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 85622,
+     "name": "Paula Badosa Gibert/Ons Jabeur",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765065",
+    "date": "2024-07-29T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 58644,
+    "player2Id": 95613,
+    "tournamentId": 15239,
+    "match_winner": 58644,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.76",
+    "player1": {
+     "id": 58644,
+     "name": "Ulrikke Eikeri/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95613,
+     "name": "Oksana Kalashnikova/Kamilla Rakhimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "765015",
+    "date": "2024-07-28T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 48254,
+    "player2Id": 6159,
+    "tournamentId": 15239,
+    "match_winner": 48254,
+    "result": "7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.84",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765021",
+    "date": "2024-07-28T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45072,
+    "player2Id": 12116,
+    "tournamentId": 15239,
+    "match_winner": 45072,
+    "result": "6-3 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765026",
+    "date": "2024-07-28T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 48900,
+    "player2Id": 13937,
+    "tournamentId": 15239,
+    "match_winner": 48900,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765030",
+    "date": "2024-07-28T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 41564,
+    "player2Id": 18403,
+    "tournamentId": 15239,
+    "match_winner": 41564,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765027",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48900,
+    "player2Id": 17345,
+    "tournamentId": 15239,
+    "match_winner": 48900,
+    "result": "6-2 3-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765029",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41564,
+    "player2Id": 17831,
+    "tournamentId": 15239,
+    "match_winner": 41564,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.76",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765031",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13937,
+    "player2Id": 18427,
+    "tournamentId": 15239,
+    "match_winner": 13937,
+    "result": "3-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.19",
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765038",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45072,
+    "player2Id": 31920,
+    "tournamentId": 15239,
+    "match_winner": 45072,
+    "result": "7-6(8) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765039",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18403,
+    "player2Id": 39540,
+    "tournamentId": 15239,
+    "match_winner": 18403,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.19",
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765043",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12116,
+    "player2Id": 45192,
+    "tournamentId": 15239,
+    "match_winner": 12116,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765054",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6159,
+    "player2Id": 66176,
+    "tournamentId": 15239,
+    "match_winner": 6159,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "765056",
+    "date": "2024-07-27T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48254,
+    "player2Id": 70326,
+    "tournamentId": 15239,
+    "match_winner": 48254,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.375",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 70326,
+     "name": "Taylah Preston",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15239,
+     "name": "Mubadala Citi DC Open - Washington",
+     "courtId": 1,
+     "date": "2024-07-29T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

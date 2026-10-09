@@ -1,0 +1,1883 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "870018",
+    "matchId": "870018",
+    "date": "2026-06-27T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 18482,
+    "player2Id": 16430,
+    "tournamentId": 16731,
+    "match_winner": 18482,
+    "result": "6-1 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.18",
+    "odd2": "1.68",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870021",
+    "matchId": "870021",
+    "date": "2026-06-26T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18482,
+    "player2Id": 17774,
+    "tournamentId": 16731,
+    "match_winner": 18482,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870031",
+    "matchId": "870031",
+    "date": "2026-06-26T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 16430,
+    "player2Id": 47152,
+    "tournamentId": 16731,
+    "match_winner": 16430,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870015",
+    "matchId": "870015",
+    "date": "2026-06-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16430,
+    "player2Id": 14054,
+    "tournamentId": 16731,
+    "match_winner": 16430,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.18",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870027",
+    "matchId": "870027",
+    "date": "2026-06-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17774,
+    "player2Id": 42098,
+    "tournamentId": 16731,
+    "match_winner": 17774,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870036",
+    "matchId": "870036",
+    "date": "2026-06-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18482,
+    "player2Id": 54989,
+    "tournamentId": 16731,
+    "match_winner": 18482,
+    "result": "1-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.08",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870009",
+    "matchId": "870009",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 6651,
+    "tournamentId": 16731,
+    "match_winner": 18482,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.159",
+    "odd2": "5.2",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870025",
+    "matchId": "870025",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17774,
+    "player2Id": 32480,
+    "tournamentId": 16731,
+    "match_winner": 17774,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870029",
+    "matchId": "870029",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 45854,
+    "tournamentId": 16731,
+    "match_winner": 42098,
+    "result": "7-5 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870035",
+    "matchId": "870035",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54989,
+    "player2Id": 53128,
+    "tournamentId": 16731,
+    "match_winner": 54989,
+    "result": "5-7 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870046",
+    "matchId": "870046",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 77934,
+    "tournamentId": 16731,
+    "match_winner": 14054,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.18",
+    "odd2": "1.35",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870013",
+    "matchId": "870013",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 13351,
+    "tournamentId": 16731,
+    "match_winner": 16430,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.01",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870024",
+    "matchId": "870024",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 24368,
+    "tournamentId": 16731,
+    "match_winner": 11371,
+    "result": "3-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870028",
+    "matchId": "870028",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42098,
+    "player2Id": 44525,
+    "tournamentId": 16731,
+    "match_winner": 42098,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870030",
+    "matchId": "870030",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 45866,
+    "tournamentId": 16731,
+    "match_winner": 14054,
+    "result": "6-1 6-7(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870032",
+    "matchId": "870032",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47152,
+    "player2Id": 49081,
+    "tournamentId": 16731,
+    "match_winner": 47152,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.29",
+    "odd2": "1.62",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870040",
+    "matchId": "870040",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17774,
+    "player2Id": 66597,
+    "tournamentId": 16731,
+    "match_winner": 17774,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.08",
+    "odd2": "1.37",
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870007",
+    "matchId": "870007",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 151,
+    "tournamentId": 16731,
+    "match_winner": 6651,
+    "result": "6-2 4-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870019",
+    "matchId": "870019",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 17155,
+    "tournamentId": 16731,
+    "match_winner": 16430,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.81",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870023",
+    "matchId": "870023",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 18403,
+    "tournamentId": 16731,
+    "match_winner": 47152,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870033",
+    "matchId": "870033",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 50943,
+    "tournamentId": 16731,
+    "match_winner": 32480,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 50943,
+     "name": "Sinja Kraus",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870038",
+    "matchId": "870038",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53128,
+    "player2Id": 61881,
+    "tournamentId": 16731,
+    "match_winner": 53128,
+    "result": "7-5 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 61881,
+     "name": "Solana Sierra",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870039",
+    "matchId": "870039",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54989,
+    "player2Id": 65911,
+    "tournamentId": 16731,
+    "match_winner": 54989,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.58",
+    "odd2": "1.5",
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870041",
+    "matchId": "870041",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 67792,
+    "tournamentId": 16731,
+    "match_winner": 13351,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870016",
+    "matchId": "870016",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 14175,
+    "tournamentId": 16731,
+    "match_winner": 49081,
+    "result": "6-7(5) 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870020",
+    "matchId": "870020",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 17501,
+    "tournamentId": 16731,
+    "match_winner": 24368,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.7",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "870052",
+    "matchId": "870052",
+    "date": "2026-06-27T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 108718,
+    "player2Id": 106300,
+    "tournamentId": 16731,
+    "match_winner": 108718,
+    "result": "6-1 4-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.55",
+    "odd2": "1.44",
+    "player1": {
+     "id": 108718,
+     "name": "Aldila Sutjiadi/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 106300,
+     "name": "Ellen Perez/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870050",
+    "matchId": "870050",
+    "date": "2026-06-26T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 106300,
+    "player2Id": 94430,
+    "tournamentId": 16731,
+    "match_winner": 106300,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.08",
+    "player1": {
+     "id": 106300,
+     "name": "Ellen Perez/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870048",
+    "matchId": "870048",
+    "date": "2026-06-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 86859,
+    "player2Id": 87626,
+    "tournamentId": 16731,
+    "match_winner": 86859,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 86859,
+     "name": "Su-Wei Hsieh/Xinyu Wang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 87626,
+     "name": "Tamara Korpatsch/Emily Webley-Smith",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870057",
+    "matchId": "870057",
+    "date": "2026-06-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 108718,
+    "player2Id": 109794,
+    "tournamentId": 16731,
+    "match_winner": 108718,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 108718,
+     "name": "Aldila Sutjiadi/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109794,
+     "name": "Andreja Klepac/Nika Radisic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870060",
+    "matchId": "870060",
+    "date": "2026-06-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 94430,
+    "player2Id": 109797,
+    "tournamentId": 16731,
+    "match_winner": 94430,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109797,
+     "name": "Alexandra Eala/Venus Williams",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870045",
+    "matchId": "870045",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86859,
+    "player2Id": 73263,
+    "tournamentId": 16731,
+    "match_winner": 86859,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 86859,
+     "name": "Su-Wei Hsieh/Xinyu Wang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73263,
+     "name": "Ulrikke Eikeri/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870055",
+    "matchId": "870055",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 109797,
+    "player2Id": 109310,
+    "tournamentId": 16731,
+    "match_winner": 109797,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 109797,
+     "name": "Alexandra Eala/Venus Williams",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109310,
+     "name": "Catherine Harrison/Alexandra Osborne",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870056",
+    "matchId": "870056",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 109794,
+    "player2Id": 109362,
+    "tournamentId": 16731,
+    "match_winner": 109794,
+    "result": "6-4 4-6 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 109794,
+     "name": "Andreja Klepac/Nika Radisic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109362,
+     "name": "Nicole Melichar/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870059",
+    "matchId": "870059",
+    "date": "2026-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 106300,
+    "player2Id": 109796,
+    "tournamentId": 16731,
+    "match_winner": 106300,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 106300,
+     "name": "Ellen Perez/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109796,
+     "name": "Qianhui Tang/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870051",
+    "matchId": "870051",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 106300,
+    "player2Id": 101854,
+    "tournamentId": 16731,
+    "match_winner": 106300,
+    "result": "6-7(2) 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 106300,
+     "name": "Ellen Perez/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 101854,
+     "name": "Hao-Ching Chan/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870058",
+    "matchId": "870058",
+    "date": "2026-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 108718,
+    "player2Id": 109795,
+    "tournamentId": 16731,
+    "match_winner": 108718,
+    "result": "6-4 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 108718,
+     "name": "Aldila Sutjiadi/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109795,
+     "name": "Magali Kempen/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870053",
+    "matchId": "870053",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 94430,
+    "player2Id": 107405,
+    "tournamentId": 16731,
+    "match_winner": 94430,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 107405,
+     "name": "Xinyu Jiang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870054",
+    "matchId": "870054",
+    "date": "2026-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 109796,
+    "player2Id": 107930,
+    "tournamentId": 16731,
+    "match_winner": 109796,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 109796,
+     "name": "Qianhui Tang/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 107930,
+     "name": "Tessa Johanna Brockmann/Ella Seidel",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870042",
+    "matchId": "870042",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 87626,
+    "player2Id": 68286,
+    "tournamentId": 16731,
+    "match_winner": 87626,
+    "result": "3-6 7-5 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 87626,
+     "name": "Tamara Korpatsch/Emily Webley-Smith",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68286,
+     "name": "Lyudmyla Kichenok/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "870014",
+    "matchId": "870014",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17774,
+    "player2Id": 13621,
+    "tournamentId": 16731,
+    "match_winner": 17774,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.86",
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870022",
+    "matchId": "870022",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 50943,
+    "player2Id": 18403,
+    "tournamentId": 16731,
+    "match_winner": 50943,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 50943,
+     "name": "Sinja Kraus",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870026",
+    "matchId": "870026",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 61881,
+    "player2Id": 34747,
+    "tournamentId": 16731,
+    "match_winner": 61881,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.57",
+    "player1": {
+     "id": 61881,
+     "name": "Solana Sierra",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870034",
+    "matchId": "870034",
+    "date": "2026-06-21T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 6651,
+    "player2Id": 51151,
+    "tournamentId": 16731,
+    "match_winner": 6651,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870008",
+    "matchId": "870008",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17774,
+    "player2Id": 4263,
+    "tournamentId": 16731,
+    "match_winner": 17774,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870010",
+    "matchId": "870010",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 10738,
+    "tournamentId": 16731,
+    "match_winner": 13621,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870012",
+    "matchId": "870012",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 50943,
+    "player2Id": 12997,
+    "tournamentId": 16731,
+    "match_winner": 50943,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 50943,
+     "name": "Sinja Kraus",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870017",
+    "matchId": "870017",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6651,
+    "player2Id": 14694,
+    "tournamentId": 16731,
+    "match_winner": 6651,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.84",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870037",
+    "matchId": "870037",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 51151,
+    "player2Id": 61481,
+    "tournamentId": 16731,
+    "match_winner": 51151,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.08",
+    "player1": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870043",
+    "matchId": "870043",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 69246,
+    "tournamentId": 16731,
+    "match_winner": 34747,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.171",
+    "odd2": "4.3",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 69246,
+     "name": "Julia Avdeeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870044",
+    "matchId": "870044",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 61881,
+    "player2Id": 72064,
+    "tournamentId": 16731,
+    "match_winner": 61881,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.55",
+    "player1": {
+     "id": 61881,
+     "name": "Solana Sierra",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870049",
+    "matchId": "870049",
+    "date": "2026-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18403,
+    "player2Id": 90092,
+    "tournamentId": 16731,
+    "match_winner": 18403,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.102",
+    "odd2": "5.55",
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 90092,
+     "name": "Unknown Player",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16731,
+     "name": "Bad Homburg Open - Bad Homburg",
+     "courtId": 5,
+     "date": "2026-06-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

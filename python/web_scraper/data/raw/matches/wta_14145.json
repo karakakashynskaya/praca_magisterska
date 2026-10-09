@@ -1,0 +1,1866 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "613924",
+    "date": "2022-08-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 17503,
+    "player2Id": 12267,
+    "tournamentId": 14145,
+    "match_winner": 17503,
+    "result": "6-7(2) 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613932",
+    "date": "2022-08-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12267,
+    "player2Id": 16119,
+    "tournamentId": 14145,
+    "match_winner": 12267,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.72",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613935",
+    "date": "2022-08-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17503,
+    "player2Id": 17142,
+    "tournamentId": 14145,
+    "match_winner": 17503,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.16",
+    "odd2": "1.727",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613922",
+    "date": "2022-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16119,
+    "player2Id": 11449,
+    "tournamentId": 14145,
+    "match_winner": 16119,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613938",
+    "date": "2022-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17503,
+    "player2Id": 18455,
+    "tournamentId": 14145,
+    "match_winner": 17503,
+    "result": "4-6 7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.63",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613950",
+    "date": "2022-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12267,
+    "player2Id": 41564,
+    "tournamentId": 14145,
+    "match_winner": 12267,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.84",
+    "odd2": "1.45",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613957",
+    "date": "2022-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17142,
+    "player2Id": 54663,
+    "tournamentId": 14145,
+    "match_winner": 17142,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613928",
+    "date": "2022-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12267,
+    "player2Id": 13541,
+    "tournamentId": 14145,
+    "match_winner": 12267,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613933",
+    "date": "2022-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 16430,
+    "tournamentId": 14145,
+    "match_winner": 54663,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.31",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613941",
+    "date": "2022-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 27804,
+    "tournamentId": 14145,
+    "match_winner": 16119,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613942",
+    "date": "2022-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 28585,
+    "tournamentId": 14145,
+    "match_winner": 18455,
+    "result": "5-7 6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613917",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 7982,
+    "tournamentId": 14145,
+    "match_winner": 41564,
+    "result": "3-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613923",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 11672,
+    "tournamentId": 14145,
+    "match_winner": 11449,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.92",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613929",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 13621,
+    "tournamentId": 14145,
+    "match_winner": 17503,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.2",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613953",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 47153,
+    "tournamentId": 14145,
+    "match_winner": 17142,
+    "result": "6-2 5-7 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613919",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 8696,
+    "tournamentId": 14145,
+    "match_winner": 16119,
+    "result": "7-6(2) 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613926",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27804,
+    "player2Id": 13094,
+    "tournamentId": 14145,
+    "match_winner": 27804,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613931",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 16043,
+    "tournamentId": 14145,
+    "match_winner": 54663,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.44",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613945",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 30510,
+    "tournamentId": 14145,
+    "match_winner": 28585,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613948",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 39226,
+    "tournamentId": 14145,
+    "match_winner": 12267,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.73",
+    "odd2": "1.48",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613956",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 53128,
+    "tournamentId": 14145,
+    "match_winner": 16430,
+    "result": "6-4 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.375",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613916",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11672,
+    "player2Id": 4263,
+    "tournamentId": 14145,
+    "match_winner": 11672,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613920",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47153,
+    "player2Id": 9772,
+    "tournamentId": 14145,
+    "match_winner": 47153,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.9",
+    "odd2": "1.194",
+    "player1": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613925",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 12722,
+    "tournamentId": 14145,
+    "match_winner": 13621,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.24",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613930",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 14175,
+    "tournamentId": 14145,
+    "match_winner": 7982,
+    "result": "1-6 7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613947",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 36558,
+    "tournamentId": 14145,
+    "match_winner": 17503,
+    "result": "1-6 6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.71",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613958",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 64343,
+    "tournamentId": 14145,
+    "match_winner": 41564,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "613936",
+    "date": "2022-08-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 72046,
+    "player2Id": 17376,
+    "tournamentId": 14145,
+    "match_winner": 72046,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613960",
+    "date": "2022-08-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 72046,
+    "player2Id": 71403,
+    "tournamentId": 14145,
+    "match_winner": 72046,
+    "result": "5-7 6-2 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71403,
+     "name": "Veronika Kudermetova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613961",
+    "date": "2022-08-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17376,
+    "player2Id": 72892,
+    "tournamentId": 14145,
+    "match_winner": 17376,
+    "result": "2-6 7-6(4) 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.64",
+    "player1": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613968",
+    "date": "2022-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72892,
+    "player2Id": 81005,
+    "tournamentId": 14145,
+    "match_winner": 72892,
+    "result": "2-6 6-1 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81005,
+     "name": "Ashlyn Krueger/Elizabeth Mandlik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613962",
+    "date": "2022-08-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71403,
+    "player2Id": 73865,
+    "tournamentId": 14145,
+    "match_winner": 71403,
+    "result": "6-2 5-7 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.25",
+    "player1": {
+     "id": 71403,
+     "name": "Veronika Kudermetova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73865,
+     "name": "Caroline Dolehide/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613963",
+    "date": "2022-08-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17376,
+    "player2Id": 78230,
+    "tournamentId": 14145,
+    "match_winner": 17376,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.05",
+    "odd2": "1.74",
+    "player1": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613944",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 81003,
+    "player2Id": 29261,
+    "tournamentId": 14145,
+    "match_winner": 81003,
+    "result": "6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 81003,
+     "name": "Latisha Chan/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613965",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72046,
+    "player2Id": 81002,
+    "tournamentId": 14145,
+    "match_winner": 72046,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81002,
+     "name": "Nadiya Kichenok/Tereza Mihalikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613969",
+    "date": "2022-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72892,
+    "player2Id": 81006,
+    "tournamentId": 14145,
+    "match_winner": 72892,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81006,
+     "name": "Emina Bektas/Kaitlyn Christian",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613954",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78230,
+    "player2Id": 52248,
+    "tournamentId": 14145,
+    "match_winner": 78230,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 52248,
+     "name": "Amina Anshba/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613959",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73865,
+    "player2Id": 69380,
+    "tournamentId": 14145,
+    "match_winner": 73865,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 73865,
+     "name": "Caroline Dolehide/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 69380,
+     "name": "Natela Dzalamidze/Kamilla Rakhimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613964",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71403,
+    "player2Id": 78908,
+    "tournamentId": 14145,
+    "match_winner": 71403,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.38",
+    "player1": {
+     "id": 71403,
+     "name": "Veronika Kudermetova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613967",
+    "date": "2022-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 81005,
+    "player2Id": 81004,
+    "tournamentId": 14145,
+    "match_winner": 81005,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 81005,
+     "name": "Ashlyn Krueger/Elizabeth Mandlik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81004,
+     "name": "Karolina Pliskova/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613939",
+    "date": "2022-08-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17376,
+    "player2Id": 21932,
+    "tournamentId": 14145,
+    "match_winner": 17376,
+    "result": "7-6(10) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.909",
+    "player1": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "613921",
+    "date": "2022-07-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30510,
+    "player2Id": 11350,
+    "tournamentId": 14145,
+    "match_winner": 30510,
+    "result": "6-2 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613934",
+    "date": "2022-07-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 47153,
+    "player2Id": 17021,
+    "tournamentId": 14145,
+    "match_winner": 47153,
+    "result": "3-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613937",
+    "date": "2022-07-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13621,
+    "player2Id": 17831,
+    "tournamentId": 14145,
+    "match_winner": 13621,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613943",
+    "date": "2022-07-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12722,
+    "player2Id": 28585,
+    "tournamentId": 14145,
+    "match_winner": 12722,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613918",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 8535,
+    "tournamentId": 14145,
+    "match_winner": 13621,
+    "result": "6-7(5) 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613927",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30510,
+    "player2Id": 13511,
+    "tournamentId": 14145,
+    "match_winner": 30510,
+    "result": "6-4 3-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613940",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47153,
+    "player2Id": 27043,
+    "tournamentId": 14145,
+    "match_winner": 47153,
+    "result": "6-3 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.666",
+    "player1": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27043,
+     "name": "Fernanda Contreras Gomez",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613946",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28585,
+    "player2Id": 34746,
+    "tournamentId": 14145,
+    "match_winner": 28585,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613949",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17021,
+    "player2Id": 39540,
+    "tournamentId": 14145,
+    "match_winner": 17021,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.052",
+    "odd2": "9.7",
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613951",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17831,
+    "player2Id": 45072,
+    "tournamentId": 14145,
+    "match_winner": 17831,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613952",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12722,
+    "player2Id": 45540,
+    "tournamentId": 14145,
+    "match_winner": 12722,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "613955",
+    "date": "2022-07-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11350,
+    "player2Id": 52790,
+    "tournamentId": 14145,
+    "match_winner": 11350,
+    "result": "1-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14145,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2022-08-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

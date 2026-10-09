@@ -1,0 +1,2251 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "561236",
+    "date": "2021-06-26T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 16628,
+    "player2Id": 13385,
+    "tournamentId": 13394,
+    "match_winner": 16628,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561219",
+    "date": "2021-06-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13385,
+    "player2Id": 8696,
+    "tournamentId": 13394,
+    "match_winner": 13385,
+    "result": "5-4 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561249",
+    "date": "2021-06-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 16628,
+    "player2Id": 36558,
+    "tournamentId": 13394,
+    "match_winner": 16628,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.96",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561214",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 7944,
+    "tournamentId": 13394,
+    "match_winner": 36558,
+    "result": "2-6 7-6(7) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561225",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13385,
+    "player2Id": 10749,
+    "tournamentId": 13394,
+    "match_winner": 13385,
+    "result": "2-6 7-6(2) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3.1",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561245",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16628,
+    "player2Id": 17503,
+    "tournamentId": 13394,
+    "match_winner": 16628,
+    "result": "1-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.78",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561246",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8696,
+    "player2Id": 18455,
+    "tournamentId": 13394,
+    "match_winner": 8696,
+    "result": "7-6(5) 0-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561223",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 9772,
+    "tournamentId": 13394,
+    "match_winner": 18455,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.4",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561228",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 11371,
+    "tournamentId": 13394,
+    "match_winner": 36558,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.77",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561229",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 11449,
+    "tournamentId": 13394,
+    "match_winner": 16628,
+    "result": "5-7 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.64",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561233",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8696,
+    "player2Id": 12267,
+    "tournamentId": 13394,
+    "match_winner": 8696,
+    "result": "6-3 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561239",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10749,
+    "player2Id": 14056,
+    "tournamentId": 13394,
+    "match_winner": 10749,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.7",
+    "odd2": "1.49",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561251",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 39226,
+    "tournamentId": 13394,
+    "match_winner": 13385,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561252",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 45854,
+    "tournamentId": 13394,
+    "match_winner": 17503,
+    "result": "4-6 6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.55",
+    "odd2": "1.54",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561254",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 54663,
+    "tournamentId": 13394,
+    "match_winner": 7944,
+    "result": "4-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561204",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 431,
+    "tournamentId": 13394,
+    "match_winner": 17503,
+    "result": "7-5 2-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "2",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561205",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 457,
+    "tournamentId": 13394,
+    "match_winner": 13385,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561206",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10749,
+    "player2Id": 495,
+    "tournamentId": 13394,
+    "match_winner": 10749,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.194",
+    "odd2": "4.9",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561210",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 6740,
+    "tournamentId": 13394,
+    "match_winner": 16628,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561211",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 7574,
+    "tournamentId": 13394,
+    "match_winner": 14056,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561215",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 7982,
+    "tournamentId": 13394,
+    "match_winner": 8696,
+    "result": "2-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.66",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561217",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 8652,
+    "tournamentId": 13394,
+    "match_winner": 12267,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.66",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561218",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 8665,
+    "tournamentId": 13394,
+    "match_winner": 39226,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.32",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561226",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45854,
+    "player2Id": 11071,
+    "tournamentId": 13394,
+    "match_winner": 45854,
+    "result": "6-3 6-7(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561235",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 13351,
+    "tournamentId": 13394,
+    "match_winner": 54663,
+    "result": "0-6 7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561240",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18455,
+    "player2Id": 14259,
+    "tournamentId": 13394,
+    "match_winner": 18455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.175",
+    "odd2": "5.25",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561241",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 14609,
+    "tournamentId": 13394,
+    "match_winner": 36558,
+    "result": "6-2 6-7(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561242",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9772,
+    "player2Id": 16119,
+    "tournamentId": 13394,
+    "match_winner": 9772,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561244",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11371,
+    "player2Id": 17142,
+    "tournamentId": 13394,
+    "match_winner": 11371,
+    "result": "4-6 6-1 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561247",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 32168,
+    "tournamentId": 13394,
+    "match_winner": 11449,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561253",
+    "date": "2021-06-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 47742,
+    "tournamentId": 13394,
+    "match_winner": 7944,
+    "result": "6-1 6-7(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.77",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "561258",
+    "date": "2021-06-26T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 67099,
+    "player2Id": 71299,
+    "tournamentId": 13394,
+    "match_winner": 67099,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561227",
+    "date": "2021-06-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 71299,
+    "player2Id": 11101,
+    "tournamentId": 13394,
+    "match_winner": 71299,
+    "result": "7-6(1) 4-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.55",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561255",
+    "date": "2021-06-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 67099,
+    "player2Id": 57030,
+    "tournamentId": 13394,
+    "match_winner": 67099,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57030,
+     "name": "Lyudmyla Kichenok/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561256",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 57030,
+    "player2Id": 60391,
+    "tournamentId": 13394,
+    "match_winner": 57030,
+    "result": "0-6 6-4 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.2",
+    "odd2": "1.35",
+    "player1": {
+     "id": 57030,
+     "name": "Lyudmyla Kichenok/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561259",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 67099,
+    "player2Id": 72039,
+    "tournamentId": 13394,
+    "match_winner": 67099,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72039,
+     "name": "Sharon Fichman/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561264",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11101,
+    "player2Id": 74073,
+    "tournamentId": 13394,
+    "match_winner": 11101,
+    "result": "5-7 6-3 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74073,
+     "name": "Cori Gauff/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561267",
+    "date": "2021-06-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71299,
+    "player2Id": 74156,
+    "tournamentId": 13394,
+    "match_winner": 71299,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.131",
+    "odd2": "5.9",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74156,
+     "name": "Christina Mchale/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561216",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74156,
+    "player2Id": 8463,
+    "tournamentId": 13394,
+    "match_winner": 74156,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74156,
+     "name": "Christina Mchale/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 8463,
+     "name": "Bethanie Mattek-Sands/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561257",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74073,
+    "player2Id": 65060,
+    "tournamentId": 13394,
+    "match_winner": 74073,
+    "result": "6-2 2-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74073,
+     "name": "Cori Gauff/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65060,
+     "name": "Harriet Dart/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561260",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72039,
+    "player2Id": 73726,
+    "tournamentId": 13394,
+    "match_winner": 72039,
+    "result": "7-6(10) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72039,
+     "name": "Sharon Fichman/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73726,
+     "name": "Veronika Kudermetova/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561261",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57030,
+    "player2Id": 73959,
+    "tournamentId": 13394,
+    "match_winner": 57030,
+    "result": "6-0 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.15",
+    "player1": {
+     "id": 57030,
+     "name": "Lyudmyla Kichenok/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73959,
+     "name": "Samantha Stosur/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561262",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71299,
+    "player2Id": 74071,
+    "tournamentId": 13394,
+    "match_winner": 71299,
+    "result": "4-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74071,
+     "name": "Bianca Vanessa Andreescu/Yulia Putintseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561263",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 74072,
+    "tournamentId": 13394,
+    "match_winner": 11101,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.04",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74072,
+     "name": "Hayley Carter/Nao Hibino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561265",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60391,
+    "player2Id": 74074,
+    "tournamentId": 13394,
+    "match_winner": 60391,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74074,
+     "name": "Marta Kostyuk/Elina Svitolina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561266",
+    "date": "2021-06-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 74075,
+    "tournamentId": 13394,
+    "match_winner": 67099,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74075,
+     "name": "Lucie Hradecka/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "561207",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 47742,
+    "player2Id": 4263,
+    "tournamentId": 13394,
+    "match_winner": 47742,
+    "result": "4-6 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561209",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10749,
+    "player2Id": 6201,
+    "tournamentId": 13394,
+    "match_winner": 10749,
+    "result": "4-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561213",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8665,
+    "player2Id": 7944,
+    "tournamentId": 13394,
+    "match_winner": 8665,
+    "result": "3-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561221",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 431,
+    "player2Id": 9458,
+    "tournamentId": 13394,
+    "match_winner": 431,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.04",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561222",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8696,
+    "player2Id": 9503,
+    "tournamentId": 13394,
+    "match_winner": 8696,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561230",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8665,
+    "player2Id": 12089,
+    "tournamentId": 13394,
+    "match_winner": 8665,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561232",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14259,
+    "player2Id": 12267,
+    "tournamentId": 13394,
+    "match_winner": 14259,
+    "result": "7-5 0-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561234",
+    "date": "2021-06-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6201,
+    "player2Id": 12390,
+    "tournamentId": 13394,
+    "match_winner": 6201,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561208",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47742,
+    "player2Id": 6054,
+    "tournamentId": 13394,
+    "match_winner": 47742,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 6054,
+     "name": "Samantha Murray",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561212",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4263,
+    "player2Id": 7926,
+    "tournamentId": 13394,
+    "match_winner": 4263,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561220",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8696,
+    "player2Id": 9357,
+    "tournamentId": 13394,
+    "match_winner": 8696,
+    "result": "6-7(3) 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561224",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12267,
+    "player2Id": 10455,
+    "tournamentId": 13394,
+    "match_winner": 12267,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.08",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561231",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9503,
+    "player2Id": 12205,
+    "tournamentId": 13394,
+    "match_winner": 9503,
+    "result": "6-1 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561237",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7944,
+    "player2Id": 13937,
+    "tournamentId": 13394,
+    "match_winner": 7944,
+    "result": "6-0 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561238",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 13945,
+    "tournamentId": 13394,
+    "match_winner": 10749,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 13945,
+     "name": "Sarah Beth Grey",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561243",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 431,
+    "player2Id": 16664,
+    "tournamentId": 13394,
+    "match_winner": 431,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561248",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9458,
+    "player2Id": 33355,
+    "tournamentId": 13394,
+    "match_winner": 9458,
+    "result": "1-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 33355,
+     "name": "Jodie Anna Burrage",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "561250",
+    "date": "2021-06-19T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 38210,
+    "tournamentId": 13394,
+    "match_winner": 14259,
+    "result": "6-3 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 38210,
+     "name": "Francesca Jones",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13394,
+     "name": "Eastbourne International - Eastbourne",
+     "courtId": 5,
+     "date": "2021-06-21T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GBR",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

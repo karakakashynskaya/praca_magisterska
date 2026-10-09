@@ -1,0 +1,2111 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "591549",
+    "date": "2022-01-09T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 12966,
+    "player2Id": 36558,
+    "tournamentId": 13830,
+    "match_winner": 12966,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.44",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591515",
+    "date": "2022-01-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 36558,
+    "player2Id": 8262,
+    "tournamentId": 13830,
+    "match_winner": 36558,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.196",
+    "odd2": "5.15",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591553",
+    "date": "2022-01-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12966,
+    "player2Id": 45854,
+    "tournamentId": 13830,
+    "match_winner": 12966,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.74",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591512",
+    "date": "2022-01-07T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 5416,
+    "tournamentId": 13830,
+    "match_winner": 45854,
+    "result": "6-3 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591524",
+    "date": "2022-01-07T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 12267,
+    "tournamentId": 13830,
+    "match_winner": 36558,
+    "result": "3-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.31",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591537",
+    "date": "2022-01-07T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12966,
+    "player2Id": 23432,
+    "tournamentId": 13830,
+    "match_winner": 12966,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "3.06",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591551",
+    "date": "2022-01-07T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8262,
+    "player2Id": 38911,
+    "tournamentId": 13830,
+    "match_winner": 8262,
+    "result": "6-3 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.33",
+    "odd2": "1.66",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591517",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23432,
+    "player2Id": 9503,
+    "tournamentId": 13830,
+    "match_winner": 23432,
+    "result": "3-6 7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591532",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 16627,
+    "tournamentId": 13830,
+    "match_winner": 5416,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.4",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591544",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8262,
+    "player2Id": 29385,
+    "tournamentId": 13830,
+    "match_winner": 8262,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591554",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 49081,
+    "tournamentId": 13830,
+    "match_winner": 45854,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591528",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12267,
+    "player2Id": 13541,
+    "tournamentId": 13830,
+    "match_winner": 12267,
+    "result": "7-6(5) 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.32",
+    "odd2": "1.35",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591536",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 38911,
+    "player2Id": 18455,
+    "tournamentId": 13830,
+    "match_winner": 38911,
+    "result": "7-6(6) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.25",
+    "odd2": "1.24",
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591539",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 24572,
+    "tournamentId": 13830,
+    "match_winner": 36558,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.44",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591556",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 54663,
+    "tournamentId": 13830,
+    "match_winner": 12966,
+    "result": "4-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.49",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591513",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8262,
+    "player2Id": 8208,
+    "tournamentId": 13830,
+    "match_winner": 8262,
+    "result": "6-3 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.97",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591518",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 9594,
+    "tournamentId": 13830,
+    "match_winner": 54663,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.035",
+    "odd2": "13.25",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591519",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45854,
+    "player2Id": 10334,
+    "tournamentId": 13830,
+    "match_winner": 45854,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591520",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 10343,
+    "tournamentId": 13830,
+    "match_winner": 24572,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10343,
+     "name": "Despina Papamichail",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591523",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 29385,
+    "player2Id": 11371,
+    "tournamentId": 13830,
+    "match_winner": 29385,
+    "result": "5-7 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591534",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 17142,
+    "tournamentId": 13830,
+    "match_winner": 5416,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591541",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 25513,
+    "tournamentId": 13830,
+    "match_winner": 12267,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591542",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 27032,
+    "tournamentId": 13830,
+    "match_winner": 23432,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591514",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16627,
+    "player2Id": 8234,
+    "tournamentId": 13830,
+    "match_winner": 16627,
+    "result": "6-7(4) 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "6.2",
+    "odd2": "1.135",
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591522",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 11071,
+    "tournamentId": 13830,
+    "match_winner": 9503,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591527",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 12722,
+    "tournamentId": 13830,
+    "match_winner": 36558,
+    "result": "6-4 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.135",
+    "odd2": "6.2",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591529",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38911,
+    "player2Id": 13810,
+    "tournamentId": 13830,
+    "match_winner": 38911,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.63",
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591530",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 14054,
+    "tournamentId": 13830,
+    "match_winner": 49081,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591543",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 27035,
+    "tournamentId": 13830,
+    "match_winner": 13541,
+    "result": "6-2 0-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "591545",
+    "date": "2022-01-09T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 46039,
+    "player2Id": 30174,
+    "tournamentId": 13830,
+    "match_winner": 46039,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 46039,
+     "name": "Ashleigh Barty/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591561",
+    "date": "2022-01-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 46039,
+    "player2Id": 70106,
+    "tournamentId": 13830,
+    "match_winner": 46039,
+    "result": "6-1 2-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 46039,
+     "name": "Ashleigh Barty/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70106,
+     "name": "Nadiya Kichenok/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591555",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 70106,
+    "player2Id": 52507,
+    "tournamentId": 13830,
+    "match_winner": 70106,
+    "result": "6-0 1-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70106,
+     "name": "Nadiya Kichenok/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 52507,
+     "name": "Shelby Rogers/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591564",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 30174,
+    "player2Id": 72975,
+    "tournamentId": 13830,
+    "match_winner": 30174,
+    "result": "7-5 1-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.22",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72975,
+     "name": "Marie Bouzkova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591568",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 77262,
+    "player2Id": 77264,
+    "tournamentId": 13830,
+    "match_winner": 77262,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 77262,
+     "name": "Victoria Azarenka/Paula Badosa Gibert",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77264,
+     "name": "Anna Blinkova/Ulrikke Eikeri",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591570",
+    "date": "2022-01-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52507,
+    "player2Id": 77266,
+    "tournamentId": 13830,
+    "match_winner": 52507,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52507,
+     "name": "Shelby Rogers/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77266,
+     "name": "Priscilla Hon/Charlotte Kempenaers-Pocz",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591557",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72975,
+    "player2Id": 57407,
+    "tournamentId": 13830,
+    "match_winner": 72975,
+    "result": "1-6 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72975,
+     "name": "Marie Bouzkova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57407,
+     "name": "Kaja Juvan/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591562",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75103,
+    "player2Id": 72046,
+    "tournamentId": 13830,
+    "match_winner": 75103,
+    "result": "7-6(4) 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.533",
+    "player1": {
+     "id": 75103,
+     "name": "Leylah Annie Fernandez/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591567",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77264,
+    "player2Id": 77263,
+    "tournamentId": 13830,
+    "match_winner": 77264,
+    "result": "4-6 6-2 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77264,
+     "name": "Anna Blinkova/Ulrikke Eikeri",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77263,
+     "name": "Sofia Kenin/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591569",
+    "date": "2022-01-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30174,
+    "player2Id": 77265,
+    "tournamentId": 13830,
+    "match_winner": 30174,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77265,
+     "name": "Kateryna Volodko/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591559",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 46039,
+    "player2Id": 67088,
+    "tournamentId": 13830,
+    "match_winner": 46039,
+    "result": "6-0 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.83",
+    "player1": {
+     "id": 46039,
+     "name": "Ashleigh Barty/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591563",
+    "date": "2022-01-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70106,
+    "player2Id": 72892,
+    "tournamentId": 13830,
+    "match_winner": 70106,
+    "result": "1-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.65",
+    "player1": {
+     "id": 70106,
+     "name": "Nadiya Kichenok/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591560",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77262,
+    "player2Id": 67099,
+    "tournamentId": 13830,
+    "match_winner": 77262,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77262,
+     "name": "Victoria Azarenka/Paula Badosa Gibert",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "591509",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 27032,
+    "player2Id": 1014,
+    "tournamentId": 13830,
+    "match_winner": 27032,
+    "result": "1-6 7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591511",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10343,
+    "player2Id": 5369,
+    "tournamentId": 13830,
+    "match_winner": 10343,
+    "result": "6-4 7-6(9)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10343,
+     "name": "Despina Papamichail",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591531",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10334,
+    "player2Id": 14175,
+    "tournamentId": 13830,
+    "match_winner": 10334,
+    "result": "7-5 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.32",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591533",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 25513,
+    "player2Id": 17040,
+    "tournamentId": 13830,
+    "match_winner": 25513,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.6",
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17040,
+     "name": "Irene Burillo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591548",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24572,
+    "player2Id": 34747,
+    "tournamentId": 13830,
+    "match_winner": 24572,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591558",
+    "date": "2022-01-03T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9594,
+    "player2Id": 63657,
+    "tournamentId": 13830,
+    "match_winner": 9594,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "player2": {
+     "id": 63657,
+     "name": "Charlotte Kempenaers-Pocz",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591510",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5369,
+    "player2Id": 4110,
+    "tournamentId": 13830,
+    "match_winner": 5369,
+    "result": "4-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.95",
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591516",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 63657,
+    "player2Id": 8549,
+    "tournamentId": 13830,
+    "match_winner": 63657,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63657,
+     "name": "Charlotte Kempenaers-Pocz",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591521",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17040,
+    "player2Id": 10598,
+    "tournamentId": 13830,
+    "match_winner": 17040,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.5",
+    "player1": {
+     "id": 17040,
+     "name": "Irene Burillo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 10598,
+     "name": "Reka-Luca Jani",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591525",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 1014,
+    "player2Id": 12389,
+    "tournamentId": 13830,
+    "match_winner": 1014,
+    "result": "6-4 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591526",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27032,
+    "player2Id": 12720,
+    "tournamentId": 13830,
+    "match_winner": 27032,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 12720,
+     "name": "Abbie Myers",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591535",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 17677,
+    "tournamentId": 13830,
+    "match_winner": 34747,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 17677,
+     "name": "Irina Fetecau",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591538",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25513,
+    "player2Id": 24105,
+    "tournamentId": 13830,
+    "match_winner": 25513,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.56",
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 24105,
+     "name": "Alexandra Bozovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591540",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9594,
+    "player2Id": 24845,
+    "tournamentId": 13830,
+    "match_winner": 9594,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.05",
+    "odd2": "1.24",
+    "player1": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "player2": {
+     "id": 24845,
+     "name": "Susan Bandecchi",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591546",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14175,
+    "player2Id": 32633,
+    "tournamentId": 13830,
+    "match_winner": 14175,
+    "result": "7-6(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591547",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24572,
+    "player2Id": 34746,
+    "tournamentId": 13830,
+    "match_winner": 24572,
+    "result": "3-6 6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.125",
+    "odd2": "6.1",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591550",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10343,
+    "player2Id": 38210,
+    "tournamentId": 13830,
+    "match_winner": 10343,
+    "result": "3-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.52",
+    "odd2": "1.3",
+    "player1": {
+     "id": 10343,
+     "name": "Despina Papamichail",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 38210,
+     "name": "Francesca Jones",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "591552",
+    "date": "2022-01-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10334,
+    "player2Id": 41569,
+    "tournamentId": 13830,
+    "match_winner": 10334,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13830,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2022-01-03T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

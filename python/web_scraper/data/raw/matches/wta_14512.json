@@ -1,0 +1,3546 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "637436",
+    "date": "2023-02-25T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 13267,
+    "player2Id": 45854,
+    "tournamentId": 14512,
+    "match_winner": 13267,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637383",
+    "date": "2023-02-24T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13267,
+    "player2Id": 11712,
+    "tournamentId": 14512,
+    "match_winner": 13267,
+    "result": "6-1 5-7 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637441",
+    "date": "2023-02-24T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 54663,
+    "tournamentId": 14512,
+    "match_winner": 45854,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.13",
+    "odd2": "5.95",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637382",
+    "date": "2023-02-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 54663,
+    "player2Id": 11672,
+    "tournamentId": 14512,
+    "match_winner": 54663,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637413",
+    "date": "2023-02-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13267,
+    "player2Id": 18455,
+    "tournamentId": 14512,
+    "match_winner": 13267,
+    "result": "0-6 7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.32",
+    "odd2": "1.33",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637363",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11672,
+    "player2Id": 5416,
+    "tournamentId": 14512,
+    "match_winner": 11672,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.82",
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637372",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13267,
+    "player2Id": 8234,
+    "tournamentId": 14512,
+    "match_winner": 13267,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.95",
+    "odd2": "1.86",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637375",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 9728,
+    "tournamentId": 14512,
+    "match_winner": 11712,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637397",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18482,
+    "player2Id": 14056,
+    "tournamentId": 14512,
+    "match_winner": 18482,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637404",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 16043,
+    "tournamentId": 14512,
+    "match_winner": 7982,
+    "result": "7-5 6-7(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637407",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 16628,
+    "tournamentId": 14512,
+    "match_winner": 18455,
+    "result": "2-6 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637417",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 24368,
+    "tournamentId": 14512,
+    "match_winner": 45854,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.154",
+    "odd2": "5.4",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637365",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 6019,
+    "tournamentId": 14512,
+    "match_winner": 18482,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.05",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637376",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 10455,
+    "tournamentId": 14512,
+    "match_winner": 11672,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637387",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 12205,
+    "tournamentId": 14512,
+    "match_winner": 18455,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637388",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9728,
+    "player2Id": 12267,
+    "tournamentId": 14512,
+    "match_winner": 9728,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637389",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 12390,
+    "tournamentId": 14512,
+    "match_winner": 8234,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637390",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 12432,
+    "tournamentId": 14512,
+    "match_winner": 11712,
+    "result": "6-2 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637392",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 12842,
+    "tournamentId": 14512,
+    "match_winner": 54663,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637396",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 13541,
+    "tournamentId": 14512,
+    "match_winner": 7982,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.666",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637412",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 17503,
+    "tournamentId": 14512,
+    "match_winner": 13267,
+    "result": "6-4 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637418",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 24572,
+    "tournamentId": 14512,
+    "match_winner": 36558,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.64",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637429",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16043,
+    "player2Id": 37266,
+    "tournamentId": 14512,
+    "match_winner": 16043,
+    "result": "5-7 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637433",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 41564,
+    "tournamentId": 14512,
+    "match_winner": 5416,
+    "result": "4-6 6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637437",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 47742,
+    "tournamentId": 14512,
+    "match_winner": 14056,
+    "result": "6-7(7) 7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.45",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637439",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 49081,
+    "tournamentId": 14512,
+    "match_winner": 45854,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.103",
+    "odd2": "6.85",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637443",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 65912,
+    "tournamentId": 14512,
+    "match_winner": 16628,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637361",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9728,
+    "player2Id": 4177,
+    "tournamentId": 14512,
+    "match_winner": 9728,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637368",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 6740,
+    "tournamentId": 14512,
+    "match_winner": 5416,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637369",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 7574,
+    "tournamentId": 14512,
+    "match_winner": 12390,
+    "result": "6-4 0-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637394",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 13094,
+    "tournamentId": 14512,
+    "match_winner": 6019,
+    "result": "4-6 7-6(7) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.76",
+    "odd2": "1.27",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637398",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 14259,
+    "tournamentId": 14512,
+    "match_winner": 18482,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637405",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16043,
+    "player2Id": 16119,
+    "tournamentId": 14512,
+    "match_winner": 16043,
+    "result": "6-3 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637408",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12205,
+    "player2Id": 17021,
+    "tournamentId": 14512,
+    "match_winner": 12205,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637421",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 27804,
+    "tournamentId": 14512,
+    "match_winner": 12267,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637424",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 28732,
+    "tournamentId": 14512,
+    "match_winner": 12842,
+    "result": "2-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.78",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637425",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 32168,
+    "tournamentId": 14512,
+    "match_winner": 7982,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.82",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637430",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 38681,
+    "tournamentId": 14512,
+    "match_winner": 16628,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.144",
+    "odd2": "5.6",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 38681,
+     "name": "Katarina Zavatska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637431",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 39226,
+    "tournamentId": 14512,
+    "match_winner": 36558,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637358",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 431,
+    "tournamentId": 14512,
+    "match_winner": 41564,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.2",
+    "odd2": "4.55",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637359",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12432,
+    "player2Id": 467,
+    "tournamentId": 14512,
+    "match_winner": 12432,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637362",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53128,
+    "player2Id": 4263,
+    "tournamentId": 14512,
+    "match_winner": 53128,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.32",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637364",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37266,
+    "player2Id": 5817,
+    "tournamentId": 14512,
+    "match_winner": 37266,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.08",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637367",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 6651,
+    "tournamentId": 14512,
+    "match_winner": 13267,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637378",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 10738,
+    "tournamentId": 14512,
+    "match_winner": 8234,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637381",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65912,
+    "player2Id": 11575,
+    "tournamentId": 14512,
+    "match_winner": 65912,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.77",
+    "odd2": "1.444",
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637399",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11672,
+    "player2Id": 14362,
+    "tournamentId": 14512,
+    "match_winner": 11672,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637406",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 16134,
+    "tournamentId": 14512,
+    "match_winner": 49081,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 16134,
+     "name": "Julia Grabher",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637410",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 17142,
+    "tournamentId": 14512,
+    "match_winner": 24368,
+    "result": "6-7(3) 7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637415",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 23432,
+    "tournamentId": 14512,
+    "match_winner": 24572,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637423",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 27919,
+    "tournamentId": 14512,
+    "match_winner": 47742,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 27919,
+     "name": "Ipek Oz",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "637379",
+    "date": "2023-02-25T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 76352,
+    "player2Id": 11101,
+    "tournamentId": 14512,
+    "match_winner": 76352,
+    "result": "6-4 6-7(4) 10-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637420",
+    "date": "2023-02-24T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 76352,
+    "player2Id": 26936,
+    "tournamentId": 14512,
+    "match_winner": 76352,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.16",
+    "odd2": "1.65",
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637447",
+    "date": "2023-02-24T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11101,
+    "player2Id": 78230,
+    "tournamentId": 14512,
+    "match_winner": 11101,
+    "result": "6-1 4-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.63",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637453",
+    "date": "2023-02-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 76352,
+    "player2Id": 84312,
+    "tournamentId": 14512,
+    "match_winner": 76352,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84312,
+     "name": "Leylah Annie Fernandez/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637454",
+    "date": "2023-02-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 26936,
+    "player2Id": 84749,
+    "tournamentId": 14512,
+    "match_winner": 26936,
+    "result": "6-7(3) 6-2 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84749,
+     "name": "Zhaoxuan Yang/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637460",
+    "date": "2023-02-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78230,
+    "player2Id": 84942,
+    "tournamentId": 14512,
+    "match_winner": 78230,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.2",
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84942,
+     "name": "Monica Niculescu/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637434",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 84749,
+    "player2Id": 41577,
+    "tournamentId": 14512,
+    "match_winner": 84749,
+    "result": "2-6 6-2 16-14",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "1.98",
+    "player1": {
+     "id": 84749,
+     "name": "Zhaoxuan Yang/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 41577,
+     "name": "Shuko Aoyama/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637444",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11101,
+    "player2Id": 72050,
+    "tournamentId": 14512,
+    "match_winner": 11101,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637455",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 76352,
+    "player2Id": 84857,
+    "tournamentId": 14512,
+    "match_winner": 76352,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.83",
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84857,
+     "name": "Giuliana Olmos/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637461",
+    "date": "2023-02-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 84312,
+    "player2Id": 84943,
+    "tournamentId": 14512,
+    "match_winner": 84312,
+    "result": "3-6 6-1 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.09",
+    "player1": {
+     "id": 84312,
+     "name": "Leylah Annie Fernandez/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84943,
+     "name": "Aliaksandra Sasnovich/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637409",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 17085,
+    "tournamentId": 14512,
+    "match_winner": 26936,
+    "result": "6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637450",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76352,
+    "player2Id": 81200,
+    "tournamentId": 14512,
+    "match_winner": 76352,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81200,
+     "name": "Madison Keys/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637458",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11101,
+    "player2Id": 84940,
+    "tournamentId": 14512,
+    "match_winner": 11101,
+    "result": "7-6(5) 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84940,
+     "name": "Anna Kalinskaya/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637459",
+    "date": "2023-02-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 78230,
+    "player2Id": 84941,
+    "tournamentId": 14512,
+    "match_winner": 78230,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.62",
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84941,
+     "name": "Ulrikke Eikeri/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637438",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 48091,
+    "tournamentId": 14512,
+    "match_winner": 11101,
+    "result": "6-1 7-6(10)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48091,
+     "name": "Oksana Kalashnikova/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637449",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72050,
+    "player2Id": 79446,
+    "tournamentId": 14512,
+    "match_winner": 72050,
+    "result": "4-6 7-6(5) 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.186",
+    "odd2": "4.4",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637452",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84942,
+    "player2Id": 82929,
+    "tournamentId": 14512,
+    "match_winner": 84942,
+    "result": "3-6 6-4 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84942,
+     "name": "Monica Niculescu/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82929,
+     "name": "Linda Fruhvirtova/Kaia Kanepi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637456",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84312,
+    "player2Id": 84858,
+    "tournamentId": 14512,
+    "match_winner": 84312,
+    "result": "1-6 6-3 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84312,
+     "name": "Leylah Annie Fernandez/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84858,
+     "name": "Anna Danilina/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637457",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84749,
+    "player2Id": 84859,
+    "tournamentId": 14512,
+    "match_winner": 84749,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.11",
+    "player1": {
+     "id": 84749,
+     "name": "Zhaoxuan Yang/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84859,
+     "name": "Marie Bouzkova/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637462",
+    "date": "2023-02-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41577,
+    "player2Id": 84944,
+    "tournamentId": 14512,
+    "match_winner": 41577,
+    "result": "6-1 2-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.25",
+    "player1": {
+     "id": 41577,
+     "name": "Shuko Aoyama/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84944,
+     "name": "Sofia Kenin/Ekaterina Yashina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637419",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79446,
+    "player2Id": 25904,
+    "tournamentId": 14512,
+    "match_winner": 79446,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 25904,
+     "name": "Ana Bogdan/Angelina Gabueva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637427",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84943,
+    "player2Id": 35676,
+    "tournamentId": 14512,
+    "match_winner": 84943,
+    "result": "4-6 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.42",
+    "player1": {
+     "id": 84943,
+     "name": "Aliaksandra Sasnovich/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 35676,
+     "name": "Harriet Dart/Eden Silva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637442",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84941,
+    "player2Id": 55381,
+    "tournamentId": 14512,
+    "match_winner": 84941,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.75",
+    "player1": {
+     "id": 84941,
+     "name": "Ulrikke Eikeri/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55381,
+     "name": "Alexa Guarachi/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637448",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84940,
+    "player2Id": 78908,
+    "tournamentId": 14512,
+    "match_winner": 84940,
+    "result": "3-6 6-3 16-14",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.63",
+    "player1": {
+     "id": 84940,
+     "name": "Anna Kalinskaya/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637451",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73734,
+    "player2Id": 82516,
+    "tournamentId": 14512,
+    "match_winner": 73734,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 73734,
+     "name": "Anastasia Pavlyuchenkova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82516,
+     "name": "Kirsten Flipkens/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637463",
+    "date": "2023-02-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17085,
+    "player2Id": 84945,
+    "tournamentId": 14512,
+    "match_winner": 17085,
+    "result": "6-3 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.363",
+    "odd2": "2.97",
+    "player1": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84945,
+     "name": "Ekaterina Alexandrova/Tereza Mihalikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "637373",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 28732,
+    "player2Id": 8549,
+    "tournamentId": 14512,
+    "match_winner": 28732,
+    "result": "4-6 6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637374",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16134,
+    "player2Id": 9458,
+    "tournamentId": 14512,
+    "match_winner": 16134,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16134,
+     "name": "Julia Grabher",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637385",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12432,
+    "player2Id": 12107,
+    "tournamentId": 14512,
+    "match_winner": 12432,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 12107,
+     "name": "Su Jeong Jang",
+     "countryAcr": "KOR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637386",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 37266,
+    "player2Id": 12205,
+    "tournamentId": 14512,
+    "match_winner": 37266,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637393",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9728,
+    "player2Id": 12997,
+    "tournamentId": 14512,
+    "match_winner": 9728,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.16",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637400",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14362,
+    "player2Id": 14539,
+    "tournamentId": 14512,
+    "match_winner": 14362,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.05",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637422",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4177,
+    "player2Id": 27804,
+    "tournamentId": 14512,
+    "match_winner": 4177,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637446",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 38681,
+    "player2Id": 77630,
+    "tournamentId": 14512,
+    "match_winner": 38681,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38681,
+     "name": "Katarina Zavatska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 77630,
+     "name": "Stefania Bojica",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637360",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37266,
+    "player2Id": 4121,
+    "tournamentId": 14512,
+    "match_winner": 37266,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637366",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 38681,
+    "player2Id": 6201,
+    "tournamentId": 14512,
+    "match_winner": 38681,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.55",
+    "player1": {
+     "id": 38681,
+     "name": "Katarina Zavatska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637371",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 8208,
+    "tournamentId": 14512,
+    "match_winner": 27804,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.38",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637377",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14539,
+    "player2Id": 10598,
+    "tournamentId": 14512,
+    "match_winner": 14539,
+    "result": "3-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10598,
+     "name": "Reka-Luca Jani",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637380",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9458,
+    "player2Id": 11573,
+    "tournamentId": 14512,
+    "match_winner": 9458,
+    "result": "3-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11573,
+     "name": "Maryna Zanevska",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637384",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12432,
+    "player2Id": 11947,
+    "tournamentId": 14512,
+    "match_winner": 12432,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 11947,
+     "name": "Ankita Raina",
+     "countryAcr": "IND"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637391",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 77630,
+    "player2Id": 12525,
+    "tournamentId": 14512,
+    "match_winner": 77630,
+    "result": "6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77630,
+     "name": "Stefania Bojica",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637395",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14362,
+    "player2Id": 13484,
+    "tournamentId": 14512,
+    "match_winner": 14362,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.184",
+    "odd2": "4.4",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637401",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8549,
+    "player2Id": 14609,
+    "tournamentId": 14512,
+    "match_winner": 8549,
+    "result": "7-6(1) 6-7(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.43",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637402",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12205,
+    "player2Id": 14734,
+    "tournamentId": 14512,
+    "match_winner": 12205,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.047",
+    "odd2": "8.5",
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14734,
+     "name": "Anna Danilina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637403",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16134,
+    "player2Id": 14972,
+    "tournamentId": 14512,
+    "match_winner": 16134,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16134,
+     "name": "Julia Grabher",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 14972,
+     "name": "Eden Silva",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637411",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12997,
+    "player2Id": 17155,
+    "tournamentId": 14512,
+    "match_winner": 12997,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637416",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 24344,
+    "tournamentId": 14512,
+    "match_winner": 4177,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.61",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637426",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12107,
+    "player2Id": 32480,
+    "tournamentId": 14512,
+    "match_winner": 12107,
+    "result": "3-6 7-6(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12107,
+     "name": "Su Jeong Jang",
+     "countryAcr": "KOR"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637432",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28732,
+    "player2Id": 39749,
+    "tournamentId": 14512,
+    "match_winner": 28732,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637435",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9728,
+    "player2Id": 41858,
+    "tournamentId": 14512,
+    "match_winner": 9728,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.25",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14512,
+     "name": "Dubai Duty Free Championships - Dubai",
+     "courtId": 1,
+     "date": "2023-02-20T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "UAE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

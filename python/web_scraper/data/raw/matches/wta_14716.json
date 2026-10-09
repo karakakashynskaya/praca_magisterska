@@ -1,0 +1,3616 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "700048",
+    "date": "2023-08-13T21:40:00.000Z",
+    "roundId": 12,
+    "player1Id": 11712,
+    "player2Id": 24368,
+    "tournamentId": 14716,
+    "match_winner": 11712,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700085",
+    "date": "2023-08-13T17:30:00.000Z",
+    "roundId": 10,
+    "player1Id": 24368,
+    "player2Id": 36558,
+    "tournamentId": 14716,
+    "match_winner": 24368,
+    "result": "1-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700102",
+    "date": "2023-08-12T16:30:00.000Z",
+    "roundId": 10,
+    "player1Id": 11712,
+    "player2Id": 45854,
+    "tournamentId": 14716,
+    "match_winner": 11712,
+    "result": "6-2 6-7(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700010",
+    "date": "2023-08-12T03:30:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 17503,
+    "tournamentId": 14716,
+    "match_winner": 36558,
+    "result": "5-7 7-5 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699973",
+    "date": "2023-08-12T01:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24368,
+    "player2Id": 14056,
+    "tournamentId": 14716,
+    "match_winner": 24368,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699920",
+    "date": "2023-08-11T22:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 11575,
+    "tournamentId": 14716,
+    "match_winner": 45854,
+    "result": "6-3 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.18",
+    "odd2": "4.9",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700123",
+    "date": "2023-08-11T19:15:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 54663,
+    "tournamentId": 14716,
+    "match_winner": 11712,
+    "result": "6-2 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.07",
+    "odd2": "1.76",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699887",
+    "date": "2023-08-11T16:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14056,
+    "player2Id": 8234,
+    "tournamentId": 14716,
+    "match_winner": 14056,
+    "result": "6-7(3) 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700022",
+    "date": "2023-08-11T16:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 24368,
+    "player2Id": 18455,
+    "tournamentId": 14716,
+    "match_winner": 24368,
+    "result": "7-6(2) 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.54",
+    "odd2": "1.3",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700111",
+    "date": "2023-08-11T02:30:00.000Z",
+    "roundId": 6,
+    "player1Id": 11575,
+    "player2Id": 49081,
+    "tournamentId": 14716,
+    "match_winner": 11575,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699907",
+    "date": "2023-08-11T01:30:00.000Z",
+    "roundId": 6,
+    "player1Id": 36558,
+    "player2Id": 10033,
+    "tournamentId": 14716,
+    "match_winner": 36558,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700056",
+    "date": "2023-08-10T21:45:00.000Z",
+    "roundId": 6,
+    "player1Id": 17503,
+    "player2Id": 24572,
+    "tournamentId": 14716,
+    "match_winner": 17503,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700030",
+    "date": "2023-08-10T21:35:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 18482,
+    "tournamentId": 14716,
+    "match_winner": 45854,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.158",
+    "odd2": "5.3",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699983",
+    "date": "2023-08-10T15:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 14362,
+    "tournamentId": 14716,
+    "match_winner": 11712,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.155",
+    "odd2": "5.35",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699895",
+    "date": "2023-08-10T02:45:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 8696,
+    "tournamentId": 14716,
+    "match_winner": 8234,
+    "result": "6-2 5-7 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.56",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700069",
+    "date": "2023-08-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 32168,
+    "tournamentId": 14716,
+    "match_winner": 54663,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699883",
+    "date": "2023-08-09T23:10:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 7574,
+    "tournamentId": 14716,
+    "match_winner": 18455,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699873",
+    "date": "2023-08-09T20:30:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 5600,
+    "tournamentId": 14716,
+    "match_winner": 32168,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.76",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699949",
+    "date": "2023-08-09T19:55:00.000Z",
+    "roundId": 5,
+    "player1Id": 49081,
+    "player2Id": 13094,
+    "tournamentId": 14716,
+    "match_winner": 49081,
+    "result": "7-5 5-7 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699881",
+    "date": "2023-08-09T18:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 6019,
+    "tournamentId": 14716,
+    "match_winner": 18482,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699953",
+    "date": "2023-08-09T18:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 13325,
+    "tournamentId": 14716,
+    "match_winner": 36558,
+    "result": "6-7(3) 7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700079",
+    "date": "2023-08-09T17:50:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 34747,
+    "tournamentId": 14716,
+    "match_winner": 17503,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699935",
+    "date": "2023-08-09T16:30:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 12390,
+    "tournamentId": 14716,
+    "match_winner": 11712,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.129",
+    "odd2": "6",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700115",
+    "date": "2023-08-09T16:30:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 53128,
+    "tournamentId": 14716,
+    "match_winner": 24368,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700098",
+    "date": "2023-08-09T15:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 45540,
+    "tournamentId": 14716,
+    "match_winner": 14056,
+    "result": "6-3 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699885",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 7982,
+    "tournamentId": 14716,
+    "match_winner": 45854,
+    "result": "7-6(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.078",
+    "odd2": "8",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699961",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 13541,
+    "tournamentId": 14716,
+    "match_winner": 11575,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.83",
+    "odd2": "1.43",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699977",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 14175,
+    "tournamentId": 14716,
+    "match_winner": 54663,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700091",
+    "date": "2023-08-08T23:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 39226,
+    "tournamentId": 14716,
+    "match_winner": 8696,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.81",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699969",
+    "date": "2023-08-08T20:30:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 13706,
+    "tournamentId": 14716,
+    "match_winner": 32168,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.2",
+    "odd2": "4.55",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700038",
+    "date": "2023-08-08T19:30:00.000Z",
+    "roundId": 4,
+    "player1Id": 7574,
+    "player2Id": 24344,
+    "tournamentId": 14716,
+    "match_winner": 7574,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700110",
+    "date": "2023-08-08T19:30:00.000Z",
+    "roundId": 4,
+    "player1Id": 53128,
+    "player2Id": 47742,
+    "tournamentId": 14716,
+    "match_winner": 53128,
+    "result": "6-2 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699869",
+    "date": "2023-08-08T19:20:00.000Z",
+    "roundId": 4,
+    "player1Id": 34747,
+    "player2Id": 4263,
+    "tournamentId": 14716,
+    "match_winner": 34747,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700119",
+    "date": "2023-08-08T18:30:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 53793,
+    "tournamentId": 14716,
+    "match_winner": 49081,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699996",
+    "date": "2023-08-08T18:10:00.000Z",
+    "roundId": 4,
+    "player1Id": 13094,
+    "player2Id": 17155,
+    "tournamentId": 14716,
+    "match_winner": 13094,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.333",
+    "odd2": "3.3",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699981",
+    "date": "2023-08-08T17:50:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 14259,
+    "tournamentId": 14716,
+    "match_winner": 12390,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700095",
+    "date": "2023-08-08T17:35:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 40156,
+    "tournamentId": 14716,
+    "match_winner": 18482,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700018",
+    "date": "2023-08-08T16:30:00.000Z",
+    "roundId": 4,
+    "player1Id": 5600,
+    "player2Id": 18427,
+    "tournamentId": 14716,
+    "match_winner": 5600,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699933",
+    "date": "2023-08-08T15:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45540,
+    "player2Id": 12205,
+    "tournamentId": 14716,
+    "match_winner": 45540,
+    "result": "7-5 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700006",
+    "date": "2023-08-08T15:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 17501,
+    "tournamentId": 14716,
+    "match_winner": 24368,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.83",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699955",
+    "date": "2023-08-08T01:50:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 13351,
+    "tournamentId": 14716,
+    "match_winner": 17503,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699891",
+    "date": "2023-08-08T01:25:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 8549,
+    "tournamentId": 14716,
+    "match_winner": 14175,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699911",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24572,
+    "player2Id": 10455,
+    "tournamentId": 14716,
+    "match_winner": 24572,
+    "result": "6-4 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699918",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 11371,
+    "tournamentId": 14716,
+    "match_winner": 11575,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.55",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699988",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 16043,
+    "tournamentId": 14716,
+    "match_winner": 10033,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699865",
+    "date": "2023-08-07T23:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11672,
+    "player2Id": 151,
+    "tournamentId": 14716,
+    "match_winner": 11672,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699990",
+    "date": "2023-08-07T22:35:00.000Z",
+    "roundId": 4,
+    "player1Id": 13325,
+    "player2Id": 16628,
+    "tournamentId": 14716,
+    "match_winner": 13325,
+    "result": "7-6(7) 0-6 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.04",
+    "odd2": "1.38",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700059",
+    "date": "2023-08-07T22:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 27032,
+    "tournamentId": 14716,
+    "match_winner": 14056,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699903",
+    "date": "2023-08-07T18:05:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 9357,
+    "tournamentId": 14716,
+    "match_winner": 5416,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700097",
+    "date": "2023-08-07T18:05:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 44510,
+    "tournamentId": 14716,
+    "match_winner": 6019,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699930",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 12089,
+    "tournamentId": 14716,
+    "match_winner": 7982,
+    "result": "6-3 6-7(8) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699957",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14362,
+    "player2Id": 13498,
+    "tournamentId": 14716,
+    "match_winner": 14362,
+    "result": "7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.95",
+    "odd2": "1.4",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700066",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 30510,
+    "tournamentId": 14716,
+    "match_winner": 24572,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "700160",
+    "date": "2023-08-13T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 67099,
+    "player2Id": 78230,
+    "tournamentId": 14716,
+    "match_winner": 67099,
+    "result": "6-4 4-6 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "1.98",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700180",
+    "date": "2023-08-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 67099,
+    "player2Id": 88670,
+    "tournamentId": 14716,
+    "match_winner": 67099,
+    "result": "7-6(4) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.76",
+    "odd2": "1.99",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88670,
+     "name": "Latisha Chan/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700165",
+    "date": "2023-08-12T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78230,
+    "player2Id": 84478,
+    "tournamentId": 14716,
+    "match_winner": 78230,
+    "result": "6-3 3-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.82",
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84478,
+     "name": "Storm Hunter/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700058",
+    "date": "2023-08-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 84478,
+    "player2Id": 26936,
+    "tournamentId": 14716,
+    "match_winner": 84478,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84478,
+     "name": "Storm Hunter/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700135",
+    "date": "2023-08-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78230,
+    "player2Id": 58644,
+    "tournamentId": 14716,
+    "match_winner": 78230,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.25",
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58644,
+     "name": "Ulrikke Eikeri/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700162",
+    "date": "2023-08-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 88670,
+    "player2Id": 78908,
+    "tournamentId": 14716,
+    "match_winner": 88670,
+    "result": "2-6 6-3 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88670,
+     "name": "Latisha Chan/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700164",
+    "date": "2023-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 84478,
+    "player2Id": 81743,
+    "tournamentId": 14716,
+    "match_winner": 84478,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84478,
+     "name": "Storm Hunter/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81743,
+     "name": "Marta Kostyuk/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700178",
+    "date": "2023-08-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 78908,
+    "player2Id": 88668,
+    "tournamentId": 14716,
+    "match_winner": 78908,
+    "result": "3-6 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.1",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88668,
+     "name": "Marina Stakusic/Carol Zhao",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700153",
+    "date": "2023-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67099,
+    "player2Id": 71166,
+    "tournamentId": 14716,
+    "match_winner": 67099,
+    "result": "4-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700154",
+    "date": "2023-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 71365,
+    "tournamentId": 14716,
+    "match_winner": 26936,
+    "result": "3-6 6-2 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.25",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700148",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 78230,
+    "player2Id": 66467,
+    "tournamentId": 14716,
+    "match_winner": 78230,
+    "result": "1-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.62",
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66467,
+     "name": "Karolina Muchova/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700168",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71365,
+    "player2Id": 86854,
+    "tournamentId": 14716,
+    "match_winner": 71365,
+    "result": "7-6(9) 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.11",
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86854,
+     "name": "Nadiya Kichenok/Alycia Parks",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700176",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71166,
+    "player2Id": 88666,
+    "tournamentId": 14716,
+    "match_winner": 71166,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88666,
+     "name": "Mayar Sherif/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700177",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88668,
+    "player2Id": 88667,
+    "tournamentId": 14716,
+    "match_winner": 88668,
+    "result": "6-4 3-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88668,
+     "name": "Marina Stakusic/Carol Zhao",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88667,
+     "name": "Marie Bouzkova/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700179",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 88670,
+    "player2Id": 88669,
+    "tournamentId": 14716,
+    "match_winner": 88670,
+    "result": "2-6 6-2 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88670,
+     "name": "Latisha Chan/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700183",
+    "date": "2023-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 58644,
+    "player2Id": 88672,
+    "tournamentId": 14716,
+    "match_winner": 58644,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.78",
+    "odd2": "1.24",
+    "player1": {
+     "id": 58644,
+     "name": "Ulrikke Eikeri/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88672,
+     "name": "Katerina Siniakova/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699987",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26936,
+    "player2Id": 14765,
+    "tournamentId": 14716,
+    "match_winner": 26936,
+    "result": "6-7(6) 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "3.98",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 14765,
+     "name": "Eugenie Bouchard/Rebecca Marino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700061",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88669,
+    "player2Id": 27658,
+    "tournamentId": 14716,
+    "match_winner": 88669,
+    "result": "6-3 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27658,
+     "name": "Karolina Pliskova/Donna Vekic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700163",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72050,
+    "player2Id": 79446,
+    "tournamentId": 14716,
+    "match_winner": 72050,
+    "result": "6-7(3) 6-1 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.88",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700173",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 58644,
+    "player2Id": 88508,
+    "tournamentId": 14716,
+    "match_winner": 58644,
+    "result": "6-3 6-7(4) 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.42",
+    "odd2": "1.52",
+    "player1": {
+     "id": 58644,
+     "name": "Ulrikke Eikeri/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88508,
+     "name": "Alexa Guarachi/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700174",
+    "date": "2023-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88670,
+    "player2Id": 88510,
+    "tournamentId": 14716,
+    "match_winner": 88670,
+    "result": "7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.71",
+    "player1": {
+     "id": 88670,
+     "name": "Latisha Chan/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700159",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78230,
+    "player2Id": 72341,
+    "tournamentId": 14716,
+    "match_winner": 78230,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.88",
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72341,
+     "name": "Makoto Ninomiya/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700167",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 81743,
+    "player2Id": 84744,
+    "tournamentId": 14716,
+    "match_winner": 81743,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.59",
+    "player1": {
+     "id": 81743,
+     "name": "Marta Kostyuk/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700172",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 86865,
+    "tournamentId": 14716,
+    "match_winner": 67099,
+    "result": "6-3 3-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86865,
+     "name": "Lidziya Marozava/Ingrid Martins",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700175",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79446,
+    "player2Id": 88665,
+    "tournamentId": 14716,
+    "match_winner": 79446,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.75",
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88665,
+     "name": "Caroline Garcia/Petra Martic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700182",
+    "date": "2023-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66467,
+    "player2Id": 88671,
+    "tournamentId": 14716,
+    "match_winner": 66467,
+    "result": "0-6 6-4 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66467,
+     "name": "Karolina Muchova/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88671,
+     "name": "Anna Danilina/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "699992",
+    "date": "2023-08-06T19:50:00.000Z",
+    "roundId": 3,
+    "player1Id": 53793,
+    "player2Id": 17155,
+    "tournamentId": 14716,
+    "match_winner": 53793,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.2",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699943",
+    "date": "2023-08-06T19:10:00.000Z",
+    "roundId": 3,
+    "player1Id": 18427,
+    "player2Id": 12390,
+    "tournamentId": 14716,
+    "match_winner": 18427,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700081",
+    "date": "2023-08-06T19:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14175,
+    "player2Id": 36397,
+    "tournamentId": 14716,
+    "match_winner": 14175,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.16",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 36397,
+     "name": "Marina Bassols Ribera",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699931",
+    "date": "2023-08-06T16:30:00.000Z",
+    "roundId": 3,
+    "player1Id": 30510,
+    "player2Id": 12116,
+    "tournamentId": 14716,
+    "match_winner": 30510,
+    "result": "6-2 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700014",
+    "date": "2023-08-06T16:30:00.000Z",
+    "roundId": 3,
+    "player1Id": 11575,
+    "player2Id": 17831,
+    "tournamentId": 14716,
+    "match_winner": 11575,
+    "result": "7-5 6-7(10) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.3",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700106",
+    "date": "2023-08-06T15:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9857,
+    "player2Id": 47153,
+    "tournamentId": 14716,
+    "match_winner": 9857,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.82",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700040",
+    "date": "2023-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45540,
+    "player2Id": 24344,
+    "tournamentId": 14716,
+    "match_winner": 45540,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.43",
+    "odd2": "1.51",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700137",
+    "date": "2023-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8696,
+    "player2Id": 64343,
+    "tournamentId": 14716,
+    "match_winner": 8696,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.57",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699909",
+    "date": "2023-08-05T21:40:00.000Z",
+    "roundId": 1,
+    "player1Id": 18427,
+    "player2Id": 10334,
+    "tournamentId": 14716,
+    "match_winner": 18427,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700062",
+    "date": "2023-08-05T20:30:00.000Z",
+    "roundId": 1,
+    "player1Id": 53793,
+    "player2Id": 29178,
+    "tournamentId": 14716,
+    "match_winner": 53793,
+    "result": "4-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.75",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700149",
+    "date": "2023-08-05T20:30:00.000Z",
+    "roundId": 1,
+    "player1Id": 12390,
+    "player2Id": 66757,
+    "tournamentId": 14716,
+    "match_winner": 12390,
+    "result": "2-6 6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.005",
+    "odd2": "12.75",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 66757,
+     "name": "Mia Kupres",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700073",
+    "date": "2023-08-05T20:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14175,
+    "player2Id": 32365,
+    "tournamentId": 14716,
+    "match_winner": 14175,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.181",
+    "odd2": "4.4",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 32365,
+     "name": "Miriam Bianca Bulgaru",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700077",
+    "date": "2023-08-05T19:30:00.000Z",
+    "roundId": 1,
+    "player1Id": 36397,
+    "player2Id": 33355,
+    "tournamentId": 14716,
+    "match_winner": 36397,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.125",
+    "odd2": "1.33",
+    "player1": {
+     "id": 36397,
+     "name": "Marina Bassols Ribera",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 33355,
+     "name": "Jodie Anna Burrage",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699913",
+    "date": "2023-08-05T19:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11575,
+    "player2Id": 10814,
+    "tournamentId": 14716,
+    "match_winner": 11575,
+    "result": "6-1 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.42",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700143",
+    "date": "2023-08-05T19:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12116,
+    "player2Id": 65912,
+    "tournamentId": 14716,
+    "match_winner": 12116,
+    "result": "6-0 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700004",
+    "date": "2023-08-05T18:38:00.000Z",
+    "roundId": 1,
+    "player1Id": 30510,
+    "player2Id": 17345,
+    "tournamentId": 14716,
+    "match_winner": 30510,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700089",
+    "date": "2023-08-05T18:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17831,
+    "player2Id": 37410,
+    "tournamentId": 14716,
+    "match_winner": 17831,
+    "result": "6-2 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.68",
+    "player1": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700141",
+    "date": "2023-08-05T17:45:00.000Z",
+    "roundId": 1,
+    "player1Id": 9857,
+    "player2Id": 64939,
+    "tournamentId": 14716,
+    "match_winner": 9857,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 64939,
+     "name": "Bianca Jolie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700131",
+    "date": "2023-08-05T17:25:00.000Z",
+    "roundId": 1,
+    "player1Id": 8696,
+    "player2Id": 55186,
+    "tournamentId": 14716,
+    "match_winner": 8696,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.096",
+    "odd2": "6.2",
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 55186,
+     "name": "Elvina Kalieva",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699947",
+    "date": "2023-08-05T16:55:00.000Z",
+    "roundId": 1,
+    "player1Id": 17155,
+    "player2Id": 12722,
+    "tournamentId": 14716,
+    "match_winner": 17155,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699917",
+    "date": "2023-08-05T15:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47153,
+    "player2Id": 11119,
+    "tournamentId": 14716,
+    "match_winner": 47153,
+    "result": "0-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11119,
+     "name": "Na-Lae Han",
+     "countryAcr": "KOR"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "699959",
+    "date": "2023-08-05T15:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 13511,
+    "tournamentId": 14716,
+    "match_winner": 24344,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700068",
+    "date": "2023-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 64343,
+    "player2Id": 31920,
+    "tournamentId": 14716,
+    "match_winner": 64343,
+    "result": "5-7 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "700144",
+    "date": "2023-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45540,
+    "player2Id": 66176,
+    "tournamentId": 14716,
+    "match_winner": 45540,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.75",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14716,
+     "name": "Omnium Banque Nationale - Montreal",
+     "courtId": 1,
+     "date": "2023-08-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CAN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,2531 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "459952",
+    "matchId": "459952",
+    "date": "2018-10-20T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 17503,
+    "player2Id": 11449,
+    "tournamentId": 11808,
+    "match_winner": 17503,
+    "result": "2-6 7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.59",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459933",
+    "matchId": "459933",
+    "date": "2018-10-19T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17503,
+    "player2Id": 7857,
+    "tournamentId": 11808,
+    "match_winner": 17503,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.99",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459934",
+    "matchId": "459934",
+    "date": "2018-10-19T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11449,
+    "player2Id": 7944,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "6-3 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.55",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459920",
+    "matchId": "459920",
+    "date": "2018-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7944,
+    "player2Id": 431,
+    "tournamentId": 11808,
+    "match_winner": 7944,
+    "result": "4-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.89",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459931",
+    "matchId": "459931",
+    "date": "2018-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17503,
+    "player2Id": 6740,
+    "tournamentId": 11808,
+    "match_winner": 17503,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459956",
+    "matchId": "459956",
+    "date": "2018-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7857,
+    "player2Id": 12842,
+    "tournamentId": 11808,
+    "match_winner": 7857,
+    "result": "6-2 2-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459958",
+    "matchId": "459958",
+    "date": "2018-10-18T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11449,
+    "player2Id": 13385,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459925",
+    "matchId": "459925",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 5817,
+    "tournamentId": 11808,
+    "match_winner": 17503,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459935",
+    "matchId": "459935",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 431,
+    "player2Id": 7982,
+    "tournamentId": 11808,
+    "match_winner": 431,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3",
+    "odd2": "1.41",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459936",
+    "matchId": "459936",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12842,
+    "player2Id": 8652,
+    "tournamentId": 11808,
+    "match_winner": 12842,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459940",
+    "matchId": "459940",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 9458,
+    "tournamentId": 11808,
+    "match_winner": 13385,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.28",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459946",
+    "matchId": "459946",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 10033,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3",
+    "odd2": "1.41",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459948",
+    "matchId": "459948",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 10334,
+    "tournamentId": 11808,
+    "match_winner": 7857,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459954",
+    "matchId": "459954",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 12390,
+    "tournamentId": 11808,
+    "match_winner": 7944,
+    "result": "7-5 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.66",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459960",
+    "matchId": "459960",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6740,
+    "player2Id": 14316,
+    "tournamentId": 11808,
+    "match_winner": 6740,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14316,
+     "name": "Valentini Grammatikopoulou",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459921",
+    "matchId": "459921",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 4159,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459939",
+    "matchId": "459939",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 9247,
+    "tournamentId": 11808,
+    "match_winner": 10334,
+    "result": "7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459953",
+    "matchId": "459953",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 431,
+    "player2Id": 11961,
+    "tournamentId": 11808,
+    "match_winner": 431,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459957",
+    "matchId": "459957",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7857,
+    "player2Id": 13351,
+    "tournamentId": 11808,
+    "match_winner": 7857,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.06",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459969",
+    "matchId": "459969",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 23230,
+    "tournamentId": 11808,
+    "match_winner": 5817,
+    "result": "5-7 6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.71",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459974",
+    "matchId": "459974",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9458,
+    "player2Id": 32480,
+    "tournamentId": 11808,
+    "match_winner": 9458,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.76",
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459924",
+    "matchId": "459924",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 5582,
+    "tournamentId": 11808,
+    "match_winner": 12842,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.26",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459926",
+    "matchId": "459926",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 5900,
+    "tournamentId": 11808,
+    "match_winner": 7944,
+    "result": "4-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459930",
+    "matchId": "459930",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 6651,
+    "tournamentId": 11808,
+    "match_winner": 12390,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.24",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459941",
+    "matchId": "459941",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 9503,
+    "tournamentId": 11808,
+    "match_winner": 6740,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459945",
+    "matchId": "459945",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 9857,
+    "tournamentId": 11808,
+    "match_winner": 17503,
+    "result": "6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459977",
+    "matchId": "459977",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 40156,
+    "tournamentId": 11808,
+    "match_winner": 13385,
+    "result": "2-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.2",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "459985",
+    "matchId": "459985",
+    "date": "2018-10-19T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 62495,
+    "player2Id": 61201,
+    "tournamentId": 11808,
+    "match_winner": 62495,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.67",
+    "player1": {
+     "id": 62495,
+     "name": "Alexandra Panova/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459970",
+    "matchId": "459970",
+    "date": "2018-10-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 62495,
+    "player2Id": 23780,
+    "tournamentId": 11808,
+    "match_winner": 62495,
+    "result": "2-6 6-3 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.875",
+    "odd2": "1.44",
+    "player1": {
+     "id": 62495,
+     "name": "Alexandra Panova/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23780,
+     "name": "Kristina Mladenovic/Galina Voskoboeva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459986",
+    "matchId": "459986",
+    "date": "2018-10-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 61201,
+    "player2Id": 62010,
+    "tournamentId": 11808,
+    "match_winner": 61201,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62010,
+     "name": "Nigina Abduraimova/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459972",
+    "matchId": "459972",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 62495,
+    "player2Id": 27848,
+    "tournamentId": 11808,
+    "match_winner": 62495,
+    "result": "6-4 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 62495,
+     "name": "Alexandra Panova/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27848,
+     "name": "Olga Doroshina/Polina Monova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459983",
+    "matchId": "459983",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 61201,
+    "player2Id": 54119,
+    "tournamentId": 11808,
+    "match_winner": 61201,
+    "result": "6-4 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.65",
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 54119,
+     "name": "Nadiya Kichenok/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459987",
+    "matchId": "459987",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 62010,
+    "player2Id": 62349,
+    "tournamentId": 11808,
+    "match_winner": 62010,
+    "result": "4-6 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 62010,
+     "name": "Nigina Abduraimova/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62349,
+     "name": "Evgeniya Rodina/Ajla Tomljanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459988",
+    "matchId": "459988",
+    "date": "2018-10-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 23780,
+    "player2Id": 62496,
+    "tournamentId": 11808,
+    "match_winner": 23780,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23780,
+     "name": "Kristina Mladenovic/Galina Voskoboeva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62496,
+     "name": "Harriet Dart/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459962",
+    "matchId": "459962",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 62495,
+    "player2Id": 14374,
+    "tournamentId": 11808,
+    "match_winner": 62495,
+    "result": "4-6 7-6(6) 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 62495,
+     "name": "Alexandra Panova/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 14374,
+     "name": "Anastasia Pavlyuchenkova/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459967",
+    "matchId": "459967",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27848,
+    "player2Id": 16727,
+    "tournamentId": 11808,
+    "match_winner": 27848,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27848,
+     "name": "Olga Doroshina/Polina Monova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 16727,
+     "name": "Irina-Camelia Begu/Mihaela Buzarnescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459978",
+    "matchId": "459978",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 62496,
+    "player2Id": 40296,
+    "tournamentId": 11808,
+    "match_winner": 62496,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 62496,
+     "name": "Harriet Dart/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 40296,
+     "name": "Oksana Kalashnikova/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459979",
+    "matchId": "459979",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54119,
+    "player2Id": 43734,
+    "tournamentId": 11808,
+    "match_winner": 54119,
+    "result": "7-6(3) 3-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 54119,
+     "name": "Nadiya Kichenok/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43734,
+     "name": "Raquel Atawo/Anna-Lena Groenefeld",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459984",
+    "matchId": "459984",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 62010,
+    "player2Id": 54977,
+    "tournamentId": 11808,
+    "match_winner": 62010,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.85",
+    "odd2": "1.26",
+    "player1": {
+     "id": 62010,
+     "name": "Nigina Abduraimova/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 54977,
+     "name": "Alicja Rosolska/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459989",
+    "matchId": "459989",
+    "date": "2018-10-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 62349,
+    "player2Id": 62497,
+    "tournamentId": 11808,
+    "match_winner": 62349,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 62349,
+     "name": "Evgeniya Rodina/Ajla Tomljanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62497,
+     "name": "Monique Adamczak/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459971",
+    "matchId": "459971",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61201,
+    "player2Id": 27121,
+    "tournamentId": 11808,
+    "match_winner": 61201,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.76",
+    "odd2": "2.06",
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27121,
+     "name": "Kaitlyn Christian/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459982",
+    "matchId": "459982",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23780,
+    "player2Id": 51590,
+    "tournamentId": 11808,
+    "match_winner": 23780,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23780,
+     "name": "Kristina Mladenovic/Galina Voskoboeva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51590,
+     "name": "Irina Khromacheva/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "459928",
+    "matchId": "459928",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 23230,
+    "player2Id": 6119,
+    "tournamentId": 11808,
+    "match_winner": 23230,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6119,
+     "name": "Silvia Soler-Espinosa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459938",
+    "matchId": "459938",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11961,
+    "player2Id": 9247,
+    "tournamentId": 11808,
+    "match_winner": 11961,
+    "result": "6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.75",
+    "odd2": "1.45",
+    "player1": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459961",
+    "matchId": "459961",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11449,
+    "player2Id": 14316,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 14316,
+     "name": "Valentini Grammatikopoulou",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459968",
+    "matchId": "459968",
+    "date": "2018-10-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 431,
+    "player2Id": 17701,
+    "tournamentId": 11808,
+    "match_winner": 431,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.15",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17701,
+     "name": "Ivana Jorovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459922",
+    "matchId": "459922",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 17701,
+    "player2Id": 4177,
+    "tournamentId": 11808,
+    "match_winner": 17701,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "1.95",
+    "player1": {
+     "id": 17701,
+     "name": "Ivana Jorovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459944",
+    "matchId": "459944",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 6119,
+    "player2Id": 9728,
+    "tournamentId": 11808,
+    "match_winner": 6119,
+    "result": "2-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6119,
+     "name": "Silvia Soler-Espinosa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459947",
+    "matchId": "459947",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 14316,
+    "player2Id": 10132,
+    "tournamentId": 11808,
+    "match_winner": 14316,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.5",
+    "player1": {
+     "id": 14316,
+     "name": "Valentini Grammatikopoulou",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 10132,
+     "name": "Georgina Garcia-Perez",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459949",
+    "matchId": "459949",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 9247,
+    "player2Id": 11197,
+    "tournamentId": 11808,
+    "match_winner": 9247,
+    "result": "4-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11197,
+     "name": "Sabina Sharipova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459963",
+    "matchId": "459963",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 11449,
+    "player2Id": 14609,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "1-6 6-3 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459975",
+    "matchId": "459975",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 11961,
+    "player2Id": 34713,
+    "tournamentId": 11808,
+    "match_winner": 11961,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 34713,
+     "name": "Sofya Zhuk",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459980",
+    "matchId": "459980",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 23230,
+    "player2Id": 46154,
+    "tournamentId": 11808,
+    "match_winner": 23230,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 46154,
+     "name": "Vlada Koval",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459981",
+    "matchId": "459981",
+    "date": "2018-10-14T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 431,
+    "player2Id": 47741,
+    "tournamentId": 11808,
+    "match_winner": 431,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.15",
+    "odd2": "5.5",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 47741,
+     "name": "Sofya Lansere",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459923",
+    "matchId": "459923",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34713,
+    "player2Id": 5548,
+    "tournamentId": 11808,
+    "match_winner": 34713,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34713,
+     "name": "Sofya Zhuk",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459927",
+    "matchId": "459927",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 46154,
+    "player2Id": 6037,
+    "tournamentId": 11808,
+    "match_winner": 46154,
+    "result": "3-6 7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.85",
+    "odd2": "1.18",
+    "player1": {
+     "id": 46154,
+     "name": "Vlada Koval",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459929",
+    "matchId": "459929",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14316,
+    "player2Id": 6297,
+    "tournamentId": 11808,
+    "match_winner": 14316,
+    "result": "6-7(7) 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.45",
+    "player1": {
+     "id": 14316,
+     "name": "Valentini Grammatikopoulou",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 6297,
+     "name": "Alexandra Panova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459932",
+    "matchId": "459932",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 431,
+    "player2Id": 6745,
+    "tournamentId": 11808,
+    "match_winner": 431,
+    "result": "4-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6745,
+     "name": "Alexandra Cadantu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459937",
+    "matchId": "459937",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11961,
+    "player2Id": 8757,
+    "tournamentId": 11808,
+    "match_winner": 11961,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.74",
+    "player1": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8757,
+     "name": "Ekaterine Gorgodze",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459942",
+    "matchId": "459942",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14609,
+    "player2Id": 9665,
+    "tournamentId": 11808,
+    "match_winner": 14609,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 9665,
+     "name": "Valentyna Ivakhnenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459943",
+    "matchId": "459943",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6119,
+    "player2Id": 9721,
+    "tournamentId": 11808,
+    "match_winner": 6119,
+    "result": "4-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.66",
+    "player1": {
+     "id": 6119,
+     "name": "Silvia Soler-Espinosa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 9721,
+     "name": "Anna Zaja",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459950",
+    "matchId": "459950",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 11205,
+    "tournamentId": 11808,
+    "match_winner": 4177,
+    "result": "7-6(2) 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459951",
+    "matchId": "459951",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11197,
+    "player2Id": 11434,
+    "tournamentId": 11808,
+    "match_winner": 11197,
+    "result": "6-7(12) 6-4 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11197,
+     "name": "Sabina Sharipova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 11434,
+     "name": "Deniz Khazaniuk",
+     "countryAcr": "ISR"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459955",
+    "matchId": "459955",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23230,
+    "player2Id": 12442,
+    "tournamentId": 11808,
+    "match_winner": 23230,
+    "result": "6-1 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12442,
+     "name": "Polina Monova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459959",
+    "matchId": "459959",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47741,
+    "player2Id": 13800,
+    "tournamentId": 11808,
+    "match_winner": 47741,
+    "result": "7-6(3) 6-7(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47741,
+     "name": "Sofya Lansere",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13800,
+     "name": "Olga Doroshina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459964",
+    "matchId": "459964",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9728,
+    "player2Id": 14686,
+    "tournamentId": 11808,
+    "match_winner": 9728,
+    "result": "6-3 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.52",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 14686,
+     "name": "Deborah Chiesa",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459965",
+    "matchId": "459965",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10132,
+    "player2Id": 14852,
+    "tournamentId": 11808,
+    "match_winner": 10132,
+    "result": "5-7 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10132,
+     "name": "Georgina Garcia-Perez",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 14852,
+     "name": "Varvara Flink",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459966",
+    "matchId": "459966",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17701,
+    "player2Id": 14884,
+    "tournamentId": 11808,
+    "match_winner": 17701,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17701,
+     "name": "Ivana Jorovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459973",
+    "matchId": "459973",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11449,
+    "player2Id": 30232,
+    "tournamentId": 11808,
+    "match_winner": 11449,
+    "result": "1-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "459976",
+    "matchId": "459976",
+    "date": "2018-10-13T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9247,
+    "player2Id": 36558,
+    "tournamentId": 11808,
+    "match_winner": 9247,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 11808,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2018-10-15T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,3686 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "574326",
+    "date": "2021-08-22T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 12966,
+    "player2Id": 17021,
+    "tournamentId": 13582,
+    "match_winner": 12966,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "4.1",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574273",
+    "date": "2021-08-21T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12966,
+    "player2Id": 4076,
+    "tournamentId": 13582,
+    "match_winner": 12966,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.44",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574283",
+    "date": "2021-08-21T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17021,
+    "player2Id": 7982,
+    "tournamentId": 13582,
+    "match_winner": 17021,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574284",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 4076,
+    "player2Id": 8234,
+    "tournamentId": 13582,
+    "match_winner": 4076,
+    "result": "6-4 3-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.46",
+    "odd2": "1.6",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574310",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12966,
+    "player2Id": 13267,
+    "tournamentId": 13582,
+    "match_winner": 12966,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.44",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574317",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17021,
+    "player2Id": 14056,
+    "tournamentId": 13582,
+    "match_winner": 17021,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574327",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7982,
+    "player2Id": 17142,
+    "tournamentId": 13582,
+    "match_winner": 7982,
+    "result": "7-5 2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.64",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574276",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12966,
+    "player2Id": 5416,
+    "tournamentId": 13582,
+    "match_winner": 12966,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.43",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574294",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13267,
+    "player2Id": 10633,
+    "tournamentId": 13582,
+    "match_winner": 13267,
+    "result": "6-1 6-7(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.94",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574299",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8234,
+    "player2Id": 11449,
+    "tournamentId": 13582,
+    "match_winner": 8234,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.15",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574302",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 11712,
+    "tournamentId": 13582,
+    "match_winner": 7982,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.19",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574323",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17021,
+    "player2Id": 16430,
+    "tournamentId": 13582,
+    "match_winner": 17021,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.1",
+    "odd2": "1.27",
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574324",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 4076,
+    "player2Id": 16628,
+    "tournamentId": 13582,
+    "match_winner": 4076,
+    "result": "4-6 6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.22",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574331",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14056,
+    "player2Id": 18482,
+    "tournamentId": 13582,
+    "match_winner": 14056,
+    "result": "7-5 2-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574340",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17142,
+    "player2Id": 36558,
+    "tournamentId": 13582,
+    "match_winner": 17142,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574290",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 9772,
+    "tournamentId": 13582,
+    "match_winner": 5416,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574292",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10633,
+    "player2Id": 10455,
+    "tournamentId": 13582,
+    "match_winner": 10633,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574296",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 11071,
+    "tournamentId": 13582,
+    "match_winner": 12966,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.13",
+    "odd2": "6.35",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574298",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 11371,
+    "tournamentId": 13582,
+    "match_winner": 4076,
+    "result": "7-5 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574304",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 12267,
+    "tournamentId": 13582,
+    "match_winner": 14056,
+    "result": "7-6(1) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574305",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 12390,
+    "tournamentId": 13582,
+    "match_winner": 7982,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.96",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574311",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 13325,
+    "tournamentId": 13582,
+    "match_winner": 16628,
+    "result": "6-7(2) 5-4 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.76",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574312",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 13351,
+    "tournamentId": 13582,
+    "match_winner": 36558,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574318",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17021,
+    "player2Id": 14259,
+    "tournamentId": 13582,
+    "match_winner": 17021,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574322",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 16119,
+    "tournamentId": 13582,
+    "match_winner": 8234,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.8",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574330",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 18455,
+    "tournamentId": 13582,
+    "match_winner": 17142,
+    "result": "5-7 6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.58",
+    "odd2": "1.31",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574341",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 37266,
+    "tournamentId": 13582,
+    "match_winner": 13267,
+    "result": "6-1 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574343",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 39226,
+    "tournamentId": 13582,
+    "match_winner": 18482,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574348",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 45854,
+    "tournamentId": 13582,
+    "match_winner": 11449,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.94",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574352",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 54663,
+    "tournamentId": 13582,
+    "match_winner": 16430,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574270",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 487,
+    "tournamentId": 13582,
+    "match_winner": 54663,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574271",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 495,
+    "tournamentId": 13582,
+    "match_winner": 36558,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574280",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 7857,
+    "tournamentId": 13582,
+    "match_winner": 18482,
+    "result": "3-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574287",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11712,
+    "player2Id": 8696,
+    "tournamentId": 13582,
+    "match_winner": 11712,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.8",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574288",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8324,
+    "player2Id": 9357,
+    "tournamentId": 13582,
+    "match_winner": 8324,
+    "result": "6-4 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574291",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 10033,
+    "tournamentId": 13582,
+    "match_winner": 10455,
+    "result": "7-6(7) 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.75",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574309",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 13180,
+    "tournamentId": 13582,
+    "match_winner": 14259,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574313",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 13385,
+    "tournamentId": 13582,
+    "match_winner": 11449,
+    "result": "6-2 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.375",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574319",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 14362,
+    "tournamentId": 13582,
+    "match_winner": 16119,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574332",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 24368,
+    "tournamentId": 13582,
+    "match_winner": 5416,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574337",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 32168,
+    "tournamentId": 13582,
+    "match_winner": 14056,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574344",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37266,
+    "player2Id": 41569,
+    "tournamentId": 13582,
+    "match_winner": 37266,
+    "result": "7-6(3) 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574275",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 4263,
+    "tournamentId": 13582,
+    "match_winner": 12390,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574277",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17021,
+    "player2Id": 6019,
+    "tournamentId": 13582,
+    "match_winner": 17021,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.68",
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574279",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 7574,
+    "tournamentId": 13582,
+    "match_winner": 17142,
+    "result": "4-6 6-4 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.92",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574300",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 11575,
+    "tournamentId": 13582,
+    "match_winner": 12267,
+    "result": "6-4 2-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574301",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 11672,
+    "tournamentId": 13582,
+    "match_winner": 8234,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574306",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11071,
+    "player2Id": 12842,
+    "tournamentId": 13582,
+    "match_winner": 11071,
+    "result": "6-2 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574315",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4076,
+    "player2Id": 13541,
+    "tournamentId": 13582,
+    "match_winner": 4076,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574316",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13325,
+    "player2Id": 14054,
+    "tournamentId": 13582,
+    "match_winner": 13325,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574320",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 14448,
+    "tournamentId": 13582,
+    "match_winner": 13351,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574328",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 17503,
+    "tournamentId": 13582,
+    "match_winner": 13267,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574334",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 27035,
+    "tournamentId": 13582,
+    "match_winner": 16628,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.8",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574349",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9772,
+    "player2Id": 49081,
+    "tournamentId": 13582,
+    "match_winner": 9772,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.8",
+    "odd2": "1.285",
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "574363",
+    "date": "2021-08-21T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 28606,
+    "player2Id": 71500,
+    "tournamentId": 13582,
+    "match_winner": 28606,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.64",
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574335",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 71500,
+    "player2Id": 27301,
+    "tournamentId": 13582,
+    "match_winner": 71500,
+    "result": "7-5 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.875",
+    "odd2": "1.44",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574361",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 28606,
+    "player2Id": 71299,
+    "tournamentId": 13582,
+    "match_winner": 28606,
+    "result": "6-3 6-7(5) 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574371",
+    "date": "2021-08-20T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 28606,
+    "player2Id": 74856,
+    "tournamentId": 13582,
+    "match_winner": 28606,
+    "result": "4-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74856,
+     "name": "Anna Blinkova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574339",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 74856,
+    "player2Id": 36325,
+    "tournamentId": 13582,
+    "match_winner": 74856,
+    "result": "4-6 6-4 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 74856,
+     "name": "Anna Blinkova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36325,
+     "name": "Paula Badosa Gibert/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574358",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71500,
+    "player2Id": 67099,
+    "tournamentId": 13582,
+    "match_winner": 71500,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.78",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574364",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27301,
+    "player2Id": 72883,
+    "tournamentId": 13582,
+    "match_winner": 27301,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574368",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 28606,
+    "player2Id": 74699,
+    "tournamentId": 13582,
+    "match_winner": 28606,
+    "result": "6-3 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.94",
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574369",
+    "date": "2021-08-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71299,
+    "player2Id": 74781,
+    "tournamentId": 13582,
+    "match_winner": 71299,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74781,
+     "name": "Veronika Kudermetova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574336",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72883,
+    "player2Id": 30174,
+    "tournamentId": 13582,
+    "match_winner": 72883,
+    "result": "4-6 6-1 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574356",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27301,
+    "player2Id": 63644,
+    "tournamentId": 13582,
+    "match_winner": 27301,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63644,
+     "name": "Daria Kasatkina/Anett Kontaveit",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574357",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36325,
+    "player2Id": 67088,
+    "tournamentId": 13582,
+    "match_winner": 36325,
+    "result": "6-4 3-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.52",
+    "odd2": "1.3",
+    "player1": {
+     "id": 36325,
+     "name": "Paula Badosa Gibert/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574362",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28606,
+    "player2Id": 71365,
+    "tournamentId": 13582,
+    "match_winner": 28606,
+    "result": "4-6 6-4 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574367",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 74856,
+    "player2Id": 73265,
+    "tournamentId": 13582,
+    "match_winner": 74856,
+    "result": "7-5 5-7 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74856,
+     "name": "Anna Blinkova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574372",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74781,
+    "player2Id": 74857,
+    "tournamentId": 13582,
+    "match_winner": 74781,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.39",
+    "player1": {
+     "id": 74781,
+     "name": "Veronika Kudermetova/Elena Rybakina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74857,
+     "name": "Ons Jabeur/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574373",
+    "date": "2021-08-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71500,
+    "player2Id": 74858,
+    "tournamentId": 13582,
+    "match_winner": 71500,
+    "result": "6-4 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74858,
+     "name": "Victoria Azarenka/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574342",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36325,
+    "player2Id": 39060,
+    "tournamentId": 13582,
+    "match_winner": 36325,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36325,
+     "name": "Paula Badosa Gibert/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 39060,
+     "name": "Nadiya Kichenok/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574360",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71500,
+    "player2Id": 70501,
+    "tournamentId": 13582,
+    "match_winner": 71500,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.192",
+    "odd2": "4.45",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70501,
+     "name": "Anna Danilina/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574365",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72883,
+    "player2Id": 72895,
+    "tournamentId": 13582,
+    "match_winner": 72883,
+    "result": "2-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.2",
+    "player1": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72895,
+     "name": "Petra Martic/Shelby Rogers",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574366",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30174,
+    "player2Id": 72975,
+    "tournamentId": 13582,
+    "match_winner": 30174,
+    "result": "4-6 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.46",
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72975,
+     "name": "Marie Bouzkova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574374",
+    "date": "2021-08-17T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67099,
+    "player2Id": 74859,
+    "tournamentId": 13582,
+    "match_winner": 67099,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74859,
+     "name": "Jelena Ostapenko/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574297",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74699,
+    "player2Id": 11101,
+    "tournamentId": 13582,
+    "match_winner": 74699,
+    "result": "2-6 7-6(1) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.66",
+    "player1": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574353",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74858,
+    "player2Id": 57030,
+    "tournamentId": 13582,
+    "match_winner": 74858,
+    "result": "6-2 2-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.07",
+    "player1": {
+     "id": 74858,
+     "name": "Victoria Azarenka/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57030,
+     "name": "Lyudmyla Kichenok/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574354",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67088,
+    "player2Id": 60391,
+    "tournamentId": 13582,
+    "match_winner": 67088,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.46",
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574355",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74859,
+    "player2Id": 61876,
+    "tournamentId": 13582,
+    "match_winner": 74859,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.18",
+    "odd2": "1.65",
+    "player1": {
+     "id": 74859,
+     "name": "Jelena Ostapenko/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61876,
+     "name": "Galina Voskoboeva/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574359",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63644,
+    "player2Id": 69679,
+    "tournamentId": 13582,
+    "match_winner": 63644,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63644,
+     "name": "Daria Kasatkina/Anett Kontaveit",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 69679,
+     "name": "Emma Navarro/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574370",
+    "date": "2021-08-16T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74856,
+    "player2Id": 74855,
+    "tournamentId": 13582,
+    "match_winner": 74856,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74856,
+     "name": "Anna Blinkova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74855,
+     "name": "Hayley Carter/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "574272",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12842,
+    "player2Id": 945,
+    "tournamentId": 13582,
+    "match_winner": 12842,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.74",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574303",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 487,
+    "player2Id": 12205,
+    "tournamentId": 13582,
+    "match_winner": 487,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574308",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11071,
+    "player2Id": 13180,
+    "tournamentId": 13582,
+    "match_winner": 11071,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574314",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14362,
+    "player2Id": 13498,
+    "tournamentId": 13582,
+    "match_winner": 14362,
+    "result": "7-6(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574325",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10455,
+    "player2Id": 16664,
+    "tournamentId": 13582,
+    "match_winner": 10455,
+    "result": "3-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574329",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 49081,
+    "player2Id": 17774,
+    "tournamentId": 13582,
+    "match_winner": 49081,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574333",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4263,
+    "player2Id": 24572,
+    "tournamentId": 13582,
+    "match_winner": 4263,
+    "result": "7-5 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.12",
+    "odd2": "1.72",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574338",
+    "date": "2021-08-15T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24368,
+    "player2Id": 34747,
+    "tournamentId": 13582,
+    "match_winner": 24368,
+    "result": "7-5 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574269",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24368,
+    "player2Id": 431,
+    "tournamentId": 13582,
+    "match_winner": 24368,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.87",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574274",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4263,
+    "player2Id": 4174,
+    "tournamentId": 13582,
+    "match_winner": 4263,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.168",
+    "odd2": "5.1",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574278",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 49081,
+    "player2Id": 6651,
+    "tournamentId": 13582,
+    "match_winner": 49081,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574281",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24572,
+    "player2Id": 7926,
+    "tournamentId": 13582,
+    "match_winner": 24572,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574282",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14362,
+    "player2Id": 7944,
+    "tournamentId": 13582,
+    "match_winner": 14362,
+    "result": "6-1 2-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "3.38",
+    "odd2": "1.32",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574286",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13498,
+    "player2Id": 8665,
+    "tournamentId": 13582,
+    "match_winner": 13498,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574289",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 9458,
+    "tournamentId": 13582,
+    "match_winner": 12842,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574293",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12205,
+    "player2Id": 10595,
+    "tournamentId": 13582,
+    "match_winner": 12205,
+    "result": "4-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574295",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16664,
+    "player2Id": 10749,
+    "tournamentId": 13582,
+    "match_winner": 16664,
+    "result": "6-2 2-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574307",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17774,
+    "player2Id": 12997,
+    "tournamentId": 13582,
+    "match_winner": 17774,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574321",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13180,
+    "player2Id": 14902,
+    "tournamentId": 13582,
+    "match_winner": 13180,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.32",
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574345",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 945,
+    "player2Id": 42098,
+    "tournamentId": 13582,
+    "match_winner": 945,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574346",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 44040,
+    "tournamentId": 13582,
+    "match_winner": 34747,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.94",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574347",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10455,
+    "player2Id": 45540,
+    "tournamentId": 13582,
+    "match_winner": 10455,
+    "result": "6-3 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574350",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11071,
+    "player2Id": 52790,
+    "tournamentId": 13582,
+    "match_winner": 11071,
+    "result": "5-7 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574351",
+    "date": "2021-08-14T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 487,
+    "player2Id": 53793,
+    "tournamentId": 13582,
+    "match_winner": 487,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13582,
+     "name": "Western & Southern Open - Cincinnati",
+     "courtId": 1,
+     "date": "2021-08-16T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

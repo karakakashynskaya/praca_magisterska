@@ -1,0 +1,780 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "712557",
+    "date": "2023-10-29T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 13094,
+    "player2Id": 53128,
+    "tournamentId": 14868,
+    "match_winner": 13094,
+    "result": "7-6(11) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.32",
+    "odd2": "1.61",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712543",
+    "date": "2023-10-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 53128,
+    "player2Id": 12089,
+    "tournamentId": 14868,
+    "match_winner": 53128,
+    "result": "7-5 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712553",
+    "date": "2023-10-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13094,
+    "player2Id": 17503,
+    "tournamentId": 14868,
+    "match_winner": 13094,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712539",
+    "date": "2023-10-27T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 13094,
+    "player2Id": 10455,
+    "tournamentId": 14868,
+    "match_winner": 13094,
+    "result": "6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.73",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712552",
+    "date": "2023-10-27T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 53128,
+    "player2Id": 16628,
+    "tournamentId": 14868,
+    "match_winner": 53128,
+    "result": "6-4 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712554",
+    "date": "2023-10-27T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 16119,
+    "player2Id": 24368,
+    "tournamentId": 14868,
+    "match_winner": 16119,
+    "result": "6-4 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712535",
+    "date": "2023-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 17503,
+    "player2Id": 9357,
+    "tournamentId": 14868,
+    "match_winner": 17503,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712544",
+    "date": "2023-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 24368,
+    "player2Id": 12089,
+    "tournamentId": 14868,
+    "match_winner": 24368,
+    "result": "2-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712549",
+    "date": "2023-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 16628,
+    "player2Id": 13498,
+    "tournamentId": 14868,
+    "match_winner": 16628,
+    "result": "4-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712542",
+    "date": "2023-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 10455,
+    "player2Id": 11672,
+    "tournamentId": 14868,
+    "match_winner": 10455,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712546",
+    "date": "2023-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 17503,
+    "player2Id": 13267,
+    "tournamentId": 14868,
+    "match_winner": 17503,
+    "result": "7-5 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712547",
+    "date": "2023-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 53128,
+    "player2Id": 13498,
+    "tournamentId": 14868,
+    "match_winner": 53128,
+    "result": "6-4 6-7(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.64",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712537",
+    "date": "2023-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 13267,
+    "player2Id": 9357,
+    "tournamentId": 14868,
+    "match_winner": 13267,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712541",
+    "date": "2023-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 13094,
+    "player2Id": 11672,
+    "tournamentId": 14868,
+    "match_winner": 13094,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712551",
+    "date": "2023-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 12089,
+    "player2Id": 16119,
+    "tournamentId": 14868,
+    "match_winner": 12089,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "712559",
+    "date": "2023-10-29T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 89803,
+    "player2Id": 79446,
+    "tournamentId": 14868,
+    "match_winner": 89803,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.05",
+    "player1": {
+     "id": 89803,
+     "name": "Beatriz Haddad Maia/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712563",
+    "date": "2023-10-28T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 37542,
+    "player2Id": 86356,
+    "tournamentId": 14868,
+    "match_winner": 37542,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37542,
+     "name": "Xinyu Jiang/Qianhui Tang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86356,
+     "name": "Oksana Kalashnikova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712567",
+    "date": "2023-10-28T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 79446,
+    "player2Id": 90372,
+    "tournamentId": 14868,
+    "match_winner": 79446,
+    "result": "4-6 7-5 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 90372,
+     "name": "Xiyu Wang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712564",
+    "date": "2023-10-27T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 79446,
+    "player2Id": 90371,
+    "tournamentId": 14868,
+    "match_winner": 79446,
+    "result": "6-3 6-7(5) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.5",
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 90371,
+     "name": "Ulrikke Eikeri/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712561",
+    "date": "2023-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 89803,
+    "player2Id": 86356,
+    "tournamentId": 14868,
+    "match_winner": 89803,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.061",
+    "odd2": "8.1",
+    "player1": {
+     "id": 89803,
+     "name": "Beatriz Haddad Maia/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86356,
+     "name": "Oksana Kalashnikova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712555",
+    "date": "2023-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 89803,
+    "player2Id": 37542,
+    "tournamentId": 14868,
+    "match_winner": 89803,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "3.84",
+    "player1": {
+     "id": 89803,
+     "name": "Beatriz Haddad Maia/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37542,
+     "name": "Xinyu Jiang/Qianhui Tang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712566",
+    "date": "2023-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 90372,
+    "player2Id": 90371,
+    "tournamentId": 14868,
+    "match_winner": 90372,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 90372,
+     "name": "Xiyu Wang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 90371,
+     "name": "Ulrikke Eikeri/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14868,
+     "name": "WTA Elite Trophy - Zhuhai",
+     "courtId": 3,
+     "date": "2023-10-23T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

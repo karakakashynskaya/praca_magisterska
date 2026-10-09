@@ -1,0 +1,15 @@
+--liquibase formatted sql
+
+--changeset kkakashynskaya:1-create-schemas context:common
+CREATE SCHEMA IF NOT EXISTS stg;
+CREATE SCHEMA IF NOT EXISTS dbo;
+CREATE SCHEMA IF NOT EXISTS dmart;
+CREATE SCHEMA IF NOT EXISTS star;
+CREATE SCHEMA IF NOT EXISTS biz;
+CREATE SCHEMA IF NOT EXISTS bench;
+--rollback DROP SCHEMA IF EXISTS bench CASCADE;
+--rollback DROP SCHEMA IF EXISTS biz CASCADE;
+--rollback DROP SCHEMA IF EXISTS star CASCADE;
+--rollback DROP SCHEMA IF EXISTS dmart CASCADE;
+--rollback DROP SCHEMA IF EXISTS dbo CASCADE;
+--rollback DROP SCHEMA IF EXISTS stg CASCADE;

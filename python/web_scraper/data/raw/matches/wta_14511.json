@@ -1,0 +1,2426 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "637307",
+    "date": "2023-02-18T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 45854,
+    "player2Id": 11712,
+    "tournamentId": 14511,
+    "match_winner": 45854,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.86",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637315",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11712,
+    "player2Id": 13541,
+    "tournamentId": 14511,
+    "match_winner": 11712,
+    "result": "6-2 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637322",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 16119,
+    "tournamentId": 14511,
+    "match_winner": 45854,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637299",
+    "date": "2023-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 10455,
+    "tournamentId": 14511,
+    "match_winner": 13541,
+    "result": "6-2 6-7(5) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.84",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637312",
+    "date": "2023-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 13094,
+    "tournamentId": 14511,
+    "match_winner": 11712,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637345",
+    "date": "2023-02-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16119,
+    "player2Id": 54663,
+    "tournamentId": 14511,
+    "match_winner": 16119,
+    "result": "6-2 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637291",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 5416,
+    "tournamentId": 14511,
+    "match_winner": 14056,
+    "result": "1-6 7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637295",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 8234,
+    "tournamentId": 14511,
+    "match_winner": 54663,
+    "result": "6-3 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637305",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 11575,
+    "tournamentId": 14511,
+    "match_winner": 45854,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.95",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637316",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 14054,
+    "tournamentId": 14511,
+    "match_winner": 13541,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637323",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 16628,
+    "tournamentId": 14511,
+    "match_winner": 11712,
+    "result": "6-2 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637327",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13094,
+    "player2Id": 17503,
+    "tournamentId": 14511,
+    "match_winner": 13094,
+    "result": "6-3 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637329",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 18482,
+    "tournamentId": 14511,
+    "match_winner": 10455,
+    "result": "6-7(3) 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637330",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 23432,
+    "tournamentId": 14511,
+    "match_winner": 16119,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637290",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 4263,
+    "tournamentId": 14511,
+    "match_winner": 8234,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.83",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637294",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 7982,
+    "tournamentId": 14511,
+    "match_winner": 14054,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.6",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637296",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 8549,
+    "tournamentId": 14511,
+    "match_winner": 17503,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.41",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637306",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 11672,
+    "tournamentId": 14511,
+    "match_winner": 16628,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637309",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 12432,
+    "tournamentId": 14511,
+    "match_winner": 14056,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637314",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 13351,
+    "tournamentId": 14511,
+    "match_winner": 11575,
+    "result": "6-4 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637325",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13094,
+    "player2Id": 17142,
+    "tournamentId": 14511,
+    "match_winner": 13094,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637331",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 24368,
+    "tournamentId": 14511,
+    "match_winner": 23432,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.46",
+    "odd2": "1.31",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637344",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 53128,
+    "tournamentId": 14511,
+    "match_winner": 13541,
+    "result": "6-2 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.93",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637301",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 10738,
+    "tournamentId": 14511,
+    "match_winner": 18482,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.46",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637313",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 13267,
+    "tournamentId": 14511,
+    "match_winner": 16119,
+    "result": "6-4 3-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637335",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 27919,
+    "tournamentId": 14511,
+    "match_winner": 5416,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 27919,
+     "name": "Ipek Oz",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "637333",
+    "date": "2023-02-17T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 72050,
+    "player2Id": 26936,
+    "tournamentId": 14511,
+    "match_winner": 72050,
+    "result": "6-4 2-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.45",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637352",
+    "date": "2023-02-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 26936,
+    "player2Id": 84749,
+    "tournamentId": 14511,
+    "match_winner": 26936,
+    "result": "1-6 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84749,
+     "name": "Zhaoxuan Yang/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637354",
+    "date": "2023-02-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 72050,
+    "player2Id": 84857,
+    "tournamentId": 14511,
+    "match_winner": 72050,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.77",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84857,
+     "name": "Giuliana Olmos/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637302",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 26936,
+    "player2Id": 11101,
+    "tournamentId": 14511,
+    "match_winner": 26936,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637339",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 84857,
+    "player2Id": 41577,
+    "tournamentId": 14511,
+    "match_winner": 84857,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.11",
+    "player1": {
+     "id": 84857,
+     "name": "Giuliana Olmos/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 41577,
+     "name": "Shuko Aoyama/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637346",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 84749,
+    "player2Id": 68770,
+    "tournamentId": 14511,
+    "match_winner": 84749,
+    "result": "4-6 7-6(2) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.29",
+    "player1": {
+     "id": 84749,
+     "name": "Zhaoxuan Yang/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68770,
+     "name": "Ekaterina Alexandrova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637347",
+    "date": "2023-02-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72050,
+    "player2Id": 76361,
+    "tournamentId": 14511,
+    "match_winner": 72050,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.095",
+    "odd2": "6.35",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637348",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68770,
+    "player2Id": 78230,
+    "tournamentId": 14511,
+    "match_winner": 68770,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68770,
+     "name": "Ekaterina Alexandrova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637349",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 78908,
+    "tournamentId": 14511,
+    "match_winner": 11101,
+    "result": "7-6(5) 1-6 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.625",
+    "odd2": "1.444",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637350",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41577,
+    "player2Id": 82516,
+    "tournamentId": 14511,
+    "match_winner": 41577,
+    "result": "6-4 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41577,
+     "name": "Shuko Aoyama/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82516,
+     "name": "Kirsten Flipkens/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637355",
+    "date": "2023-02-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84857,
+    "player2Id": 84858,
+    "tournamentId": 14511,
+    "match_winner": 84857,
+    "result": "7-5 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 84857,
+     "name": "Giuliana Olmos/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84858,
+     "name": "Anna Danilina/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637351",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72050,
+    "player2Id": 84744,
+    "tournamentId": 14511,
+    "match_winner": 72050,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.194",
+    "odd2": "4.25",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637353",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76361,
+    "player2Id": 84856,
+    "tournamentId": 14511,
+    "match_winner": 76361,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84856,
+     "name": "Mubaraka Al-Naimi/Ekaterina Yashina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637356",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84749,
+    "player2Id": 84859,
+    "tournamentId": 14511,
+    "match_winner": 84749,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "1.92",
+    "player1": {
+     "id": 84749,
+     "name": "Zhaoxuan Yang/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84859,
+     "name": "Marie Bouzkova/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637357",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26936,
+    "player2Id": 84861,
+    "tournamentId": 14511,
+    "match_winner": 26936,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84861,
+     "name": "Sofia Kenin/Karolina Muchova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "637293",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12432,
+    "player2Id": 6201,
+    "tournamentId": 14511,
+    "match_winner": 12432,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.18",
+    "odd2": "1.63",
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637328",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13351,
+    "player2Id": 17774,
+    "tournamentId": 14511,
+    "match_winner": 13351,
+    "result": "6-4 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637332",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8549,
+    "player2Id": 24572,
+    "tournamentId": 14511,
+    "match_winner": 8549,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637340",
+    "date": "2023-02-13T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 7982,
+    "player2Id": 49081,
+    "tournamentId": 14511,
+    "match_winner": 7982,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "1.952",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637308",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 12432,
+    "player2Id": 12205,
+    "tournamentId": 14511,
+    "match_winner": 12432,
+    "result": "3-6 7-6(4) 2-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637310",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 8549,
+    "player2Id": 12842,
+    "tournamentId": 14511,
+    "match_winner": 8549,
+    "result": "6-3 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.57",
+    "odd2": "1.46",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637311",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 24572,
+    "player2Id": 12997,
+    "tournamentId": 14511,
+    "match_winner": 24572,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.5",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637318",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 6201,
+    "player2Id": 14259,
+    "tournamentId": 14511,
+    "match_winner": 6201,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.55",
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637320",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 7982,
+    "player2Id": 14609,
+    "tournamentId": 14511,
+    "match_winner": 7982,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.2",
+    "odd2": "4.2",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637324",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 17774,
+    "player2Id": 17021,
+    "tournamentId": 14511,
+    "match_winner": 17774,
+    "result": "6-7(5) 7-6(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637326",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 13351,
+    "player2Id": 17155,
+    "tournamentId": 14511,
+    "match_winner": 13351,
+    "result": "6-2 3-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637337",
+    "date": "2023-02-12T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 49081,
+    "player2Id": 37266,
+    "tournamentId": 14511,
+    "match_winner": 49081,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637288",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 448,
+    "tournamentId": 14511,
+    "match_winner": 12842,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637289",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24572,
+    "player2Id": 4177,
+    "tournamentId": 14511,
+    "match_winner": 24572,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.125",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637292",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17021,
+    "player2Id": 6019,
+    "tournamentId": 14511,
+    "match_winner": 17021,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.16",
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637297",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7982,
+    "player2Id": 9728,
+    "tournamentId": 14511,
+    "match_winner": 7982,
+    "result": "3-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.195",
+    "odd2": "4.25",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637298",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14609,
+    "player2Id": 10350,
+    "tournamentId": 14511,
+    "match_winner": 14609,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.157",
+    "odd2": "4.8",
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637300",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6201,
+    "player2Id": 10629,
+    "tournamentId": 14511,
+    "match_winner": 6201,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10629,
+     "name": "Ekaterina Yashina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637303",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12997,
+    "player2Id": 11205,
+    "tournamentId": 14511,
+    "match_winner": 12997,
+    "result": "1-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.96",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637304",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12432,
+    "player2Id": 11573,
+    "tournamentId": 14511,
+    "match_winner": 12432,
+    "result": "7-5 0-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 11573,
+     "name": "Maryna Zanevska",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637319",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 49081,
+    "player2Id": 14362,
+    "tournamentId": 14511,
+    "match_winner": 49081,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637321",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12205,
+    "player2Id": 16043,
+    "tournamentId": 14511,
+    "match_winner": 12205,
+    "result": "7-5 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637334",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37266,
+    "player2Id": 27804,
+    "tournamentId": 14511,
+    "match_winner": 37266,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637336",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 32480,
+    "tournamentId": 14511,
+    "match_winner": 14259,
+    "result": "6-1 2-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637338",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8549,
+    "player2Id": 38681,
+    "tournamentId": 14511,
+    "match_winner": 8549,
+    "result": "6-3 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 38681,
+     "name": "Katarina Zavatska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637341",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13351,
+    "player2Id": 50848,
+    "tournamentId": 14511,
+    "match_winner": 13351,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 50848,
+     "name": "Mubaraka Al-Naimi",
+     "countryAcr": "QAT"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637342",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17155,
+    "player2Id": 51151,
+    "tournamentId": 14511,
+    "match_winner": 17155,
+    "result": "4-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "637343",
+    "date": "2023-02-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17774,
+    "player2Id": 52254,
+    "tournamentId": 14511,
+    "match_winner": 17774,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14511,
+     "name": "Qatar TotalEnergies Open - Doha",
+     "courtId": 1,
+     "date": "2023-02-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "QAT",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

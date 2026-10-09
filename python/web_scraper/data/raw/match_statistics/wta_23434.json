@@ -1,0 +1,81 @@
+[
+ {
+  "id": "368179",
+  "matchId": "368179",
+  "date": "2016-08-19T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 9579,
+  "player2Id": 23434,
+  "tournamentId": 10474,
+  "match_winner": 9579,
+  "result": "6-0 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 9579,
+   "name": "Nicole Gibbs",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 23434,
+   "name": "Ellyse Hamlin",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 10474,
+   "name": "Connecticut Open - New Haven",
+   "courtId": 1,
+   "date": "2016-08-22T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:49:16",
+   "player1": {
+    "firstServe": 21,
+    "firstServeOf": 33,
+    "aces": 1,
+    "doubleFaults": 1,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 17,
+    "winningOnFirstServeOf": 21,
+    "winningOnSecondServe": 9,
+    "winningOnSecondServeOf": 12,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 10,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 55,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 22,
+    "firstServeOf": 44,
+    "aces": 0,
+    "doubleFaults": 8,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 12,
+    "winningOnFirstServeOf": 22,
+    "winningOnSecondServe": 3,
+    "winningOnSecondServeOf": 22,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 22,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

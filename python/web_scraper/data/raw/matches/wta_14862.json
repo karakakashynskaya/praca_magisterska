@@ -1,0 +1,3791 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "711679",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 45854,
+    "player2Id": 24368,
+    "tournamentId": 14862,
+    "match_winner": 45854,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711708",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 24368,
+    "player2Id": 36558,
+    "tournamentId": 14862,
+    "match_winner": 24368,
+    "result": "7-6(7) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711753",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 54663,
+    "tournamentId": 14862,
+    "match_winner": 45854,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711566",
+    "date": "2023-10-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 10455,
+    "tournamentId": 14862,
+    "match_winner": 45854,
+    "result": "6-7(8) 7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711614",
+    "date": "2023-10-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 54663,
+    "player2Id": 13541,
+    "tournamentId": 14862,
+    "match_winner": 54663,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711645",
+    "date": "2023-10-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24368,
+    "player2Id": 16628,
+    "tournamentId": 14862,
+    "match_winner": 24368,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711662",
+    "date": "2023-10-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 18455,
+    "tournamentId": 14862,
+    "match_winner": 36558,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711633",
+    "date": "2023-10-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 14362,
+    "tournamentId": 14862,
+    "match_winner": 18455,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.128",
+    "odd2": "6.05",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711639",
+    "date": "2023-10-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10455,
+    "player2Id": 16043,
+    "tournamentId": 14862,
+    "match_winner": 10455,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711641",
+    "date": "2023-10-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 16119,
+    "tournamentId": 14862,
+    "match_winner": 54663,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711734",
+    "date": "2023-10-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13541,
+    "player2Id": 47152,
+    "tournamentId": 14862,
+    "match_winner": 13541,
+    "result": "6-4 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711558",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 9357,
+    "tournamentId": 14862,
+    "match_winner": 45854,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711579",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16628,
+    "player2Id": 11712,
+    "tournamentId": 14862,
+    "match_winner": 16628,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711738",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 24368,
+    "player2Id": 47742,
+    "tournamentId": 14862,
+    "match_winner": 24368,
+    "result": "6-4 6-7(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.5",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711785",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 36558,
+    "player2Id": 77934,
+    "tournamentId": 14862,
+    "match_winner": 36558,
+    "result": "2-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711537",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 4110,
+    "tournamentId": 14862,
+    "match_winner": 36558,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711546",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77934,
+    "player2Id": 6740,
+    "tournamentId": 14862,
+    "match_winner": 77934,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711552",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 7574,
+    "tournamentId": 14862,
+    "match_winner": 54663,
+    "result": "7-5 5-7 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711560",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 9857,
+    "tournamentId": 14862,
+    "match_winner": 16119,
+    "result": "3-6 6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.15",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711575",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 11449,
+    "tournamentId": 14862,
+    "match_winner": 47742,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.32",
+    "odd2": "1.333",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711589",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 12390,
+    "tournamentId": 14862,
+    "match_winner": 10455,
+    "result": "6-3 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711624",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 14175,
+    "tournamentId": 14862,
+    "match_winner": 18455,
+    "result": "7-5 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.141",
+    "odd2": "5.7",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711653",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47152,
+    "player2Id": 17503,
+    "tournamentId": 14862,
+    "match_winner": 47152,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.6",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711704",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 34747,
+    "tournamentId": 14862,
+    "match_winner": 11712,
+    "result": "6-7(2) 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.126",
+    "odd2": "6.1",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711723",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 44510,
+    "tournamentId": 14862,
+    "match_winner": 45854,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711772",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 65912,
+    "tournamentId": 14862,
+    "match_winner": 13541,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.178",
+    "odd2": "4.9",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711533",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 431,
+    "tournamentId": 14862,
+    "match_winner": 47152,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711554",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 8234,
+    "tournamentId": 14862,
+    "match_winner": 24368,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711564",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16043,
+    "player2Id": 10334,
+    "tournamentId": 14862,
+    "match_winner": 16043,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711571",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 11372,
+    "tournamentId": 14862,
+    "match_winner": 10455,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711583",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9857,
+    "player2Id": 12089,
+    "tournamentId": 14862,
+    "match_winner": 9857,
+    "result": "6-0 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.48",
+    "odd2": "1.54",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711607",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9357,
+    "player2Id": 13325,
+    "tournamentId": 14862,
+    "match_winner": 9357,
+    "result": "3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.41",
+    "odd2": "1.57",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711618",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 13706,
+    "tournamentId": 14862,
+    "match_winner": 17503,
+    "result": "1-6 6-4 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711620",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45854,
+    "player2Id": 13839,
+    "tournamentId": 14862,
+    "match_winner": 45854,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711622",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 14054,
+    "tournamentId": 14862,
+    "match_winner": 54663,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711710",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 37410,
+    "tournamentId": 14862,
+    "match_winner": 14362,
+    "result": "2-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711745",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 53128,
+    "tournamentId": 14862,
+    "match_winner": 36558,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711764",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 64343,
+    "tournamentId": 14862,
+    "match_winner": 11449,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711550",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65912,
+    "player2Id": 6933,
+    "tournamentId": 14862,
+    "match_winner": 65912,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.31",
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711599",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14362,
+    "player2Id": 13094,
+    "tournamentId": 14862,
+    "match_winner": 14362,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.53",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711603",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77934,
+    "player2Id": 13267,
+    "tournamentId": 14862,
+    "match_winner": 77934,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711647",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 17155,
+    "tournamentId": 14862,
+    "match_winner": 14175,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711651",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 17501,
+    "tournamentId": 14862,
+    "match_winner": 10334,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.615",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711667",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18455,
+    "player2Id": 23432,
+    "tournamentId": 14862,
+    "match_winner": 18455,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.4",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711681",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 24572,
+    "tournamentId": 14862,
+    "match_winner": 12390,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711696",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16043,
+    "player2Id": 32168,
+    "tournamentId": 14862,
+    "match_winner": 16043,
+    "result": "1-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711715",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 43872,
+    "tournamentId": 14862,
+    "match_winner": 8234,
+    "result": "6-7(6) 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711725",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 44525,
+    "tournamentId": 14862,
+    "match_winner": 16628,
+    "result": "2-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711733",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 45540,
+    "tournamentId": 14862,
+    "match_winner": 24368,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711747",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13325,
+    "player2Id": 53793,
+    "tournamentId": 14862,
+    "match_winner": 13325,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.81",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711762",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66597,
+    "player2Id": 64149,
+    "tournamentId": 14862,
+    "match_winner": 66597,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 64149,
+     "name": "Fangran Tian",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711539",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 5416,
+    "tournamentId": 14862,
+    "match_winner": 9357,
+    "result": "5-7 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711545",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7574,
+    "player2Id": 6019,
+    "tournamentId": 14862,
+    "match_winner": 7574,
+    "result": "6-2 2-6 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711570",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 10738,
+    "tournamentId": 14862,
+    "match_winner": 4110,
+    "result": "6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711609",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37410,
+    "player2Id": 13351,
+    "tournamentId": 14862,
+    "match_winner": 37410,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.76",
+    "odd2": "1.27",
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711613",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 34747,
+    "player2Id": 13498,
+    "tournamentId": 14862,
+    "match_winner": 34747,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711714",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 40156,
+    "tournamentId": 14862,
+    "match_winner": 44510,
+    "result": "6-2 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711757",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 54664,
+    "tournamentId": 14862,
+    "match_winner": 47742,
+    "result": "1-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "711804",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 72225,
+    "player2Id": 88510,
+    "tournamentId": 14862,
+    "match_winner": 72225,
+    "result": "3-6 6-0 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711712",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 72225,
+    "player2Id": 37535,
+    "tournamentId": 14862,
+    "match_winner": 72225,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.59",
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37535,
+     "name": "Ingrid Martins/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711811",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 88510,
+    "player2Id": 89802,
+    "tournamentId": 14862,
+    "match_winner": 88510,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.42",
+    "player1": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89802,
+     "name": "Magda Linette/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711780",
+    "date": "2023-10-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 37535,
+    "player2Id": 71166,
+    "tournamentId": 14862,
+    "match_winner": 37535,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37535,
+     "name": "Ingrid Martins/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711791",
+    "date": "2023-10-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72225,
+    "player2Id": 78908,
+    "tournamentId": 14862,
+    "match_winner": 72225,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.54",
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711800",
+    "date": "2023-10-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 88510,
+    "player2Id": 84744,
+    "tournamentId": 14862,
+    "match_winner": 88510,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.14",
+    "player1": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711813",
+    "date": "2023-10-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 89802,
+    "player2Id": 89803,
+    "tournamentId": 14862,
+    "match_winner": 89802,
+    "result": "1-6 7-6(3) 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.97",
+    "odd2": "1.363",
+    "player1": {
+     "id": 89802,
+     "name": "Magda Linette/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89803,
+     "name": "Beatriz Haddad Maia/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711689",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 78908,
+    "player2Id": 27301,
+    "tournamentId": 14862,
+    "match_winner": 78908,
+    "result": "7-5 2-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.14",
+    "odd2": "1.33",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711740",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 84744,
+    "player2Id": 48573,
+    "tournamentId": 14862,
+    "match_winner": 84744,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711781",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 89803,
+    "player2Id": 71499,
+    "tournamentId": 14862,
+    "match_winner": 89803,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.69",
+    "player1": {
+     "id": 89803,
+     "name": "Beatriz Haddad Maia/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71499,
+     "name": "Nadiya Kichenok/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711783",
+    "date": "2023-10-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 37535,
+    "player2Id": 72050,
+    "tournamentId": 14862,
+    "match_winner": 37535,
+    "result": "5-7 6-2 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.7",
+    "odd2": "1.25",
+    "player1": {
+     "id": 37535,
+     "name": "Ingrid Martins/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711683",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71166,
+    "player2Id": 24772,
+    "tournamentId": 14862,
+    "match_winner": 71166,
+    "result": "7-6(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.66",
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711795",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72225,
+    "player2Id": 81146,
+    "tournamentId": 14862,
+    "match_winner": 72225,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.04",
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81146,
+     "name": "Xiyu Wang/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711799",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 88510,
+    "player2Id": 84478,
+    "tournamentId": 14862,
+    "match_winner": 88510,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84478,
+     "name": "Storm Hunter/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711805",
+    "date": "2023-10-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 89802,
+    "player2Id": 88669,
+    "tournamentId": 14862,
+    "match_winner": 89802,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 89802,
+     "name": "Magda Linette/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711685",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 81146,
+    "player2Id": 26936,
+    "tournamentId": 14862,
+    "match_winner": 81146,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.125",
+    "odd2": "1.333",
+    "player1": {
+     "id": 81146,
+     "name": "Xiyu Wang/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711793",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71166,
+    "player2Id": 79446,
+    "tournamentId": 14862,
+    "match_winner": 71166,
+    "result": "7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.29",
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711803",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89803,
+    "player2Id": 88343,
+    "tournamentId": 14862,
+    "match_winner": 89803,
+    "result": "6-4 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 89803,
+     "name": "Beatriz Haddad Maia/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88343,
+     "name": "Anna Danilina/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711806",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78908,
+    "player2Id": 88931,
+    "tournamentId": 14862,
+    "match_winner": 78908,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88931,
+     "name": "Oksana Kalashnikova/Miriam Skoch",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711808",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48573,
+    "player2Id": 89587,
+    "tournamentId": 14862,
+    "match_winner": 48573,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.66",
+    "player1": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89587,
+     "name": "Jasmine Paolini/Mayar Sherif",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711810",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88510,
+    "player2Id": 89801,
+    "tournamentId": 14862,
+    "match_winner": 88510,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89801,
+     "name": "Sorana Cirstea/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711815",
+    "date": "2023-10-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37535,
+    "player2Id": 89804,
+    "tournamentId": 14862,
+    "match_winner": 37535,
+    "result": "6-2 4-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 37535,
+     "name": "Ingrid Martins/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89804,
+     "name": "Latisha Chan/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711760",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89802,
+    "player2Id": 58646,
+    "tournamentId": 14862,
+    "match_winner": 89802,
+    "result": "6-1 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.625",
+    "player1": {
+     "id": 89802,
+     "name": "Magda Linette/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58646,
+     "name": "Elisabetta Cocciaretto/Martina Trevisan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711778",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71499,
+    "player2Id": 67099,
+    "tournamentId": 14862,
+    "match_winner": 71499,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.48",
+    "odd2": "1.5",
+    "player1": {
+     "id": 71499,
+     "name": "Nadiya Kichenok/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711789",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84744,
+    "player2Id": 78230,
+    "tournamentId": 14862,
+    "match_winner": 84744,
+    "result": "6-4 1-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.25",
+    "odd2": "1.31",
+    "player1": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711807",
+    "date": "2023-10-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24772,
+    "player2Id": 89584,
+    "tournamentId": 14862,
+    "match_winner": 24772,
+    "result": "2-6 7-6(5) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89584,
+     "name": "Alycia Parks/Yanina Wickmayer",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711802",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72225,
+    "player2Id": 86859,
+    "tournamentId": 14862,
+    "match_winner": 72225,
+    "result": "6-2 6-7(3) 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86859,
+     "name": "Su-Wei Hsieh/Xinyu Wang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "711541",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11372,
+    "player2Id": 5650,
+    "tournamentId": 14862,
+    "match_winner": 11372,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.27",
+    "odd2": "1.58",
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711593",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 53793,
+    "player2Id": 12570,
+    "tournamentId": 14862,
+    "match_winner": 53793,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.115",
+    "odd2": "5.65",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711675",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 44525,
+    "player2Id": 24344,
+    "tournamentId": 14862,
+    "match_winner": 44525,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.77",
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711687",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 64343,
+    "player2Id": 27032,
+    "tournamentId": 14862,
+    "match_winner": 64343,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711698",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 77934,
+    "player2Id": 32480,
+    "tournamentId": 14862,
+    "match_winner": 77934,
+    "result": "6-0 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.29",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711729",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14175,
+    "player2Id": 45072,
+    "tournamentId": 14862,
+    "match_winner": 14175,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.27",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711751",
+    "date": "2023-09-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12390,
+    "player2Id": 54123,
+    "tournamentId": 14862,
+    "match_winner": 12390,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711556",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27032,
+    "player2Id": 8549,
+    "tournamentId": 14862,
+    "match_winner": 27032,
+    "result": "6-4 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.01",
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711585",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 53793,
+    "player2Id": 12389,
+    "tournamentId": 14862,
+    "match_winner": 53793,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.197",
+    "odd2": "4.2",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711597",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12570,
+    "player2Id": 12842,
+    "tournamentId": 14862,
+    "match_winner": 12570,
+    "result": "0-6 7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.3",
+    "odd2": "1.19",
+    "player1": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711632",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 14259,
+    "tournamentId": 14862,
+    "match_winner": 27804,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711637",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 64343,
+    "player2Id": 14694,
+    "tournamentId": 14862,
+    "match_winner": 64343,
+    "result": "7-6(7) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711657",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45072,
+    "player2Id": 17831,
+    "tournamentId": 14862,
+    "match_winner": 45072,
+    "result": "3-6 6-1 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711658",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 77934,
+    "player2Id": 18427,
+    "tournamentId": 14862,
+    "match_winner": 77934,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.222",
+    "odd2": "3.92",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711666",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32480,
+    "player2Id": 23430,
+    "tournamentId": 14862,
+    "match_winner": 32480,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 23430,
+     "name": "Xiaodi You",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711693",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11372,
+    "player2Id": 28732,
+    "tournamentId": 14862,
+    "match_winner": 11372,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711695",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 30510,
+    "tournamentId": 14862,
+    "match_winner": 24344,
+    "result": "2-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711702",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12390,
+    "player2Id": 33355,
+    "tournamentId": 14862,
+    "match_winner": 12390,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 33355,
+     "name": "Jodie Anna Burrage",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711741",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44525,
+    "player2Id": 49081,
+    "tournamentId": 14862,
+    "match_winner": 44525,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711743",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17155,
+    "player2Id": 51151,
+    "tournamentId": 14862,
+    "match_winner": 17155,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711759",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5650,
+    "player2Id": 58588,
+    "tournamentId": 14862,
+    "match_winner": 5650,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 58588,
+     "name": "Sijia Wei",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711768",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14175,
+    "player2Id": 65910,
+    "tournamentId": 14862,
+    "match_winner": 14175,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.54",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 65910,
+     "name": "Zhuoxuan Bai",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "711797",
+    "date": "2023-09-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54123,
+    "player2Id": 83274,
+    "tournamentId": 14862,
+    "match_winner": 54123,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.076",
+    "odd2": "6.95",
+    "player1": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "player2": {
+     "id": 83274,
+     "name": "Yufei Ren",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14862,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2023-10-02T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

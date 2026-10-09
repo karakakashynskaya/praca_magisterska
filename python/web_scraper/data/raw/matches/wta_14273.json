@@ -1,0 +1,3686 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "623009",
+    "date": "2022-10-23T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11712,
+    "player2Id": 13541,
+    "tournamentId": 14273,
+    "match_winner": 11712,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.42",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623030",
+    "date": "2022-10-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13541,
+    "player2Id": 24572,
+    "tournamentId": 14273,
+    "match_winner": 13541,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.75",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622976",
+    "date": "2022-10-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11712,
+    "player2Id": 5416,
+    "tournamentId": 14273,
+    "match_winner": 11712,
+    "result": "7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622987",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 10033,
+    "tournamentId": 14273,
+    "match_winner": 11712,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623019",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 16119,
+    "tournamentId": 14273,
+    "match_winner": 13541,
+    "result": "6-1 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623039",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24572,
+    "player2Id": 32480,
+    "tournamentId": 14273,
+    "match_winner": 24572,
+    "result": "5-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623051",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 5416,
+    "player2Id": 54663,
+    "tournamentId": 14273,
+    "match_winner": 5416,
+    "result": "7-6(2) 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.58",
+    "odd2": "1.53",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622988",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10033,
+    "player2Id": 10455,
+    "tournamentId": 14273,
+    "match_winner": 10033,
+    "result": "7-6(6) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.76",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622989",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 10738,
+    "tournamentId": 14273,
+    "match_winner": 54663,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622991",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13541,
+    "player2Id": 11575,
+    "tournamentId": 14273,
+    "match_winner": 13541,
+    "result": "5-7 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622992",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 11672,
+    "tournamentId": 14273,
+    "match_winner": 5416,
+    "result": "6-4 6-7(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.1",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623021",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16119,
+    "player2Id": 16628,
+    "tournamentId": 14273,
+    "match_winner": 16119,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.33",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623026",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32480,
+    "player2Id": 17503,
+    "tournamentId": 14273,
+    "match_winner": 32480,
+    "result": "6-2 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623029",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 24572,
+    "player2Id": 24368,
+    "tournamentId": 14273,
+    "match_winner": 24572,
+    "result": "0-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.615",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623041",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 39226,
+    "tournamentId": 14273,
+    "match_winner": 11712,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622985",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 9503,
+    "tournamentId": 14273,
+    "match_winner": 11672,
+    "result": "3-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622990",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 10814,
+    "tournamentId": 14273,
+    "match_winner": 16628,
+    "result": "7-5 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623006",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 13351,
+    "tournamentId": 14273,
+    "match_winner": 32480,
+    "result": "6-4 0-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623007",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 13498,
+    "tournamentId": 14273,
+    "match_winner": 16119,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623013",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10033,
+    "player2Id": 14056,
+    "tournamentId": 14273,
+    "match_winner": 10033,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623023",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 17142,
+    "tournamentId": 14273,
+    "match_winner": 5416,
+    "result": "6-2 0-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623024",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 17155,
+    "tournamentId": 14273,
+    "match_winner": 11575,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.146",
+    "odd2": "5.55",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623025",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10738,
+    "player2Id": 17501,
+    "tournamentId": 14273,
+    "match_winner": 10738,
+    "result": "6-0 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623028",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 18455,
+    "tournamentId": 14273,
+    "match_winner": 24368,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623040",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 36558,
+    "tournamentId": 14273,
+    "match_winner": 11712,
+    "result": "2-6 6-3 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.11",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623043",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24572,
+    "player2Id": 44040,
+    "tournamentId": 14273,
+    "match_winner": 24572,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623052",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 54664,
+    "tournamentId": 14273,
+    "match_winner": 54663,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622978",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 7982,
+    "tournamentId": 14273,
+    "match_winner": 36558,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.95",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622979",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 39226,
+    "player2Id": 8234,
+    "tournamentId": 14273,
+    "match_winner": 39226,
+    "result": "3-6 6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.11",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622982",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 8549,
+    "tournamentId": 14273,
+    "match_winner": 10455,
+    "result": "6-7(2) 6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622984",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11672,
+    "player2Id": 9357,
+    "tournamentId": 14273,
+    "match_winner": 11672,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622995",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 12089,
+    "tournamentId": 14273,
+    "match_winner": 17503,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.151",
+    "odd2": "5.45",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622997",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 12205,
+    "tournamentId": 14273,
+    "match_winner": 16628,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622999",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17155,
+    "player2Id": 12390,
+    "tournamentId": 14273,
+    "match_winner": 17155,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.43",
+    "odd2": "1.56",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623001",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 12570,
+    "tournamentId": 14273,
+    "match_winner": 13498,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.06",
+    "odd2": "9.1",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623003",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 12997,
+    "tournamentId": 14273,
+    "match_winner": 24572,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.363",
+    "odd2": "3.125",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623004",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17501,
+    "player2Id": 13094,
+    "tournamentId": 14273,
+    "match_winner": 17501,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623005",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 13267,
+    "tournamentId": 14273,
+    "match_winner": 32480,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.6",
+    "odd2": "1.29",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623010",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10738,
+    "player2Id": 13937,
+    "tournamentId": 14273,
+    "match_winner": 10738,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623034",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 28585,
+    "tournamentId": 14273,
+    "match_winner": 11575,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.14",
+    "odd2": "5.7",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623035",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10814,
+    "player2Id": 30510,
+    "tournamentId": 14273,
+    "match_winner": 10814,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623042",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54664,
+    "player2Id": 40156,
+    "tournamentId": 14273,
+    "match_winner": 54664,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.53",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623047",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 47742,
+    "tournamentId": 14273,
+    "match_winner": 13541,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622975",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 467,
+    "tournamentId": 14273,
+    "match_winner": 24368,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.32",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622977",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12089,
+    "player2Id": 5817,
+    "tournamentId": 14273,
+    "match_winner": 12089,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.15",
+    "odd2": "1.36",
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622981",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 8535,
+    "tournamentId": 14273,
+    "match_winner": 13351,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623002",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 12842,
+    "tournamentId": 14273,
+    "match_winner": 47742,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.96",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623012",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 14054,
+    "tournamentId": 14273,
+    "match_winner": 44040,
+    "result": "6-4 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623014",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 14259,
+    "tournamentId": 14273,
+    "match_winner": 8234,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623022",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 17021,
+    "tournamentId": 14273,
+    "match_winner": 39226,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.6",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623032",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 27043,
+    "tournamentId": 14273,
+    "match_winner": 9503,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.121",
+    "odd2": "6.2",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 27043,
+     "name": "Fernanda Contreras Gomez",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623045",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8549,
+    "player2Id": 45866,
+    "tournamentId": 14273,
+    "match_winner": 8549,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623048",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 49081,
+    "tournamentId": 14273,
+    "match_winner": 14056,
+    "result": "7-5 6-7(10) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623050",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 54123,
+    "tournamentId": 14273,
+    "match_winner": 5416,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623055",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 65912,
+    "tournamentId": 14273,
+    "match_winner": 10033,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.83",
+    "odd2": "1.98",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "623058",
+    "date": "2022-10-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 82739,
+    "player2Id": 72046,
+    "tournamentId": 14273,
+    "match_winner": 82739,
+    "result": "5-7 6-4 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 82739,
+     "name": "Storm Hunter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623065",
+    "date": "2022-10-23T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 82739,
+    "player2Id": 77331,
+    "tournamentId": 14273,
+    "match_winner": 82739,
+    "result": "7-6(4) 6-7(2) 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 82739,
+     "name": "Storm Hunter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77331,
+     "name": "Anna Danilina/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623033",
+    "date": "2022-10-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 77331,
+    "player2Id": 27301,
+    "tournamentId": 14273,
+    "match_winner": 77331,
+    "result": "6-2 5-7 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77331,
+     "name": "Anna Danilina/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623031",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27301,
+    "player2Id": 26936,
+    "tournamentId": 14273,
+    "match_winner": 27301,
+    "result": "3-6 7-5 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.86",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623059",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 77331,
+    "player2Id": 72050,
+    "tournamentId": 14273,
+    "match_winner": 77331,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77331,
+     "name": "Anna Danilina/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623060",
+    "date": "2022-10-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72046,
+    "player2Id": 72892,
+    "tournamentId": 14273,
+    "match_winner": 72046,
+    "result": "7-5 5-7 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.71",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623056",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72046,
+    "player2Id": 66734,
+    "tournamentId": 14273,
+    "match_winner": 72046,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.32",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623066",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77331,
+    "player2Id": 78230,
+    "tournamentId": 14273,
+    "match_winner": 77331,
+    "result": "3-6 7-5 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.75",
+    "player1": {
+     "id": 77331,
+     "name": "Anna Danilina/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623074",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 82929,
+    "tournamentId": 14273,
+    "match_winner": 26936,
+    "result": "3-6 6-1 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82929,
+     "name": "Linda Fruhvirtova/Kaia Kanepi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623076",
+    "date": "2022-10-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72050,
+    "player2Id": 82931,
+    "tournamentId": 14273,
+    "match_winner": 72050,
+    "result": "7-6(1) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.119",
+    "odd2": "5.85",
+    "player1": {
+     "id": 72050,
+     "name": "Cori Gauff/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82931,
+     "name": "Aliaksandra Sasnovich/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623054",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 82739,
+    "player2Id": 58646,
+    "tournamentId": 14273,
+    "match_winner": 82739,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 82739,
+     "name": "Storm Hunter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58646,
+     "name": "Elisabetta Cocciaretto/Martina Trevisan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623063",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27301,
+    "player2Id": 76361,
+    "tournamentId": 14273,
+    "match_winner": 27301,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.107",
+    "odd2": "6.2",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623067",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66734,
+    "player2Id": 78371,
+    "tournamentId": 14273,
+    "match_winner": 66734,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.57",
+    "player1": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78371,
+     "name": "Alize Cornet/Jil Teichmann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623068",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 82739,
+    "player2Id": 78908,
+    "tournamentId": 14273,
+    "match_winner": 82739,
+    "result": "7-6(3) 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 82739,
+     "name": "Storm Hunter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623071",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78230,
+    "player2Id": 80252,
+    "tournamentId": 14273,
+    "match_winner": 78230,
+    "result": "6-3 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 80252,
+     "name": "Marta Kostyuk/Tereza Martincova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623072",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26936,
+    "player2Id": 82740,
+    "tournamentId": 14273,
+    "match_winner": 26936,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82740,
+     "name": "Hao-Ching Chan/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623073",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 82931,
+    "player2Id": 82843,
+    "tournamentId": 14273,
+    "match_winner": 82931,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.05",
+    "player1": {
+     "id": 82931,
+     "name": "Aliaksandra Sasnovich/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82843,
+     "name": "Sophie Chang/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623078",
+    "date": "2022-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72892,
+    "player2Id": 82933,
+    "tournamentId": 14273,
+    "match_winner": 72892,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82933,
+     "name": "Nadiya Kichenok/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623036",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 73146,
+    "player2Id": 30703,
+    "tournamentId": 14273,
+    "match_winner": 73146,
+    "result": "6-2 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30703,
+     "name": "Shuko Aoyama/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623075",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 82929,
+    "player2Id": 82930,
+    "tournamentId": 14273,
+    "match_winner": 82929,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.26",
+    "player1": {
+     "id": 82929,
+     "name": "Linda Fruhvirtova/Kaia Kanepi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82930,
+     "name": "Fernanda Contreras Gomez/Maria Camila Osorio Serrano",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623079",
+    "date": "2022-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78908,
+    "player2Id": 82934,
+    "tournamentId": 14273,
+    "match_winner": 78908,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.62",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82934,
+     "name": "Victoria Azarenka/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623057",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72046,
+    "player2Id": 67650,
+    "tournamentId": 14273,
+    "match_winner": 72046,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.62",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67650,
+     "name": "Anna Kalinskaya/Yulia Putintseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623064",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76361,
+    "player2Id": 77220,
+    "tournamentId": 14273,
+    "match_winner": 76361,
+    "result": "6-2 3-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77220,
+     "name": "Kaitlyn Christian/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623069",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77331,
+    "player2Id": 78909,
+    "tournamentId": 14273,
+    "match_winner": 77331,
+    "result": "6-1 3-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77331,
+     "name": "Anna Danilina/Beatriz Haddad Maia",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78909,
+     "name": "Alexa Guarachi/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623070",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30703,
+    "player2Id": 78912,
+    "tournamentId": 14273,
+    "match_winner": 30703,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.36",
+    "player1": {
+     "id": 30703,
+     "name": "Shuko Aoyama/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78912,
+     "name": "Ulrikke Eikeri/Tereza Mihalikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623077",
+    "date": "2022-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 82933,
+    "player2Id": 82932,
+    "tournamentId": 14273,
+    "match_winner": 82933,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 82933,
+     "name": "Nadiya Kichenok/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82932,
+     "name": "Shelby Rogers/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "622980",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30510,
+    "player2Id": 8503,
+    "tournamentId": 14273,
+    "match_winner": 30510,
+    "result": "5-7 7-5 4-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622994",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17155,
+    "player2Id": 11966,
+    "tournamentId": 14273,
+    "match_winner": 17155,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.18",
+    "odd2": "4.6",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11966,
+     "name": "Danielle Lao",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623000",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8535,
+    "player2Id": 12570,
+    "tournamentId": 14273,
+    "match_winner": 8535,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623011",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12205,
+    "player2Id": 13937,
+    "tournamentId": 14273,
+    "match_winner": 12205,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.74",
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623015",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 28585,
+    "player2Id": 14387,
+    "tournamentId": 14273,
+    "match_winner": 28585,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.54",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14387,
+     "name": "Carolina Meligeni Alves",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623027",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 54664,
+    "player2Id": 18403,
+    "tournamentId": 14273,
+    "match_winner": 54664,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.152",
+    "odd2": "5.1",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623049",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 65912,
+    "player2Id": 54123,
+    "tournamentId": 14273,
+    "match_winner": 65912,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.54",
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623053",
+    "date": "2022-10-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8549,
+    "player2Id": 55186,
+    "tournamentId": 14273,
+    "match_winner": 8549,
+    "result": "7-5 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.151",
+    "odd2": "5.1",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 55186,
+     "name": "Elvina Kalieva",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622974",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12205,
+    "player2Id": 448,
+    "tournamentId": 14273,
+    "match_winner": 12205,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.126",
+    "odd2": "5.7",
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622983",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65912,
+    "player2Id": 8859,
+    "tournamentId": 14273,
+    "match_winner": 65912,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.02",
+    "odd2": "12",
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8859,
+     "name": "Nadiya Kichenok",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622986",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14387,
+    "player2Id": 9594,
+    "tournamentId": 14273,
+    "match_winner": 14387,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14387,
+     "name": "Carolina Meligeni Alves",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622993",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13937,
+    "player2Id": 11930,
+    "tournamentId": 14273,
+    "match_winner": 13937,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11930,
+     "name": "Eri Hozumi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622996",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8549,
+    "player2Id": 12116,
+    "tournamentId": 14273,
+    "match_winner": 8549,
+    "result": "2-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.5",
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "622998",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11966,
+    "player2Id": 12389,
+    "tournamentId": 14273,
+    "match_winner": 11966,
+    "result": "3-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.5",
+    "odd2": "1.285",
+    "player1": {
+     "id": 11966,
+     "name": "Danielle Lao",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623008",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54664,
+    "player2Id": 13511,
+    "tournamentId": 14273,
+    "match_winner": 54664,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.1",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623016",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18403,
+    "player2Id": 14697,
+    "tournamentId": 14273,
+    "match_winner": 18403,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.727",
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623017",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17155,
+    "player2Id": 14734,
+    "tournamentId": 14273,
+    "match_winner": 17155,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.079",
+    "odd2": "7.3",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 14734,
+     "name": "Anna Danilina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623018",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12570,
+    "player2Id": 14852,
+    "tournamentId": 14273,
+    "match_winner": 12570,
+    "result": "6-3 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.94",
+    "player1": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 14852,
+     "name": "Varvara Flink",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623020",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30510,
+    "player2Id": 16134,
+    "tournamentId": 14273,
+    "match_winner": 30510,
+    "result": "6-2 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16134,
+     "name": "Julia Grabher",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623037",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 55186,
+    "player2Id": 30797,
+    "tournamentId": 14273,
+    "match_winner": 55186,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.07",
+    "odd2": "1.72",
+    "player1": {
+     "id": 55186,
+     "name": "Elvina Kalieva",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623038",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8503,
+    "player2Id": 31267,
+    "tournamentId": 14273,
+    "match_winner": 8503,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 31267,
+     "name": "Jaimee Fourlis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623044",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28585,
+    "player2Id": 45540,
+    "tournamentId": 14273,
+    "match_winner": 28585,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623046",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8535,
+    "player2Id": 47153,
+    "tournamentId": 14273,
+    "match_winner": 8535,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.67",
+    "odd2": "1.45",
+    "player1": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "623062",
+    "date": "2022-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54123,
+    "player2Id": 75503,
+    "tournamentId": 14273,
+    "match_winner": 54123,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "player2": {
+     "id": 75503,
+     "name": "Lya Fernandez",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 14273,
+     "name": "Guadalajara Open Akron - Guadalajara",
+     "courtId": 1,
+     "date": "2022-10-17T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "MEX",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,11 @@
+architecture,layer,tables,indexes,views,procedures,code_loc,state
+DV,biz (widoki),0,0,7,0,285,base
+DV,dbo (Data Vault),25,25,0,30,2361,base
+DV,dmart (prezentacyjna),7,13,0,8,631,base
+Star,star,6,12,0,7,642,base
+wspólne,stg,25,1,18,40,2541,base
+DV,biz (widoki),0,0,7,0,285,after_t23
+DV,dbo (Data Vault),28,29,0,31,2423,after_t23
+DV,dmart (prezentacyjna),8,15,0,9,686,after_t23
+Star,star,7,14,0,8,696,after_t23
+wspólne,stg,27,1,18,41,2577,after_t23

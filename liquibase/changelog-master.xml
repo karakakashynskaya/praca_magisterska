@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+<!-- ===== KROK 1: struktura bazowa ===== -->
+    <include file="changelogs/001-create-schemas.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/002-create-log-table.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/003-stg-buffer-tables.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/004-stg-raw-tables.sql" relativeToChangelogFile="true"/>
+
+    <changeSet id="step1-base-structure" author="kkakashynskaya">
+        <tagDatabase tag="v0.1-step1-base-structure"/>
+    </changeSet>
+
+<!-- ===== KROK 2: Data Vault (dbo) — tabele hub/link/satellite ===== -->
+    <include file="changelogs/005-dv-hub-tables.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/006-dv-link-tables.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/007-dv-sat-tables.sql" relativeToChangelogFile="true"/>
+
+    <changeSet id="step2-dv-tables" author="kkakashynskaya">
+        <tagDatabase tag="v0.2-step2-dv-tables"/>
+    </changeSet>
+
+<!-- ===== KROK 3: Data Vault — procedury ładowania (w trakcie, encja po encji) ===== -->
+    <include file="changelogs/008-stg-views.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/009-dv-proc-ref-country.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/010-dv-proc-players.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/011-dv-proc-coaches.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/012-dv-proc-coaching-contracts.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/013-dv-proc-tournaments.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/014-dv-proc-matches.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/015-dv-proc-match-statistics.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/016-dv-orchestrator.sql" relativeToChangelogFile="true"/>
+
+    <changeSet id="step3-dv-procedures" author="kkakashynskaya">
+        <tagDatabase tag="v0.3-step3-dv-procedures"/>
+    </changeSet>
+
+<!-- ===== KROK 4: dmart (star mart generowany z dbo) ===== -->
+    <include file="changelogs/017-dmart-tables.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/018-biz-views.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/019-dmart-procedures.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/020-dmart-orchestrator.sql" relativeToChangelogFile="true"/>
+
+    <changeSet id="step4-dmart" author="kkakashynskaya">
+        <tagDatabase tag="v0.4-step4-dmart"/>
+    </changeSet>
+
+<!-- ===== KROK 5: Star Schema ===== -->
+    <include file="changelogs/021-star-tables.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/022-star-proc-dims.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/023-star-proc-facts.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/024-star-orchestrator.sql" relativeToChangelogFile="true"/>
+
+    <changeSet id="step5-star-schema" author="kkakashynskaya">
+        <tagDatabase tag="v0.5-step5-star-schema"/>
+    </changeSet>
+
+<!-- ===== KROK 6: bench ===== -->
+    <include file="changelogs/025-bench-schema.sql" relativeToChangelogFile="true"/>
+    <include file="changelogs/026-log-clock-timestamp.sql" relativeToChangelogFile="true"/>
+
+    <changeSet id="step6-bench" author="kkakashynskaya">
+        <tagDatabase tag="v0.6-step6-bench"/>
+    </changeSet>
+
+</databaseChangeLog>

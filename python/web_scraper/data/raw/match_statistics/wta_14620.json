@@ -1,0 +1,858 @@
+[
+ {
+  "id": "539447",
+  "matchId": "539447",
+  "date": "2019-11-18T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 59915,
+  "player2Id": 14620,
+  "tournamentId": 13005,
+  "match_winner": 59915,
+  "result": "7-5 7-5",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 59915,
+   "name": "Valentina Ivanov",
+   "countryAcr": "NZL"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 13005,
+   "name": "W25 Tucson",
+   "courtId": 1,
+   "date": "2019-11-18T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "535999",
+  "matchId": "535999",
+  "date": "2019-10-22T00:00:00.000Z",
+  "roundId": 3,
+  "player1Id": 30908,
+  "player2Id": 14620,
+  "tournamentId": 12950,
+  "match_winner": 30908,
+  "result": "5-7 6-2 10-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.18",
+  "odd2": "4.6",
+  "player1": {
+   "id": 30908,
+   "name": "Katharine Fahey",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12950,
+   "name": "W25 Dallas",
+   "courtId": 1,
+   "date": "2019-10-21T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:59:00",
+   "player1": {
+    "firstServe": 40,
+    "firstServeOf": 63,
+    "aces": 2,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 22,
+    "winningOnFirstServeOf": 40,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 23,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 18,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 80,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 50,
+    "firstServeOf": 84,
+    "aces": 1,
+    "doubleFaults": 5,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 26,
+    "winningOnFirstServeOf": 50,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 34,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 6,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 67,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "536039",
+  "matchId": "536039",
+  "date": "2019-10-21T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14620,
+  "player2Id": 62710,
+  "tournamentId": 12950,
+  "match_winner": 14620,
+  "result": "6-2 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 62710,
+   "name": "Keira Jirasook",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12950,
+   "name": "W25 Dallas",
+   "courtId": 1,
+   "date": "2019-10-21T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "534948",
+  "matchId": "534948",
+  "date": "2019-10-14T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 52267,
+  "player2Id": 14620,
+  "tournamentId": 12934,
+  "match_winner": 52267,
+  "result": "6-1 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 52267,
+   "name": "Alexa Noel",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12934,
+   "name": "W25 Waco",
+   "courtId": 1,
+   "date": "2019-10-14T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "534943",
+  "matchId": "534943",
+  "date": "2019-10-13T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14620,
+  "player2Id": 13346,
+  "tournamentId": 12934,
+  "match_winner": 14620,
+  "result": "6-1 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 13346,
+   "name": "Rachel Janssen",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12934,
+   "name": "W25 Waco",
+   "courtId": 1,
+   "date": "2019-10-14T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "534091",
+  "matchId": "534091",
+  "date": "2019-10-08T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 15088,
+  "player2Id": 14620,
+  "tournamentId": 12921,
+  "match_winner": 15088,
+  "result": "7-6(5) 7-6(8)",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 15088,
+   "name": "Sarah Lee",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12921,
+   "name": "W25 Claremont",
+   "courtId": 1,
+   "date": "2019-10-07T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "534094",
+  "matchId": "534094",
+  "date": "2019-10-06T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14620,
+  "player2Id": 15080,
+  "tournamentId": 12921,
+  "match_winner": 14620,
+  "result": "6-1 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 15080,
+   "name": "Sophia Bursulaya",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12921,
+   "name": "W25 Claremont",
+   "courtId": 1,
+   "date": "2019-10-07T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "531839",
+  "matchId": "531839",
+  "date": "2019-09-17T00:00:00.000Z",
+  "roundId": 3,
+  "player1Id": 46815,
+  "player2Id": 14620,
+  "tournamentId": 12886,
+  "match_winner": 46815,
+  "result": "6-3 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 46815,
+   "name": "Gianna Pielet",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12886,
+   "name": "W15 Lubbock 1",
+   "courtId": 1,
+   "date": "2019-09-16T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "531874",
+  "matchId": "531874",
+  "date": "2019-09-17T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 14620,
+  "player2Id": 45992,
+  "tournamentId": 12886,
+  "match_winner": 14620,
+  "result": "6-4 1-6 10-8",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 45992,
+   "name": "Madison Appel",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12886,
+   "name": "W15 Lubbock 1",
+   "courtId": 1,
+   "date": "2019-09-16T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "531842",
+  "matchId": "531842",
+  "date": "2019-09-16T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14620,
+  "player2Id": 15335,
+  "tournamentId": 12886,
+  "match_winner": 14620,
+  "result": "6-1 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 15335,
+   "name": "Ty Ana Williams",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12886,
+   "name": "W15 Lubbock 1",
+   "courtId": 1,
+   "date": "2019-09-16T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "530308",
+  "matchId": "530308",
+  "date": "2019-09-09T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 37189,
+  "player2Id": 14620,
+  "tournamentId": 12862,
+  "match_winner": 37189,
+  "result": "6-2 1-6 10-8",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 37189,
+   "name": "Maria Jose Portillo Ramirez",
+   "countryAcr": "MEX"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12862,
+   "name": "W25 Redding",
+   "courtId": 1,
+   "date": "2019-09-09T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "515882",
+  "matchId": "515882",
+  "date": "2019-05-08T00:00:00.000Z",
+  "roundId": 5,
+  "player1Id": 41566,
+  "player2Id": 14620,
+  "tournamentId": 12638,
+  "match_winner": 41566,
+  "result": "6-0 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 41566,
+   "name": "Natasha Subhash",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12638,
+   "name": "W15 Williamsburg 1",
+   "courtId": 2,
+   "date": "2019-05-06T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:04:00",
+   "player1": {
+    "firstServe": 30,
+    "firstServeOf": 47,
+    "aces": null,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 21,
+    "winningOnFirstServeOf": 30,
+    "winningOnSecondServe": 13,
+    "winningOnSecondServeOf": 17,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 5,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 58,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 30,
+    "firstServeOf": 41,
+    "aces": null,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 15,
+    "winningOnFirstServeOf": 30,
+    "winningOnSecondServe": 2,
+    "winningOnSecondServeOf": 11,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 5,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 30,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "515893",
+  "matchId": "515893",
+  "date": "2019-05-07T00:00:00.000Z",
+  "roundId": 3,
+  "player1Id": 14620,
+  "player2Id": 29713,
+  "tournamentId": 12638,
+  "match_winner": 14620,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 29713,
+   "name": "Jocelijn Cavero Roeper",
+   "countryAcr": "NED"
+  },
+  "tournament": {
+   "id": 12638,
+   "name": "W15 Williamsburg 1",
+   "courtId": 2,
+   "date": "2019-05-06T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "515909",
+  "matchId": "515909",
+  "date": "2019-05-07T00:00:00.000Z",
+  "roundId": 4,
+  "player1Id": 14620,
+  "player2Id": 55679,
+  "tournamentId": 12638,
+  "match_winner": 14620,
+  "result": "6-1 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 55679,
+   "name": "Shelby Prince",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12638,
+   "name": "W15 Williamsburg 1",
+   "courtId": 2,
+   "date": "2019-05-06T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:04:00",
+   "player1": {
+    "firstServe": 34,
+    "firstServeOf": 49,
+    "aces": 1,
+    "doubleFaults": 3,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 23,
+    "winningOnFirstServeOf": 34,
+    "winningOnSecondServe": 10,
+    "winningOnSecondServeOf": 15,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 5,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 56,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 20,
+    "firstServeOf": 38,
+    "aces": 2,
+    "doubleFaults": 5,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 9,
+    "winningOnFirstServeOf": 20,
+    "winningOnSecondServe": 6,
+    "winningOnSecondServeOf": 18,
+    "winners": null,
+    "breakPointsConverted": 1,
+    "breakPointsConvertedOf": 3,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 31,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "515891",
+  "matchId": "515891",
+  "date": "2019-05-06T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14620,
+  "player2Id": 18414,
+  "tournamentId": 12638,
+  "match_winner": 14620,
+  "result": "6-1 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 18414,
+   "name": "Arijana Korac",
+   "countryAcr": "SWE"
+  },
+  "tournament": {
+   "id": 12638,
+   "name": "W15 Williamsburg 1",
+   "courtId": 2,
+   "date": "2019-05-06T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "458358",
+  "matchId": "458358",
+  "date": "2018-07-28T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 34747,
+  "player2Id": 14620,
+  "tournamentId": 11790,
+  "match_winner": 34747,
+  "result": "6-0 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.021",
+  "odd2": "17.5",
+  "player1": {
+   "id": 34747,
+   "name": "Anna Blinkova",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 11790,
+   "name": "Mubadala Silicon Valley Classic - San Jose",
+   "courtId": 1,
+   "date": "2018-07-30T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:56:14",
+   "player1": {
+    "firstServe": 27,
+    "firstServeOf": 53,
+    "aces": 2,
+    "doubleFaults": 5,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 19,
+    "winningOnFirstServeOf": 27,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 26,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 9,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 57,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 24,
+    "firstServeOf": 40,
+    "aces": 0,
+    "doubleFaults": 4,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 9,
+    "winningOnFirstServeOf": 24,
+    "winningOnSecondServe": 5,
+    "winningOnSecondServeOf": 16,
+    "winners": null,
+    "breakPointsConverted": 2,
+    "breakPointsConvertedOf": 3,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 36,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "477301",
+  "matchId": "477301",
+  "date": "2018-06-11T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 17764,
+  "player2Id": 14620,
+  "tournamentId": 12061,
+  "match_winner": 17764,
+  "result": "3-6 6-4 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 17764,
+   "name": "Alice Garcia",
+   "countryAcr": "BRA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12061,
+   "name": "Sumter",
+   "courtId": 1,
+   "date": "2018-06-11T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "477353",
+  "matchId": "477353",
+  "date": "2018-06-11T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14620,
+  "player2Id": 50107,
+  "tournamentId": 12061,
+  "match_winner": 14620,
+  "result": "6-2 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 50107,
+   "name": "Emily Dunbar",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 12061,
+   "name": "Sumter",
+   "courtId": 1,
+   "date": "2018-06-11T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "476026",
+  "matchId": "476026",
+  "date": "2018-06-05T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 18294,
+  "player2Id": 14620,
+  "tournamentId": 12044,
+  "match_winner": 18294,
+  "result": "6-2 7-6(2)",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 18294,
+   "name": "Andie K. Daniell",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14620,
+   "name": "Sybille Gauvain",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 12044,
+   "name": "Bethany Beach",
+   "courtId": 2,
+   "date": "2018-06-04T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ }
+]

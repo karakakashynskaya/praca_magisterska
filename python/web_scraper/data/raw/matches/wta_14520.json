@@ -1,0 +1,1901 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "638160",
+    "date": "2023-04-23T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 45854,
+    "player2Id": 18455,
+    "tournamentId": 14520,
+    "match_winner": 45854,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638146",
+    "date": "2023-04-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 11449,
+    "tournamentId": 14520,
+    "match_winner": 45854,
+    "result": "3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.91",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638167",
+    "date": "2023-04-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 40156,
+    "tournamentId": 14520,
+    "match_winner": 18455,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638141",
+    "date": "2023-04-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 7982,
+    "tournamentId": 14520,
+    "match_winner": 45854,
+    "result": "4-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.222",
+    "odd2": "4.3",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638143",
+    "date": "2023-04-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 40156,
+    "player2Id": 10455,
+    "tournamentId": 14520,
+    "match_winner": 40156,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.83",
+    "odd2": "1.98",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638148",
+    "date": "2023-04-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11449,
+    "player2Id": 13094,
+    "tournamentId": 14520,
+    "match_winner": 11449,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638156",
+    "date": "2023-04-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 17142,
+    "tournamentId": 14520,
+    "match_winner": 18455,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638138",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 4110,
+    "tournamentId": 14520,
+    "match_winner": 10455,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638150",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 13498,
+    "tournamentId": 14520,
+    "match_winner": 7982,
+    "result": "6-2 6-7(5) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638161",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 24344,
+    "tournamentId": 14520,
+    "match_winner": 17142,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.1",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638165",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13094,
+    "player2Id": 36558,
+    "tournamentId": 14520,
+    "match_winner": 13094,
+    "result": "6-1 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638172",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 53128,
+    "tournamentId": 14520,
+    "match_winner": 45854,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.45",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638174",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40156,
+    "player2Id": 54663,
+    "tournamentId": 14520,
+    "match_winner": 40156,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638149",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 13267,
+    "tournamentId": 14520,
+    "match_winner": 18455,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638151",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 13541,
+    "tournamentId": 14520,
+    "match_winner": 7982,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.83",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638154",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 16119,
+    "tournamentId": 14520,
+    "match_winner": 54663,
+    "result": "6-2 4-6 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638155",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 16628,
+    "tournamentId": 14520,
+    "match_winner": 11449,
+    "result": "1-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638168",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 45192,
+    "tournamentId": 14520,
+    "match_winner": 36558,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638140",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 7574,
+    "tournamentId": 14520,
+    "match_winner": 40156,
+    "result": "6-3 3-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638144",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13094,
+    "player2Id": 10738,
+    "tournamentId": 14520,
+    "match_winner": 13094,
+    "result": "7-5 1-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638157",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 17503,
+    "tournamentId": 14520,
+    "match_winner": 17142,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638162",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 24368,
+    "tournamentId": 14520,
+    "match_winner": 13267,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.41",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638163",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 26693,
+    "tournamentId": 14520,
+    "match_winner": 4110,
+    "result": "6-2 4-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.86",
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 26693,
+     "name": "Ylena In-Albon",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638173",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 53487,
+    "tournamentId": 14520,
+    "match_winner": 16628,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.76",
+    "odd2": "2.07",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638152",
+    "date": "2023-04-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 14054,
+    "tournamentId": 14520,
+    "match_winner": 13498,
+    "result": "7-6(7) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638153",
+    "date": "2023-04-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24344,
+    "player2Id": 14694,
+    "tournamentId": 14520,
+    "match_winner": 24344,
+    "result": "3-6 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638170",
+    "date": "2023-04-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53128,
+    "player2Id": 45540,
+    "tournamentId": 14520,
+    "match_winner": 53128,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.46",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "638187",
+    "date": "2023-04-23T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 78230,
+    "player2Id": 86038,
+    "tournamentId": 14520,
+    "match_winner": 78230,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86038,
+     "name": "Nicole Melichar/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638175",
+    "date": "2023-04-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78230,
+    "player2Id": 55381,
+    "tournamentId": 14520,
+    "match_winner": 78230,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55381,
+     "name": "Alexa Guarachi/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638176",
+    "date": "2023-04-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 86038,
+    "player2Id": 57370,
+    "tournamentId": 14520,
+    "match_winner": 86038,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 86038,
+     "name": "Nicole Melichar/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57370,
+     "name": "Veronika Kudermetova/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638180",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 55381,
+    "player2Id": 71500,
+    "tournamentId": 14520,
+    "match_winner": 55381,
+    "result": "7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.4",
+    "odd2": "1.183",
+    "player1": {
+     "id": 55381,
+     "name": "Alexa Guarachi/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638188",
+    "date": "2023-04-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 86038,
+    "player2Id": 86040,
+    "tournamentId": 14520,
+    "match_winner": 86038,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.38",
+    "player1": {
+     "id": 86038,
+     "name": "Nicole Melichar/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86040,
+     "name": "Miriam Skoch/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638178",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71500,
+    "player2Id": 65071,
+    "tournamentId": 14520,
+    "match_winner": 71500,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65071,
+     "name": "Mona Barthel/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638181",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86040,
+    "player2Id": 72046,
+    "tournamentId": 14520,
+    "match_winner": 86040,
+    "result": "3-6 6-2 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.1",
+    "odd2": "1.333",
+    "player1": {
+     "id": 86040,
+     "name": "Miriam Skoch/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638184",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 57370,
+    "player2Id": 79446,
+    "tournamentId": 14520,
+    "match_winner": 57370,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.64",
+    "player1": {
+     "id": 57370,
+     "name": "Veronika Kudermetova/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638189",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 55381,
+    "player2Id": 86041,
+    "tournamentId": 14520,
+    "match_winner": 55381,
+    "result": "6-4 1-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.73",
+    "player1": {
+     "id": 55381,
+     "name": "Alexa Guarachi/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86041,
+     "name": "Monica Niculescu/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638191",
+    "date": "2023-04-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78230,
+    "player2Id": 86043,
+    "tournamentId": 14520,
+    "match_winner": 78230,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86043,
+     "name": "Tereza Mihalikova/Alycia Parks",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638183",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86038,
+    "player2Id": 77223,
+    "tournamentId": 14520,
+    "match_winner": 86038,
+    "result": "6-3 3-6 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.22",
+    "player1": {
+     "id": 86038,
+     "name": "Nicole Melichar/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77223,
+     "name": "Vivian Heisen/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638185",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79446,
+    "player2Id": 80517,
+    "tournamentId": 14520,
+    "match_winner": 79446,
+    "result": "2-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 80517,
+     "name": "Cristina Bucsa/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638186",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78230,
+    "player2Id": 82933,
+    "tournamentId": 14520,
+    "match_winner": 78230,
+    "result": "6-3 4-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82933,
+     "name": "Nadiya Kichenok/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638190",
+    "date": "2023-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86043,
+    "player2Id": 86042,
+    "tournamentId": 14520,
+    "match_winner": 86043,
+    "result": "6-3 3-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 86043,
+     "name": "Tereza Mihalikova/Alycia Parks",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86042,
+     "name": "Alexandra Panova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638164",
+    "date": "2023-04-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57370,
+    "player2Id": 26936,
+    "tournamentId": 14520,
+    "match_winner": 57370,
+    "result": "3-6 6-4 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57370,
+     "name": "Veronika Kudermetova/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "638139",
+    "date": "2023-04-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 7574,
+    "player2Id": 6037,
+    "tournamentId": 14520,
+    "match_winner": 7574,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.64",
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638169",
+    "date": "2023-04-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14694,
+    "player2Id": 45540,
+    "tournamentId": 14520,
+    "match_winner": 14694,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638171",
+    "date": "2023-04-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24344,
+    "player2Id": 52790,
+    "tournamentId": 14520,
+    "match_winner": 24344,
+    "result": "7-5 6-7(4) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638179",
+    "date": "2023-04-16T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 26693,
+    "player2Id": 65912,
+    "tournamentId": 14520,
+    "match_winner": 26693,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26693,
+     "name": "Ylena In-Albon",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638142",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26693,
+    "player2Id": 9669,
+    "tournamentId": 14520,
+    "match_winner": 26693,
+    "result": "6-3 6-7(2) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26693,
+     "name": "Ylena In-Albon",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638145",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7574,
+    "player2Id": 11205,
+    "tournamentId": 14520,
+    "match_winner": 7574,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.114",
+    "odd2": "5.7",
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638147",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14694,
+    "player2Id": 12059,
+    "tournamentId": 14520,
+    "match_winner": 14694,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12059,
+     "name": "Kathinka Von Deichmann",
+     "countryAcr": "LIE"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638158",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45540,
+    "player2Id": 17673,
+    "tournamentId": 14520,
+    "match_winner": 45540,
+    "result": "1-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.01",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638159",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6037,
+    "player2Id": 18427,
+    "tournamentId": 14520,
+    "match_winner": 6037,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638166",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52790,
+    "player2Id": 37266,
+    "tournamentId": 14520,
+    "match_winner": 52790,
+    "result": "2-6 7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.13",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638177",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 59575,
+    "tournamentId": 14520,
+    "match_winner": 24344,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 59575,
+     "name": "Noma Akugue Noha",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "638182",
+    "date": "2023-04-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65912,
+    "player2Id": 72064,
+    "tournamentId": 14520,
+    "match_winner": 65912,
+    "result": "7-6(5) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.071",
+    "odd2": "7.2",
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14520,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2023-04-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

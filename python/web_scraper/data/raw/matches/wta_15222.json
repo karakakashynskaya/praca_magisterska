@@ -1,0 +1,5646 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "763520",
+    "date": "2024-05-18T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 45854,
+    "player2Id": 18455,
+    "tournamentId": 15222,
+    "match_winner": 45854,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763479",
+    "date": "2024-05-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 11575,
+    "tournamentId": 15222,
+    "match_winner": 18455,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763565",
+    "date": "2024-05-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 54663,
+    "tournamentId": 15222,
+    "match_winner": 45854,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763459",
+    "date": "2024-05-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11575,
+    "player2Id": 5416,
+    "tournamentId": 15222,
+    "match_winner": 11575,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763510",
+    "date": "2024-05-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 16628,
+    "tournamentId": 15222,
+    "match_winner": 18455,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763480",
+    "date": "2024-05-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 11672,
+    "tournamentId": 15222,
+    "match_winner": 45854,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.096",
+    "odd2": "7.2",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763563",
+    "date": "2024-05-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 54663,
+    "player2Id": 53128,
+    "tournamentId": 15222,
+    "match_winner": 54663,
+    "result": "7-6(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763455",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 45854,
+    "player2Id": 4076,
+    "tournamentId": 15222,
+    "match_winner": 45854,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.039",
+    "odd2": "11.25",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763460",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11672,
+    "player2Id": 6019,
+    "tournamentId": 15222,
+    "match_winner": 11672,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763461",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11575,
+    "player2Id": 6651,
+    "tournamentId": 15222,
+    "match_winner": 11575,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.1",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763477",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 18455,
+    "player2Id": 11371,
+    "tournamentId": 15222,
+    "match_winner": 18455,
+    "result": "4-6 6-1 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763494",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 5416,
+    "player2Id": 13541,
+    "tournamentId": 15222,
+    "match_winner": 5416,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763509",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 53128,
+    "player2Id": 16430,
+    "tournamentId": 15222,
+    "match_winner": 53128,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763512",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 16628,
+    "player2Id": 17062,
+    "tournamentId": 15222,
+    "match_winner": 16628,
+    "result": "4-6 6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763513",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 54663,
+    "player2Id": 17142,
+    "tournamentId": 15222,
+    "match_winner": 54663,
+    "result": "5-7 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.6",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763472",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11575,
+    "player2Id": 10455,
+    "tournamentId": 15222,
+    "match_winner": 11575,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.92",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763492",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 6651,
+    "player2Id": 13351,
+    "tournamentId": 15222,
+    "match_winner": 6651,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763496",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 13706,
+    "tournamentId": 15222,
+    "match_winner": 5416,
+    "result": "6-2 6-7(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.54",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763497",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16628,
+    "player2Id": 13839,
+    "tournamentId": 15222,
+    "match_winner": 16628,
+    "result": "6-4 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763507",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13541,
+    "player2Id": 16043,
+    "tournamentId": 15222,
+    "match_winner": 13541,
+    "result": "7-6(4) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.22",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763522",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17062,
+    "player2Id": 23432,
+    "tournamentId": 15222,
+    "match_winner": 17062,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763535",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 32480,
+    "tournamentId": 15222,
+    "match_winner": 11371,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.1",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763538",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 37266,
+    "tournamentId": 15222,
+    "match_winner": 18455,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763485",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 12390,
+    "tournamentId": 15222,
+    "match_winner": 45854,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.047",
+    "odd2": "10.5",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763488",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 4076,
+    "player2Id": 12842,
+    "tournamentId": 15222,
+    "match_winner": 4076,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.26",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763490",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11672,
+    "player2Id": 13094,
+    "tournamentId": 15222,
+    "match_winner": 11672,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763516",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16430,
+    "player2Id": 17503,
+    "tournamentId": 15222,
+    "match_winner": 16430,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763518",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 17614,
+    "tournamentId": 15222,
+    "match_winner": 54663,
+    "result": "6-1 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.119",
+    "odd2": "6.3",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763534",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 6019,
+    "player2Id": 32168,
+    "tournamentId": 15222,
+    "match_winner": 6019,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.73",
+    "odd2": "1.46",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763581",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17142,
+    "player2Id": 65911,
+    "tournamentId": 15222,
+    "match_winner": 17142,
+    "result": "5-7 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.16",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763584",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 53128,
+    "player2Id": 66597,
+    "tournamentId": 15222,
+    "match_winner": 53128,
+    "result": "3-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763457",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 4121,
+    "tournamentId": 15222,
+    "match_winner": 11371,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.22",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763458",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 37266,
+    "player2Id": 4177,
+    "tournamentId": 15222,
+    "match_winner": 37266,
+    "result": "4-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.03",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763462",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13839,
+    "player2Id": 6740,
+    "tournamentId": 15222,
+    "match_winner": 13839,
+    "result": "6-3 1-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763467",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 9357,
+    "tournamentId": 15222,
+    "match_winner": 5416,
+    "result": "6-7(5) 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763469",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16043,
+    "player2Id": 9857,
+    "tournamentId": 15222,
+    "match_winner": 16043,
+    "result": "2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763478",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23432,
+    "player2Id": 11449,
+    "tournamentId": 15222,
+    "match_winner": 23432,
+    "result": "7-5 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763499",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17062,
+    "player2Id": 14175,
+    "tournamentId": 15222,
+    "match_winner": 17062,
+    "result": "6-4 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.909",
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763501",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13706,
+    "player2Id": 14362,
+    "tournamentId": 15222,
+    "match_winner": 13706,
+    "result": "7-6(4) 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.92",
+    "odd2": "1.41",
+    "player1": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763515",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 17501,
+    "tournamentId": 15222,
+    "match_winner": 13351,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.909",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763537",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 34747,
+    "tournamentId": 15222,
+    "match_winner": 11575,
+    "result": "6-4 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.191",
+    "odd2": "4.7",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763542",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 40156,
+    "tournamentId": 15222,
+    "match_winner": 16628,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763550",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 44510,
+    "tournamentId": 15222,
+    "match_winner": 13541,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.146",
+    "odd2": "5.6",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763562",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 52790,
+    "tournamentId": 15222,
+    "match_winner": 18455,
+    "result": "4-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763566",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 54664,
+    "tournamentId": 15222,
+    "match_winner": 10455,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763567",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 54989,
+    "tournamentId": 15222,
+    "match_winner": 32480,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763456",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 4110,
+    "tournamentId": 15222,
+    "match_winner": 17503,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.166",
+    "odd2": "5.15",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763464",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 7022,
+    "tournamentId": 15222,
+    "match_winner": 44510,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 7022,
+     "name": "Federica Di Sarra",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763468",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 9728,
+    "tournamentId": 15222,
+    "match_winner": 32168,
+    "result": "6-2 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763470",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 10033,
+    "tournamentId": 15222,
+    "match_winner": 12390,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.07",
+    "odd2": "1.76",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763471",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54989,
+    "player2Id": 10334,
+    "tournamentId": 15222,
+    "match_winner": 54989,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763484",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53128,
+    "player2Id": 12267,
+    "tournamentId": 15222,
+    "match_winner": 53128,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763489",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52790,
+    "player2Id": 12882,
+    "tournamentId": 15222,
+    "match_winner": 52790,
+    "result": "7-6(6) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763498",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12842,
+    "player2Id": 14054,
+    "tournamentId": 15222,
+    "match_winner": 12842,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.875",
+    "odd2": "1.42",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763500",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 14259,
+    "tournamentId": 15222,
+    "match_winner": 45854,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.014",
+    "odd2": "15.25",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763502",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13839,
+    "player2Id": 14448,
+    "tournamentId": 15222,
+    "match_winner": 13839,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763504",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6651,
+    "player2Id": 14539,
+    "tournamentId": 15222,
+    "match_winner": 6651,
+    "result": "5-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763508",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 16119,
+    "tournamentId": 15222,
+    "match_winner": 4076,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763514",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 17155,
+    "tournamentId": 15222,
+    "match_winner": 54663,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.088",
+    "odd2": "7.5",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763519",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54664,
+    "player2Id": 18403,
+    "tournamentId": 15222,
+    "match_winner": 54664,
+    "result": "4-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763524",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65911,
+    "player2Id": 24368,
+    "tournamentId": 15222,
+    "match_winner": 65911,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.6",
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763531",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 28732,
+    "tournamentId": 15222,
+    "match_winner": 6651,
+    "result": "5-7 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763532",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 30797,
+    "tournamentId": 15222,
+    "match_winner": 4177,
+    "result": "2-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763536",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66597,
+    "player2Id": 32633,
+    "tournamentId": 15222,
+    "match_winner": 66597,
+    "result": "6-3 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.196",
+    "odd2": "4.65",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763543",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4121,
+    "player2Id": 41564,
+    "tournamentId": 15222,
+    "match_winner": 4121,
+    "result": "4-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.6",
+    "odd2": "1.5",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763547",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 42098,
+    "tournamentId": 15222,
+    "match_winner": 17142,
+    "result": "1-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763548",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 43872,
+    "tournamentId": 15222,
+    "match_winner": 40156,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.39",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763549",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 44040,
+    "tournamentId": 15222,
+    "match_winner": 11672,
+    "result": "6-0 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763554",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13094,
+    "player2Id": 47152,
+    "tournamentId": 15222,
+    "match_winner": 13094,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.65",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763556",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 47742,
+    "tournamentId": 15222,
+    "match_winner": 16430,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763564",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17614,
+    "player2Id": 54123,
+    "tournamentId": 15222,
+    "match_winner": 17614,
+    "result": "5-7 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763589",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17062,
+    "player2Id": 71129,
+    "tournamentId": 15222,
+    "match_winner": 17062,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.45",
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 71129,
+     "name": "Georgia Pedone",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763590",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6019,
+    "player2Id": 71436,
+    "tournamentId": 15222,
+    "match_winner": 6019,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.02",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 71436,
+     "name": "Brenda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763465",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13706,
+    "player2Id": 7574,
+    "tournamentId": 15222,
+    "match_winner": 13706,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763481",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 12089,
+    "tournamentId": 15222,
+    "match_winner": 9357,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763491",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 13265,
+    "tournamentId": 15222,
+    "match_winner": 12842,
+    "result": "6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763493",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9857,
+    "player2Id": 13498,
+    "tournamentId": 15222,
+    "match_winner": 9857,
+    "result": "6-2 3-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763495",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71436,
+    "player2Id": 13621,
+    "tournamentId": 15222,
+    "match_winner": 71436,
+    "result": "3-6 6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71436,
+     "name": "Brenda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763523",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54123,
+    "player2Id": 24344,
+    "tournamentId": 15222,
+    "match_winner": 54123,
+    "result": "6-7(3) 6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.83",
+    "player1": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763528",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 27032,
+    "tournamentId": 15222,
+    "match_winner": 23432,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.78",
+    "odd2": "1.444",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763530",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 28585,
+    "tournamentId": 15222,
+    "match_winner": 14259,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763544",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 41858,
+    "tournamentId": 15222,
+    "match_winner": 16430,
+    "result": "7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.78",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 41858,
+     "name": "Clara Burel",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763546",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17501,
+    "player2Id": 42096,
+    "tournamentId": 15222,
+    "match_winner": 17501,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.115",
+    "odd2": "6.45",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 42096,
+     "name": "Nuria Brancaccio",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763560",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 34747,
+    "player2Id": 51151,
+    "tournamentId": 15222,
+    "match_winner": 34747,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763582",
+    "date": "2024-05-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 65912,
+    "tournamentId": 15222,
+    "match_winner": 4110,
+    "result": "7-6(5) 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.96",
+    "odd2": "1.85",
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763463",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 6933,
+    "tournamentId": 15222,
+    "match_winner": 44040,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763473",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 10738,
+    "tournamentId": 15222,
+    "match_winner": 12390,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763483",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4076,
+    "player2Id": 12205,
+    "tournamentId": 15222,
+    "match_winner": 4076,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763526",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65911,
+    "player2Id": 26356,
+    "tournamentId": 15222,
+    "match_winner": 65911,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763539",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 37410,
+    "tournamentId": 15222,
+    "match_winner": 47152,
+    "result": "4-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.65",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763559",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9728,
+    "player2Id": 49081,
+    "tournamentId": 15222,
+    "match_winner": 9728,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.46",
+    "odd2": "1.55",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763569",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 57375,
+    "tournamentId": 15222,
+    "match_winner": 12267,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 57375,
+     "name": "Lisa Pigato",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763577",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17155,
+    "player2Id": 64343,
+    "tournamentId": 15222,
+    "match_winner": 17155,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.68",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763594",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 77934,
+    "tournamentId": 15222,
+    "match_winner": 17142,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763597",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32633,
+    "player2Id": 81178,
+    "tournamentId": 15222,
+    "match_winner": 32633,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 81178,
+     "name": "Vittoria Paganetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "763611",
+    "date": "2024-05-19T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 65079,
+    "player2Id": 93779,
+    "tournamentId": 15222,
+    "match_winner": 65079,
+    "result": "6-3 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93779,
+     "name": "Cori Gauff/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763593",
+    "date": "2024-05-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 93779,
+    "player2Id": 75432,
+    "tournamentId": 15222,
+    "match_winner": 93779,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93779,
+     "name": "Cori Gauff/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75432,
+     "name": "Xinyu Wang/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763601",
+    "date": "2024-05-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 65079,
+    "player2Id": 91775,
+    "tournamentId": 15222,
+    "match_winner": 65079,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763592",
+    "date": "2024-05-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 75432,
+    "player2Id": 73265,
+    "tournamentId": 15222,
+    "match_winner": 75432,
+    "result": "6-0 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75432,
+     "name": "Xinyu Wang/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763612",
+    "date": "2024-05-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 93779,
+    "player2Id": 93781,
+    "tournamentId": 15222,
+    "match_winner": 93779,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.86",
+    "player1": {
+     "id": 93779,
+     "name": "Cori Gauff/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763527",
+    "date": "2024-05-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 65079,
+    "player2Id": 26936,
+    "tournamentId": 15222,
+    "match_winner": 65079,
+    "result": "6-3 5-7 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763598",
+    "date": "2024-05-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 91775,
+    "player2Id": 86349,
+    "tournamentId": 15222,
+    "match_winner": 91775,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.64",
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763521",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 93781,
+    "player2Id": 21932,
+    "tournamentId": 15222,
+    "match_winner": 93781,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763588",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 86349,
+    "player2Id": 70591,
+    "tournamentId": 15222,
+    "match_winner": 86349,
+    "result": "5-7 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70591,
+     "name": "Angelica Moratelli/Camilla Rosatello",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763607",
+    "date": "2024-05-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 93431,
+    "tournamentId": 15222,
+    "match_winner": 26936,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.39",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93431,
+     "name": "Leylah Annie Fernandez/Arantxa Rus",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763585",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 73265,
+    "player2Id": 68431,
+    "tournamentId": 15222,
+    "match_winner": 73265,
+    "result": "6-4 4-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.2",
+    "player1": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763602",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 91775,
+    "player2Id": 92427,
+    "tournamentId": 15222,
+    "match_winner": 91775,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.45",
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92427,
+     "name": "Anhelina Kalinina/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763608",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 93779,
+    "player2Id": 93433,
+    "tournamentId": 15222,
+    "match_winner": 93779,
+    "result": "4-6 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.19",
+    "player1": {
+     "id": 93779,
+     "name": "Cori Gauff/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93433,
+     "name": "Mirra Andreeva/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763616",
+    "date": "2024-05-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65079,
+    "player2Id": 93785,
+    "tournamentId": 15222,
+    "match_winner": 65079,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93785,
+     "name": "Anastasia Abbagnato/Aurora Zantedeschi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763583",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93781,
+    "player2Id": 66041,
+    "tournamentId": 15222,
+    "match_winner": 93781,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66041,
+     "name": "Shuko Aoyama/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763595",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65079,
+    "player2Id": 78908,
+    "tournamentId": 15222,
+    "match_winner": 65079,
+    "result": "5-7 7-6(6) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.74",
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763599",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68431,
+    "player2Id": 89712,
+    "tournamentId": 15222,
+    "match_winner": 68431,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89712,
+     "name": "Miyu Kato/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763603",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93433,
+    "player2Id": 92859,
+    "tournamentId": 15222,
+    "match_winner": 93433,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.15",
+    "player1": {
+     "id": 93433,
+     "name": "Mirra Andreeva/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92859,
+     "name": "Magda Linette/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763610",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73265,
+    "player2Id": 93778,
+    "tournamentId": 15222,
+    "match_winner": 73265,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.077",
+    "odd2": "7",
+    "player1": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93778,
+     "name": "Anna Kalinskaya/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763614",
+    "date": "2024-05-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26936,
+    "player2Id": 93783,
+    "tournamentId": 15222,
+    "match_winner": 26936,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.22",
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93783,
+     "name": "Anna Bondar/Cristina Bucsa",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763558",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70591,
+    "player2Id": 48573,
+    "tournamentId": 15222,
+    "match_winner": 70591,
+    "result": "6-7(4) 6-4 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.62",
+    "odd2": "1.45",
+    "player1": {
+     "id": 70591,
+     "name": "Angelica Moratelli/Camilla Rosatello",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763572",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 92863,
+    "player2Id": 58938,
+    "tournamentId": 15222,
+    "match_winner": 92863,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58938,
+     "name": "Anna Danilina/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763596",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93779,
+    "player2Id": 81146,
+    "tournamentId": 15222,
+    "match_winner": 93779,
+    "result": "4-6 6-3 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93779,
+     "name": "Cori Gauff/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81146,
+     "name": "Xiyu Wang/Yue Yuan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763600",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86349,
+    "player2Id": 91547,
+    "tournamentId": 15222,
+    "match_winner": 86349,
+    "result": "6-4 6-7(3) 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.44",
+    "player1": {
+     "id": 86349,
+     "name": "Giuliana Olmos/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91547,
+     "name": "Demi Schuurs/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763605",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 21932,
+    "player2Id": 93110,
+    "tournamentId": 15222,
+    "match_winner": 21932,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.68",
+    "player1": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93110,
+     "name": "Asia Muhammad/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763606",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75432,
+    "player2Id": 93429,
+    "tournamentId": 15222,
+    "match_winner": 75432,
+    "result": "6-3 1-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75432,
+     "name": "Xinyu Wang/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93429,
+     "name": "Heather Watson/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763609",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93431,
+    "player2Id": 93435,
+    "tournamentId": 15222,
+    "match_winner": 93431,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.21",
+    "player1": {
+     "id": 93431,
+     "name": "Leylah Annie Fernandez/Arantxa Rus",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93435,
+     "name": "Monica Niculescu/Alycia Parks",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763613",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91775,
+    "player2Id": 93782,
+    "tournamentId": 15222,
+    "match_winner": 91775,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.72",
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93782,
+     "name": "Sloane Stephens/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763615",
+    "date": "2024-05-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93785,
+    "player2Id": 93784,
+    "tournamentId": 15222,
+    "match_winner": 93785,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93785,
+     "name": "Anastasia Abbagnato/Aurora Zantedeschi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93784,
+     "name": "Lucia Bronzetti/Linda Noskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763591",
+    "date": "2024-05-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 92427,
+    "player2Id": 72048,
+    "tournamentId": 15222,
+    "match_winner": 92427,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.615",
+    "player1": {
+     "id": 92427,
+     "name": "Anhelina Kalinina/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72048,
+     "name": "Ekaterina Alexandrova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "763474",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 65912,
+    "player2Id": 10749,
+    "tournamentId": 15222,
+    "match_winner": 65912,
+    "result": "6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763475",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12842,
+    "player2Id": 10791,
+    "tournamentId": 15222,
+    "match_winner": 12842,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763486",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 18403,
+    "player2Id": 12432,
+    "tournamentId": 15222,
+    "match_winner": 18403,
+    "result": "6-4 2-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763487",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 28732,
+    "player2Id": 12570,
+    "tournamentId": 15222,
+    "match_winner": 28732,
+    "result": "6-7(3) 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.3",
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763503",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 71436,
+    "player2Id": 14539,
+    "tournamentId": 15222,
+    "match_winner": 71436,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71436,
+     "name": "Brenda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763517",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 44510,
+    "player2Id": 17614,
+    "tournamentId": 15222,
+    "match_winner": 44510,
+    "result": "3-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763533",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14259,
+    "player2Id": 31728,
+    "tournamentId": 15222,
+    "match_winner": 14259,
+    "result": "3-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.56",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763541",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 54989,
+    "player2Id": 39749,
+    "tournamentId": 15222,
+    "match_winner": 54989,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.83",
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763545",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52790,
+    "player2Id": 41888,
+    "tournamentId": 15222,
+    "match_winner": 52790,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763561",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4177,
+    "player2Id": 52500,
+    "tournamentId": 15222,
+    "match_winner": 4177,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.3",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763578",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17062,
+    "player2Id": 64937,
+    "tournamentId": 15222,
+    "match_winner": 17062,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.4",
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 64937,
+     "name": "Darja Semenistaja",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763587",
+    "date": "2024-05-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30797,
+    "player2Id": 70326,
+    "tournamentId": 15222,
+    "match_winner": 30797,
+    "result": "4-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.68",
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 70326,
+     "name": "Taylah Preston",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763466",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18403,
+    "player2Id": 8894,
+    "tournamentId": 15222,
+    "match_winner": 18403,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 8894,
+     "name": "Nuria Parrizas-Diaz",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763476",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 11071,
+    "tournamentId": 15222,
+    "match_winner": 14259,
+    "result": "7-6(0) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.89",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763482",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52500,
+    "player2Id": 12116,
+    "tournamentId": 15222,
+    "match_winner": 52500,
+    "result": "6-1 4-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52500,
+     "name": "Julia Riera",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763505",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17062,
+    "player2Id": 14609,
+    "tournamentId": 15222,
+    "match_winner": 17062,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763506",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54989,
+    "player2Id": 14902,
+    "tournamentId": 15222,
+    "match_winner": 54989,
+    "result": "6-4 4-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.42",
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763511",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41888,
+    "player2Id": 16664,
+    "tournamentId": 15222,
+    "match_winner": 41888,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763525",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14539,
+    "player2Id": 25062,
+    "tournamentId": 15222,
+    "match_winner": 14539,
+    "result": "5-7 6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.727",
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 25062,
+     "name": "Dalma Galfi",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763529",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65912,
+    "player2Id": 27243,
+    "tournamentId": 15222,
+    "match_winner": 65912,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 27243,
+     "name": "Yuriko Miyazaki",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763540",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30797,
+    "player2Id": 39540,
+    "tournamentId": 15222,
+    "match_winner": 30797,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.47",
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763551",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 39749,
+    "player2Id": 45072,
+    "tournamentId": 15222,
+    "match_winner": 39749,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.26",
+    "player1": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763552",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 71436,
+    "player2Id": 45192,
+    "tournamentId": 15222,
+    "match_winner": 71436,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71436,
+     "name": "Brenda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763553",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 45540,
+    "tournamentId": 15222,
+    "match_winner": 12842,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763555",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 31728,
+    "player2Id": 47153,
+    "tournamentId": 15222,
+    "match_winner": 31728,
+    "result": "6-4 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763557",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17614,
+    "player2Id": 48254,
+    "tournamentId": 15222,
+    "match_winner": 17614,
+    "result": "4-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.35",
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763568",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 64937,
+    "player2Id": 57090,
+    "tournamentId": 15222,
+    "match_winner": 64937,
+    "result": "4-6 6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.47",
+    "odd2": "1.5",
+    "player1": {
+     "id": 64937,
+     "name": "Darja Semenistaja",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763570",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12432,
+    "player2Id": 57513,
+    "tournamentId": 15222,
+    "match_winner": 12432,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.031",
+    "odd2": "9.9",
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 57513,
+     "name": "Anastasia Abbagnato",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763571",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44510,
+    "player2Id": 58602,
+    "tournamentId": 15222,
+    "match_winner": 44510,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 58602,
+     "name": "Eleonora Alvisi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763573",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 70326,
+    "player2Id": 60792,
+    "tournamentId": 15222,
+    "match_winner": 70326,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.49",
+    "player1": {
+     "id": 70326,
+     "name": "Taylah Preston",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 60792,
+     "name": "Maria Timofeeva",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763574",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52790,
+    "player2Id": 62729,
+    "tournamentId": 15222,
+    "match_winner": 52790,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 62729,
+     "name": "Jennifer Ruggeri",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763575",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 63282,
+    "tournamentId": 15222,
+    "match_winner": 4177,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.109",
+    "odd2": "5.9",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 63282,
+     "name": "Beatrice Ricci",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763576",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28732,
+    "player2Id": 63291,
+    "tournamentId": 15222,
+    "match_winner": 28732,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.088",
+    "odd2": "6.55",
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 63291,
+     "name": "Sofia Rocchetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763579",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 65791,
+    "tournamentId": 15222,
+    "match_winner": 10749,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.188",
+    "odd2": "4.35",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 65791,
+     "name": "Silvia Ambrosio",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763580",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10791,
+    "player2Id": 65910,
+    "tournamentId": 15222,
+    "match_winner": 10791,
+    "result": "2-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 65910,
+     "name": "Zhuoxuan Bai",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763586",
+    "date": "2024-05-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12570,
+    "player2Id": 69652,
+    "tournamentId": 15222,
+    "match_winner": 12570,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.84",
+    "odd2": "1.39",
+    "player1": {
+     "id": 12570,
+     "name": "Laura Pigossi",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15222,
+     "name": "Internazionali BNL d'Italia - Rome",
+     "courtId": 2,
+     "date": "2024-05-06T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ITA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

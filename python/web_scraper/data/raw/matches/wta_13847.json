@@ -1,0 +1,1866 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "593155",
+    "date": "2022-04-24T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 45854,
+    "player2Id": 18455,
+    "tournamentId": 13847,
+    "match_winner": 45854,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.59",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593152",
+    "date": "2022-04-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 17142,
+    "tournamentId": 13847,
+    "match_winner": 18455,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.71",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593158",
+    "date": "2022-04-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 24368,
+    "tournamentId": 13847,
+    "match_winner": 45854,
+    "result": "6-7(4) 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.089",
+    "odd2": "8.8",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593134",
+    "date": "2022-04-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24368,
+    "player2Id": 4177,
+    "tournamentId": 13847,
+    "match_winner": 24368,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593142",
+    "date": "2022-04-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17142,
+    "player2Id": 11449,
+    "tournamentId": 13847,
+    "match_winner": 17142,
+    "result": "7-6(9) 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593145",
+    "date": "2022-04-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 13385,
+    "tournamentId": 13847,
+    "match_winner": 18455,
+    "result": "6-4 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593168",
+    "date": "2022-04-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 53487,
+    "tournamentId": 13847,
+    "match_winner": 45854,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.087",
+    "odd2": "9",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593138",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 7982,
+    "tournamentId": 13847,
+    "match_winner": 24368,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.75",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593146",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4177,
+    "player2Id": 13541,
+    "tournamentId": 13847,
+    "match_winner": 4177,
+    "result": "6-4 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593148",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 14054,
+    "tournamentId": 13847,
+    "match_winner": 13385,
+    "result": "2-6 6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.57",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593150",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53487,
+    "player2Id": 14694,
+    "tournamentId": 13847,
+    "match_winner": 53487,
+    "result": "6-0 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593154",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 17503,
+    "tournamentId": 13847,
+    "match_winner": 11449,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "3.1",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593162",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 36558,
+    "tournamentId": 13847,
+    "match_winner": 17142,
+    "result": "6-2 4-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593163",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 39226,
+    "tournamentId": 13847,
+    "match_winner": 18455,
+    "result": "6-1 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593133",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 4076,
+    "tournamentId": 13847,
+    "match_winner": 13385,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.38",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593139",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 8234,
+    "tournamentId": 13847,
+    "match_winner": 7982,
+    "result": "6-4 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593144",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53487,
+    "player2Id": 12722,
+    "tournamentId": 13847,
+    "match_winner": 53487,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593160",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 27035,
+    "tournamentId": 13847,
+    "match_winner": 4177,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.58",
+    "odd2": "1.31",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593165",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 44525,
+    "tournamentId": 13847,
+    "match_winner": 45854,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.044",
+    "odd2": "12",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593140",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14694,
+    "player2Id": 8696,
+    "tournamentId": 13847,
+    "match_winner": 14694,
+    "result": "3-6 7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593141",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44525,
+    "player2Id": 10749,
+    "tournamentId": 13847,
+    "match_winner": 44525,
+    "result": "5-7 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593161",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 32168,
+    "tournamentId": 13847,
+    "match_winner": 11449,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "2.04",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593166",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 45192,
+    "tournamentId": 13847,
+    "match_winner": 39226,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593171",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 54663,
+    "tournamentId": 13847,
+    "match_winner": 17503,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593173",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 63769,
+    "tournamentId": 13847,
+    "match_winner": 36558,
+    "result": "7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.105",
+    "odd2": "7.3",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 63769,
+     "name": "Nastasja Mariana Schunk",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593135",
+    "date": "2022-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 4263,
+    "tournamentId": 13847,
+    "match_winner": 14054,
+    "result": "7-6(5) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593147",
+    "date": "2022-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 13810,
+    "tournamentId": 13847,
+    "match_winner": 24368,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "593180",
+    "date": "2022-04-24T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 78230,
+    "player2Id": 78713,
+    "tournamentId": 13847,
+    "match_winner": 78230,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78713,
+     "name": "Cori Gauff/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593153",
+    "date": "2022-04-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78713,
+    "player2Id": 17376,
+    "tournamentId": 13847,
+    "match_winner": 78713,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.33",
+    "player1": {
+     "id": 78713,
+     "name": "Cori Gauff/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593185",
+    "date": "2022-04-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78230,
+    "player2Id": 78815,
+    "tournamentId": 13847,
+    "match_winner": 78230,
+    "result": "7-6(4) 1-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78815,
+     "name": "Cristina Bucsa/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593176",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17376,
+    "player2Id": 76361,
+    "tournamentId": 13847,
+    "match_winner": 17376,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593183",
+    "date": "2022-04-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78815,
+    "player2Id": 78717,
+    "tournamentId": 13847,
+    "match_winner": 78815,
+    "result": "6-3 3-6 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.38",
+    "odd2": "1.32",
+    "player1": {
+     "id": 78815,
+     "name": "Cristina Bucsa/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78717,
+     "name": "Lyudmyla Kichenok/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593169",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78713,
+    "player2Id": 54119,
+    "tournamentId": 13847,
+    "match_winner": 78713,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 78713,
+     "name": "Cori Gauff/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 54119,
+     "name": "Nadiya Kichenok/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593182",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76361,
+    "player2Id": 78715,
+    "tournamentId": 13847,
+    "match_winner": 76361,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78715,
+     "name": "Jule Niemeier/Nastasja Mariana Schunk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593184",
+    "date": "2022-04-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78230,
+    "player2Id": 78718,
+    "tournamentId": 13847,
+    "match_winner": 78230,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78718,
+     "name": "Viktorija Golubic/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593156",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78230,
+    "player2Id": 21932,
+    "tournamentId": 13847,
+    "match_winner": 78230,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593174",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78717,
+    "player2Id": 63781,
+    "tournamentId": 13847,
+    "match_winner": 78717,
+    "result": "6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78717,
+     "name": "Lyudmyla Kichenok/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63781,
+     "name": "Peangtarn Plipuech/Jessy Rompies",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593177",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78815,
+    "player2Id": 77329,
+    "tournamentId": 13847,
+    "match_winner": 78815,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78815,
+     "name": "Cristina Bucsa/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77329,
+     "name": "Vivian Heisen/Panna Udvardy",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593181",
+    "date": "2022-04-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17376,
+    "player2Id": 78714,
+    "tournamentId": 13847,
+    "match_winner": 17376,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "3",
+    "player1": {
+     "id": 17376,
+     "name": "Shuko Aoyama/Hao-Ching Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78714,
+     "name": "Andreea Mitu/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593175",
+    "date": "2022-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78374,
+    "player2Id": 73961,
+    "tournamentId": 13847,
+    "match_winner": 78374,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.45",
+    "player1": {
+     "id": 78374,
+     "name": "Paula Badosa Gibert/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73961,
+     "name": "Ons Jabeur/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593178",
+    "date": "2022-04-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78718,
+    "player2Id": 77938,
+    "tournamentId": 13847,
+    "match_winner": 78718,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78718,
+     "name": "Viktorija Golubic/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77938,
+     "name": "Ulrikke Eikeri/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "593136",
+    "date": "2022-04-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13810,
+    "player2Id": 5369,
+    "tournamentId": 13847,
+    "match_winner": 13810,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593143",
+    "date": "2022-04-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 44525,
+    "player2Id": 12059,
+    "tournamentId": 13847,
+    "match_winner": 44525,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12059,
+     "name": "Kathinka Von Deichmann",
+     "countryAcr": "LIE"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593149",
+    "date": "2022-04-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12722,
+    "player2Id": 14694,
+    "tournamentId": 13847,
+    "match_winner": 12722,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593170",
+    "date": "2022-04-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 63769,
+    "player2Id": 54123,
+    "tournamentId": 13847,
+    "match_winner": 63769,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 63769,
+     "name": "Nastasja Mariana Schunk",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593132",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14694,
+    "player2Id": 888,
+    "tournamentId": 13847,
+    "match_winner": 14694,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593137",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54123,
+    "player2Id": 7022,
+    "tournamentId": 13847,
+    "match_winner": 54123,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "player2": {
+     "id": 7022,
+     "name": "Federica Di Sarra",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593151",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13810,
+    "player2Id": 15212,
+    "tournamentId": 13847,
+    "match_winner": 13810,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593157",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44525,
+    "player2Id": 24344,
+    "tournamentId": 13847,
+    "match_winner": 44525,
+    "result": "6-1 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.38",
+    "odd2": "1.32",
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593159",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 63769,
+    "player2Id": 25513,
+    "tournamentId": 13847,
+    "match_winner": 63769,
+    "result": "4-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63769,
+     "name": "Nastasja Mariana Schunk",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593164",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12059,
+    "player2Id": 43866,
+    "tournamentId": 13847,
+    "match_winner": 12059,
+    "result": "7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12059,
+     "name": "Kathinka Von Deichmann",
+     "countryAcr": "LIE"
+    },
+    "player2": {
+     "id": 43866,
+     "name": "Panna Udvardy",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593167",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5369,
+    "player2Id": 45536,
+    "tournamentId": 13847,
+    "match_winner": 5369,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 45536,
+     "name": "Carole Monnet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "593172",
+    "date": "2022-04-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12722,
+    "player2Id": 58621,
+    "tournamentId": 13847,
+    "match_winner": 12722,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 58621,
+     "name": "Mara Guth",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13847,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2022-04-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

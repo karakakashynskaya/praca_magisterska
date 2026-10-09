@@ -1,0 +1,1901 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "574012",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11575,
+    "player2Id": 17503,
+    "tournamentId": 13578,
+    "match_winner": 11575,
+    "result": "6-3 6-7(10) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574007",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17503,
+    "player2Id": 13351,
+    "tournamentId": 13578,
+    "match_winner": 17503,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574013",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11575,
+    "player2Id": 17673,
+    "tournamentId": 13578,
+    "match_winner": 11575,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573987",
+    "date": "2021-08-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17673,
+    "player2Id": 4263,
+    "tournamentId": 13578,
+    "match_winner": 17673,
+    "result": "3-6 6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "2.05",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573992",
+    "date": "2021-08-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17503,
+    "player2Id": 9357,
+    "tournamentId": 13578,
+    "match_winner": 17503,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.22",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574006",
+    "date": "2021-08-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13351,
+    "player2Id": 12390,
+    "tournamentId": 13578,
+    "match_winner": 13351,
+    "result": "6-3 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3.1",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574017",
+    "date": "2021-08-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11575,
+    "player2Id": 36558,
+    "tournamentId": 13578,
+    "match_winner": 11575,
+    "result": "7-6(5) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.77",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573993",
+    "date": "2021-08-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 9458,
+    "tournamentId": 13578,
+    "match_winner": 13351,
+    "result": "6-2 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.196",
+    "odd2": "4.85",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573994",
+    "date": "2021-08-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 9503,
+    "tournamentId": 13578,
+    "match_winner": 12390,
+    "result": "3-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573997",
+    "date": "2021-08-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 10033,
+    "tournamentId": 13578,
+    "match_winner": 11575,
+    "result": "3-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.7",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574016",
+    "date": "2021-08-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 27804,
+    "tournamentId": 13578,
+    "match_winner": 36558,
+    "result": "2-6 6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573989",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9357,
+    "player2Id": 7574,
+    "tournamentId": 13578,
+    "match_winner": 9357,
+    "result": "7-5 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.9",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573996",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17673,
+    "player2Id": 9772,
+    "tournamentId": 13578,
+    "match_winner": 17673,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573999",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 10455,
+    "tournamentId": 13578,
+    "match_winner": 17503,
+    "result": "3-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574002",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4263,
+    "player2Id": 11672,
+    "tournamentId": 13578,
+    "match_winner": 4263,
+    "result": "7-5 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.1",
+    "odd2": "1.39",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574001",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9458,
+    "player2Id": 11119,
+    "tournamentId": 13578,
+    "match_winner": 9458,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.66",
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11119,
+     "name": "Na-Lae Han",
+     "countryAcr": "KOR"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574005",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 12267,
+    "tournamentId": 13578,
+    "match_winner": 11575,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.82",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574008",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 13498,
+    "tournamentId": 13578,
+    "match_winner": 12390,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574018",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27804,
+    "player2Id": 37266,
+    "tournamentId": 13578,
+    "match_winner": 27804,
+    "result": "6-3 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574020",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 41564,
+    "tournamentId": 13578,
+    "match_winner": 9503,
+    "result": "1-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.98",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574021",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 41569,
+    "tournamentId": 13578,
+    "match_winner": 10033,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573990",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7574,
+    "player2Id": 7944,
+    "tournamentId": 13578,
+    "match_winner": 7574,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573991",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9772,
+    "player2Id": 8503,
+    "tournamentId": 13578,
+    "match_winner": 9772,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.06",
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573998",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 10209,
+    "tournamentId": 13578,
+    "match_winner": 9357,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.2",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10209,
+     "name": "Lesley Pattinama Kerkhove",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574014",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 17831,
+    "tournamentId": 13578,
+    "match_winner": 10455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574015",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17673,
+    "player2Id": 24572,
+    "tournamentId": 13578,
+    "match_winner": 17673,
+    "result": "7-5 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574023",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 53487,
+    "tournamentId": 13578,
+    "match_winner": 4263,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "574031",
+    "date": "2021-08-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 30174,
+    "player2Id": 71500,
+    "tournamentId": 13578,
+    "match_winner": 30174,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574036",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 71500,
+    "player2Id": 74699,
+    "tournamentId": 13578,
+    "match_winner": 71500,
+    "result": "6-3 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574038",
+    "date": "2021-08-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 30174,
+    "player2Id": 74701,
+    "tournamentId": 13578,
+    "match_winner": 30174,
+    "result": "7-6(2) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74701,
+     "name": "Caty McNally/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574025",
+    "date": "2021-08-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 30174,
+    "player2Id": 62065,
+    "tournamentId": 13578,
+    "match_winner": 30174,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62065,
+     "name": "Emina Bektas/Tara Moore",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574028",
+    "date": "2021-08-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71500,
+    "player2Id": 65587,
+    "tournamentId": 13578,
+    "match_winner": 71500,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65587,
+     "name": "Ashlyn Krueger/Robin Montgomery",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574024",
+    "date": "2021-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 74699,
+    "player2Id": 61703,
+    "tournamentId": 13578,
+    "match_winner": 74699,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.88",
+    "player1": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61703,
+     "name": "Eri Hozumi/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574039",
+    "date": "2021-08-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 74701,
+    "player2Id": 74702,
+    "tournamentId": 13578,
+    "match_winner": 74701,
+    "result": "6-4 6-5 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.95",
+    "player1": {
+     "id": 74701,
+     "name": "Caty McNally/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74702,
+     "name": "Valeria Savinykh/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574030",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74699,
+    "player2Id": 71239,
+    "tournamentId": 13578,
+    "match_winner": 74699,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.64",
+    "player1": {
+     "id": 74699,
+     "name": "Ellen Perez/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71239,
+     "name": "Elixane Lechemia/Ingrid Neel",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574032",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74701,
+    "player2Id": 73261,
+    "tournamentId": 13578,
+    "match_winner": 74701,
+    "result": "6-4 1-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.26",
+    "player1": {
+     "id": 74701,
+     "name": "Caty McNally/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73261,
+     "name": "Erin Routliffe/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574034",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65587,
+    "player2Id": 73729,
+    "tournamentId": 13578,
+    "match_winner": 65587,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.53",
+    "player1": {
+     "id": 65587,
+     "name": "Ashlyn Krueger/Robin Montgomery",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73729,
+     "name": "Lesley Pattinama Kerkhove/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574035",
+    "date": "2021-08-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71500,
+    "player2Id": 74698,
+    "tournamentId": 13578,
+    "match_winner": 71500,
+    "result": "7-5 3-6 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74698,
+     "name": "Kaitlyn Christian/Arina Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574037",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61703,
+    "player2Id": 74700,
+    "tournamentId": 13578,
+    "match_winner": 61703,
+    "result": "6-1 3-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.06",
+    "odd2": "9.1",
+    "player1": {
+     "id": 61703,
+     "name": "Eri Hozumi/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74700,
+     "name": "Makenna Jones/Elizabeth Scotty",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574040",
+    "date": "2021-08-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 62065,
+    "player2Id": 74703,
+    "tournamentId": 13578,
+    "match_winner": 62065,
+    "result": "6-4 1-6 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 62065,
+     "name": "Emina Bektas/Tara Moore",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74703,
+     "name": "Peyton Stearns/Maribella Zamarripa",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574029",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74702,
+    "player2Id": 69390,
+    "tournamentId": 13578,
+    "match_winner": 74702,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.52",
+    "player1": {
+     "id": 74702,
+     "name": "Valeria Savinykh/Dayana Yastremska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 69390,
+     "name": "Giuliana Olmos/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574033",
+    "date": "2021-08-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30174,
+    "player2Id": 73725,
+    "tournamentId": 13578,
+    "match_winner": 30174,
+    "result": "6-3 5-7 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73725,
+     "name": "Amanda Anisimova/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "574011",
+    "date": "2021-08-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17831,
+    "player2Id": 15212,
+    "tournamentId": 13578,
+    "match_winner": 17831,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.52",
+    "player1": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574019",
+    "date": "2021-08-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10209,
+    "player2Id": 40156,
+    "tournamentId": 13578,
+    "match_winner": 10209,
+    "result": "6-7(4) 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10209,
+     "name": "Lesley Pattinama Kerkhove",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574026",
+    "date": "2021-08-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17673,
+    "player2Id": 64341,
+    "tournamentId": 13578,
+    "match_winner": 17673,
+    "result": "6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574027",
+    "date": "2021-08-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11119,
+    "player2Id": 64343,
+    "tournamentId": 13578,
+    "match_winner": 11119,
+    "result": "6-1 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 11119,
+     "name": "Na-Lae Han",
+     "countryAcr": "KOR"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573988",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 64341,
+    "player2Id": 6159,
+    "tournamentId": 13578,
+    "match_winner": 64341,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "573995",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 64343,
+    "player2Id": 9752,
+    "tournamentId": 13578,
+    "match_winner": 64343,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.25",
+    "odd2": "1.222",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9752,
+     "name": "Valeria Savinykh",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574000",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11119,
+    "player2Id": 10595,
+    "tournamentId": 13578,
+    "match_winner": 11119,
+    "result": "6-3 2-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11119,
+     "name": "Na-Lae Han",
+     "countryAcr": "KOR"
+    },
+    "player2": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574003",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17673,
+    "player2Id": 11930,
+    "tournamentId": 13578,
+    "match_winner": 17673,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "6.95",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 11930,
+     "name": "Eri Hozumi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574004",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 40156,
+    "player2Id": 11966,
+    "tournamentId": 13578,
+    "match_winner": 40156,
+    "result": "2-6 6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.26",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 11966,
+     "name": "Danielle Lao",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574009",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10209,
+    "player2Id": 13511,
+    "tournamentId": 13578,
+    "match_winner": 10209,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10209,
+     "name": "Lesley Pattinama Kerkhove",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574010",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 15212,
+    "player2Id": 14600,
+    "tournamentId": 13578,
+    "match_winner": 15212,
+    "result": "6-2 6-7(2) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14600,
+     "name": "Mayo Hibi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "574022",
+    "date": "2021-07-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17831,
+    "player2Id": 52790,
+    "tournamentId": 13578,
+    "match_winner": 17831,
+    "result": "6-4 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13578,
+     "name": "Mubadala Silicon Valley Classic - San Jose",
+     "courtId": 1,
+     "date": "2021-08-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

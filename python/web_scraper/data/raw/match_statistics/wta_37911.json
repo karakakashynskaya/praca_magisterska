@@ -1,0 +1,117 @@
+[
+ {
+  "id": "592331",
+  "matchId": "592331",
+  "date": "2022-02-12T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 14609,
+  "player2Id": 37911,
+  "tournamentId": 13838,
+  "match_winner": 14609,
+  "result": "6-0 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 14609,
+   "name": "Harriet Dart",
+   "countryAcr": "GBR"
+  },
+  "player2": {
+   "id": 37911,
+   "name": "Sarah Behbehani",
+   "countryAcr": "KUW"
+  },
+  "tournament": {
+   "id": 13838,
+   "name": "Dubai Duty Free Championships - Dubai",
+   "courtId": 1,
+   "date": "2022-02-14T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "UAE",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:29:00",
+   "player1": {
+    "firstServe": 11,
+    "firstServeOf": 28,
+    "aces": 2,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 11,
+    "winningOnFirstServeOf": 11,
+    "winningOnSecondServe": 13,
+    "winningOnSecondServeOf": 17,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 6,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 48,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 0,
+    "firstServeOf": 24,
+    "aces": 0,
+    "doubleFaults": 4,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 0,
+    "winningOnFirstServeOf": 0,
+    "winningOnSecondServe": 0,
+    "winningOnSecondServeOf": 24,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 4,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "424265",
+  "matchId": "424265",
+  "date": "2017-04-10T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 46575,
+  "player2Id": 37911,
+  "tournamentId": 11303,
+  "match_winner": 46575,
+  "result": "6-0 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 46575,
+   "name": "Sophia Intert",
+   "countryAcr": "GER"
+  },
+  "player2": {
+   "id": 37911,
+   "name": "Sarah Behbehani",
+   "countryAcr": "KUW"
+  },
+  "tournament": {
+   "id": 11303,
+   "name": "Sharm El Sheikh",
+   "courtId": 1,
+   "date": "2017-04-10T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "EGY",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ }
+]

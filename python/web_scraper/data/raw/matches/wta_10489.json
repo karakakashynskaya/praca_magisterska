@@ -1,0 +1,2495 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "369404",
+    "matchId": "369404",
+    "date": "2016-10-22T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 457,
+    "player2Id": 10334,
+    "tournamentId": 10489,
+    "match_winner": 457,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.46",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369393",
+    "matchId": "369393",
+    "date": "2016-10-21T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 10334,
+    "player2Id": 7102,
+    "tournamentId": 10489,
+    "match_winner": 10334,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369409",
+    "matchId": "369409",
+    "date": "2016-10-21T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 457,
+    "player2Id": 11371,
+    "tournamentId": 10489,
+    "match_winner": 457,
+    "result": "6-1 6-7(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.38",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369391",
+    "matchId": "369391",
+    "date": "2016-10-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 10334,
+    "player2Id": 6740,
+    "tournamentId": 10489,
+    "match_winner": 10334,
+    "result": "7-5 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369406",
+    "matchId": "369406",
+    "date": "2016-10-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 457,
+    "player2Id": 10600,
+    "tournamentId": 10489,
+    "match_winner": 457,
+    "result": "7-5 6-7(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.76",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369427",
+    "matchId": "369427",
+    "date": "2016-10-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7102,
+    "player2Id": 17503,
+    "tournamentId": 10489,
+    "match_winner": 7102,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369429",
+    "matchId": "369429",
+    "date": "2016-10-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11371,
+    "player2Id": 17673,
+    "tournamentId": 10489,
+    "match_winner": 11371,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3.26",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369378",
+    "matchId": "369378",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6740,
+    "player2Id": 444,
+    "tournamentId": 10489,
+    "match_winner": 6740,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "2.04",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369382",
+    "matchId": "369382",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7102,
+    "player2Id": 4123,
+    "tournamentId": 10489,
+    "match_winner": 7102,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.7",
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 4123,
+     "name": "Elena Vesnina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369383",
+    "matchId": "369383",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 4159,
+    "tournamentId": 10489,
+    "match_winner": 17503,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.41",
+    "odd2": "1.65",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369386",
+    "matchId": "369386",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 457,
+    "player2Id": 5817,
+    "tournamentId": 10489,
+    "match_winner": 457,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369387",
+    "matchId": "369387",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10334,
+    "player2Id": 5873,
+    "tournamentId": 10489,
+    "match_winner": 10334,
+    "result": "6-4 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.72",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5873,
+     "name": "Carla Suarez Navarro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369399",
+    "matchId": "369399",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10600,
+    "player2Id": 9458,
+    "tournamentId": 10489,
+    "match_winner": 10600,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369413",
+    "matchId": "369413",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 12390,
+    "tournamentId": 10489,
+    "match_winner": 11371,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369379",
+    "matchId": "369379",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17673,
+    "player2Id": 1058,
+    "tournamentId": 10489,
+    "match_winner": 17673,
+    "result": "6-4 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.6",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369381",
+    "matchId": "369381",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 4089,
+    "tournamentId": 10489,
+    "match_winner": 10334,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4089,
+     "name": "Lucie Safarova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369394",
+    "matchId": "369394",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 34747,
+    "player2Id": 7944,
+    "tournamentId": 10489,
+    "match_winner": 34747,
+    "result": "4-6 6-1 7-6(10)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369401",
+    "matchId": "369401",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4159,
+    "player2Id": 9579,
+    "tournamentId": 10489,
+    "match_winner": 4159,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3.22",
+    "player1": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369403",
+    "matchId": "369403",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 9857,
+    "tournamentId": 10489,
+    "match_winner": 12390,
+    "result": "6-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369412",
+    "matchId": "369412",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 12267,
+    "tournamentId": 10489,
+    "match_winner": 5817,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.46",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369415",
+    "matchId": "369415",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7102,
+    "player2Id": 12525,
+    "tournamentId": 10489,
+    "match_winner": 7102,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369425",
+    "matchId": "369425",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 444,
+    "player2Id": 16628,
+    "tournamentId": 10489,
+    "match_winner": 444,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369426",
+    "matchId": "369426",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 17501,
+    "tournamentId": 10489,
+    "match_winner": 6740,
+    "result": "7-6(2) 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "3.02",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369435",
+    "matchId": "369435",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9458,
+    "player2Id": 32480,
+    "tournamentId": 10489,
+    "match_winner": 9458,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.7",
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369390",
+    "matchId": "369390",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10600,
+    "player2Id": 6651,
+    "tournamentId": 10489,
+    "match_winner": 10600,
+    "result": "6-2 6-7(2) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369420",
+    "matchId": "369420",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 14056,
+    "tournamentId": 10489,
+    "match_winner": 17503,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.63",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "369441",
+    "matchId": "369441",
+    "date": "2016-10-21T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 10412,
+    "player2Id": 46660,
+    "tournamentId": 10489,
+    "match_winner": 10412,
+    "result": "4-6 6-0 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 46660,
+     "name": "Daria Saville/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369443",
+    "matchId": "369443",
+    "date": "2016-10-20T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 46660,
+    "player2Id": 49264,
+    "tournamentId": 10489,
+    "match_winner": 46660,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.93",
+    "player1": {
+     "id": 46660,
+     "name": "Daria Saville/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49264,
+     "name": "Paula Kania/Danka Kovinic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369445",
+    "matchId": "369445",
+    "date": "2016-10-20T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 10412,
+    "player2Id": 49266,
+    "tournamentId": 10489,
+    "match_winner": 10412,
+    "result": "6-2 6-7(5) 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49266,
+     "name": "Katerina Siniakova/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369417",
+    "matchId": "369417",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 46660,
+    "player2Id": 12893,
+    "tournamentId": 10489,
+    "match_winner": 46660,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.44",
+    "player1": {
+     "id": 46660,
+     "name": "Daria Saville/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369438",
+    "matchId": "369438",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 10412,
+    "player2Id": 37330,
+    "tournamentId": 10489,
+    "match_winner": 10412,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37330,
+     "name": "Natela Dzalamidze/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369442",
+    "matchId": "369442",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 49264,
+    "player2Id": 49263,
+    "tournamentId": 10489,
+    "match_winner": 49264,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49264,
+     "name": "Paula Kania/Danka Kovinic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49263,
+     "name": "Timea Babos/Anastasia Pavlyuchenkova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369444",
+    "matchId": "369444",
+    "date": "2016-10-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 49266,
+    "player2Id": 49265,
+    "tournamentId": 10489,
+    "match_winner": 49266,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49266,
+     "name": "Katerina Siniakova/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49265,
+     "name": "Anna Kalinskaya/Olesya Pervushina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369407",
+    "matchId": "369407",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 46660,
+    "player2Id": 11151,
+    "tournamentId": 10489,
+    "match_winner": 46660,
+    "result": "6-3 4-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 46660,
+     "name": "Daria Saville/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11151,
+     "name": "Ekaterina Makarova/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369422",
+    "matchId": "369422",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49263,
+    "player2Id": 14602,
+    "tournamentId": 10489,
+    "match_winner": 49263,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49263,
+     "name": "Timea Babos/Anastasia Pavlyuchenkova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 14602,
+     "name": "Anastasia Rodionova/Olga Savchuk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369434",
+    "matchId": "369434",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49264,
+    "player2Id": 30036,
+    "tournamentId": 10489,
+    "match_winner": 49264,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49264,
+     "name": "Paula Kania/Danka Kovinic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30036,
+     "name": "Veronica Cepede Royg/Maria Irigoyen",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369440",
+    "matchId": "369440",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49266,
+    "player2Id": 40761,
+    "tournamentId": 10489,
+    "match_winner": 49266,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49266,
+     "name": "Katerina Siniakova/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 40761,
+     "name": "Belinda Bencic/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369446",
+    "matchId": "369446",
+    "date": "2016-10-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37330,
+    "player2Id": 49267,
+    "tournamentId": 10489,
+    "match_winner": 37330,
+    "result": "6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.6",
+    "odd2": "1.52",
+    "player1": {
+     "id": 37330,
+     "name": "Natela Dzalamidze/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49267,
+     "name": "Oksana Kalashnikova/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369405",
+    "matchId": "369405",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12893,
+    "player2Id": 10540,
+    "tournamentId": 10489,
+    "match_winner": 12893,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.76",
+    "player1": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10540,
+     "name": "Raluca Olaru/Arantxa Parra-Santonja",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369436",
+    "matchId": "369436",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49265,
+    "player2Id": 33822,
+    "tournamentId": 10489,
+    "match_winner": 49265,
+    "result": "4-6 6-2 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.6",
+    "odd2": "1.52",
+    "player1": {
+     "id": 49265,
+     "name": "Anna Kalinskaya/Olesya Pervushina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 33822,
+     "name": "Lidziya Marozava/Marina Melnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369447",
+    "matchId": "369447",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10412,
+    "player2Id": 49268,
+    "tournamentId": 10489,
+    "match_winner": 10412,
+    "result": "6-0 4-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49268,
+     "name": "Valentyna Ivakhnenko/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "369410",
+    "matchId": "369410",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9857,
+    "player2Id": 11961,
+    "tournamentId": 10489,
+    "match_winner": 9857,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.64",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369414",
+    "matchId": "369414",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17501,
+    "player2Id": 12432,
+    "tournamentId": 10489,
+    "match_winner": 17501,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.333",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369421",
+    "matchId": "369421",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 34747,
+    "player2Id": 14448,
+    "tournamentId": 10489,
+    "match_winner": 34747,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.5",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369428",
+    "matchId": "369428",
+    "date": "2016-10-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9579,
+    "player2Id": 17673,
+    "tournamentId": 10489,
+    "match_winner": 9579,
+    "result": "7-5 5-7 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369384",
+    "matchId": "369384",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 12432,
+    "player2Id": 5548,
+    "tournamentId": 10489,
+    "match_winner": 12432,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.64",
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369389",
+    "matchId": "369389",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 34747,
+    "player2Id": 6590,
+    "tournamentId": 10489,
+    "match_winner": 34747,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 6590,
+     "name": "Cagla Buyukakcay",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369397",
+    "matchId": "369397",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 14448,
+    "player2Id": 8696,
+    "tournamentId": 10489,
+    "match_winner": 14448,
+    "result": "0-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.95",
+    "odd2": "1.2",
+    "player1": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369398",
+    "matchId": "369398",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 11961,
+    "player2Id": 8951,
+    "tournamentId": 10489,
+    "match_winner": 11961,
+    "result": "5-7 6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8951,
+     "name": "Veronica Cepede Royg",
+     "countryAcr": "PAR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369402",
+    "matchId": "369402",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 9579,
+    "player2Id": 9750,
+    "tournamentId": 10489,
+    "match_winner": 9579,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9750,
+     "name": "Paula Kania",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369411",
+    "matchId": "369411",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 17501,
+    "player2Id": 11963,
+    "tournamentId": 10489,
+    "match_winner": 17501,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.14",
+    "odd2": "6.3",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11963,
+     "name": "Polina Leykina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369418",
+    "matchId": "369418",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 17673,
+    "player2Id": 12997,
+    "tournamentId": 10489,
+    "match_winner": 17673,
+    "result": "4-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.96",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369424",
+    "matchId": "369424",
+    "date": "2016-10-16T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 9857,
+    "player2Id": 16259,
+    "tournamentId": 10489,
+    "match_winner": 9857,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.74",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 16259,
+     "name": "Elizaveta Kulichkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369380",
+    "matchId": "369380",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8951,
+    "player2Id": 3913,
+    "tournamentId": 10489,
+    "match_winner": 8951,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.84",
+    "odd2": "1.46",
+    "player1": {
+     "id": 8951,
+     "name": "Veronica Cepede Royg",
+     "countryAcr": "PAR"
+    },
+    "player2": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369385",
+    "matchId": "369385",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5548,
+    "player2Id": 5599,
+    "tournamentId": 10489,
+    "match_winner": 5548,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5599,
+     "name": "Olga Govortsova",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369388",
+    "matchId": "369388",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 6296,
+    "tournamentId": 10489,
+    "match_winner": 34747,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.2",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 6296,
+     "name": "Elitsa Kostova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369392",
+    "matchId": "369392",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12997,
+    "player2Id": 6980,
+    "tournamentId": 10489,
+    "match_winner": 12997,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.2",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6980,
+     "name": "Anastasia Pivovarova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369395",
+    "matchId": "369395",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17501,
+    "player2Id": 8584,
+    "tournamentId": 10489,
+    "match_winner": 17501,
+    "result": "1-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.166",
+    "odd2": "5.6",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8584,
+     "name": "Marina Melnikova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369396",
+    "matchId": "369396",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11961,
+    "player2Id": 8595,
+    "tournamentId": 10489,
+    "match_winner": 11961,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8595,
+     "name": "Viktoria Kamenskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369400",
+    "matchId": "369400",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6590,
+    "player2Id": 9459,
+    "tournamentId": 10489,
+    "match_winner": 6590,
+    "result": "1-6 7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.18",
+    "player1": {
+     "id": 6590,
+     "name": "Cagla Buyukakcay",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 9459,
+     "name": "Valeriya Solovyeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369408",
+    "matchId": "369408",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9857,
+    "player2Id": 11205,
+    "tournamentId": 10489,
+    "match_winner": 9857,
+    "result": "3-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.2",
+    "odd2": "4.95",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369416",
+    "matchId": "369416",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8696,
+    "player2Id": 12842,
+    "tournamentId": 10489,
+    "match_winner": 8696,
+    "result": "4-6 6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369419",
+    "matchId": "369419",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17673,
+    "player2Id": 14054,
+    "tournamentId": 10489,
+    "match_winner": 17673,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.61",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369423",
+    "matchId": "369423",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11963,
+    "player2Id": 16119,
+    "tournamentId": 10489,
+    "match_winner": 11963,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.65",
+    "odd2": "1.31",
+    "player1": {
+     "id": 11963,
+     "name": "Polina Leykina",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369430",
+    "matchId": "369430",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16259,
+    "player2Id": 18455,
+    "tournamentId": 10489,
+    "match_winner": 16259,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.41",
+    "player1": {
+     "id": 16259,
+     "name": "Elizaveta Kulichkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369431",
+    "matchId": "369431",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9579,
+    "player2Id": 23230,
+    "tournamentId": 10489,
+    "match_winner": 9579,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369432",
+    "matchId": "369432",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12432,
+    "player2Id": 28124,
+    "tournamentId": 10489,
+    "match_winner": 12432,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.333",
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 28124,
+     "name": "Amina Anshba",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369433",
+    "matchId": "369433",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9750,
+    "player2Id": 29385,
+    "tournamentId": 10489,
+    "match_winner": 9750,
+    "result": "7-6(3) 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.5",
+    "player1": {
+     "id": 9750,
+     "name": "Paula Kania",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369439",
+    "matchId": "369439",
+    "date": "2016-10-15T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14448,
+    "player2Id": 38596,
+    "tournamentId": 10489,
+    "match_winner": 14448,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 38596,
+     "name": "Olesya Pervushina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10489,
+     "name": "Kremlin Cup - Moscow",
+     "courtId": 3,
+     "date": "2016-10-17T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

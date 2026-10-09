@@ -1,0 +1,2531 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "364098",
+    "matchId": "364098",
+    "date": "2016-01-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 457,
+    "player2Id": 8324,
+    "tournamentId": 10430,
+    "match_winner": 457,
+    "result": "7-6(5) 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364107",
+    "matchId": "364107",
+    "date": "2016-01-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 457,
+    "player2Id": 10222,
+    "tournamentId": 10430,
+    "match_winner": 457,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.76",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364118",
+    "matchId": "364118",
+    "date": "2016-01-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 10222,
+    "player2Id": 14056,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "6-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364069",
+    "matchId": "364069",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 10222,
+    "player2Id": 495,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.22",
+    "odd2": "1.42",
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364075",
+    "matchId": "364075",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 457,
+    "player2Id": 4121,
+    "tournamentId": 10430,
+    "match_winner": 457,
+    "result": "7-6(1) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.19",
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364076",
+    "matchId": "364076",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14056,
+    "player2Id": 4159,
+    "tournamentId": 10430,
+    "match_winner": 14056,
+    "result": "6-0 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.44",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364096",
+    "matchId": "364096",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8324,
+    "player2Id": 7982,
+    "tournamentId": 10430,
+    "match_winner": 8324,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "2.09",
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364065",
+    "matchId": "364065",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 495,
+    "player2Id": 379,
+    "tournamentId": 10430,
+    "match_winner": 495,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.38",
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 379,
+     "name": "Daniela Hantuchova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364066",
+    "matchId": "364066",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4121,
+    "player2Id": 444,
+    "tournamentId": 10430,
+    "match_winner": 4121,
+    "result": "7-6(3) 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364070",
+    "matchId": "364070",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 3867,
+    "tournamentId": 10430,
+    "match_winner": 14056,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "3.16",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364088",
+    "matchId": "364088",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 457,
+    "player2Id": 6037,
+    "tournamentId": 10430,
+    "match_winner": 457,
+    "result": "6-3 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364092",
+    "matchId": "364092",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 6740,
+    "tournamentId": 10430,
+    "match_winner": 7982,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364108",
+    "matchId": "364108",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 10455,
+    "tournamentId": 10430,
+    "match_winner": 8324,
+    "result": "6-4 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.86",
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364116",
+    "matchId": "364116",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10222,
+    "player2Id": 13265,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364064",
+    "matchId": "364064",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 180,
+    "tournamentId": 10430,
+    "match_winner": 14056,
+    "result": "7-6(6) 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "4.15",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 180,
+     "name": "Mirjana Lucic-Baroni",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364067",
+    "matchId": "364067",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 495,
+    "player2Id": 480,
+    "tournamentId": 10430,
+    "match_winner": 495,
+    "result": "4-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 480,
+     "name": "Roberta Vinci",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364072",
+    "matchId": "364072",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4159,
+    "player2Id": 3913,
+    "tournamentId": 10430,
+    "match_winner": 4159,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364084",
+    "matchId": "364084",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4121,
+    "player2Id": 5873,
+    "tournamentId": 10430,
+    "match_winner": 4121,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.6",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 5873,
+     "name": "Carla Suarez Navarro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364085",
+    "matchId": "364085",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10222,
+    "player2Id": 5900,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "6-2 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364093",
+    "matchId": "364093",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6037,
+    "player2Id": 7926,
+    "tournamentId": 10430,
+    "match_winner": 6037,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364105",
+    "matchId": "364105",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 10008,
+    "tournamentId": 10430,
+    "match_winner": 6740,
+    "result": "6-1 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.98",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364110",
+    "matchId": "364110",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4076,
+    "player2Id": 11371,
+    "tournamentId": 10430,
+    "match_winner": 4076,
+    "result": "4-6 6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364074",
+    "matchId": "364074",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13265,
+    "player2Id": 4090,
+    "tournamentId": 10430,
+    "match_winner": 13265,
+    "result": "1-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364079",
+    "matchId": "364079",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7982,
+    "player2Id": 4227,
+    "tournamentId": 10430,
+    "match_winner": 7982,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4227,
+     "name": "Ana Ivanovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364087",
+    "matchId": "364087",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 457,
+    "player2Id": 6032,
+    "tournamentId": 10430,
+    "match_winner": 457,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6032,
+     "name": "Tammi Patterson",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364099",
+    "matchId": "364099",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 444,
+    "player2Id": 8503,
+    "tournamentId": 10430,
+    "match_winner": 444,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364103",
+    "matchId": "364103",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 9458,
+    "tournamentId": 10430,
+    "match_winner": 10455,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364104",
+    "matchId": "364104",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 3867,
+    "player2Id": 9857,
+    "tournamentId": 10430,
+    "match_winner": 3867,
+    "result": "7-6(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "364109",
+    "matchId": "364109",
+    "date": "2016-01-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 24772,
+    "player2Id": 11101,
+    "tournamentId": 10430,
+    "match_winner": 24772,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.8",
+    "player1": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364124",
+    "matchId": "364124",
+    "date": "2016-01-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 37593,
+    "player2Id": 24772,
+    "tournamentId": 10430,
+    "match_winner": 37593,
+    "result": "1-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.52",
+    "player1": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364130",
+    "matchId": "364130",
+    "date": "2016-01-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 37593,
+    "player2Id": 43729,
+    "tournamentId": 10430,
+    "match_winner": 37593,
+    "result": "4-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.16",
+    "odd2": "6.1",
+    "player1": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43729,
+     "name": "Raluca Olaru/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364128",
+    "matchId": "364128",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 37593,
+    "player2Id": 43685,
+    "tournamentId": 10430,
+    "match_winner": 37593,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.07",
+    "odd2": "9.8",
+    "player1": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43685,
+     "name": "Chen Liang/Shuai Peng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364129",
+    "matchId": "364129",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 43729,
+    "player2Id": 43728,
+    "tournamentId": 10430,
+    "match_winner": 43729,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 43729,
+     "name": "Raluca Olaru/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43728,
+     "name": "Timea Babos/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364131",
+    "matchId": "364131",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24772,
+    "player2Id": 43730,
+    "tournamentId": 10430,
+    "match_winner": 24772,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43730,
+     "name": "Svetlana Kuznetsova/Roberta Vinci",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364134",
+    "matchId": "364134",
+    "date": "2016-01-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11101,
+    "player2Id": 43733,
+    "tournamentId": 10430,
+    "match_winner": 11101,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43733,
+     "name": "Klaudia Jans-Ignacik/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364106",
+    "matchId": "364106",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37593,
+    "player2Id": 10174,
+    "tournamentId": 10430,
+    "match_winner": 37593,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.11",
+    "odd2": "7.1",
+    "player1": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10174,
+     "name": "Anastasia Rodionova/Arina Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364123",
+    "matchId": "364123",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43733,
+    "player2Id": 23522,
+    "tournamentId": 10430,
+    "match_winner": 43733,
+    "result": "6-7(4) 6-2 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 43733,
+     "name": "Klaudia Jans-Ignacik/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23522,
+     "name": "Yifan Xu/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364132",
+    "matchId": "364132",
+    "date": "2016-01-12T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43730,
+    "player2Id": 43731,
+    "tournamentId": 10430,
+    "match_winner": 43730,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.14",
+    "player1": {
+     "id": 43730,
+     "name": "Svetlana Kuznetsova/Roberta Vinci",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43731,
+     "name": "Daniela Hantuchova/Jelena Jankovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364125",
+    "matchId": "364125",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43728,
+    "player2Id": 28610,
+    "tournamentId": 10430,
+    "match_winner": 43728,
+    "result": "7-5 6-7(0) 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 43728,
+     "name": "Timea Babos/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 28610,
+     "name": "Gabriela Dabrowski/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364127",
+    "matchId": "364127",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43729,
+    "player2Id": 40767,
+    "tournamentId": 10430,
+    "match_winner": 43729,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.77",
+    "player1": {
+     "id": 43729,
+     "name": "Raluca Olaru/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 40767,
+     "name": "Lara Arruabarrena/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364133",
+    "matchId": "364133",
+    "date": "2016-01-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24772,
+    "player2Id": 43732,
+    "tournamentId": 10430,
+    "match_winner": 24772,
+    "result": "6-3 6-7(3) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43732,
+     "name": "Su-Wei Hsieh/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364135",
+    "matchId": "364135",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 43734,
+    "tournamentId": 10430,
+    "match_winner": 11101,
+    "result": "7-5 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43734,
+     "name": "Raquel Atawo/Anna-Lena Groenefeld",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "364071",
+    "matchId": "364071",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 180,
+    "player2Id": 3913,
+    "tournamentId": 10430,
+    "match_winner": 180,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 180,
+     "name": "Mirjana Lucic-Baroni",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364086",
+    "matchId": "364086",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10008,
+    "player2Id": 5900,
+    "tournamentId": 10430,
+    "match_winner": 10008,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364094",
+    "matchId": "364094",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10222,
+    "player2Id": 7926,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "2-6 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.93",
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364112",
+    "matchId": "364112",
+    "date": "2016-01-10T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 379,
+    "player2Id": 12205,
+    "tournamentId": 10430,
+    "match_winner": 379,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 379,
+     "name": "Daniela Hantuchova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364068",
+    "matchId": "364068",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 7926,
+    "player2Id": 487,
+    "tournamentId": 10430,
+    "match_winner": 7926,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364078",
+    "matchId": "364078",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 3913,
+    "player2Id": 4177,
+    "tournamentId": 10430,
+    "match_winner": 3913,
+    "result": "4-6 6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.43",
+    "player1": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364080",
+    "matchId": "364080",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 5900,
+    "player2Id": 4975,
+    "tournamentId": 10430,
+    "match_winner": 5900,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 4975,
+     "name": "Sesil Karatantcheva",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364083",
+    "matchId": "364083",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 12205,
+    "player2Id": 5650,
+    "tournamentId": 10430,
+    "match_winner": 12205,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364100",
+    "matchId": "364100",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 379,
+    "player2Id": 8591,
+    "tournamentId": 10430,
+    "match_winner": 379,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.93",
+    "player1": {
+     "id": 379,
+     "name": "Daniela Hantuchova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 8591,
+     "name": "Irina Falconi",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364113",
+    "matchId": "364113",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 10222,
+    "player2Id": 12390,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364114",
+    "matchId": "364114",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 180,
+    "player2Id": 12722,
+    "tournamentId": 10430,
+    "match_winner": 180,
+    "result": "5-7 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 180,
+     "name": "Mirjana Lucic-Baroni",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364122",
+    "matchId": "364122",
+    "date": "2016-01-09T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 10008,
+    "player2Id": 17503,
+    "tournamentId": 10430,
+    "match_winner": 10008,
+    "result": "7-5 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "3.1",
+    "odd2": "1.4",
+    "player1": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364077",
+    "matchId": "364077",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4975,
+    "player2Id": 4174,
+    "tournamentId": 10430,
+    "match_winner": 4975,
+    "result": "4-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4975,
+     "name": "Sesil Karatantcheva",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364081",
+    "matchId": "364081",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12205,
+    "player2Id": 5369,
+    "tournamentId": 10430,
+    "match_winner": 12205,
+    "result": "2-6 6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364082",
+    "matchId": "364082",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 5548,
+    "tournamentId": 10430,
+    "match_winner": 4177,
+    "result": "6-2 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364089",
+    "matchId": "364089",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8591,
+    "player2Id": 6084,
+    "tournamentId": 10430,
+    "match_winner": 8591,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8591,
+     "name": "Irina Falconi",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6084,
+     "name": "Anna Tatishvili",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364090",
+    "matchId": "364090",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17503,
+    "player2Id": 6125,
+    "tournamentId": 10430,
+    "match_winner": 17503,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6125,
+     "name": "Mariana Duque-Marino",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364091",
+    "matchId": "364091",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 180,
+    "player2Id": 6159,
+    "tournamentId": 10430,
+    "match_winner": 180,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 180,
+     "name": "Mirjana Lucic-Baroni",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364095",
+    "matchId": "364095",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5650,
+    "player2Id": 7944,
+    "tournamentId": 10430,
+    "match_winner": 5650,
+    "result": "7-5 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364097",
+    "matchId": "364097",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10222,
+    "player2Id": 8008,
+    "tournamentId": 10430,
+    "match_winner": 10222,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.7",
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 8008,
+     "name": "Andreea Mitu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364101",
+    "matchId": "364101",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7926,
+    "player2Id": 8904,
+    "tournamentId": 10430,
+    "match_winner": 7926,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 8904,
+     "name": "Olivia Rogowska",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364102",
+    "matchId": "364102",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 3913,
+    "player2Id": 9357,
+    "tournamentId": 10430,
+    "match_winner": 3913,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.43",
+    "player1": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364111",
+    "matchId": "364111",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12722,
+    "player2Id": 11944,
+    "tournamentId": 10430,
+    "match_winner": 12722,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11944,
+     "name": "Patricia Maria Tig",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364115",
+    "matchId": "364115",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12390,
+    "player2Id": 12842,
+    "tournamentId": 10430,
+    "match_winner": 12390,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364117",
+    "matchId": "364117",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5900,
+    "player2Id": 13498,
+    "tournamentId": 10430,
+    "match_winner": 5900,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.08",
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364119",
+    "matchId": "364119",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 487,
+    "player2Id": 16259,
+    "tournamentId": 10430,
+    "match_winner": 487,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.93",
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 16259,
+     "name": "Elizaveta Kulichkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364120",
+    "matchId": "364120",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 379,
+    "player2Id": 16628,
+    "tournamentId": 10430,
+    "match_winner": 379,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 379,
+     "name": "Daniela Hantuchova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "364121",
+    "matchId": "364121",
+    "date": "2016-01-08T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10008,
+    "player2Id": 16864,
+    "tournamentId": 10430,
+    "match_winner": 10008,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 16864,
+     "name": "Olivia Tjandramulia",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10430,
+     "name": "Apia International - Sydney",
+     "courtId": 1,
+     "date": "2016-01-11T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,81 @@
+[
+ {
+  "id": "367521",
+  "matchId": "367521",
+  "date": "2016-07-16T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 5599,
+  "player2Id": 15877,
+  "tournamentId": 10466,
+  "match_winner": 5599,
+  "result": "6-2 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 5599,
+   "name": "Olga Govortsova",
+   "countryAcr": "BLR"
+  },
+  "player2": {
+   "id": 15877,
+   "name": "Melissa Lord",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 10466,
+   "name": "Bank of the West Classic - Stanford",
+   "courtId": 1,
+   "date": "2016-07-18T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:09:09",
+   "player1": {
+    "firstServe": 19,
+    "firstServeOf": 39,
+    "aces": 1,
+    "doubleFaults": 3,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 16,
+    "winningOnFirstServeOf": 19,
+    "winningOnSecondServe": 11,
+    "winningOnSecondServeOf": 20,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 10,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 64,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 43,
+    "firstServeOf": 67,
+    "aces": 1,
+    "doubleFaults": 7,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 19,
+    "winningOnFirstServeOf": 43,
+    "winningOnSecondServe": 11,
+    "winningOnSecondServeOf": 24,
+    "winners": null,
+    "breakPointsConverted": 2,
+    "breakPointsConvertedOf": 2,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 42,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

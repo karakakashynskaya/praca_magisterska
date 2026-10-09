@@ -1,0 +1,42 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: wta_postgres
+    environment:
+      POSTGRES_DB: wta_dwh
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    ports:
+      - "5532:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./liquibase/data_src:/var/lib/postgresql/import/data_src
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d wta_dwh"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  liquibase:
+    build:
+      context: .
+      dockerfile: Dockerfile.liquibase
+    container_name: wta_liquibase
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./liquibase:/liquibase/changelog
+      - ./liquibase/data_src:/liquibase/data_src
+    environment:
+      LIQUIBASE_COMMAND_CHANGELOG_FILE: changelog-master.xml
+      LIQUIBASE_COMMAND_URL: jdbc:postgresql://postgres:5432/wta_dwh
+      LIQUIBASE_COMMAND_USERNAME: ${DB_USER}
+      LIQUIBASE_COMMAND_PASSWORD: ${DB_PASSWORD}
+      LIQUIBASE_COMMAND_CONTEXTS: common
+    working_dir: /liquibase/changelog
+    profiles:
+      - manual
+
+volumes:
+  postgres_data:

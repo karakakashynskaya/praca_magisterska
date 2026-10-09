@@ -1,0 +1,780 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "369524",
+    "date": "2016-10-30T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 5593,
+    "player2Id": 4076,
+    "tournamentId": 10491,
+    "match_winner": 5593,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369523",
+    "date": "2016-10-29T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 5593,
+    "player2Id": 457,
+    "tournamentId": 10491,
+    "match_winner": 5593,
+    "result": "1-6 7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.18",
+    "player1": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369528",
+    "date": "2016-10-29T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 4076,
+    "player2Id": 5915,
+    "tournamentId": 10491,
+    "match_winner": 4076,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.56",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369522",
+    "date": "2016-10-28T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 10633,
+    "player2Id": 457,
+    "tournamentId": 10491,
+    "match_winner": 10633,
+    "result": "3-6 6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.8",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369531",
+    "date": "2016-10-28T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 5915,
+    "player2Id": 7982,
+    "tournamentId": 10491,
+    "match_winner": 5915,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.55",
+    "player1": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369532",
+    "date": "2016-10-27T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 5593,
+    "player2Id": 8324,
+    "tournamentId": 10491,
+    "match_winner": 5593,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369539",
+    "date": "2016-10-27T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 4076,
+    "player2Id": 11672,
+    "tournamentId": 10491,
+    "match_winner": 4076,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.41",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369530",
+    "date": "2016-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 457,
+    "player2Id": 7982,
+    "tournamentId": 10491,
+    "match_winner": 457,
+    "result": "3-6 6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369535",
+    "date": "2016-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 5915,
+    "player2Id": 10633,
+    "tournamentId": 10491,
+    "match_winner": 5915,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.9",
+    "player1": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369525",
+    "date": "2016-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 11672,
+    "player2Id": 5593,
+    "tournamentId": 10491,
+    "match_winner": 11672,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.2",
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369533",
+    "date": "2016-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 4076,
+    "player2Id": 8324,
+    "tournamentId": 10491,
+    "match_winner": 4076,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "2.02",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369529",
+    "date": "2016-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 457,
+    "player2Id": 5915,
+    "tournamentId": 10491,
+    "match_winner": 457,
+    "result": "7-5 1-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369536",
+    "date": "2016-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 7982,
+    "player2Id": 10633,
+    "tournamentId": 10491,
+    "match_winner": 7982,
+    "result": "6-2 6-7(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "2.02",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369526",
+    "date": "2016-10-23T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 4076,
+    "player2Id": 5593,
+    "tournamentId": 10491,
+    "match_winner": 4076,
+    "result": "7-6(5) 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.5",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369538",
+    "date": "2016-10-23T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 8324,
+    "player2Id": 11672,
+    "tournamentId": 10491,
+    "match_winner": 8324,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.79",
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "369542",
+    "date": "2016-10-30T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11151,
+    "player2Id": 36813,
+    "tournamentId": 10491,
+    "match_winner": 11151,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11151,
+     "name": "Ekaterina Makarova/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36813,
+     "name": "Bethanie Mattek-Sands/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369540",
+    "date": "2016-10-29T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 36813,
+    "player2Id": 24772,
+    "tournamentId": 10491,
+    "match_winner": 36813,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36813,
+     "name": "Bethanie Mattek-Sands/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369543",
+    "date": "2016-10-29T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11151,
+    "player2Id": 37593,
+    "tournamentId": 10491,
+    "match_winner": 11151,
+    "result": "3-6 6-2 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.61",
+    "player1": {
+     "id": 11151,
+     "name": "Ekaterina Makarova/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369534",
+    "date": "2016-10-28T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11151,
+    "player2Id": 10412,
+    "tournamentId": 10491,
+    "match_winner": 11151,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11151,
+     "name": "Ekaterina Makarova/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369537",
+    "date": "2016-10-28T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 37593,
+    "player2Id": 11101,
+    "tournamentId": 10491,
+    "match_winner": 37593,
+    "result": "7-6(10) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369541",
+    "date": "2016-10-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36813,
+    "player2Id": 27931,
+    "tournamentId": 10491,
+    "match_winner": 36813,
+    "result": "5-7 7-6(6) 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "3.02",
+    "player1": {
+     "id": 36813,
+     "name": "Bethanie Mattek-Sands/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27931,
+     "name": "Timea Babos/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "369544",
+    "date": "2016-10-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 24772,
+    "player2Id": 42087,
+    "tournamentId": 10491,
+    "match_winner": 24772,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.38",
+    "player1": {
+     "id": 24772,
+     "name": "Caroline Garcia/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10491,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2016-10-24T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

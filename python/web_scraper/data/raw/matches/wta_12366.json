@@ -1,0 +1,5646 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "499172",
+    "date": "2019-03-30T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 12966,
+    "player2Id": 7982,
+    "tournamentId": 12366,
+    "match_winner": 12966,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "2.1",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499177",
+    "date": "2019-03-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 7982,
+    "player2Id": 8324,
+    "tournamentId": 12366,
+    "match_winner": 7982,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.69",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499222",
+    "date": "2019-03-28T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12966,
+    "player2Id": 13385,
+    "tournamentId": 12366,
+    "match_winner": 12966,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499178",
+    "date": "2019-03-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8324,
+    "player2Id": 8531,
+    "tournamentId": 12366,
+    "match_winner": 8324,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499261",
+    "date": "2019-03-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7982,
+    "player2Id": 32168,
+    "tournamentId": 12366,
+    "match_winner": 7982,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.13",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499138",
+    "date": "2019-03-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13385,
+    "player2Id": 487,
+    "tournamentId": 12366,
+    "match_winner": 13385,
+    "result": "3-6 6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499175",
+    "date": "2019-03-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12966,
+    "player2Id": 8234,
+    "tournamentId": 12366,
+    "match_winner": 12966,
+    "result": "7-6(6) 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499135",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 8324,
+    "player2Id": 151,
+    "tournamentId": 12366,
+    "match_winner": 8324,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499145",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 32168,
+    "player2Id": 4110,
+    "tournamentId": 12366,
+    "match_winner": 32168,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.26",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499156",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 487,
+    "player2Id": 5600,
+    "tournamentId": 12366,
+    "match_winner": 487,
+    "result": "6-3 6-7(0) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.65",
+    "odd2": "1.53",
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499179",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 12966,
+    "player2Id": 8652,
+    "tournamentId": 12366,
+    "match_winner": 12966,
+    "result": "4-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.71",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499195",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 8234,
+    "player2Id": 10455,
+    "tournamentId": 12366,
+    "match_winner": 8234,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.625",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499213",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 7982,
+    "player2Id": 12390,
+    "tournamentId": 12366,
+    "match_winner": 7982,
+    "result": "2-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.65",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499215",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 8531,
+    "player2Id": 12882,
+    "tournamentId": 12366,
+    "match_winner": 8531,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499264",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 13385,
+    "player2Id": 39226,
+    "tournamentId": 12366,
+    "match_winner": 13385,
+    "result": "6-1 2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.56",
+    "odd2": "1.56",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499158",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 5817,
+    "tournamentId": 12366,
+    "match_winner": 7982,
+    "result": "6-7(3) 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.5",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499170",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8324,
+    "player2Id": 7926,
+    "tournamentId": 12366,
+    "match_winner": 8324,
+    "result": "5-7 7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499171",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12390,
+    "player2Id": 7944,
+    "tournamentId": 12366,
+    "match_winner": 12390,
+    "result": "1-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.875",
+    "odd2": "1.44",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499190",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 4110,
+    "player2Id": 10033,
+    "tournamentId": 12366,
+    "match_winner": 4110,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.05",
+    "odd2": "1.4",
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499206",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12882,
+    "player2Id": 11575,
+    "tournamentId": 12366,
+    "match_winner": 12882,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.06",
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499221",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32168,
+    "player2Id": 13351,
+    "tournamentId": 12366,
+    "match_winner": 32168,
+    "result": "6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499244",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 151,
+    "player2Id": 17503,
+    "tournamentId": 12366,
+    "match_winner": 151,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499139",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12966,
+    "player2Id": 495,
+    "tournamentId": 12366,
+    "match_winner": 12966,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.145",
+    "odd2": "5.95",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499144",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 39226,
+    "player2Id": 4076,
+    "tournamentId": 12366,
+    "match_winner": 39226,
+    "result": "6-4 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.96",
+    "odd2": "1.88",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499148",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5600,
+    "player2Id": 4158,
+    "tournamentId": 12366,
+    "match_winner": 5600,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499166",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10455,
+    "player2Id": 7102,
+    "tournamentId": 12366,
+    "match_winner": 10455,
+    "result": "6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.96",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499185",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13385,
+    "player2Id": 9503,
+    "tournamentId": 12366,
+    "match_winner": 13385,
+    "result": "7-6(3) 2-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499224",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8234,
+    "player2Id": 13498,
+    "tournamentId": 12366,
+    "match_winner": 8234,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.63",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499237",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 487,
+    "player2Id": 16430,
+    "tournamentId": 12366,
+    "match_winner": 487,
+    "result": "4-6 7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499257",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8652,
+    "player2Id": 29373,
+    "tournamentId": 12366,
+    "match_winner": 8652,
+    "result": "3-6 6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499147",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 4120,
+    "tournamentId": 12366,
+    "match_winner": 13351,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.168",
+    "odd2": "5.4",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499154",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5817,
+    "player2Id": 5582,
+    "tournamentId": 12366,
+    "match_winner": 5817,
+    "result": "7-6(7) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.29",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499157",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 5650,
+    "tournamentId": 12366,
+    "match_winner": 16430,
+    "result": "6-0 6-7(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.25",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499159",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 151,
+    "player2Id": 5873,
+    "tournamentId": 12366,
+    "match_winner": 151,
+    "result": "7-6(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.29",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5873,
+     "name": "Carla Suarez Navarro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499164",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 29373,
+    "player2Id": 6740,
+    "tournamentId": 12366,
+    "match_winner": 29373,
+    "result": "6-7(5) 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499167",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 7574,
+    "tournamentId": 12366,
+    "match_winner": 7982,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.32",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499168",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8531,
+    "player2Id": 7857,
+    "tournamentId": 12366,
+    "match_winner": 8531,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.96",
+    "odd2": "1.88",
+    "player1": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499176",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7926,
+    "player2Id": 8262,
+    "tournamentId": 12366,
+    "match_winner": 7926,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499181",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4110,
+    "player2Id": 8696,
+    "tournamentId": 12366,
+    "match_winner": 4110,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499188",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 487,
+    "player2Id": 9772,
+    "tournamentId": 12366,
+    "match_winner": 487,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499197",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4158,
+    "player2Id": 10633,
+    "tournamentId": 12366,
+    "match_winner": 4158,
+    "result": "7-6(0) 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499203",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12882,
+    "player2Id": 11371,
+    "tournamentId": 12366,
+    "match_winner": 12882,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499205",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10033,
+    "player2Id": 11449,
+    "tournamentId": 12366,
+    "match_winner": 10033,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499214",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5600,
+    "player2Id": 12842,
+    "tournamentId": 12366,
+    "match_winner": 5600,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499218",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 241,
+    "player2Id": 13180,
+    "tournamentId": 12366,
+    "match_winner": 241,
+    "result": "6-3 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499226",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 13621,
+    "tournamentId": 12366,
+    "match_winner": 8324,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499230",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 14056,
+    "tournamentId": 12366,
+    "match_winner": 12390,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499238",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 16628,
+    "tournamentId": 12366,
+    "match_winner": 32168,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499243",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 17501,
+    "tournamentId": 12366,
+    "match_winner": 7944,
+    "result": "6-2 0-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499245",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9503,
+    "player2Id": 18455,
+    "tournamentId": 12366,
+    "match_winner": 9503,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499246",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 18482,
+    "tournamentId": 12366,
+    "match_winner": 4076,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499250",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 39226,
+    "player2Id": 23432,
+    "tournamentId": 12366,
+    "match_winner": 39226,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499267",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 41564,
+    "tournamentId": 12366,
+    "match_winner": 13385,
+    "result": "6-3 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499271",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 45990,
+    "tournamentId": 12366,
+    "match_winner": 11575,
+    "result": "7-6(5) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499278",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 54663,
+    "tournamentId": 12366,
+    "match_winner": 17503,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499137",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9772,
+    "player2Id": 467,
+    "tournamentId": 12366,
+    "match_winner": 9772,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499146",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 4117,
+    "tournamentId": 12366,
+    "match_winner": 13621,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.66",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4117,
+     "name": "Johanna Larsson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499149",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13180,
+    "player2Id": 4177,
+    "tournamentId": 12366,
+    "match_winner": 13180,
+    "result": "6-1 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.76",
+    "odd2": "2.11",
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499150",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7574,
+    "player2Id": 4263,
+    "tournamentId": 12366,
+    "match_winner": 7574,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499152",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 5416,
+    "tournamentId": 12366,
+    "match_winner": 10455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.615",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499160",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7102,
+    "player2Id": 5900,
+    "tournamentId": 12366,
+    "match_winner": 7102,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499163",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 6651,
+    "tournamentId": 12366,
+    "match_winner": 39226,
+    "result": "4-6 7-6(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499174",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 7983,
+    "tournamentId": 12366,
+    "match_winner": 11449,
+    "result": "2-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499184",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12882,
+    "player2Id": 9458,
+    "tournamentId": 12366,
+    "match_winner": 12882,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.26",
+    "player1": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499192",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 29373,
+    "player2Id": 10334,
+    "tournamentId": 12366,
+    "match_winner": 29373,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.72",
+    "player1": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499193",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 151,
+    "player2Id": 10350,
+    "tournamentId": 12366,
+    "match_winner": 151,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499198",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 10749,
+    "tournamentId": 12366,
+    "match_winner": 12842,
+    "result": "4-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499207",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 495,
+    "player2Id": 11672,
+    "tournamentId": 12366,
+    "match_winner": 495,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.05",
+    "odd2": "1.26",
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499208",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7857,
+    "player2Id": 11712,
+    "tournamentId": 12366,
+    "match_winner": 7857,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.4",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499210",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5650,
+    "player2Id": 12116,
+    "tournamentId": 12366,
+    "match_winner": 5650,
+    "result": "3-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499212",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 12389,
+    "tournamentId": 12366,
+    "match_winner": 9503,
+    "result": "4-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.13",
+    "odd2": "6.35",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499219",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 13265,
+    "tournamentId": 12366,
+    "match_winner": 4110,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499225",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 13541,
+    "tournamentId": 12366,
+    "match_winner": 8234,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "4.05",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499227",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13498,
+    "player2Id": 13839,
+    "tournamentId": 12366,
+    "match_winner": 13498,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499228",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18482,
+    "player2Id": 13937,
+    "tournamentId": 12366,
+    "match_winner": 18482,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499235",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45990,
+    "player2Id": 14851,
+    "tournamentId": 12366,
+    "match_winner": 45990,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.5",
+    "player1": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14851,
+     "name": "Mari Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499253",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4158,
+    "player2Id": 27035,
+    "tournamentId": 12366,
+    "match_winner": 4158,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499259",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 30915,
+    "tournamentId": 12366,
+    "match_winner": 5817,
+    "result": "7-5 6-7(7) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 30915,
+     "name": "Vera Lapko",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499263",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 37266,
+    "tournamentId": 12366,
+    "match_winner": 12966,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.8",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499268",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 41569,
+    "tournamentId": 12366,
+    "match_winner": 54663,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.5",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499269",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8652,
+    "player2Id": 43872,
+    "tournamentId": 12366,
+    "match_winner": 8652,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499272",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8262,
+    "player2Id": 47152,
+    "tournamentId": 12366,
+    "match_winner": 8262,
+    "result": "6-2 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499141",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 902,
+    "tournamentId": 12366,
+    "match_winner": 12390,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.63",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499142",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 945,
+    "tournamentId": 12366,
+    "match_winner": 41564,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499143",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 1058,
+    "tournamentId": 12366,
+    "match_winner": 32168,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.55",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499153",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 495,
+    "player2Id": 5548,
+    "tournamentId": 12366,
+    "match_winner": 495,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499155",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 5593,
+    "tournamentId": 12366,
+    "match_winner": 5416,
+    "result": "6-2 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.2",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499191",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43872,
+    "player2Id": 10222,
+    "tournamentId": 12366,
+    "match_winner": 43872,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.05",
+    "odd2": "1.4",
+    "player1": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499199",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13839,
+    "player2Id": 10791,
+    "tournamentId": 12366,
+    "match_winner": 13839,
+    "result": "6-3 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.77",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499211",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17501,
+    "player2Id": 12144,
+    "tournamentId": 12366,
+    "match_winner": 17501,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499223",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4120,
+    "player2Id": 13484,
+    "tournamentId": 12366,
+    "match_winner": 4120,
+    "result": "4-6 6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.96",
+    "odd2": "1.42",
+    "player1": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499229",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37266,
+    "player2Id": 14054,
+    "tournamentId": 12366,
+    "match_winner": 37266,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499248",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5900,
+    "player2Id": 23230,
+    "tournamentId": 12366,
+    "match_winner": 5900,
+    "result": "1-6 7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499265",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 39749,
+    "tournamentId": 12366,
+    "match_winner": 13541,
+    "result": "1-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "499256",
+    "date": "2019-03-31T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 63696,
+    "player2Id": 28606,
+    "tournamentId": 12366,
+    "match_winner": 63696,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.46",
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499202",
+    "date": "2019-03-29T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 28606,
+    "player2Id": 11101,
+    "tournamentId": 12366,
+    "match_winner": 28606,
+    "result": "6-7(6) 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499288",
+    "date": "2019-03-29T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 63696,
+    "player2Id": 63706,
+    "tournamentId": 12366,
+    "match_winner": 63696,
+    "result": "7-6(6) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63706,
+     "name": "Victoria Azarenka/Ashleigh Barty",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499275",
+    "date": "2019-03-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 28606,
+    "player2Id": 50536,
+    "tournamentId": 12366,
+    "match_winner": 28606,
+    "result": "6-3 6-7(4) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.15",
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50536,
+     "name": "Monica Niculescu/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499276",
+    "date": "2019-03-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 63696,
+    "player2Id": 51399,
+    "tournamentId": 12366,
+    "match_winner": 63696,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.12",
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499285",
+    "date": "2019-03-27T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 63706,
+    "player2Id": 61201,
+    "tournamentId": 12366,
+    "match_winner": 63706,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.75",
+    "player1": {
+     "id": 63706,
+     "name": "Victoria Azarenka/Ashleigh Barty",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499282",
+    "date": "2019-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 63696,
+    "player2Id": 57865,
+    "tournamentId": 12366,
+    "match_winner": 63696,
+    "result": "7-6(3) 2-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499289",
+    "date": "2019-03-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11101,
+    "player2Id": 64132,
+    "tournamentId": 12366,
+    "match_winner": 11101,
+    "result": "6-3 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.2",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64132,
+     "name": "Belinda Bencic/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499296",
+    "date": "2019-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 50536,
+    "player2Id": 64621,
+    "tournamentId": 12366,
+    "match_winner": 50536,
+    "result": "1-6 7-5 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.76",
+    "player1": {
+     "id": 50536,
+     "name": "Monica Niculescu/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64621,
+     "name": "Julia Goerges/Simona Halep",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499283",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 64132,
+    "player2Id": 60929,
+    "tournamentId": 12366,
+    "match_winner": 64132,
+    "result": "6-3 3-6 15-13",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64132,
+     "name": "Belinda Bencic/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60929,
+     "name": "Shuko Aoyama/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499292",
+    "date": "2019-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11101,
+    "player2Id": 64412,
+    "tournamentId": 12366,
+    "match_winner": 11101,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.32",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64412,
+     "name": "Veronika Kudermetova/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499216",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 28606,
+    "player2Id": 12893,
+    "tournamentId": 12366,
+    "match_winner": 28606,
+    "result": "7-5 5-7 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499279",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 63706,
+    "player2Id": 54972,
+    "tournamentId": 12366,
+    "match_winner": 63706,
+    "result": "6-3 1-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.04",
+    "player1": {
+     "id": 63706,
+     "name": "Victoria Azarenka/Ashleigh Barty",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 54972,
+     "name": "Aleksandra Krunic/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499290",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 51399,
+    "player2Id": 64408,
+    "tournamentId": 12366,
+    "match_winner": 51399,
+    "result": "7-6(5) 6-7(5) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64408,
+     "name": "Alicja Rosolska/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499293",
+    "date": "2019-03-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 61201,
+    "player2Id": 64414,
+    "tournamentId": 12366,
+    "match_winner": 61201,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.12",
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64414,
+     "name": "Lara Arruabarrena/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499240",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 16727,
+    "tournamentId": 12366,
+    "match_winner": 11101,
+    "result": "3-6 7-5 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.4",
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 16727,
+     "name": "Irina-Camelia Begu/Mihaela Buzarnescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499241",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64621,
+    "player2Id": 17085,
+    "tournamentId": 12366,
+    "match_winner": 64621,
+    "result": "4-6 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.04",
+    "odd2": "1.36",
+    "player1": {
+     "id": 64621,
+     "name": "Julia Goerges/Simona Halep",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499249",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64408,
+    "player2Id": 23268,
+    "tournamentId": 12366,
+    "match_winner": 64408,
+    "result": "4-6 7-5 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.78",
+    "player1": {
+     "id": 64408,
+     "name": "Alicja Rosolska/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23268,
+     "name": "Kirsten Flipkens/Johanna Larsson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499254",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63706,
+    "player2Id": 27301,
+    "tournamentId": 12366,
+    "match_winner": 63706,
+    "result": "6-3 6-7(1) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63706,
+     "name": "Victoria Azarenka/Ashleigh Barty",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499280",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 51399,
+    "player2Id": 56132,
+    "tournamentId": 12366,
+    "match_winner": 51399,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 56132,
+     "name": "Dalila Jakupovic/Irina Khromacheva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499284",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64412,
+    "player2Id": 61055,
+    "tournamentId": 12366,
+    "match_winner": 64412,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64412,
+     "name": "Veronika Kudermetova/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61055,
+     "name": "Anastasia Pavlyuchenkova/Anastasija Sevastova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499287",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57865,
+    "player2Id": 63654,
+    "tournamentId": 12366,
+    "match_winner": 57865,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.2",
+    "player1": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63654,
+     "name": "Kaitlyn Christian/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499291",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 50536,
+    "player2Id": 64411,
+    "tournamentId": 12366,
+    "match_winner": 50536,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 50536,
+     "name": "Monica Niculescu/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64411,
+     "name": "Anna-Lena Groenefeld/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499295",
+    "date": "2019-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12893,
+    "player2Id": 64620,
+    "tournamentId": 12366,
+    "match_winner": 12893,
+    "result": "6-3 2-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.3",
+    "player1": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64620,
+     "name": "Amanda Anisimova/Alison Riske",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499247",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60929,
+    "player2Id": 19870,
+    "tournamentId": 12366,
+    "match_winner": 60929,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60929,
+     "name": "Shuko Aoyama/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 19870,
+     "name": "Miyu Kato/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499260",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54972,
+    "player2Id": 31700,
+    "tournamentId": 12366,
+    "match_winner": 54972,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.32",
+    "player1": {
+     "id": 54972,
+     "name": "Aleksandra Krunic/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 31700,
+     "name": "Lauren Davis/Christina Mchale",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499273",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61201,
+    "player2Id": 48200,
+    "tournamentId": 12366,
+    "match_winner": 61201,
+    "result": "3-6 6-3 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.1",
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48200,
+     "name": "Desirae Krawczyk/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499274",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64414,
+    "player2Id": 50494,
+    "tournamentId": 12366,
+    "match_winner": 64414,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.78",
+    "odd2": "1.42",
+    "player1": {
+     "id": 64414,
+     "name": "Lara Arruabarrena/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50494,
+     "name": "Andreja Klepac/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499286",
+    "date": "2019-03-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28606,
+    "player2Id": 63647,
+    "tournamentId": 12366,
+    "match_winner": 28606,
+    "result": "6-3 3-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.32",
+    "player1": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63647,
+     "name": "Raquel Atawo/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499281",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64132,
+    "player2Id": 57102,
+    "tournamentId": 12366,
+    "match_winner": 64132,
+    "result": "4-6 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.49",
+    "odd2": "1.51",
+    "player1": {
+     "id": 64132,
+     "name": "Belinda Bencic/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499294",
+    "date": "2019-03-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63696,
+    "player2Id": 64619,
+    "tournamentId": 12366,
+    "match_winner": 63696,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.4",
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64619,
+     "name": "Danielle Rose Collins/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "499140",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8262,
+    "player2Id": 888,
+    "tournamentId": 12366,
+    "match_winner": 8262,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.13",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499162",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10350,
+    "player2Id": 6201,
+    "tournamentId": 12366,
+    "match_winner": 10350,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.63",
+    "player1": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499165",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11712,
+    "player2Id": 6933,
+    "tournamentId": 12366,
+    "match_winner": 11712,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499169",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4177,
+    "player2Id": 7926,
+    "tournamentId": 12366,
+    "match_winner": 4177,
+    "result": "3-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499173",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 5650,
+    "player2Id": 7983,
+    "tournamentId": 12366,
+    "match_winner": 5650,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499183",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13937,
+    "player2Id": 9357,
+    "tournamentId": 12366,
+    "match_winner": 13937,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.02",
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499186",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10749,
+    "player2Id": 9669,
+    "tournamentId": 12366,
+    "match_winner": 10749,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.56",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499196",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 467,
+    "player2Id": 10600,
+    "tournamentId": 12366,
+    "match_winner": 467,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499204",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4158,
+    "player2Id": 11372,
+    "tournamentId": 12366,
+    "match_winner": 4158,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.04",
+    "player1": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499217",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13621,
+    "player2Id": 13094,
+    "tournamentId": 12366,
+    "match_winner": 13621,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.64",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499251",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 18482,
+    "player2Id": 24572,
+    "tournamentId": 12366,
+    "match_winner": 18482,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499270",
+    "date": "2019-03-20T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12116,
+    "player2Id": 45854,
+    "tournamentId": 12366,
+    "match_winner": 12116,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499151",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10600,
+    "player2Id": 5369,
+    "tournamentId": 12366,
+    "match_winner": 10600,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499161",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 6019,
+    "tournamentId": 12366,
+    "match_winner": 4177,
+    "result": "4-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.69",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499180",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 888,
+    "player2Id": 8665,
+    "tournamentId": 12366,
+    "match_winner": 888,
+    "result": "2-6 7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499182",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18482,
+    "player2Id": 9247,
+    "tournamentId": 12366,
+    "match_winner": 18482,
+    "result": "7-6(6) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.91",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499187",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7983,
+    "player2Id": 9728,
+    "tournamentId": 12366,
+    "match_winner": 7983,
+    "result": "6-4 1-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.15",
+    "player1": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499189",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4158,
+    "player2Id": 10008,
+    "tournamentId": 12366,
+    "match_winner": 4158,
+    "result": "6-0 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499194",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45854,
+    "player2Id": 10394,
+    "tournamentId": 12366,
+    "match_winner": 45854,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.93",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499200",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13937,
+    "player2Id": 10814,
+    "tournamentId": 12366,
+    "match_winner": 13937,
+    "result": "4-6 6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499201",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6201,
+    "player2Id": 11071,
+    "tournamentId": 12366,
+    "match_winner": 6201,
+    "result": "6-7(2) 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499209",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11372,
+    "player2Id": 12089,
+    "tournamentId": 12366,
+    "match_winner": 11372,
+    "result": "0-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.04",
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499220",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12116,
+    "player2Id": 13325,
+    "tournamentId": 12366,
+    "match_winner": 12116,
+    "result": "2-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499231",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11712,
+    "player2Id": 14093,
+    "tournamentId": 12366,
+    "match_winner": 11712,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14093,
+     "name": "Allie Kiick",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499232",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24572,
+    "player2Id": 14175,
+    "tournamentId": 12366,
+    "match_winner": 24572,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499233",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6933,
+    "player2Id": 14259,
+    "tournamentId": 12366,
+    "match_winner": 6933,
+    "result": "6-3 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499234",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9669,
+    "player2Id": 14609,
+    "tournamentId": 12366,
+    "match_winner": 9669,
+    "result": "3-6 6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499236",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5650,
+    "player2Id": 16119,
+    "tournamentId": 12366,
+    "match_winner": 5650,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.76",
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499239",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10350,
+    "player2Id": 16664,
+    "tournamentId": 12366,
+    "match_winner": 10350,
+    "result": "1-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.87",
+    "player1": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499242",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 467,
+    "player2Id": 17142,
+    "tournamentId": 12366,
+    "match_winner": 467,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499252",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 26852,
+    "tournamentId": 12366,
+    "match_winner": 10749,
+    "result": "6-0 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.148",
+    "odd2": "5.5",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 26852,
+     "name": "Karman Kaur Thandi",
+     "countryAcr": "IND"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499255",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9357,
+    "player2Id": 28585,
+    "tournamentId": 12366,
+    "match_winner": 9357,
+    "result": "7-5 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499258",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7926,
+    "player2Id": 30232,
+    "tournamentId": 12366,
+    "match_winner": 7926,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499262",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13094,
+    "player2Id": 34747,
+    "tournamentId": 12366,
+    "match_winner": 13094,
+    "result": "2-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.74",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499266",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8262,
+    "player2Id": 40156,
+    "tournamentId": 12366,
+    "match_winner": 8262,
+    "result": "3-6 7-6(10) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499277",
+    "date": "2019-03-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 53128,
+    "tournamentId": 12366,
+    "match_winner": 13621,
+    "result": "4-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.07",
+    "odd2": "8.6",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12366,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2019-03-18T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,117 @@
+[
+ {
+  "id": "413629",
+  "matchId": "413629",
+  "date": "2017-09-17T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 12383,
+  "player2Id": 4131,
+  "tournamentId": 11150,
+  "match_winner": 12383,
+  "result": "4-6 6-4 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 12383,
+   "name": "Zhaoxuan Yang",
+   "countryAcr": "CHN"
+  },
+  "player2": {
+   "id": 4131,
+   "name": "Raquel Atawo",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 11150,
+   "name": "Toray Pan Pacific Open - Tokyo",
+   "courtId": 1,
+   "date": "2017-09-18T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "JPN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "412689",
+  "matchId": "412689",
+  "date": "2017-07-29T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 5589,
+  "player2Id": 4131,
+  "tournamentId": 11141,
+  "match_winner": 5589,
+  "result": "6-4 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 5589,
+   "name": "Marina Erakovic",
+   "countryAcr": "NZL"
+  },
+  "player2": {
+   "id": 4131,
+   "name": "Raquel Atawo",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 11141,
+   "name": "Bank of the West Classic - Stanford",
+   "courtId": 1,
+   "date": "2017-07-31T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:10:46",
+   "player1": {
+    "firstServe": 31,
+    "firstServeOf": 57,
+    "aces": 2,
+    "doubleFaults": 0,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 21,
+    "winningOnFirstServeOf": 31,
+    "winningOnSecondServe": 15,
+    "winningOnSecondServeOf": 26,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 7,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 65,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 32,
+    "firstServeOf": 54,
+    "aces": 2,
+    "doubleFaults": 5,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 20,
+    "winningOnFirstServeOf": 32,
+    "winningOnSecondServe": 5,
+    "winningOnSecondServeOf": 22,
+    "winners": null,
+    "breakPointsConverted": 1,
+    "breakPointsConvertedOf": 5,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 46,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

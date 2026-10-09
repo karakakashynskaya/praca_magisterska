@@ -1,0 +1,2076 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "579607",
+    "date": "2021-09-26T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 13385,
+    "player2Id": 13541,
+    "tournamentId": 13652,
+    "match_winner": 13385,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579594",
+    "date": "2021-09-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13385,
+    "player2Id": 8234,
+    "tournamentId": 13652,
+    "match_winner": 13385,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.81",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579630",
+    "date": "2021-09-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13541,
+    "player2Id": 45854,
+    "tournamentId": 13652,
+    "match_winner": 13541,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579604",
+    "date": "2021-09-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 12997,
+    "tournamentId": 13652,
+    "match_winner": 13541,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.82",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579611",
+    "date": "2021-09-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13385,
+    "player2Id": 14056,
+    "tournamentId": 13652,
+    "match_winner": 13385,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.95",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579619",
+    "date": "2021-09-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8234,
+    "player2Id": 17021,
+    "tournamentId": 13652,
+    "match_winner": 8234,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579626",
+    "date": "2021-09-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 36558,
+    "tournamentId": 13652,
+    "match_winner": 45854,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.909",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579592",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12997,
+    "player2Id": 6740,
+    "tournamentId": 13652,
+    "match_winner": 12997,
+    "result": "7-6(5) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.84",
+    "odd2": "1.28",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579597",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 9357,
+    "tournamentId": 13652,
+    "match_winner": 36558,
+    "result": "6-3 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579598",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17021,
+    "player2Id": 9772,
+    "tournamentId": 13652,
+    "match_winner": 17021,
+    "result": "6-3 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.92",
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579608",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 13839,
+    "tournamentId": 13652,
+    "match_winner": 14056,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579617",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 16628,
+    "tournamentId": 13652,
+    "match_winner": 13541,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.1",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579603",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 12390,
+    "tournamentId": 13652,
+    "match_winner": 45854,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579618",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9772,
+    "player2Id": 16664,
+    "tournamentId": 13652,
+    "match_winner": 9772,
+    "result": "6-4 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.97",
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579620",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 17142,
+    "tournamentId": 13652,
+    "match_winner": 13385,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579625",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 34747,
+    "tournamentId": 13652,
+    "match_winner": 16628,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579627",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 40156,
+    "tournamentId": 13652,
+    "match_winner": 8234,
+    "result": "6-1 6-7(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579588",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17021,
+    "player2Id": 4076,
+    "tournamentId": 13652,
+    "match_winner": 17021,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579589",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 4263,
+    "tournamentId": 13652,
+    "match_winner": 12390,
+    "result": "5-7 7-6(7) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579616",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 16119,
+    "tournamentId": 13652,
+    "match_winner": 36558,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579621",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12997,
+    "player2Id": 17501,
+    "tournamentId": 13652,
+    "match_winner": 12997,
+    "result": "5-7 6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.64",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579622",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 17673,
+    "tournamentId": 13652,
+    "match_winner": 6740,
+    "result": "7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579591",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 6019,
+    "tournamentId": 13652,
+    "match_winner": 13385,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579599",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 10455,
+    "tournamentId": 13652,
+    "match_winner": 40156,
+    "result": "6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579613",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 14539,
+    "tournamentId": 13652,
+    "match_winner": 9357,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579629",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 44510,
+    "tournamentId": 13652,
+    "match_winner": 17142,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579632",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13839,
+    "player2Id": 52660,
+    "tournamentId": 13652,
+    "match_winner": 13839,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "579644",
+    "date": "2021-09-26T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 75338,
+    "player2Id": 75449,
+    "tournamentId": 13652,
+    "match_winner": 75338,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75338,
+     "name": "Sania Mirza/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75449,
+     "name": "Kaitlyn Christian/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579623",
+    "date": "2021-09-25T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 75338,
+    "player2Id": 21932,
+    "tournamentId": 13652,
+    "match_winner": 75338,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75338,
+     "name": "Sania Mirza/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579639",
+    "date": "2021-09-24T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 75338,
+    "player2Id": 70153,
+    "tournamentId": 13652,
+    "match_winner": 75338,
+    "result": "6-3 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75338,
+     "name": "Sania Mirza/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70153,
+     "name": "Anna Danilina/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579642",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71365,
+    "player2Id": 74319,
+    "tournamentId": 13652,
+    "match_winner": 71365,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.195",
+    "odd2": "4.65",
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74319,
+     "name": "Astra Sharma/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579646",
+    "date": "2021-09-23T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 75449,
+    "player2Id": 75451,
+    "tournamentId": 13652,
+    "match_winner": 75449,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.36",
+    "player1": {
+     "id": 75449,
+     "name": "Kaitlyn Christian/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75451,
+     "name": "Vivian Heisen/Renata Voracova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579631",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71365,
+    "player2Id": 46988,
+    "tournamentId": 13652,
+    "match_winner": 71365,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.04",
+    "player1": {
+     "id": 71365,
+     "name": "Magda Linette/Bernarda Pera",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 46988,
+     "name": "Andreea Mitu/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579638",
+    "date": "2021-09-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 21932,
+    "player2Id": 70107,
+    "tournamentId": 13652,
+    "match_winner": 21932,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70107,
+     "name": "Oksana Kalashnikova/Miyu Kato",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579634",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75449,
+    "player2Id": 59213,
+    "tournamentId": 13652,
+    "match_winner": 75449,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.11",
+    "player1": {
+     "id": 75449,
+     "name": "Kaitlyn Christian/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 59213,
+     "name": "Rutuja Bhosale/Emily Webley-Smith",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579635",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75338,
+    "player2Id": 62065,
+    "tournamentId": 13652,
+    "match_winner": 75338,
+    "result": "6-7(3) 7-5 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75338,
+     "name": "Sania Mirza/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 62065,
+     "name": "Emina Bektas/Tara Moore",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579643",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74319,
+    "player2Id": 75448,
+    "tournamentId": 13652,
+    "match_winner": 74319,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 74319,
+     "name": "Astra Sharma/Rosalie Van Der Hoek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75448,
+     "name": "Alena Fomina/Katarzyna Kawa",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579645",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75451,
+    "player2Id": 75450,
+    "tournamentId": 13652,
+    "match_winner": 75451,
+    "result": "1-6 6-2 15-13",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75451,
+     "name": "Vivian Heisen/Renata Voracova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75450,
+     "name": "Anna Blinkova/Misaki Doi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579647",
+    "date": "2021-09-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 21932,
+    "player2Id": 75452,
+    "tournamentId": 13652,
+    "match_winner": 21932,
+    "result": "6-3 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75452,
+     "name": "Katarzyna Piter/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579637",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70153,
+    "player2Id": 67072,
+    "tournamentId": 13652,
+    "match_winner": 70153,
+    "result": "6-3 6-7(3) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70153,
+     "name": "Anna Danilina/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67072,
+     "name": "Natela Dzalamidze/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579641",
+    "date": "2021-09-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70107,
+    "player2Id": 73572,
+    "tournamentId": 13652,
+    "match_winner": 70107,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.08",
+    "odd2": "1.75",
+    "player1": {
+     "id": 70107,
+     "name": "Oksana Kalashnikova/Miyu Kato",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73572,
+     "name": "Alexandra Panova/Julia Lohoff",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "579600",
+    "date": "2021-09-19T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9357,
+    "player2Id": 11066,
+    "tournamentId": 13652,
+    "match_winner": 9357,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.128",
+    "odd2": "6",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579610",
+    "date": "2021-09-19T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 40156,
+    "player2Id": 14054,
+    "tournamentId": 13652,
+    "match_winner": 40156,
+    "result": "7-5 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579612",
+    "date": "2021-09-19T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17673,
+    "player2Id": 14259,
+    "tournamentId": 13652,
+    "match_winner": 17673,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.48",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579615",
+    "date": "2021-09-19T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52660,
+    "player2Id": 14902,
+    "tournamentId": 13652,
+    "match_winner": 52660,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.79",
+    "player1": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579624",
+    "date": "2021-09-19T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16664,
+    "player2Id": 34747,
+    "tournamentId": 13652,
+    "match_winner": 16664,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.14",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579628",
+    "date": "2021-09-19T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14539,
+    "player2Id": 44510,
+    "tournamentId": 13652,
+    "match_winner": 14539,
+    "result": "6-7(4) 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579590",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 40156,
+    "player2Id": 5369,
+    "tournamentId": 13652,
+    "match_winner": 40156,
+    "result": "3-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579593",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 8049,
+    "tournamentId": 13652,
+    "match_winner": 14259,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8049,
+     "name": "Katarzyna Piter",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579595",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11066,
+    "player2Id": 8262,
+    "tournamentId": 13652,
+    "match_winner": 11066,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.32",
+    "odd2": "1.61",
+    "player1": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579596",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16664,
+    "player2Id": 8668,
+    "tournamentId": 13652,
+    "match_winner": 16664,
+    "result": "3-6 7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.031",
+    "odd2": "12",
+    "player1": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 8668,
+     "name": "Oksana Kalashnikova",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579601",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 12114,
+    "tournamentId": 13652,
+    "match_winner": 34747,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12114,
+     "name": "Rosalie Van Der Hoek",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579602",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14539,
+    "player2Id": 12389,
+    "tournamentId": 13652,
+    "match_winner": 14539,
+    "result": "7-6(3) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579605",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52660,
+    "player2Id": 13180,
+    "tournamentId": 13652,
+    "match_winner": 52660,
+    "result": "7-6(7) 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579606",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14054,
+    "player2Id": 13403,
+    "tournamentId": 13652,
+    "match_winner": 14054,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.079",
+    "odd2": "7.9",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13403,
+     "name": "Julia Lohoff",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579609",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9357,
+    "player2Id": 13871,
+    "tournamentId": 13652,
+    "match_winner": 9357,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.026",
+    "odd2": "12.75",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 13871,
+     "name": "Rutuja Bhosale",
+     "countryAcr": "IND"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579614",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44510,
+    "player2Id": 14734,
+    "tournamentId": 13652,
+    "match_winner": 44510,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.13",
+    "odd2": "5.95",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14734,
+     "name": "Anna Danilina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579633",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17673,
+    "player2Id": 57279,
+    "tournamentId": 13652,
+    "match_winner": 17673,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.044",
+    "odd2": "10.5",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 57279,
+     "name": "Radka Zelnickova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "579636",
+    "date": "2021-09-18T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14902,
+    "player2Id": 65417,
+    "tournamentId": 13652,
+    "match_winner": 14902,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13652,
+     "name": "J&T Banka Ostrava Open - Ostrava",
+     "courtId": 3,
+     "date": "2021-09-20T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CZE",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

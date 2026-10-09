@@ -1,0 +1,153 @@
+[
+ {
+  "id": "868079",
+  "matchId": "868079",
+  "date": "2026-02-06T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 61881,
+  "player2Id": 104119,
+  "tournamentId": 16710,
+  "match_winner": 61881,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.005",
+  "odd2": "10.75",
+  "player1": {
+   "id": 61881,
+   "name": "Solana Sierra",
+   "countryAcr": "ARG"
+  },
+  "player2": {
+   "id": 104119,
+   "name": "Hind Al-Mudahka",
+   "countryAcr": "QAT"
+  },
+  "tournament": {
+   "id": 16710,
+   "name": "Qatar TotalEnergies Open - Doha",
+   "courtId": 1,
+   "date": "2026-02-09T00:00:00.000Z",
+   "rankId": 3,
+   "countryAcr": "QAT",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:51:59",
+   "player1": {
+    "firstServe": 22,
+    "firstServeOf": 36,
+    "aces": 2,
+    "doubleFaults": 0,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 18,
+    "winningOnFirstServeOf": 22,
+    "winningOnSecondServe": 10,
+    "winningOnSecondServeOf": 14,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 12,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 58,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 29,
+    "firstServeOf": 50,
+    "aces": 1,
+    "doubleFaults": 7,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 14,
+    "winningOnFirstServeOf": 29,
+    "winningOnSecondServe": 6,
+    "winningOnSecondServeOf": 21,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 28,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "856580",
+  "matchId": "856580",
+  "date": "2025-09-28T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 87412,
+  "player2Id": 104119,
+  "tournamentId": 16542,
+  "match_winner": 87412,
+  "result": "6-2 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 87412,
+   "name": "Isa Chau",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 104119,
+   "name": "Hind Al-Mudahka",
+   "countryAcr": "QAT"
+  },
+  "tournament": {
+   "id": 16542,
+   "name": "W15 Kayseri 11",
+   "courtId": 1,
+   "date": "2025-09-29T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUR",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "855560",
+  "matchId": "855560",
+  "date": "2025-09-21T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 86222,
+  "player2Id": 104119,
+  "tournamentId": 16527,
+  "match_winner": 86222,
+  "result": "6-4 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 86222,
+   "name": "Unknown Player",
+   "countryAcr": "N/A"
+  },
+  "player2": {
+   "id": 104119,
+   "name": "Hind Al-Mudahka",
+   "countryAcr": "QAT"
+  },
+  "tournament": {
+   "id": 16527,
+   "name": "W15 Kayseri 10",
+   "courtId": 1,
+   "date": "2025-09-22T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUR",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ }
+]

@@ -1,0 +1,297 @@
+[
+ {
+  "id": "444687",
+  "matchId": "444687",
+  "date": "2017-09-25T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 5142,
+  "player2Id": 17511,
+  "tournamentId": 11595,
+  "match_winner": 5142,
+  "result": "6-1 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 5142,
+   "name": "Alisa Kleybanova",
+   "countryAcr": "RUS"
+  },
+  "player2": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 11595,
+   "name": "Templeton",
+   "courtId": 1,
+   "date": "2017-09-25T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "412717",
+  "matchId": "412717",
+  "date": "2017-07-29T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 8535,
+  "player2Id": 17511,
+  "tournamentId": 11141,
+  "match_winner": 8535,
+  "result": "6-3 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.1",
+  "odd2": "7.8",
+  "player1": {
+   "id": 8535,
+   "name": "Asia Muhammad",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 11141,
+   "name": "Bank of the West Classic - Stanford",
+   "courtId": 1,
+   "date": "2017-07-31T00:00:00.000Z",
+   "rankId": 2,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:06:53",
+   "player1": {
+    "firstServe": 25,
+    "firstServeOf": 47,
+    "aces": 2,
+    "doubleFaults": 3,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 21,
+    "winningOnFirstServeOf": 25,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 22,
+    "winners": null,
+    "breakPointsConverted": 4,
+    "breakPointsConvertedOf": 8,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 59,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 31,
+    "firstServeOf": 51,
+    "aces": 0,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 17,
+    "winningOnFirstServeOf": 31,
+    "winningOnSecondServe": 8,
+    "winningOnSecondServeOf": 20,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 1,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 39,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "373992",
+  "matchId": "373992",
+  "date": "2016-02-22T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 17511,
+  "player2Id": 14942,
+  "tournamentId": 10569,
+  "match_winner": 17511,
+  "result": "6-4 5-7 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 14942,
+   "name": "Charlotte Petrick",
+   "countryAcr": "CAN"
+  },
+  "tournament": {
+   "id": 10569,
+   "name": "Rancho Santa Fe",
+   "courtId": 1,
+   "date": "2016-02-22T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "374001",
+  "matchId": "374001",
+  "date": "2016-02-22T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 27804,
+  "player2Id": 17511,
+  "tournamentId": 10569,
+  "match_winner": 27804,
+  "result": "6-1 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 27804,
+   "name": "Claire Liu",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 10569,
+   "name": "Rancho Santa Fe",
+   "courtId": 1,
+   "date": "2016-02-22T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "373156",
+  "matchId": "373156",
+  "date": "2016-02-15T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 17511,
+  "player2Id": 16288,
+  "tournamentId": 10558,
+  "match_winner": 17511,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 16288,
+   "name": "Alexandra Facey",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 10558,
+   "name": "Surprise",
+   "courtId": 1,
+   "date": "2016-02-15T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "373162",
+  "matchId": "373162",
+  "date": "2016-02-15T00:00:00.000Z",
+  "roundId": 3,
+  "player1Id": 8666,
+  "player2Id": 17511,
+  "tournamentId": 10558,
+  "match_winner": 8666,
+  "result": "7-5 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 8666,
+   "name": "Lauren Embree",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 10558,
+   "name": "Surprise",
+   "courtId": 1,
+   "date": "2016-02-15T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "373180",
+  "matchId": "373180",
+  "date": "2016-02-15T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 17511,
+  "player2Id": 30516,
+  "tournamentId": 10558,
+  "match_winner": 17511,
+  "result": "7-6(2) 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 17511,
+   "name": "Emma Higuchi",
+   "countryAcr": "USA"
+  },
+  "player2": {
+   "id": 30516,
+   "name": "Kylie Mckenzie",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 10558,
+   "name": "Surprise",
+   "courtId": 1,
+   "date": "2016-02-15T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ }
+]

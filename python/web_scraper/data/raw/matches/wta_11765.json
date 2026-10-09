@@ -1,0 +1,3359 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "456131",
+    "matchId": "456131",
+    "date": "2018-04-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 8652,
+    "player2Id": 7102,
+    "tournamentId": 11765,
+    "match_winner": 8652,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.44",
+    "odd2": "1.65",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456135",
+    "matchId": "456135",
+    "date": "2018-04-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 7102,
+    "player2Id": 7944,
+    "tournamentId": 11765,
+    "match_winner": 7102,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.22",
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456159",
+    "matchId": "456159",
+    "date": "2018-04-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 8652,
+    "player2Id": 11672,
+    "tournamentId": 11765,
+    "match_winner": 8652,
+    "result": "6-4 6-7(2) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.78",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456126",
+    "matchId": "456126",
+    "date": "2018-04-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8652,
+    "player2Id": 5817,
+    "tournamentId": 11765,
+    "match_winner": 8652,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456136",
+    "matchId": "456136",
+    "date": "2018-04-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7944,
+    "player2Id": 7983,
+    "tournamentId": 11765,
+    "match_winner": 7944,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.83",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456170",
+    "matchId": "456170",
+    "date": "2018-04-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11672,
+    "player2Id": 14259,
+    "tournamentId": 11765,
+    "match_winner": 11672,
+    "result": "6-2 6-7(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456175",
+    "matchId": "456175",
+    "date": "2018-04-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7102,
+    "player2Id": 17503,
+    "tournamentId": 11765,
+    "match_winner": 7102,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.83",
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456120",
+    "matchId": "456120",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14259,
+    "player2Id": 4121,
+    "tournamentId": 11765,
+    "match_winner": 14259,
+    "result": "6-3 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.55",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456121",
+    "matchId": "456121",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7983,
+    "player2Id": 4123,
+    "tournamentId": 11765,
+    "match_winner": 7983,
+    "result": "6-3 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4123,
+     "name": "Elena Vesnina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456130",
+    "matchId": "456130",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17503,
+    "player2Id": 6651,
+    "tournamentId": 11765,
+    "match_winner": 17503,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456141",
+    "matchId": "456141",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11672,
+    "player2Id": 8696,
+    "tournamentId": 11765,
+    "match_winner": 11672,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456151",
+    "matchId": "456151",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5817,
+    "player2Id": 10455,
+    "tournamentId": 11765,
+    "match_winner": 5817,
+    "result": "5-7 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456165",
+    "matchId": "456165",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7944,
+    "player2Id": 12966,
+    "tournamentId": 11765,
+    "match_winner": 7944,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.12",
+    "odd2": "1.82",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456172",
+    "matchId": "456172",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7102,
+    "player2Id": 16430,
+    "tournamentId": 11765,
+    "match_winner": 7102,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.27",
+    "odd2": "1.727",
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456183",
+    "matchId": "456183",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8652,
+    "player2Id": 30232,
+    "tournamentId": 11765,
+    "match_winner": 8652,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.8",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456118",
+    "matchId": "456118",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 4110,
+    "tournamentId": 11765,
+    "match_winner": 12966,
+    "result": "4-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456123",
+    "matchId": "456123",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 4177,
+    "tournamentId": 11765,
+    "match_winner": 16430,
+    "result": "6-3 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456125",
+    "matchId": "456125",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4121,
+    "player2Id": 5582,
+    "tournamentId": 11765,
+    "match_winner": 4121,
+    "result": "3-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.87",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456132",
+    "matchId": "456132",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 30232,
+    "player2Id": 7857,
+    "tournamentId": 11765,
+    "match_winner": 30232,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5",
+    "odd2": "1.22",
+    "player1": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456134",
+    "matchId": "456134",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5817,
+    "player2Id": 7926,
+    "tournamentId": 11765,
+    "match_winner": 5817,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456137",
+    "matchId": "456137",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7983,
+    "player2Id": 8234,
+    "tournamentId": 11765,
+    "match_winner": 7983,
+    "result": "1-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5",
+    "odd2": "1.22",
+    "player1": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456146",
+    "matchId": "456146",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 10008,
+    "tournamentId": 11765,
+    "match_winner": 11672,
+    "result": "6-1 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456149",
+    "matchId": "456149",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8696,
+    "player2Id": 10334,
+    "tournamentId": 11765,
+    "match_winner": 8696,
+    "result": "6-2 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456152",
+    "matchId": "456152",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7102,
+    "player2Id": 10595,
+    "tournamentId": 11765,
+    "match_winner": 7102,
+    "result": "2-6 6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "5",
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456153",
+    "matchId": "456153",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8652,
+    "player2Id": 10791,
+    "tournamentId": 11765,
+    "match_winner": 8652,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.66",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456169",
+    "matchId": "456169",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4123,
+    "player2Id": 13621,
+    "tournamentId": 11765,
+    "match_winner": 4123,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "3.125",
+    "player1": {
+     "id": 4123,
+     "name": "Elena Vesnina",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456181",
+    "matchId": "456181",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6651,
+    "player2Id": 27804,
+    "tournamentId": 11765,
+    "match_winner": 6651,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "4.15",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456182",
+    "matchId": "456182",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 28585,
+    "tournamentId": 11765,
+    "match_winner": 7944,
+    "result": "7-5 6-7(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.5",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456187",
+    "matchId": "456187",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14259,
+    "player2Id": 37266,
+    "tournamentId": 11765,
+    "match_winner": 14259,
+    "result": "7-6(4) 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456114",
+    "matchId": "456114",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 461,
+    "tournamentId": 11765,
+    "match_winner": 10455,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "3.125",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456115",
+    "matchId": "456115",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10595,
+    "player2Id": 495,
+    "tournamentId": 11765,
+    "match_winner": 10595,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.625",
+    "odd2": "1.55",
+    "player1": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456129",
+    "matchId": "456129",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4123,
+    "player2Id": 6201,
+    "tournamentId": 11765,
+    "match_winner": 4123,
+    "result": "6-3 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.625",
+    "player1": {
+     "id": 4123,
+     "name": "Elena Vesnina",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456140",
+    "matchId": "456140",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 8665,
+    "tournamentId": 11765,
+    "match_winner": 17503,
+    "result": "6-3 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456143",
+    "matchId": "456143",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27804,
+    "player2Id": 9357,
+    "tournamentId": 11765,
+    "match_winner": 27804,
+    "result": "1-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.05",
+    "odd2": "1.86",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456147",
+    "matchId": "456147",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 10132,
+    "tournamentId": 11765,
+    "match_winner": 6651,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.75",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 10132,
+     "name": "Georgina Garcia-Perez",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456154",
+    "matchId": "456154",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4121,
+    "player2Id": 10814,
+    "tournamentId": 11765,
+    "match_winner": 4121,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456155",
+    "matchId": "456155",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 11071,
+    "tournamentId": 11765,
+    "match_winner": 13621,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456163",
+    "matchId": "456163",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 12205,
+    "tournamentId": 11765,
+    "match_winner": 4110,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456166",
+    "matchId": "456166",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10008,
+    "player2Id": 13094,
+    "tournamentId": 11765,
+    "match_winner": 10008,
+    "result": "4-6 7-6(6) 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456174",
+    "matchId": "456174",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7983,
+    "player2Id": 17501,
+    "tournamentId": 11765,
+    "match_winner": 7983,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456177",
+    "matchId": "456177",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12966,
+    "player2Id": 23432,
+    "tournamentId": 11765,
+    "match_winner": 12966,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456113",
+    "matchId": "456113",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10791,
+    "player2Id": 448,
+    "tournamentId": 11765,
+    "match_winner": 10791,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.49",
+    "player1": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456116",
+    "matchId": "456116",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 461,
+    "player2Id": 945,
+    "tournamentId": 11765,
+    "match_winner": 461,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.81",
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456117",
+    "matchId": "456117",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 1014,
+    "tournamentId": 11765,
+    "match_winner": 5817,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456119",
+    "matchId": "456119",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 4117,
+    "tournamentId": 11765,
+    "match_winner": 28585,
+    "result": "5-7 6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4117,
+     "name": "Johanna Larsson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456127",
+    "matchId": "456127",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 6119,
+    "tournamentId": 11765,
+    "match_winner": 8696,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 6119,
+     "name": "Silvia Soler-Espinosa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456142",
+    "matchId": "456142",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8652,
+    "player2Id": 8951,
+    "tournamentId": 11765,
+    "match_winner": 8652,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.78",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 8951,
+     "name": "Veronica Cepede Royg",
+     "countryAcr": "PAR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456150",
+    "matchId": "456150",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8665,
+    "player2Id": 10394,
+    "tournamentId": 11765,
+    "match_winner": 8665,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.77",
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456157",
+    "matchId": "456157",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 11449,
+    "tournamentId": 11765,
+    "match_winner": 10334,
+    "result": "1-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.8",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456158",
+    "matchId": "456158",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7926,
+    "player2Id": 11573,
+    "tournamentId": 11765,
+    "match_winner": 7926,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.4",
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 11573,
+     "name": "Maryna Zanevska",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456161",
+    "matchId": "456161",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 11960,
+    "tournamentId": 11765,
+    "match_winner": 14259,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.3",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11960,
+     "name": "Jana Cepelova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456168",
+    "matchId": "456168",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16430,
+    "player2Id": 13325,
+    "tournamentId": 11765,
+    "match_winner": 16430,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456176",
+    "matchId": "456176",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 23230,
+    "tournamentId": 11765,
+    "match_winner": 4177,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.25",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456185",
+    "matchId": "456185",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5582,
+    "player2Id": 30915,
+    "tournamentId": 11765,
+    "match_winner": 5582,
+    "result": "6-4 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 30915,
+     "name": "Vera Lapko",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456186",
+    "matchId": "456186",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30232,
+    "player2Id": 34746,
+    "tournamentId": 11765,
+    "match_winner": 30232,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.38",
+    "player1": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "456192",
+    "matchId": "456192",
+    "date": "2018-04-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 37277,
+    "player2Id": 50494,
+    "tournamentId": 11765,
+    "match_winner": 37277,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37277,
+     "name": "Alla Kudryavtseva/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50494,
+     "name": "Andreja Klepac/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456195",
+    "matchId": "456195",
+    "date": "2018-04-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 37277,
+    "player2Id": 53330,
+    "tournamentId": 11765,
+    "match_winner": 37277,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37277,
+     "name": "Alla Kudryavtseva/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 53330,
+     "name": "Kateryna Volodko/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456201",
+    "matchId": "456201",
+    "date": "2018-04-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 50494,
+    "player2Id": 58285,
+    "tournamentId": 11765,
+    "match_winner": 50494,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 50494,
+     "name": "Andreja Klepac/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58285,
+     "name": "Mihaela Buzarnescu/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456189",
+    "matchId": "456189",
+    "date": "2018-04-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 58285,
+    "player2Id": 43734,
+    "tournamentId": 11765,
+    "match_winner": 58285,
+    "result": "4-6 6-3 10-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 58285,
+     "name": "Mihaela Buzarnescu/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43734,
+     "name": "Raquel Atawo/Anna-Lena Groenefeld",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456196",
+    "matchId": "456196",
+    "date": "2018-04-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 53330,
+    "player2Id": 54119,
+    "tournamentId": 11765,
+    "match_winner": 53330,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53330,
+     "name": "Kateryna Volodko/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 54119,
+     "name": "Nadiya Kichenok/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456203",
+    "matchId": "456203",
+    "date": "2018-04-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 37277,
+    "player2Id": 58287,
+    "tournamentId": 11765,
+    "match_winner": 37277,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.57",
+    "player1": {
+     "id": 37277,
+     "name": "Alla Kudryavtseva/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58287,
+     "name": "Bethanie Mattek-Sands/Andrea Hlavackova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456180",
+    "matchId": "456180",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53330,
+    "player2Id": 27301,
+    "tournamentId": 11765,
+    "match_winner": 53330,
+    "result": "6-2 1-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.1",
+    "odd2": "1.39",
+    "player1": {
+     "id": 53330,
+     "name": "Kateryna Volodko/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456200",
+    "matchId": "456200",
+    "date": "2018-04-04T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 58285,
+    "player2Id": 58284,
+    "tournamentId": 11765,
+    "match_winner": 58285,
+    "result": "3-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 58285,
+     "name": "Mihaela Buzarnescu/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58284,
+     "name": "Misaki Doi/Christina Mchale",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456193",
+    "matchId": "456193",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 58287,
+    "player2Id": 51065,
+    "tournamentId": 11765,
+    "match_winner": 58287,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 58287,
+     "name": "Bethanie Mattek-Sands/Andrea Hlavackova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51065,
+     "name": "Shuko Aoyama/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456194",
+    "matchId": "456194",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43734,
+    "player2Id": 51399,
+    "tournamentId": 11765,
+    "match_winner": 43734,
+    "result": "7-5 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 43734,
+     "name": "Raquel Atawo/Anna-Lena Groenefeld",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456198",
+    "matchId": "456198",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37277,
+    "player2Id": 57102,
+    "tournamentId": 11765,
+    "match_winner": 37277,
+    "result": "6-1 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37277,
+     "name": "Alla Kudryavtseva/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456199",
+    "matchId": "456199",
+    "date": "2018-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54119,
+    "player2Id": 57387,
+    "tournamentId": 11765,
+    "match_winner": 54119,
+    "result": "7-5 1-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54119,
+     "name": "Nadiya Kichenok/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57387,
+     "name": "Monique Adamczak/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456197",
+    "matchId": "456197",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 50494,
+    "player2Id": 54977,
+    "tournamentId": 11765,
+    "match_winner": 50494,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.8",
+    "player1": {
+     "id": 50494,
+     "name": "Andreja Klepac/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 54977,
+     "name": "Alicja Rosolska/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456202",
+    "matchId": "456202",
+    "date": "2018-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45280,
+    "player2Id": 58286,
+    "tournamentId": 11765,
+    "match_winner": 45280,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45280,
+     "name": "Lara Arruabarrena/Sara Errani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58286,
+     "name": "Tatjana Maria/Kristyna Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "456122",
+    "matchId": "456122",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 34746,
+    "player2Id": 4176,
+    "tournamentId": 11765,
+    "match_winner": 34746,
+    "result": "4-6 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.45",
+    "player1": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4176,
+     "name": "Alla Kudryavtseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456138",
+    "matchId": "456138",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 28585,
+    "player2Id": 8262,
+    "tournamentId": 11765,
+    "match_winner": 28585,
+    "result": "7-6(7) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.45",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456145",
+    "matchId": "456145",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30232,
+    "player2Id": 9594,
+    "tournamentId": 11765,
+    "match_winner": 30232,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.15",
+    "player1": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456160",
+    "matchId": "456160",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30915,
+    "player2Id": 11712,
+    "tournamentId": 11765,
+    "match_winner": 30915,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.3",
+    "player1": {
+     "id": 30915,
+     "name": "Vera Lapko",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456167",
+    "matchId": "456167",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 27804,
+    "player2Id": 13310,
+    "tournamentId": 11765,
+    "match_winner": 27804,
+    "result": "7-6(5) 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.75",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13310,
+     "name": "Irina Maria Bara",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456178",
+    "matchId": "456178",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 6119,
+    "player2Id": 25351,
+    "tournamentId": 11765,
+    "match_winner": 6119,
+    "result": "3-6 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6119,
+     "name": "Silvia Soler-Espinosa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 25351,
+     "name": "Sophie Chang",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456184",
+    "matchId": "456184",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10132,
+    "player2Id": 30510,
+    "tournamentId": 11765,
+    "match_winner": 10132,
+    "result": "6-2 6-7(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.93",
+    "player1": {
+     "id": 10132,
+     "name": "Georgina Garcia-Perez",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456188",
+    "matchId": "456188",
+    "date": "2018-04-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11573,
+    "player2Id": 37266,
+    "tournamentId": 11765,
+    "match_winner": 11573,
+    "result": "7-6(4) 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.3",
+    "odd2": "1.66",
+    "player1": {
+     "id": 11573,
+     "name": "Maryna Zanevska",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456110",
+    "matchId": "456110",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 59,
+    "tournamentId": 11765,
+    "match_winner": 27804,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 59,
+     "name": "Patty Schnyder",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456111",
+    "matchId": "456111",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10132,
+    "player2Id": 392,
+    "tournamentId": 11765,
+    "match_winner": 10132,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.55",
+    "player1": {
+     "id": 10132,
+     "name": "Georgina Garcia-Perez",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 392,
+     "name": "Greta Arn",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456112",
+    "matchId": "456112",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30510,
+    "player2Id": 409,
+    "tournamentId": 11765,
+    "match_winner": 30510,
+    "result": "7-6(4) 6-7(0) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 409,
+     "name": "Anastasia Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456124",
+    "matchId": "456124",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37266,
+    "player2Id": 4975,
+    "tournamentId": 11765,
+    "match_winner": 37266,
+    "result": "6-7(1) 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4975,
+     "name": "Sesil Karatantcheva",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456128",
+    "matchId": "456128",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25351,
+    "player2Id": 6159,
+    "tournamentId": 11765,
+    "match_winner": 25351,
+    "result": "4-6 7-6(5) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 25351,
+     "name": "Sophie Chang",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456133",
+    "matchId": "456133",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28585,
+    "player2Id": 7908,
+    "tournamentId": 11765,
+    "match_winner": 28585,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.88",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7908,
+     "name": "Maria Sanchez",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456139",
+    "matchId": "456139",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11573,
+    "player2Id": 8476,
+    "tournamentId": 11765,
+    "match_winner": 11573,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.74",
+    "player1": {
+     "id": 11573,
+     "name": "Maryna Zanevska",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 8476,
+     "name": "Gabriela Dabrowski",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456144",
+    "matchId": "456144",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30915,
+    "player2Id": 9587,
+    "tournamentId": 11765,
+    "match_winner": 30915,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.75",
+    "player1": {
+     "id": 30915,
+     "name": "Vera Lapko",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9587,
+     "name": "Shuko Aoyama",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456148",
+    "matchId": "456148",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4176,
+    "player2Id": 10141,
+    "tournamentId": 11765,
+    "match_winner": 4176,
+    "result": "7-5 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.7",
+    "odd2": "1.5",
+    "player1": {
+     "id": 4176,
+     "name": "Alla Kudryavtseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10141,
+     "name": "Daniela Seguel",
+     "countryAcr": "CHI"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456156",
+    "matchId": "456156",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11712,
+    "player2Id": 11350,
+    "tournamentId": 11765,
+    "match_winner": 11712,
+    "result": "3-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.32",
+    "odd2": "1.65",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456162",
+    "matchId": "456162",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6119,
+    "player2Id": 11991,
+    "tournamentId": 11765,
+    "match_winner": 6119,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6119,
+     "name": "Silvia Soler-Espinosa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 11991,
+     "name": "Nicole Melichar",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456164",
+    "matchId": "456164",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8262,
+    "player2Id": 12383,
+    "tournamentId": 11765,
+    "match_winner": 8262,
+    "result": "6-1 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 12383,
+     "name": "Zhaoxuan Yang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456171",
+    "matchId": "456171",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34746,
+    "player2Id": 14733,
+    "tournamentId": 11765,
+    "match_winner": 34746,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14733,
+     "name": "Francoise Abanda",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456173",
+    "matchId": "456173",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30232,
+    "player2Id": 17021,
+    "tournamentId": 11765,
+    "match_winner": 30232,
+    "result": "7-5 4-6 7-6(10)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456179",
+    "matchId": "456179",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13310,
+    "player2Id": 25671,
+    "tournamentId": 11765,
+    "match_winner": 13310,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13310,
+     "name": "Irina Maria Bara",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 25671,
+     "name": "Elizabeth Halbauer",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "456191",
+    "matchId": "456191",
+    "date": "2018-03-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9594,
+    "player2Id": 49526,
+    "tournamentId": 11765,
+    "match_winner": 9594,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "player2": {
+     "id": 49526,
+     "name": "Zoe Kruger",
+     "countryAcr": "RSA"
+    },
+    "tournament": {
+     "id": 11765,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2018-04-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,780 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "460075",
+    "date": "2018-10-28T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11371,
+    "player2Id": 10033,
+    "tournamentId": 11810,
+    "match_winner": 11371,
+    "result": "3-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460068",
+    "date": "2018-10-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 10033,
+    "player2Id": 7982,
+    "tournamentId": 11810,
+    "match_winner": 10033,
+    "result": "0-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "2.08",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460074",
+    "date": "2018-10-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11371,
+    "player2Id": 8652,
+    "tournamentId": 11810,
+    "match_winner": 11371,
+    "result": "7-5 6-7(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460064",
+    "date": "2018-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 10033,
+    "player2Id": 4076,
+    "tournamentId": 11810,
+    "match_winner": 10033,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460076",
+    "date": "2018-10-26T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 8652,
+    "player2Id": 16430,
+    "tournamentId": 11810,
+    "match_winner": 8652,
+    "result": "6-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460066",
+    "date": "2018-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 11371,
+    "player2Id": 5600,
+    "tournamentId": 11810,
+    "match_winner": 11371,
+    "result": "5-7 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460072",
+    "date": "2018-10-25T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 7982,
+    "player2Id": 8234,
+    "tournamentId": 11810,
+    "match_winner": 7982,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460073",
+    "date": "2018-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 10033,
+    "player2Id": 8652,
+    "tournamentId": 11810,
+    "match_winner": 10033,
+    "result": "7-6(4) 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.07",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460078",
+    "date": "2018-10-24T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 4076,
+    "player2Id": 16430,
+    "tournamentId": 11810,
+    "match_winner": 4076,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.81",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460069",
+    "date": "2018-10-23T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 11371,
+    "player2Id": 7982,
+    "tournamentId": 11810,
+    "match_winner": 11371,
+    "result": "6-3 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.81",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460070",
+    "date": "2018-10-23T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 5600,
+    "player2Id": 8234,
+    "tournamentId": 11810,
+    "match_winner": 5600,
+    "result": "7-5 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.98",
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460065",
+    "date": "2018-10-22T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 8652,
+    "player2Id": 4076,
+    "tournamentId": 11810,
+    "match_winner": 8652,
+    "result": "1-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460077",
+    "date": "2018-10-22T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 10033,
+    "player2Id": 16430,
+    "tournamentId": 11810,
+    "match_winner": 10033,
+    "result": "7-5 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460067",
+    "date": "2018-10-21T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 7982,
+    "player2Id": 5600,
+    "tournamentId": 11810,
+    "match_winner": 7982,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460071",
+    "date": "2018-10-21T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 11371,
+    "player2Id": 8234,
+    "tournamentId": 11810,
+    "match_winner": 11371,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "460079",
+    "date": "2018-10-28T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 17085,
+    "player2Id": 27301,
+    "tournamentId": 11810,
+    "match_winner": 17085,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460080",
+    "date": "2018-10-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 27301,
+    "player2Id": 30452,
+    "tournamentId": 11810,
+    "match_winner": 27301,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.86",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30452,
+     "name": "Andrea Hlavackova/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460085",
+    "date": "2018-10-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17085,
+    "player2Id": 57863,
+    "tournamentId": 11810,
+    "match_winner": 17085,
+    "result": "6-7(5) 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57863,
+     "name": "Ashleigh Barty/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460081",
+    "date": "2018-10-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 57863,
+    "player2Id": 34632,
+    "tournamentId": 11810,
+    "match_winner": 57863,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.98",
+    "player1": {
+     "id": 57863,
+     "name": "Ashleigh Barty/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 34632,
+     "name": "Elise Mertens/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460083",
+    "date": "2018-10-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17085,
+    "player2Id": 51399,
+    "tournamentId": 11810,
+    "match_winner": 17085,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460082",
+    "date": "2018-10-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 30452,
+    "player2Id": 50494,
+    "tournamentId": 11810,
+    "match_winner": 30452,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 30452,
+     "name": "Andrea Hlavackova/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50494,
+     "name": "Andreja Klepac/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "460084",
+    "date": "2018-10-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27301,
+    "player2Id": 57102,
+    "tournamentId": 11810,
+    "match_winner": 27301,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.55",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 11810,
+     "name": "WTA Finals - Singapore",
+     "courtId": 3,
+     "date": "2018-10-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "SIN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,884 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "563615",
+    "date": "2021-02-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45866,
+    "player2Id": 13325,
+    "tournamentId": 13423,
+    "match_winner": 45866,
+    "result": "7-6(5) 6-7(5) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563616",
+    "date": "2021-02-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13385,
+    "player2Id": 13541,
+    "tournamentId": 13423,
+    "match_winner": 13385,
+    "result": "2-6 6-3 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563602",
+    "date": "2021-02-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 4076,
+    "tournamentId": 13423,
+    "match_winner": 13541,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.59",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563604",
+    "date": "2021-02-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45866,
+    "player2Id": 6019,
+    "tournamentId": 13423,
+    "match_winner": 45866,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.46",
+    "odd2": "1.6",
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563614",
+    "date": "2021-02-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13325,
+    "player2Id": 13267,
+    "tournamentId": 13423,
+    "match_winner": 13325,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.78",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563599",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 448,
+    "tournamentId": 13423,
+    "match_winner": 13385,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563611",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 11449,
+    "tournamentId": 13423,
+    "match_winner": 4076,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563613",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 12390,
+    "tournamentId": 13423,
+    "match_winner": 5416,
+    "result": "6-4 1-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.57",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563617",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6019,
+    "player2Id": 14056,
+    "tournamentId": 13423,
+    "match_winner": 6019,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.84",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563619",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45866,
+    "player2Id": 16119,
+    "tournamentId": 13423,
+    "match_winner": 45866,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.52",
+    "odd2": "1.32",
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563622",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 36558,
+    "tournamentId": 13423,
+    "match_winner": 13267,
+    "result": "4-6 6-2 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.6",
+    "odd2": "1.52",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563623",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13325,
+    "player2Id": 47742,
+    "tournamentId": 13423,
+    "match_winner": 13325,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.4",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563624",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 49081,
+    "tournamentId": 13423,
+    "match_winner": 13541,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563600",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13325,
+    "player2Id": 457,
+    "tournamentId": 13423,
+    "match_winner": 13325,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563601",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 448,
+    "player2Id": 1058,
+    "tournamentId": 13423,
+    "match_winner": 448,
+    "result": "7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563605",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 8476,
+    "tournamentId": 13423,
+    "match_winner": 47742,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 8476,
+     "name": "Gabriela Dabrowski",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563606",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 8665,
+    "tournamentId": 13423,
+    "match_winner": 13385,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563607",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 8668,
+    "tournamentId": 13423,
+    "match_winner": 6019,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 8668,
+     "name": "Oksana Kalashnikova",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563608",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 10033,
+    "tournamentId": 13423,
+    "match_winner": 49081,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.42",
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563609",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 10132,
+    "tournamentId": 13423,
+    "match_winner": 12390,
+    "result": "7-6(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.92",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10132,
+     "name": "Georgina Garcia-Perez",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563610",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 11071,
+    "tournamentId": 13423,
+    "match_winner": 16119,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563612",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 12205,
+    "tournamentId": 13423,
+    "match_winner": 13267,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563618",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45866,
+    "player2Id": 15212,
+    "tournamentId": 13423,
+    "match_winner": 45866,
+    "result": "5-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563620",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4076,
+    "player2Id": 17501,
+    "tournamentId": 13423,
+    "match_winner": 4076,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "563621",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 34747,
+    "tournamentId": 13423,
+    "match_winner": 11449,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.44",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13423,
+     "name": "Grampians Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

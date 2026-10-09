@@ -1,0 +1,1883 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "367489",
+    "matchId": "367489",
+    "date": "2016-07-24T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 7857,
+    "player2Id": 151,
+    "tournamentId": 10466,
+    "match_winner": 7857,
+    "result": "7-5 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367494",
+    "matchId": "367494",
+    "date": "2016-07-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 7857,
+    "player2Id": 5593,
+    "tournamentId": 10466,
+    "match_winner": 7857,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.78",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367513",
+    "matchId": "367513",
+    "date": "2016-07-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 151,
+    "player2Id": 9772,
+    "tournamentId": 10466,
+    "match_winner": 151,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.32",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367505",
+    "matchId": "367505",
+    "date": "2016-07-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 5593,
+    "player2Id": 8262,
+    "tournamentId": 10466,
+    "match_winner": 5593,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367506",
+    "matchId": "367506",
+    "date": "2016-07-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 9772,
+    "player2Id": 8503,
+    "tournamentId": 10466,
+    "match_winner": 9772,
+    "result": "6-3 0-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367516",
+    "matchId": "367516",
+    "date": "2016-07-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7857,
+    "player2Id": 12144,
+    "tournamentId": 10466,
+    "match_winner": 7857,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367527",
+    "matchId": "367527",
+    "date": "2016-07-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 151,
+    "player2Id": 27807,
+    "tournamentId": 10466,
+    "match_winner": 151,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.111",
+    "odd2": "8.7",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27807,
+     "name": "Catherine Cartan Bellis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367499",
+    "matchId": "367499",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5593,
+    "player2Id": 6577,
+    "tournamentId": 10466,
+    "match_winner": 5593,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 6577,
+     "name": "Urszula Radwanska",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367511",
+    "matchId": "367511",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8503,
+    "player2Id": 9579,
+    "tournamentId": 10466,
+    "match_winner": 8503,
+    "result": "2-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367512",
+    "matchId": "367512",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9772,
+    "player2Id": 9728,
+    "tournamentId": 10466,
+    "match_winner": 9772,
+    "result": "3-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367515",
+    "matchId": "367515",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27807,
+    "player2Id": 12116,
+    "tournamentId": 10466,
+    "match_winner": 27807,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27807,
+     "name": "Catherine Cartan Bellis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367496",
+    "matchId": "367496",
+    "date": "2016-07-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12144,
+    "player2Id": 5817,
+    "tournamentId": 10466,
+    "match_winner": 12144,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367508",
+    "matchId": "367508",
+    "date": "2016-07-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 8667,
+    "tournamentId": 10466,
+    "match_winner": 7857,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 8667,
+     "name": "Julia Boserup",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367510",
+    "matchId": "367510",
+    "date": "2016-07-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 151,
+    "player2Id": 9357,
+    "tournamentId": 10466,
+    "match_winner": 151,
+    "result": "6-3 6-7(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.15",
+    "odd2": "6.6",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367520",
+    "matchId": "367520",
+    "date": "2016-07-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8262,
+    "player2Id": 13937,
+    "tournamentId": 10466,
+    "match_winner": 8262,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.94",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367490",
+    "matchId": "367490",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9772,
+    "player2Id": 461,
+    "tournamentId": 10466,
+    "match_winner": 9772,
+    "result": "2-6 6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.15",
+    "player1": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367492",
+    "matchId": "367492",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6577,
+    "player2Id": 1014,
+    "tournamentId": 10466,
+    "match_winner": 6577,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.51",
+    "player1": {
+     "id": 6577,
+     "name": "Urszula Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367498",
+    "matchId": "367498",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12116,
+    "player2Id": 6296,
+    "tournamentId": 10466,
+    "match_winner": 12116,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "2.08",
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6296,
+     "name": "Elitsa Kostova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367504",
+    "matchId": "367504",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 7983,
+    "tournamentId": 10466,
+    "match_winner": 9357,
+    "result": "2-6 6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367522",
+    "matchId": "367522",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8667,
+    "player2Id": 16430,
+    "tournamentId": 10466,
+    "match_winner": 8667,
+    "result": "2-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.8",
+    "player1": {
+     "id": 8667,
+     "name": "Julia Boserup",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367523",
+    "matchId": "367523",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27807,
+    "player2Id": 16628,
+    "tournamentId": 10466,
+    "match_winner": 27807,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.55",
+    "player1": {
+     "id": 27807,
+     "name": "Catherine Cartan Bellis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367500",
+    "matchId": "367500",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8262,
+    "player2Id": 6687,
+    "tournamentId": 10466,
+    "match_winner": 8262,
+    "result": "6-0 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.98",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 6687,
+     "name": "Xinyun Han",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367507",
+    "matchId": "367507",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9728,
+    "player2Id": 8535,
+    "tournamentId": 10466,
+    "match_winner": 9728,
+    "result": "6-4 5-7 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.55",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367509",
+    "matchId": "367509",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13937,
+    "player2Id": 8951,
+    "tournamentId": 10466,
+    "match_winner": 13937,
+    "result": "7-5 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 8951,
+     "name": "Veronica Cepede Royg",
+     "countryAcr": "PAR"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367517",
+    "matchId": "367517",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 13325,
+    "tournamentId": 10466,
+    "match_winner": 5817,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.82",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367518",
+    "matchId": "367518",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9579,
+    "player2Id": 13511,
+    "tournamentId": 10466,
+    "match_winner": 9579,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.2",
+    "odd2": "5.4",
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367531",
+    "matchId": "367531",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12144,
+    "player2Id": 37592,
+    "tournamentId": 10466,
+    "match_winner": 12144,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.09",
+    "odd2": "9.7",
+    "player1": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 37592,
+     "name": "Maria Mateas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "367533",
+    "matchId": "367533",
+    "date": "2016-07-24T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 10718,
+    "player2Id": 46008,
+    "tournamentId": 10466,
+    "match_winner": 10718,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 46008,
+     "name": "Darija Jurak Schreiber/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367524",
+    "matchId": "367524",
+    "date": "2016-07-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 10718,
+    "player2Id": 17980,
+    "tournamentId": 10466,
+    "match_winner": 10718,
+    "result": "6-3 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17980,
+     "name": "Anna-Lena Groenefeld/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367530",
+    "matchId": "367530",
+    "date": "2016-07-23T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 46008,
+    "player2Id": 37332,
+    "tournamentId": 10466,
+    "match_winner": 46008,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 46008,
+     "name": "Darija Jurak Schreiber/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37332,
+     "name": "Johanna Konta/Maria Sanchez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367539",
+    "matchId": "367539",
+    "date": "2016-07-22T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 10718,
+    "player2Id": 47149,
+    "tournamentId": 10466,
+    "match_winner": 10718,
+    "result": "2-6 7-5 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47149,
+     "name": "Jelena Ostapenko/Arina Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367525",
+    "matchId": "367525",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 37332,
+    "player2Id": 23522,
+    "tournamentId": 10466,
+    "match_winner": 37332,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37332,
+     "name": "Johanna Konta/Maria Sanchez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23522,
+     "name": "Yifan Xu/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367528",
+    "matchId": "367528",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17980,
+    "player2Id": 29261,
+    "tournamentId": 10466,
+    "match_winner": 17980,
+    "result": "4-6 6-1 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17980,
+     "name": "Anna-Lena Groenefeld/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367540",
+    "matchId": "367540",
+    "date": "2016-07-21T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10718,
+    "player2Id": 47150,
+    "tournamentId": 10466,
+    "match_winner": 10718,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47150,
+     "name": "Julia Glushko/Magda Linette",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367514",
+    "matchId": "367514",
+    "date": "2016-07-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 46008,
+    "player2Id": 11769,
+    "tournamentId": 10466,
+    "match_winner": 46008,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 46008,
+     "name": "Darija Jurak Schreiber/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11769,
+     "name": "Kateryna Volodko/Olga Savchuk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367538",
+    "matchId": "367538",
+    "date": "2016-07-20T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47149,
+    "player2Id": 47148,
+    "tournamentId": 10466,
+    "match_winner": 47149,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47149,
+     "name": "Jelena Ostapenko/Arina Rodionova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47148,
+     "name": "Nicole Gibbs/Carol Zhao",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367532",
+    "matchId": "367532",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 29261,
+    "player2Id": 43739,
+    "tournamentId": 10466,
+    "match_winner": 29261,
+    "result": "6-2 2-6 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43739,
+     "name": "Misaki Doi/Nao Hibino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367534",
+    "matchId": "367534",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23522,
+    "player2Id": 47144,
+    "tournamentId": 10466,
+    "match_winner": 23522,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.8",
+    "player1": {
+     "id": 23522,
+     "name": "Yifan Xu/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47144,
+     "name": "Yuliya Beygelzimer/Kristyna Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367535",
+    "matchId": "367535",
+    "date": "2016-07-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37332,
+    "player2Id": 47145,
+    "tournamentId": 10466,
+    "match_winner": 37332,
+    "result": "7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37332,
+     "name": "Johanna Konta/Maria Sanchez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47145,
+     "name": "Xinyun Han/Chen Liang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367529",
+    "matchId": "367529",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17980,
+    "player2Id": 30036,
+    "tournamentId": 10466,
+    "match_winner": 17980,
+    "result": "6-4 3-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17980,
+     "name": "Anna-Lena Groenefeld/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30036,
+     "name": "Veronica Cepede Royg/Maria Irigoyen",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367536",
+    "matchId": "367536",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 46008,
+    "player2Id": 47146,
+    "tournamentId": 10466,
+    "match_winner": 46008,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.92",
+    "player1": {
+     "id": 46008,
+     "name": "Darija Jurak Schreiber/Anastasia Rodionova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47146,
+     "name": "Julia Boserup/Elitsa Kostova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367537",
+    "matchId": "367537",
+    "date": "2016-07-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11769,
+    "player2Id": 47147,
+    "tournamentId": 10466,
+    "match_winner": 11769,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11769,
+     "name": "Kateryna Volodko/Olga Savchuk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47147,
+     "name": "Catherine Cartan Bellis/Jennifer Brady",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "367491",
+    "matchId": "367491",
+    "date": "2016-07-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9728,
+    "player2Id": 462,
+    "tournamentId": 10466,
+    "match_winner": 9728,
+    "result": "6-1 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.96",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 462,
+     "name": "Yuliya Beygelzimer",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367495",
+    "matchId": "367495",
+    "date": "2016-07-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 6296,
+    "player2Id": 5599,
+    "tournamentId": 10466,
+    "match_winner": 6296,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.15",
+    "player1": {
+     "id": 6296,
+     "name": "Elitsa Kostova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 5599,
+     "name": "Olga Govortsova",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367501",
+    "matchId": "367501",
+    "date": "2016-07-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8535,
+    "player2Id": 6820,
+    "tournamentId": 10466,
+    "match_winner": 8535,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6820,
+     "name": "Julia Glushko",
+     "countryAcr": "ISR"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367519",
+    "matchId": "367519",
+    "date": "2016-07-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12116,
+    "player2Id": 13621,
+    "tournamentId": 10466,
+    "match_winner": 12116,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367493",
+    "matchId": "367493",
+    "date": "2016-07-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 462,
+    "player2Id": 4163,
+    "tournamentId": 10466,
+    "match_winner": 462,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.92",
+    "odd2": "1.44",
+    "player1": {
+     "id": 462,
+     "name": "Yuliya Beygelzimer",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4163,
+     "name": "Olga Savchuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367497",
+    "matchId": "367497",
+    "date": "2016-07-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 6159,
+    "tournamentId": 10466,
+    "match_winner": 13621,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.96",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367502",
+    "matchId": "367502",
+    "date": "2016-07-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12116,
+    "player2Id": 7182,
+    "tournamentId": 10466,
+    "match_winner": 12116,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7182,
+     "name": "Yifan Xu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367503",
+    "matchId": "367503",
+    "date": "2016-07-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9728,
+    "player2Id": 7908,
+    "tournamentId": 10466,
+    "match_winner": 9728,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.61",
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 7908,
+     "name": "Maria Sanchez",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367521",
+    "matchId": "367521",
+    "date": "2016-07-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5599,
+    "player2Id": 15877,
+    "tournamentId": 10466,
+    "match_winner": 5599,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5599,
+     "name": "Olga Govortsova",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 15877,
+     "name": "Melissa Lord",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "367526",
+    "matchId": "367526",
+    "date": "2016-07-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8535,
+    "player2Id": 25983,
+    "tournamentId": 10466,
+    "match_winner": 8535,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25983,
+     "name": "Caroline Lampl",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10466,
+     "name": "Bank of the West Classic - Stanford",
+     "courtId": 1,
+     "date": "2016-07-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

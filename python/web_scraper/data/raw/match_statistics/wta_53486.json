@@ -1,0 +1,160 @@
+[
+ {
+  "id": "520062",
+  "matchId": "520062",
+  "date": "2019-06-17T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 7385,
+  "player2Id": 53486,
+  "tournamentId": 12703,
+  "match_winner": 7385,
+  "result": "6-4 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 7385,
+   "name": "Martina Di Giuseppe",
+   "countryAcr": "ITA"
+  },
+  "player2": {
+   "id": 53486,
+   "name": "Holly Fischer",
+   "countryAcr": "GBR"
+  },
+  "tournament": {
+   "id": 12703,
+   "name": "W100 Ilkley 1",
+   "courtId": 5,
+   "date": "2019-06-17T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "GBR",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:01:00",
+   "player1": {
+    "firstServe": 34,
+    "firstServeOf": 54,
+    "aces": 12,
+    "doubleFaults": 1,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 32,
+    "winningOnFirstServeOf": 34,
+    "winningOnSecondServe": 7,
+    "winningOnSecondServeOf": 20,
+    "winners": null,
+    "breakPointsConverted": 3,
+    "breakPointsConvertedOf": 6,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 66,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 33,
+    "firstServeOf": 59,
+    "aces": 1,
+    "doubleFaults": 1,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 20,
+    "winningOnFirstServeOf": 33,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 26,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 5,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 47,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "457953",
+  "matchId": "457953",
+  "date": "2018-06-26T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 6655,
+  "player2Id": 53486,
+  "tournamentId": 11784,
+  "match_winner": 6655,
+  "result": "6-0 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 6655,
+   "name": "Alexandra Dulgheru",
+   "countryAcr": "ROU"
+  },
+  "player2": {
+   "id": 53486,
+   "name": "Holly Fischer",
+   "countryAcr": "GBR"
+  },
+  "tournament": {
+   "id": 11784,
+   "name": "Wimbledon - London",
+   "courtId": 5,
+   "date": "2018-07-02T00:00:00.000Z",
+   "rankId": 4,
+   "countryAcr": "GBR",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:53:00",
+   "player1": {
+    "firstServe": 27,
+    "firstServeOf": 32,
+    "aces": 1,
+    "doubleFaults": 2,
+    "unforcedErrors": 8,
+    "winningOnFirstServe": 22,
+    "winningOnFirstServeOf": 27,
+    "winningOnSecondServe": 2,
+    "winningOnSecondServeOf": 5,
+    "winners": 11,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 11,
+    "netApproaches": 0,
+    "netApproachesOf": 3,
+    "totalPointsWon": 55,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 27,
+    "firstServeOf": 50,
+    "aces": 0,
+    "doubleFaults": 7,
+    "unforcedErrors": 30,
+    "winningOnFirstServe": 12,
+    "winningOnFirstServeOf": 27,
+    "winningOnSecondServe": 7,
+    "winningOnSecondServeOf": 23,
+    "winners": 0,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": 2,
+    "netApproachesOf": 8,
+    "totalPointsWon": 27,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

@@ -1,0 +1,3231 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "560097",
+    "date": "2021-04-11T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 16119,
+    "player2Id": 12525,
+    "tournamentId": 13378,
+    "match_winner": 16119,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.59",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560092",
+    "date": "2021-04-10T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12525,
+    "player2Id": 11449,
+    "tournamentId": 13378,
+    "match_winner": 12525,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.65",
+    "odd2": "1.53",
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560114",
+    "date": "2021-04-10T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 16119,
+    "player2Id": 17142,
+    "tournamentId": 13378,
+    "match_winner": 16119,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560085",
+    "date": "2021-04-09T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16119,
+    "player2Id": 10033,
+    "tournamentId": 13378,
+    "match_winner": 16119,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.29",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560096",
+    "date": "2021-04-09T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12525,
+    "player2Id": 12390,
+    "tournamentId": 13378,
+    "match_winner": 12525,
+    "result": "6-7(2) 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560100",
+    "date": "2021-04-09T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17142,
+    "player2Id": 12966,
+    "tournamentId": 13378,
+    "match_winner": 17142,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560145",
+    "date": "2021-04-09T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11449,
+    "player2Id": 54663,
+    "tournamentId": 13378,
+    "match_winner": 11449,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.44",
+    "odd2": "1.61",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560070",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11449,
+    "player2Id": 5817,
+    "tournamentId": 13378,
+    "match_winner": 11449,
+    "result": "5-7 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560075",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12525,
+    "player2Id": 8234,
+    "tournamentId": 13378,
+    "match_winner": 12525,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5.25",
+    "odd2": "1.174",
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560077",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16119,
+    "player2Id": 8353,
+    "tournamentId": 13378,
+    "match_winner": 16119,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560084",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10033,
+    "player2Id": 9503,
+    "tournamentId": 13378,
+    "match_winner": 10033,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560088",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12390,
+    "player2Id": 10633,
+    "tournamentId": 13378,
+    "match_winner": 12390,
+    "result": "0-6 2-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560094",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 12205,
+    "tournamentId": 13378,
+    "match_winner": 54663,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560095",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12966,
+    "player2Id": 12267,
+    "tournamentId": 13378,
+    "match_winner": 12966,
+    "result": "7-6(3) 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.52",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560134",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17142,
+    "player2Id": 41569,
+    "tournamentId": 13378,
+    "match_winner": 17142,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560073",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41569,
+    "player2Id": 7944,
+    "tournamentId": 13378,
+    "match_winner": 41569,
+    "result": "7-6(3) 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.38",
+    "odd2": "1.34",
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560076",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 8262,
+    "tournamentId": 13378,
+    "match_winner": 12966,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.007",
+    "odd2": "20.5",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560093",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10033,
+    "player2Id": 11672,
+    "tournamentId": 13378,
+    "match_winner": 10033,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.72",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560102",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5817,
+    "player2Id": 13351,
+    "tournamentId": 13378,
+    "match_winner": 5817,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560104",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 14056,
+    "tournamentId": 13378,
+    "match_winner": 17142,
+    "result": "6-2 6-7(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.49",
+    "odd2": "1.56",
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560120",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12205,
+    "player2Id": 23432,
+    "tournamentId": 13378,
+    "match_winner": 12205,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.5",
+    "odd2": "1.22",
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560121",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 24368,
+    "tournamentId": 13378,
+    "match_winner": 54663,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.7",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560122",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9503,
+    "player2Id": 24572,
+    "tournamentId": 13378,
+    "match_winner": 9503,
+    "result": "4-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560133",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12267,
+    "player2Id": 41564,
+    "tournamentId": 13378,
+    "match_winner": 12267,
+    "result": "1-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560135",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 42098,
+    "tournamentId": 13378,
+    "match_winner": 16119,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560139",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8353,
+    "player2Id": 45990,
+    "tournamentId": 13378,
+    "match_winner": 8353,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560143",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 48254,
+    "tournamentId": 13378,
+    "match_winner": 11449,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560144",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12525,
+    "player2Id": 49081,
+    "tournamentId": 13378,
+    "match_winner": 12525,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560066",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 3867,
+    "tournamentId": 13378,
+    "match_winner": 54663,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.93",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560069",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 4263,
+    "tournamentId": 13378,
+    "match_winner": 49081,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560083",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 9458,
+    "tournamentId": 13378,
+    "match_winner": 12267,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560086",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 10394,
+    "tournamentId": 13378,
+    "match_winner": 12390,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560089",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11449,
+    "player2Id": 10738,
+    "tournamentId": 13378,
+    "match_winner": 11449,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560098",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 12722,
+    "tournamentId": 13378,
+    "match_winner": 8234,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560103",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 13937,
+    "tournamentId": 13378,
+    "match_winner": 24368,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560110",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12525,
+    "player2Id": 14697,
+    "tournamentId": 13378,
+    "match_winner": 12525,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560115",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10633,
+    "player2Id": 17155,
+    "tournamentId": 13378,
+    "match_winner": 10633,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.152",
+    "odd2": "5.75",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560117",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42098,
+    "player2Id": 18403,
+    "tournamentId": 13378,
+    "match_winner": 42098,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560124",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48254,
+    "player2Id": 28585,
+    "tournamentId": 13378,
+    "match_winner": 48254,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560132",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 40156,
+    "tournamentId": 13378,
+    "match_winner": 7944,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.727",
+    "odd2": "2.16",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560141",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 47152,
+    "tournamentId": 13378,
+    "match_winner": 10033,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.14",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560068",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8262,
+    "player2Id": 4174,
+    "tournamentId": 13378,
+    "match_winner": 8262,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.76",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560071",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12205,
+    "player2Id": 6201,
+    "tournamentId": 13378,
+    "match_winner": 12205,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.97",
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560079",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12722,
+    "player2Id": 8535,
+    "tournamentId": 13378,
+    "match_winner": 12722,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.6",
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560080",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 8665,
+    "tournamentId": 13378,
+    "match_winner": 9503,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.76",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560082",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 9357,
+    "tournamentId": 13378,
+    "match_winner": 41564,
+    "result": "5-7 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560087",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 10600,
+    "tournamentId": 13378,
+    "match_winner": 24572,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560091",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17155,
+    "player2Id": 11350,
+    "tournamentId": 13378,
+    "match_winner": 17155,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.375",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560106",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 14259,
+    "tournamentId": 13378,
+    "match_winner": 5817,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560109",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 14609,
+    "tournamentId": 13378,
+    "match_winner": 12390,
+    "result": "7-6(8) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560112",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 15092,
+    "tournamentId": 13378,
+    "match_winner": 16119,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 15092,
+     "name": "Desirae Krawczyk",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560119",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10394,
+    "player2Id": 23230,
+    "tournamentId": 13378,
+    "match_winner": 10394,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560129",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8353,
+    "player2Id": 34746,
+    "tournamentId": 13378,
+    "match_winner": 8353,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.55",
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560131",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41569,
+    "player2Id": 36558,
+    "tournamentId": 13378,
+    "match_winner": 41569,
+    "result": "6-4 0-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560137",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 44510,
+    "tournamentId": 13378,
+    "match_winner": 17142,
+    "result": "3-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "560158",
+    "date": "2021-04-11T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 71299,
+    "player2Id": 72975,
+    "tournamentId": 13378,
+    "match_winner": 71299,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.571",
+    "odd2": "2.47",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72975,
+     "name": "Marie Bouzkova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560118",
+    "date": "2021-04-10T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 71299,
+    "player2Id": 22227,
+    "tournamentId": 13378,
+    "match_winner": 71299,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.363",
+    "odd2": "3.24",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 22227,
+     "name": "Gabriela Dabrowski/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560147",
+    "date": "2021-04-10T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 72975,
+    "player2Id": 60391,
+    "tournamentId": 13378,
+    "match_winner": 72975,
+    "result": "6-3 0-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72975,
+     "name": "Marie Bouzkova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560154",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 22227,
+    "player2Id": 68635,
+    "tournamentId": 13378,
+    "match_winner": 22227,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 22227,
+     "name": "Gabriela Dabrowski/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68635,
+     "name": "Caroline Dolehide/Emma Navarro",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560157",
+    "date": "2021-04-08T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71299,
+    "player2Id": 72974,
+    "tournamentId": 13378,
+    "match_winner": 71299,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72974,
+     "name": "Ons Jabeur/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560090",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68635,
+    "player2Id": 10853,
+    "tournamentId": 13378,
+    "match_winner": 68635,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68635,
+     "name": "Caroline Dolehide/Emma Navarro",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10853,
+     "name": "Yifan Xu/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560127",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 22227,
+    "player2Id": 30174,
+    "tournamentId": 13378,
+    "match_winner": 22227,
+    "result": "6-4 3-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 22227,
+     "name": "Gabriela Dabrowski/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30174,
+     "name": "Darija Jurak Schreiber/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560153",
+    "date": "2021-04-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67088,
+    "player2Id": 68431,
+    "tournamentId": 13378,
+    "match_winner": 67088,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560101",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60391,
+    "player2Id": 13079,
+    "tournamentId": 13378,
+    "match_winner": 60391,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 13079,
+     "name": "Vania King/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560136",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72633,
+    "player2Id": 43739,
+    "tournamentId": 13378,
+    "match_winner": 72633,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72633,
+     "name": "Timea Babos/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 43739,
+     "name": "Misaki Doi/Nao Hibino",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560152",
+    "date": "2021-04-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72975,
+    "player2Id": 68115,
+    "tournamentId": 13378,
+    "match_winner": 72975,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.34",
+    "player1": {
+     "id": 72975,
+     "name": "Marie Bouzkova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560146",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72974,
+    "player2Id": 59155,
+    "tournamentId": 13378,
+    "match_winner": 72974,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 72974,
+     "name": "Ons Jabeur/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 59155,
+     "name": "Oksana Kalashnikova/Alla Kudryavtseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560156",
+    "date": "2021-04-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71299,
+    "player2Id": 72973,
+    "tournamentId": 13378,
+    "match_winner": 71299,
+    "result": "3-6 6-1 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.38",
+    "player1": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72973,
+     "name": "Ellen Perez/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "560065",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 15092,
+    "player2Id": 1014,
+    "tournamentId": 13378,
+    "match_winner": 15092,
+    "result": "2-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "6.35",
+    "odd2": "1.116",
+    "player1": {
+     "id": 15092,
+     "name": "Desirae Krawczyk",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560105",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8353,
+    "player2Id": 14093,
+    "tournamentId": 13378,
+    "match_winner": 8353,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.833",
+    "odd2": "1.97",
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 14093,
+     "name": "Allie Kiick",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560108",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11350,
+    "player2Id": 14609,
+    "tournamentId": 13378,
+    "match_winner": 11350,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560125",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12722,
+    "player2Id": 28585,
+    "tournamentId": 13378,
+    "match_winner": 12722,
+    "result": "2-6 6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560126",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17155,
+    "player2Id": 29178,
+    "tournamentId": 13378,
+    "match_winner": 17155,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560138",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 23230,
+    "player2Id": 45540,
+    "tournamentId": 13378,
+    "match_winner": 23230,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560140",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8535,
+    "player2Id": 45990,
+    "tournamentId": 13378,
+    "match_winner": 8535,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560142",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14697,
+    "player2Id": 47152,
+    "tournamentId": 13378,
+    "match_winner": 14697,
+    "result": "4-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560067",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14093,
+    "player2Id": 3913,
+    "tournamentId": 13378,
+    "match_winner": 14093,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14093,
+     "name": "Allie Kiick",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560072",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45990,
+    "player2Id": 7726,
+    "tournamentId": 13378,
+    "match_winner": 45990,
+    "result": "6-3 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7726,
+     "name": "Alexa Guarachi",
+     "countryAcr": "CHI"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560074",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 15092,
+    "player2Id": 8208,
+    "tournamentId": 13378,
+    "match_winner": 15092,
+    "result": "6-2 1-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 15092,
+     "name": "Desirae Krawczyk",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560078",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12722,
+    "player2Id": 8476,
+    "tournamentId": 13378,
+    "match_winner": 12722,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8476,
+     "name": "Gabriela Dabrowski",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560081",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23230,
+    "player2Id": 8668,
+    "tournamentId": 13378,
+    "match_winner": 23230,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.106",
+    "odd2": "6.7",
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8668,
+     "name": "Oksana Kalashnikova",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560099",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 1014,
+    "player2Id": 12762,
+    "tournamentId": 13378,
+    "match_winner": 1014,
+    "result": "5-7 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12762,
+     "name": "Catherine Harrison",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560107",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8535,
+    "player2Id": 14504,
+    "tournamentId": 13378,
+    "match_winner": 8535,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8535,
+     "name": "Asia Muhammad",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14504,
+     "name": "Jamie Loeb",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560111",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 29178,
+    "player2Id": 14852,
+    "tournamentId": 13378,
+    "match_winner": 29178,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14852,
+     "name": "Varvara Flink",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560113",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45540,
+    "player2Id": 15212,
+    "tournamentId": 13378,
+    "match_winner": 45540,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.12",
+    "odd2": "1.72",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560116",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11350,
+    "player2Id": 18245,
+    "tournamentId": 13378,
+    "match_winner": 11350,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18245,
+     "name": "Katerina Stewart",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560123",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14697,
+    "player2Id": 27043,
+    "tournamentId": 13378,
+    "match_winner": 14697,
+    "result": "4-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 27043,
+     "name": "Fernanda Contreras Gomez",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560128",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28585,
+    "player2Id": 31920,
+    "tournamentId": 13378,
+    "match_winner": 28585,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.4",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560130",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47152,
+    "player2Id": 35372,
+    "tournamentId": 13378,
+    "match_winner": 47152,
+    "result": "6-7(5) 6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.136",
+    "odd2": "5.8",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 35372,
+     "name": "Kennedy Shaffer",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560148",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17155,
+    "player2Id": 62169,
+    "tournamentId": 13378,
+    "match_winner": 17155,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 62169,
+     "name": "Katrina Scott",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560149",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8353,
+    "player2Id": 65327,
+    "tournamentId": 13378,
+    "match_winner": 8353,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.004",
+    "odd2": "17.5",
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 65327,
+     "name": "Whitley Pate",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560150",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14609,
+    "player2Id": 65421,
+    "tournamentId": 13378,
+    "match_winner": 14609,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.055",
+    "odd2": "9.5",
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 65421,
+     "name": "Rachel Gailis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13378,
+     "name": "Volvo Car Open - Charleston",
+     "courtId": 2,
+     "date": "2021-04-05T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

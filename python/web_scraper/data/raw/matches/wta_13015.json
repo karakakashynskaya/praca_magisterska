@@ -1,0 +1,2207 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "540183",
+    "matchId": "540183",
+    "date": "2020-01-18T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 12966,
+    "player2Id": 37266,
+    "tournamentId": 13015,
+    "match_winner": 12966,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.78",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540164",
+    "matchId": "540164",
+    "date": "2020-01-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12966,
+    "player2Id": 11575,
+    "tournamentId": 13015,
+    "match_winner": 12966,
+    "result": "3-6 6-1 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.68",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540176",
+    "matchId": "540176",
+    "date": "2020-01-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 37266,
+    "player2Id": 18455,
+    "tournamentId": 13015,
+    "match_winner": 37266,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.8",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540150",
+    "matchId": "540150",
+    "date": "2020-01-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 8324,
+    "tournamentId": 13015,
+    "match_winner": 18455,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.9",
+    "odd2": "1.39",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540168",
+    "matchId": "540168",
+    "date": "2020-01-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 37266,
+    "player2Id": 13498,
+    "tournamentId": 13015,
+    "match_winner": 37266,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540170",
+    "matchId": "540170",
+    "date": "2020-01-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11575,
+    "player2Id": 14056,
+    "tournamentId": 13015,
+    "match_winner": 11575,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540182",
+    "matchId": "540182",
+    "date": "2020-01-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12966,
+    "player2Id": 32168,
+    "tournamentId": 13015,
+    "match_winner": 12966,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.78",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540141",
+    "matchId": "540141",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 37266,
+    "player2Id": 4076,
+    "tournamentId": 13015,
+    "match_winner": 37266,
+    "result": "6-3 2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.08",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540146",
+    "matchId": "540146",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 6159,
+    "tournamentId": 13015,
+    "match_winner": 32168,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540148",
+    "matchId": "540148",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 7102,
+    "tournamentId": 13015,
+    "match_winner": 14056,
+    "result": "7-6(6) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.375",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540169",
+    "matchId": "540169",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13498,
+    "player2Id": 13541,
+    "tournamentId": 13015,
+    "match_winner": 13498,
+    "result": "2-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540172",
+    "matchId": "540172",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 14259,
+    "tournamentId": 13015,
+    "match_winner": 18455,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.66",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540177",
+    "matchId": "540177",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 23432,
+    "tournamentId": 13015,
+    "match_winner": 11575,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.71",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540139",
+    "matchId": "540139",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18455,
+    "player2Id": 487,
+    "tournamentId": 13015,
+    "match_winner": 18455,
+    "result": "5-7 6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.82",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540140",
+    "matchId": "540140",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 1058,
+    "tournamentId": 13015,
+    "match_winner": 14259,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "1.909",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540143",
+    "matchId": "540143",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 4110,
+    "tournamentId": 13015,
+    "match_winner": 32168,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540147",
+    "matchId": "540147",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 6740,
+    "tournamentId": 13015,
+    "match_winner": 12966,
+    "result": "4-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.52",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540154",
+    "matchId": "540154",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 9247,
+    "tournamentId": 13015,
+    "match_winner": 13541,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540156",
+    "matchId": "540156",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 9503,
+    "tournamentId": 13015,
+    "match_winner": 8324,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540158",
+    "matchId": "540158",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6159,
+    "player2Id": 10033,
+    "tournamentId": 13015,
+    "match_winner": 6159,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.1",
+    "odd2": "1.35",
+    "player1": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540174",
+    "matchId": "540174",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7102,
+    "player2Id": 16627,
+    "tournamentId": 13015,
+    "match_winner": 7102,
+    "result": "7-6(7) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.2",
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540149",
+    "matchId": "540149",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 7944,
+    "tournamentId": 13015,
+    "match_winner": 13498,
+    "result": "4-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540153",
+    "matchId": "540153",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4076,
+    "player2Id": 8531,
+    "tournamentId": 13015,
+    "match_winner": 4076,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540159",
+    "matchId": "540159",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37266,
+    "player2Id": 10600,
+    "tournamentId": 13015,
+    "match_winner": 37266,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "3.1",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540161",
+    "matchId": "540161",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 10749,
+    "tournamentId": 13015,
+    "match_winner": 23432,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540165",
+    "matchId": "540165",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 12390,
+    "tournamentId": 13015,
+    "match_winner": 9503,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540166",
+    "matchId": "540166",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 12842,
+    "tournamentId": 13015,
+    "match_winner": 11575,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.17",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540167",
+    "matchId": "540167",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 13385,
+    "tournamentId": 13015,
+    "match_winner": 6740,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.46",
+    "odd2": "1.52",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540175",
+    "matchId": "540175",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 17503,
+    "tournamentId": 13015,
+    "match_winner": 14056,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.49",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "540187",
+    "matchId": "540187",
+    "date": "2020-01-17T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 68601,
+    "player2Id": 44828,
+    "tournamentId": 13015,
+    "match_winner": 68601,
+    "result": "2-6 7-5 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.95",
+    "player1": {
+     "id": 68601,
+     "name": "Nicole Melichar/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44828,
+     "name": "Gabriela Dabrowski/Darija Jurak Schreiber",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540162",
+    "matchId": "540162",
+    "date": "2020-01-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 44828,
+    "player2Id": 10877,
+    "tournamentId": 13015,
+    "match_winner": 44828,
+    "result": "6-7(6) 7-6(3) 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.92",
+    "player1": {
+     "id": 44828,
+     "name": "Gabriela Dabrowski/Darija Jurak Schreiber",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10877,
+     "name": "Lucie Hradecka/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540193",
+    "matchId": "540193",
+    "date": "2020-01-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 68601,
+    "player2Id": 68431,
+    "tournamentId": 13015,
+    "match_winner": 68601,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.57",
+    "player1": {
+     "id": 68601,
+     "name": "Nicole Melichar/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540189",
+    "matchId": "540189",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 68601,
+    "player2Id": 55548,
+    "tournamentId": 13015,
+    "match_winner": 68601,
+    "result": "6-2 7-6(9)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.5",
+    "player1": {
+     "id": 68601,
+     "name": "Nicole Melichar/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55548,
+     "name": "Kaitlyn Christian/Alexa Guarachi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540192",
+    "matchId": "540192",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 68431,
+    "player2Id": 67099,
+    "tournamentId": 13015,
+    "match_winner": 68431,
+    "result": "7-6(5) 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540200",
+    "matchId": "540200",
+    "date": "2020-01-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 44828,
+    "player2Id": 70103,
+    "tournamentId": 13015,
+    "match_winner": 44828,
+    "result": "6-3 6-7(6) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44828,
+     "name": "Gabriela Dabrowski/Darija Jurak Schreiber",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70103,
+     "name": "Tatjana Maria/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540184",
+    "matchId": "540184",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68431,
+    "player2Id": 37423,
+    "tournamentId": 13015,
+    "match_winner": 68431,
+    "result": "7-5 6-7(4) 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.5",
+    "player1": {
+     "id": 68431,
+     "name": "Sofia Kenin/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37423,
+     "name": "Viktorija Golubic/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540194",
+    "matchId": "540194",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10877,
+    "player2Id": 68647,
+    "tournamentId": 13015,
+    "match_winner": 10877,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10877,
+     "name": "Lucie Hradecka/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68647,
+     "name": "Alexandra Bozovic/Amber Marshall",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540195",
+    "matchId": "540195",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 55548,
+    "player2Id": 70034,
+    "tournamentId": 13015,
+    "match_winner": 55548,
+    "result": "4-6 6-0 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 55548,
+     "name": "Kaitlyn Christian/Alexa Guarachi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70034,
+     "name": "Monique Adamczak/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540197",
+    "matchId": "540197",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44828,
+    "player2Id": 70047,
+    "tournamentId": 13015,
+    "match_winner": 44828,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44828,
+     "name": "Gabriela Dabrowski/Darija Jurak Schreiber",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70047,
+     "name": "Lyudmyla Kichenok/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540198",
+    "matchId": "540198",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68601,
+    "player2Id": 70101,
+    "tournamentId": 13015,
+    "match_winner": 68601,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.45",
+    "player1": {
+     "id": 68601,
+     "name": "Nicole Melichar/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70101,
+     "name": "Danielle Rose Collins/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540199",
+    "matchId": "540199",
+    "date": "2020-01-14T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 70102,
+    "tournamentId": 13015,
+    "match_winner": 67099,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70102,
+     "name": "Yingying Duan/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540179",
+    "matchId": "540179",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70039,
+    "player2Id": 30152,
+    "tournamentId": 13015,
+    "match_winner": 70039,
+    "result": "7-6(2) 4-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70039,
+     "name": "Kveta Peschke/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30152,
+     "name": "Simona Halep/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540188",
+    "matchId": "540188",
+    "date": "2020-01-13T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70103,
+    "player2Id": 46890,
+    "tournamentId": 13015,
+    "match_winner": 70103,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70103,
+     "name": "Tatjana Maria/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 46890,
+     "name": "Priscilla Hon/Arina Rodionova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "540142",
+    "matchId": "540142",
+    "date": "2020-01-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12842,
+    "player2Id": 4110,
+    "tournamentId": 13015,
+    "match_winner": 12842,
+    "result": "7-6(3) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.04",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540151",
+    "matchId": "540151",
+    "date": "2020-01-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17503,
+    "player2Id": 8476,
+    "tournamentId": 13015,
+    "match_winner": 17503,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.192",
+    "odd2": "4.45",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8476,
+     "name": "Gabriela Dabrowski",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540152",
+    "matchId": "540152",
+    "date": "2020-01-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14259,
+    "player2Id": 8503,
+    "tournamentId": 13015,
+    "match_winner": 14259,
+    "result": "7-6(5) 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.13",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540155",
+    "matchId": "540155",
+    "date": "2020-01-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12390,
+    "player2Id": 9247,
+    "tournamentId": 13015,
+    "match_winner": 12390,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.94",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540160",
+    "matchId": "540160",
+    "date": "2020-01-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10749,
+    "player2Id": 10600,
+    "tournamentId": 13015,
+    "match_winner": 10749,
+    "result": "6-4 6-7(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.7",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540185",
+    "matchId": "540185",
+    "date": "2020-01-12T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 6159,
+    "player2Id": 40156,
+    "tournamentId": 13015,
+    "match_winner": 6159,
+    "result": "6-2 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.67",
+    "odd2": "1.45",
+    "player1": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540144",
+    "matchId": "540144",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8476,
+    "player2Id": 4120,
+    "tournamentId": 13015,
+    "match_winner": 8476,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.98",
+    "odd2": "1.23",
+    "player1": {
+     "id": 8476,
+     "name": "Gabriela Dabrowski",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540145",
+    "matchId": "540145",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6159,
+    "player2Id": 5873,
+    "tournamentId": 13015,
+    "match_winner": 6159,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5873,
+     "name": "Carla Suarez Navarro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540157",
+    "matchId": "540157",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 9587,
+    "tournamentId": 13015,
+    "match_winner": 12842,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.072",
+    "odd2": "7.6",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9587,
+     "name": "Shuko Aoyama",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540163",
+    "matchId": "540163",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4110,
+    "player2Id": 11119,
+    "tournamentId": 13015,
+    "match_winner": 4110,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11119,
+     "name": "Na-Lae Han",
+     "countryAcr": "KOR"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540171",
+    "matchId": "540171",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 14175,
+    "tournamentId": 13015,
+    "match_winner": 14259,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.94",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540173",
+    "matchId": "540173",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8503,
+    "player2Id": 14362,
+    "tournamentId": 13015,
+    "match_winner": 8503,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.64",
+    "player1": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540178",
+    "matchId": "540178",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 23847,
+    "tournamentId": 13015,
+    "match_winner": 10749,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.002",
+    "odd2": "15",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 23847,
+     "name": "Alana Parnaby",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540180",
+    "matchId": "540180",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12390,
+    "player2Id": 30451,
+    "tournamentId": 13015,
+    "match_winner": 12390,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.062",
+    "odd2": "8.2",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540181",
+    "matchId": "540181",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10600,
+    "player2Id": 31920,
+    "tournamentId": 13015,
+    "match_winner": 10600,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540186",
+    "matchId": "540186",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 40156,
+    "player2Id": 44315,
+    "tournamentId": 13015,
+    "match_winner": 40156,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 44315,
+     "name": "Amber Marshall",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540190",
+    "matchId": "540190",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9247,
+    "player2Id": 63657,
+    "tournamentId": 13015,
+    "match_winner": 9247,
+    "result": "7-6(9) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 63657,
+     "name": "Charlotte Kempenaers-Pocz",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "540191",
+    "matchId": "540191",
+    "date": "2020-01-11T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17503,
+    "player2Id": 66592,
+    "tournamentId": 13015,
+    "match_winner": 17503,
+    "result": "3-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.004",
+    "odd2": "17.5",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 66592,
+     "name": "Amarni Banks",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13015,
+     "name": "Adelaide International - Adelaide",
+     "courtId": 1,
+     "date": "2020-01-13T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

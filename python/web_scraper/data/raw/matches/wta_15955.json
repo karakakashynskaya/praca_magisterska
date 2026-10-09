@@ -1,0 +1,5646 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "814571",
+    "date": "2025-03-16T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 77934,
+    "player2Id": 18455,
+    "tournamentId": 15955,
+    "match_winner": 77934,
+    "result": "2-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814538",
+    "date": "2025-03-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 11672,
+    "tournamentId": 15955,
+    "match_winner": 18455,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814610",
+    "date": "2025-03-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 77934,
+    "player2Id": 45854,
+    "tournamentId": 15955,
+    "match_winner": 77934,
+    "result": "7-6(1) 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.36",
+    "odd2": "1.59",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814535",
+    "date": "2025-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 77934,
+    "player2Id": 11371,
+    "tournamentId": 15955,
+    "match_winner": 77934,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.26",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814554",
+    "date": "2025-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11672,
+    "player2Id": 14056,
+    "tournamentId": 15955,
+    "match_winner": 11672,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814575",
+    "date": "2025-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 24368,
+    "tournamentId": 15955,
+    "match_winner": 18455,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.146",
+    "odd2": "5.55",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814623",
+    "date": "2025-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 53128,
+    "tournamentId": 15955,
+    "match_winner": 45854,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814547",
+    "date": "2025-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11672,
+    "player2Id": 13498,
+    "tournamentId": 15955,
+    "match_winner": 11672,
+    "result": "4-6 7-6(7) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814557",
+    "date": "2025-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 24368,
+    "player2Id": 14362,
+    "tournamentId": 15955,
+    "match_winner": 24368,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.74",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814627",
+    "date": "2025-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 14056,
+    "player2Id": 54663,
+    "tournamentId": 15955,
+    "match_winner": 14056,
+    "result": "3-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814641",
+    "date": "2025-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 18455,
+    "player2Id": 66591,
+    "tournamentId": 15955,
+    "match_winner": 18455,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.078",
+    "odd2": "8",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814539",
+    "date": "2025-03-11T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11371,
+    "player2Id": 11712,
+    "tournamentId": 15955,
+    "match_winner": 11371,
+    "result": "5-7 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.57",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814572",
+    "date": "2025-03-11T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 45854,
+    "player2Id": 18482,
+    "tournamentId": 15955,
+    "match_winner": 45854,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814590",
+    "date": "2025-03-11T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 77934,
+    "player2Id": 36558,
+    "tournamentId": 15955,
+    "match_winner": 77934,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814614",
+    "date": "2025-03-11T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 53128,
+    "player2Id": 47742,
+    "tournamentId": 15955,
+    "match_winner": 53128,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814546",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11672,
+    "player2Id": 13351,
+    "tournamentId": 15955,
+    "match_winner": 11672,
+    "result": "6-2 6-7(8) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814548",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 13541,
+    "tournamentId": 15955,
+    "match_winner": 54663,
+    "result": "7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.1",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814567",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 24368,
+    "player2Id": 17503,
+    "tournamentId": 15955,
+    "match_winner": 24368,
+    "result": "2-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814568",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14362,
+    "player2Id": 17614,
+    "tournamentId": 15955,
+    "match_winner": 14362,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814579",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 27032,
+    "tournamentId": 15955,
+    "match_winner": 18455,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.112",
+    "odd2": "6.5",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814601",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13498,
+    "player2Id": 42098,
+    "tournamentId": 15955,
+    "match_winner": 13498,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814633",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 66591,
+    "player2Id": 60791,
+    "tournamentId": 15955,
+    "match_winner": 66591,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814638",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14056,
+    "player2Id": 65911,
+    "tournamentId": 15955,
+    "match_winner": 14056,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814537",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 11575,
+    "tournamentId": 15955,
+    "match_winner": 11371,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814555",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 36558,
+    "player2Id": 14175,
+    "tournamentId": 15955,
+    "match_winner": 36558,
+    "result": "6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.05",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814566",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18482,
+    "player2Id": 17501,
+    "tournamentId": 15955,
+    "match_winner": 18482,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.99",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814581",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 47742,
+    "player2Id": 28585,
+    "tournamentId": 15955,
+    "match_winner": 47742,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.94",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814591",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 37266,
+    "tournamentId": 15955,
+    "match_winner": 45854,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814593",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 53128,
+    "player2Id": 38478,
+    "tournamentId": 15955,
+    "match_winner": 53128,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814613",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 47152,
+    "tournamentId": 15955,
+    "match_winner": 11712,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814629",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 77934,
+    "player2Id": 54989,
+    "tournamentId": 15955,
+    "match_winner": 77934,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814524",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 6019,
+    "tournamentId": 15955,
+    "match_winner": 42098,
+    "result": "3-6 6-1 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814543",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 12432,
+    "tournamentId": 15955,
+    "match_winner": 13541,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814545",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66591,
+    "player2Id": 13094,
+    "tournamentId": 15955,
+    "match_winner": 66591,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.82",
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814553",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 60791,
+    "player2Id": 14054,
+    "tournamentId": 15955,
+    "match_winner": 60791,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814565",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27032,
+    "player2Id": 17155,
+    "tournamentId": 15955,
+    "match_winner": 27032,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.909",
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814570",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 18427,
+    "tournamentId": 15955,
+    "match_winner": 13351,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.38",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814573",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 23432,
+    "tournamentId": 15955,
+    "match_winner": 17503,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.89",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814597",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 40156,
+    "tournamentId": 15955,
+    "match_winner": 11672,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814598",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 41564,
+    "tournamentId": 15955,
+    "match_winner": 14056,
+    "result": "6-4 6-7(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814599",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 41569,
+    "tournamentId": 15955,
+    "match_winner": 24368,
+    "result": "7-6(8) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814609",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65911,
+    "player2Id": 45540,
+    "tournamentId": 15955,
+    "match_winner": 65911,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814616",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 48900,
+    "tournamentId": 15955,
+    "match_winner": 18455,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "6.95",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814617",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17614,
+    "player2Id": 49081,
+    "tournamentId": 15955,
+    "match_winner": 17614,
+    "result": "5-7 7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814620",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 52254,
+    "tournamentId": 15955,
+    "match_winner": 54663,
+    "result": "6-4 3-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.09",
+    "odd2": "7.4",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814626",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13498,
+    "player2Id": 54123,
+    "tournamentId": 15955,
+    "match_winner": 13498,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814652",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 80381,
+    "tournamentId": 15955,
+    "match_winner": 14362,
+    "result": "7-6(3) 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814522",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53128,
+    "player2Id": 5416,
+    "tournamentId": 15955,
+    "match_winner": 53128,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.82",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814525",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14175,
+    "player2Id": 6651,
+    "tournamentId": 15955,
+    "match_winner": 14175,
+    "result": "6-7(2) 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814530",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 9357,
+    "tournamentId": 15955,
+    "match_winner": 11712,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814533",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 10455,
+    "tournamentId": 15955,
+    "match_winner": 45854,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814536",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 37266,
+    "player2Id": 11449,
+    "tournamentId": 15955,
+    "match_winner": 37266,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814541",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54123,
+    "player2Id": 12205,
+    "tournamentId": 15955,
+    "match_winner": 54123,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814542",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17501,
+    "player2Id": 12390,
+    "tournamentId": 15955,
+    "match_winner": 17501,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.5",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814560",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 80381,
+    "player2Id": 16134,
+    "tournamentId": 15955,
+    "match_winner": 80381,
+    "result": "2-6 7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16134,
+     "name": "Julia Grabher",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814562",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47152,
+    "player2Id": 16628,
+    "tournamentId": 15955,
+    "match_winner": 47152,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814587",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45540,
+    "player2Id": 32480,
+    "tournamentId": 15955,
+    "match_winner": 45540,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.93",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814596",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 39908,
+    "tournamentId": 15955,
+    "match_winner": 36558,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.099",
+    "odd2": "6.95",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 39908,
+     "name": "Suzan Lamens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814603",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54989,
+    "player2Id": 44040,
+    "tournamentId": 15955,
+    "match_winner": 54989,
+    "result": "7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.32",
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814604",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77934,
+    "player2Id": 44510,
+    "tournamentId": 15955,
+    "match_winner": 77934,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814606",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 28585,
+    "player2Id": 44525,
+    "tournamentId": 15955,
+    "match_winner": 28585,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.81",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814615",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 48254,
+    "tournamentId": 15955,
+    "match_winner": 11575,
+    "result": "5-7 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.71",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814628",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 54664,
+    "tournamentId": 15955,
+    "match_winner": 18482,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.133",
+    "odd2": "5.85",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814635",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 64341,
+    "tournamentId": 15955,
+    "match_winner": 47742,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814636",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 64343,
+    "tournamentId": 15955,
+    "match_winner": 11371,
+    "result": "6-1 6-7(8) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814642",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 38478,
+    "player2Id": 66597,
+    "tournamentId": 15955,
+    "match_winner": 38478,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.94",
+    "odd2": "1.25",
+    "player1": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814518",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66591,
+    "player2Id": 461,
+    "tournamentId": 15955,
+    "match_winner": 66591,
+    "result": "7-6(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814519",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 4110,
+    "tournamentId": 15955,
+    "match_winner": 14056,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.94",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814531",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41569,
+    "player2Id": 9503,
+    "tournamentId": 15955,
+    "match_winner": 41569,
+    "result": "6-4 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814534",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18427,
+    "player2Id": 10749,
+    "tournamentId": 15955,
+    "match_winner": 18427,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814558",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27032,
+    "player2Id": 16043,
+    "tournamentId": 15955,
+    "match_winner": 27032,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814559",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17614,
+    "player2Id": 16119,
+    "tournamentId": 15955,
+    "match_winner": 17614,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814577",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 25513,
+    "tournamentId": 15955,
+    "match_winner": 23432,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814580",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60791,
+    "player2Id": 27804,
+    "tournamentId": 15955,
+    "match_winner": 60791,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814589",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48900,
+    "player2Id": 34747,
+    "tournamentId": 15955,
+    "match_winner": 48900,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814595",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12432,
+    "player2Id": 39749,
+    "tournamentId": 15955,
+    "match_winner": 12432,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814624",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52254,
+    "player2Id": 53487,
+    "tournamentId": 15955,
+    "match_winner": 52254,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814631",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 57090,
+    "tournamentId": 15955,
+    "match_winner": 40156,
+    "result": "6-7(5) 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814645",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 72414,
+    "tournamentId": 15955,
+    "match_winner": 6019,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.2",
+    "odd2": "1.67",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814527",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 8234,
+    "tournamentId": 15955,
+    "match_winner": 44510,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814550",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 13706,
+    "tournamentId": 15955,
+    "match_winner": 47152,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814556",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 14259,
+    "tournamentId": 15955,
+    "match_winner": 10455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814561",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 16430,
+    "tournamentId": 15955,
+    "match_winner": 44040,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.45",
+    "odd2": "1.31",
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814564",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38478,
+    "player2Id": 17062,
+    "tournamentId": 15955,
+    "match_winner": 38478,
+    "result": "6-3 1-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814569",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54664,
+    "player2Id": 18403,
+    "tournamentId": 15955,
+    "match_winner": 54664,
+    "result": "6-4 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814576",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39908,
+    "player2Id": 24572,
+    "tournamentId": 15955,
+    "match_winner": 39908,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39908,
+     "name": "Suzan Lamens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814584",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17501,
+    "player2Id": 30797,
+    "tournamentId": 15955,
+    "match_winner": 17501,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814592",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37266,
+    "player2Id": 37410,
+    "tournamentId": 15955,
+    "match_winner": 37266,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.77",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814607",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 45072,
+    "tournamentId": 15955,
+    "match_winner": 28585,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814608",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64341,
+    "player2Id": 45192,
+    "tournamentId": 15955,
+    "match_winner": 64341,
+    "result": "3-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814611",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 45866,
+    "tournamentId": 15955,
+    "match_winner": 6651,
+    "result": "7-5 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.65",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814612",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48254,
+    "player2Id": 45990,
+    "tournamentId": 15955,
+    "match_winner": 48254,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.99",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814622",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64343,
+    "player2Id": 52790,
+    "tournamentId": 15955,
+    "match_winner": 64343,
+    "result": "0-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.5",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814625",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 53793,
+    "tournamentId": 15955,
+    "match_winner": 9357,
+    "result": "6-4 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814646",
+    "date": "2025-03-05T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 73190,
+    "tournamentId": 15955,
+    "match_winner": 5416,
+    "result": "6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "814664",
+    "date": "2025-03-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 91464,
+    "player2Id": 94430,
+    "tournamentId": 15955,
+    "match_winner": 91464,
+    "result": "6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814662",
+    "date": "2025-03-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 91464,
+    "player2Id": 93781,
+    "tournamentId": 15955,
+    "match_winner": 91464,
+    "result": "6-4 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814676",
+    "date": "2025-03-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 94430,
+    "player2Id": 99570,
+    "tournamentId": 15955,
+    "match_winner": 94430,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99570,
+     "name": "Su-Wei Hsieh/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814669",
+    "date": "2025-03-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 91464,
+    "player2Id": 98615,
+    "tournamentId": 15955,
+    "match_winner": 91464,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "1.94",
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98615,
+     "name": "Timea Babos/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814672",
+    "date": "2025-03-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 93781,
+    "player2Id": 99112,
+    "tournamentId": 15955,
+    "match_winner": 93781,
+    "result": "7-5 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814651",
+    "date": "2025-03-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 94430,
+    "player2Id": 77734,
+    "tournamentId": 15955,
+    "match_winner": 94430,
+    "result": "6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.71",
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814670",
+    "date": "2025-03-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 99570,
+    "player2Id": 99042,
+    "tournamentId": 15955,
+    "match_winner": 99570,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.833",
+    "player1": {
+     "id": 99570,
+     "name": "Su-Wei Hsieh/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99042,
+     "name": "Jelena Ostapenko/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814654",
+    "date": "2025-03-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 93781,
+    "player2Id": 85361,
+    "tournamentId": 15955,
+    "match_winner": 93781,
+    "result": "3-6 6-0 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "2.99",
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 85361,
+     "name": "Beatriz Haddad Maia/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814644",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 99112,
+    "player2Id": 72046,
+    "tournamentId": 15955,
+    "match_winner": 99112,
+    "result": "6-3 4-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814649",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 94430,
+    "player2Id": 74146,
+    "tournamentId": 15955,
+    "match_winner": 94430,
+    "result": "6-1 4-6 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.86",
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 74146,
+     "name": "Fanny Stollar/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814655",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 99570,
+    "player2Id": 86183,
+    "tournamentId": 15955,
+    "match_winner": 99570,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "3.72",
+    "player1": {
+     "id": 99570,
+     "name": "Su-Wei Hsieh/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86183,
+     "name": "Makenna Jones/Mccartney Kessler",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814658",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77734,
+    "player2Id": 88669,
+    "tournamentId": 15955,
+    "match_winner": 77734,
+    "result": "7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.56",
+    "odd2": "1.46",
+    "player1": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814661",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 98615,
+    "player2Id": 92863,
+    "tournamentId": 15955,
+    "match_winner": 98615,
+    "result": "7-5 3-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.58",
+    "player1": {
+     "id": 98615,
+     "name": "Timea Babos/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814671",
+    "date": "2025-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 91464,
+    "player2Id": 99111,
+    "tournamentId": 15955,
+    "match_winner": 91464,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99111,
+     "name": "Ekaterina Alexandrova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814583",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99570,
+    "player2Id": 30703,
+    "tournamentId": 15955,
+    "match_winner": 99570,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.77",
+    "player1": {
+     "id": 99570,
+     "name": "Su-Wei Hsieh/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30703,
+     "name": "Shuko Aoyama/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814665",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 99042,
+    "player2Id": 94917,
+    "tournamentId": 15955,
+    "match_winner": 99042,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99042,
+     "name": "Jelena Ostapenko/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94917,
+     "name": "Yulia Putintseva/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814667",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72046,
+    "player2Id": 95615,
+    "tournamentId": 15955,
+    "match_winner": 72046,
+    "result": "6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95615,
+     "name": "Xinyu Jiang/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814673",
+    "date": "2025-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93781,
+    "player2Id": 99567,
+    "tournamentId": 15955,
+    "match_winner": 93781,
+    "result": "6-2 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.122",
+    "odd2": "5.45",
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99567,
+     "name": "Ulrikke Eikeri/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814656",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86183,
+    "player2Id": 86685,
+    "tournamentId": 15955,
+    "match_winner": 86183,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.48",
+    "odd2": "1.27",
+    "player1": {
+     "id": 86183,
+     "name": "Makenna Jones/Mccartney Kessler",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86685,
+     "name": "Marie Bouzkova/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814663",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 94430,
+    "player2Id": 93802,
+    "tournamentId": 15955,
+    "match_winner": 94430,
+    "result": "3-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93802,
+     "name": "Anna Danilina/Irina Khromacheva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814668",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 92863,
+    "player2Id": 97610,
+    "tournamentId": 15955,
+    "match_winner": 92863,
+    "result": "2-6 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 97610,
+     "name": "Cristina Bucsa/Miyu Kato",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814674",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99112,
+    "player2Id": 99568,
+    "tournamentId": 15955,
+    "match_winner": 99112,
+    "result": "3-6 6-1 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99568,
+     "name": "Alexandra Panova/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814678",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77734,
+    "player2Id": 99572,
+    "tournamentId": 15955,
+    "match_winner": 77734,
+    "result": "4-6 6-2 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.59",
+    "player1": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99572,
+     "name": "Nadiya Kichenok/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814679",
+    "date": "2025-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88669,
+    "player2Id": 99573,
+    "tournamentId": 15955,
+    "match_winner": 88669,
+    "result": "5-7 6-3 10-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99573,
+     "name": "Leylah Annie Fernandez/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814637",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91464,
+    "player2Id": 65079,
+    "tournamentId": 15955,
+    "match_winner": 91464,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814648",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99111,
+    "player2Id": 73865,
+    "tournamentId": 15955,
+    "match_winner": 99111,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99111,
+     "name": "Ekaterina Alexandrova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73865,
+     "name": "Caroline Dolehide/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814650",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99042,
+    "player2Id": 77423,
+    "tournamentId": 15955,
+    "match_winner": 99042,
+    "result": "6-1 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99042,
+     "name": "Jelena Ostapenko/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77423,
+     "name": "Danielle Rose Collins/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814660",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 74146,
+    "player2Id": 89717,
+    "tournamentId": 15955,
+    "match_winner": 74146,
+    "result": "4-6 6-1 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 74146,
+     "name": "Fanny Stollar/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89717,
+     "name": "Ashlyn Krueger/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814666",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 85361,
+    "player2Id": 95592,
+    "tournamentId": 15955,
+    "match_winner": 85361,
+    "result": "7-6(4) 3-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.58",
+    "player1": {
+     "id": 85361,
+     "name": "Beatriz Haddad Maia/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95592,
+     "name": "Mirra Andreeva/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814675",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98615,
+    "player2Id": 99569,
+    "tournamentId": 15955,
+    "match_winner": 98615,
+    "result": "6-1 6-7(5) 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98615,
+     "name": "Timea Babos/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99569,
+     "name": "Ons Jabeur/Jule Niemeier",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814677",
+    "date": "2025-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 94917,
+    "player2Id": 99571,
+    "tournamentId": 15955,
+    "match_winner": 94917,
+    "result": "6-0 4-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94917,
+     "name": "Yulia Putintseva/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99571,
+     "name": "Makoto Ninomiya/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "814532",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30797,
+    "player2Id": 10334,
+    "tournamentId": 15955,
+    "match_winner": 30797,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814540",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 48254,
+    "player2Id": 11959,
+    "tournamentId": 15955,
+    "match_winner": 48254,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "1.95",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814549",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 461,
+    "player2Id": 13621,
+    "tournamentId": 15955,
+    "match_winner": 461,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814551",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 27804,
+    "player2Id": 13839,
+    "tournamentId": 15955,
+    "match_winner": 27804,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814574",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 18427,
+    "player2Id": 24344,
+    "tournamentId": 15955,
+    "match_winner": 18427,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2",
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814578",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10749,
+    "player2Id": 26356,
+    "tournamentId": 15955,
+    "match_winner": 10749,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814586",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 72414,
+    "player2Id": 31920,
+    "tournamentId": 15955,
+    "match_winner": 72414,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814594",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45990,
+    "player2Id": 38911,
+    "tournamentId": 15955,
+    "match_winner": 45990,
+    "result": "6-0 7-6(9)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814605",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45192,
+    "player2Id": 44525,
+    "tournamentId": 15955,
+    "match_winner": 45192,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814634",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 25513,
+    "player2Id": 61481,
+    "tournamentId": 15955,
+    "match_winner": 25513,
+    "result": "7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.5",
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814640",
+    "date": "2025-03-04T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 73190,
+    "player2Id": 66591,
+    "tournamentId": 15955,
+    "match_winner": 73190,
+    "result": "3-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814523",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 5650,
+    "tournamentId": 15955,
+    "match_winner": 13621,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.61",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814526",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30797,
+    "player2Id": 7574,
+    "tournamentId": 15955,
+    "match_winner": 30797,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814563",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10334,
+    "player2Id": 17021,
+    "tournamentId": 15955,
+    "match_winner": 10334,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814582",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48254,
+    "player2Id": 30451,
+    "tournamentId": 15955,
+    "match_winner": 48254,
+    "result": "6-0 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.26",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814621",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 72414,
+    "player2Id": 52660,
+    "tournamentId": 15955,
+    "match_winner": 72414,
+    "result": "6-1 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814632",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 49991,
+    "player2Id": 58588,
+    "tournamentId": 15955,
+    "match_winner": 49991,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.1",
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 58588,
+     "name": "Sijia Wei",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814653",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26356,
+    "player2Id": 81676,
+    "tournamentId": 15955,
+    "match_winner": 26356,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.175",
+    "odd2": "4.45",
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 81676,
+     "name": "Valerie Glozman",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814657",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9503,
+    "player2Id": 87232,
+    "tournamentId": 15955,
+    "match_winner": 9503,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 87232,
+     "name": "Julieta Pareja",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814659",
+    "date": "2025-03-03T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18427,
+    "player2Id": 89250,
+    "tournamentId": 15955,
+    "match_winner": 18427,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.4",
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 89250,
+     "name": "Kristina Penickova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814520",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 4121,
+    "tournamentId": 15955,
+    "match_winner": 24344,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814521",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 38911,
+    "player2Id": 4177,
+    "tournamentId": 15955,
+    "match_winner": 38911,
+    "result": "7-5 6-7(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814528",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 73190,
+    "player2Id": 8549,
+    "tournamentId": 15955,
+    "match_winner": 73190,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.94",
+    "odd2": "1.36",
+    "player1": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814529",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45990,
+    "player2Id": 8894,
+    "tournamentId": 15955,
+    "match_winner": 45990,
+    "result": "5-7 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.94",
+    "odd2": "1.36",
+    "player1": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8894,
+     "name": "Nuria Parrizas-Diaz",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814544",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44525,
+    "player2Id": 12842,
+    "tournamentId": 15955,
+    "match_winner": 44525,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2",
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814552",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13839,
+    "player2Id": 13937,
+    "tournamentId": 15955,
+    "match_winner": 13839,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.35",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814585",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25513,
+    "player2Id": 31728,
+    "tournamentId": 15955,
+    "match_winner": 25513,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814588",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 33355,
+    "tournamentId": 15955,
+    "match_winner": 10749,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 33355,
+     "name": "Jodie Anna Burrage",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814600",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 41888,
+    "tournamentId": 15955,
+    "match_winner": 27804,
+    "result": "7-5 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.62",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814602",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 31920,
+    "player2Id": 43865,
+    "tournamentId": 15955,
+    "match_winner": 31920,
+    "result": "6-4 5-7 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814619",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11959,
+    "player2Id": 49995,
+    "tournamentId": 15955,
+    "match_winner": 11959,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.571",
+    "player1": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 49995,
+     "name": "Mananchaya Sawangkaew",
+     "countryAcr": "THA"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814630",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 61481,
+    "player2Id": 55173,
+    "tournamentId": 15955,
+    "match_winner": 61481,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 55173,
+     "name": "Daria Snigur",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814639",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 66591,
+    "player2Id": 66176,
+    "tournamentId": 15955,
+    "match_winner": 66591,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.66",
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814643",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 461,
+    "player2Id": 71581,
+    "tournamentId": 15955,
+    "match_winner": 461,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.62",
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 71581,
+     "name": "Anca Alexia Todoni",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814647",
+    "date": "2025-03-02T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45192,
+    "player2Id": 73836,
+    "tournamentId": 15955,
+    "match_winner": 45192,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 73836,
+     "name": "Hanne Vandewinkel",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15955,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2025-03-03T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

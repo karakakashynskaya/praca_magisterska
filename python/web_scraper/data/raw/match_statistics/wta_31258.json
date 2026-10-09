@@ -1,0 +1,81 @@
+[
+ {
+  "id": "364899",
+  "matchId": "364899",
+  "date": "2016-02-19T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 4975,
+  "player2Id": 31258,
+  "tournamentId": 10438,
+  "match_winner": 4975,
+  "result": "6-0 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 4975,
+   "name": "Sesil Karatantcheva",
+   "countryAcr": "BUL"
+  },
+  "player2": {
+   "id": 31258,
+   "name": "Olla Mourad",
+   "countryAcr": "QAT"
+  },
+  "tournament": {
+   "id": 10438,
+   "name": "Qatar Total Open - Doha",
+   "courtId": 1,
+   "date": "2016-02-22T00:00:00.000Z",
+   "rankId": 3,
+   "countryAcr": "QAT",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:37:11",
+   "player1": {
+    "firstServe": 19,
+    "firstServeOf": 35,
+    "aces": 0,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 14,
+    "winningOnFirstServeOf": 19,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 16,
+    "winners": null,
+    "breakPointsConverted": 6,
+    "breakPointsConvertedOf": 8,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 50,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 11,
+    "firstServeOf": 31,
+    "aces": 0,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 3,
+    "winningOnFirstServeOf": 11,
+    "winningOnSecondServe": 4,
+    "winningOnSecondServeOf": 20,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 1,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 16,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

@@ -1,0 +1,5681 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "815203",
+    "date": "2025-05-03T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 18455,
+    "player2Id": 54663,
+    "tournamentId": 15961,
+    "match_winner": 18455,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.22",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815116",
+    "date": "2025-05-01T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 11371,
+    "tournamentId": 15961,
+    "match_winner": 18455,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.95",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815185",
+    "date": "2025-05-01T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 54663,
+    "player2Id": 45854,
+    "tournamentId": 15961,
+    "match_winner": 54663,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.65",
+    "odd2": "1.48",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815118",
+    "date": "2025-04-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 11672,
+    "tournamentId": 15961,
+    "match_winner": 45854,
+    "result": "0-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815188",
+    "date": "2025-04-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 47742,
+    "tournamentId": 15961,
+    "match_winner": 18455,
+    "result": "7-6(4) 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.132",
+    "odd2": "5.9",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815196",
+    "date": "2025-04-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11371,
+    "player2Id": 52254,
+    "tournamentId": 15961,
+    "match_winner": 11371,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815231",
+    "date": "2025-04-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 54663,
+    "player2Id": 77934,
+    "tournamentId": 15961,
+    "match_winner": 54663,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815125",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11672,
+    "player2Id": 13498,
+    "tournamentId": 15961,
+    "match_winner": 11672,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.6",
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815126",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11371,
+    "player2Id": 13541,
+    "tournamentId": 15961,
+    "match_winner": 11371,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.91",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815129",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 52254,
+    "player2Id": 14054,
+    "tournamentId": 15961,
+    "match_winner": 52254,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.38",
+    "odd2": "1.32",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815172",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 47742,
+    "player2Id": 40156,
+    "tournamentId": 15961,
+    "match_winner": 47742,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.94",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815201",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 18455,
+    "player2Id": 53793,
+    "tournamentId": 15961,
+    "match_winner": 18455,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.112",
+    "odd2": "6.5",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815216",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 45854,
+    "player2Id": 65911,
+    "tournamentId": 15961,
+    "match_winner": 45854,
+    "result": "6-0 6-7(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815130",
+    "date": "2025-04-28T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 54663,
+    "player2Id": 14056,
+    "tournamentId": 15961,
+    "match_winner": 54663,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815174",
+    "date": "2025-04-28T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 77934,
+    "player2Id": 41888,
+    "tournamentId": 15961,
+    "match_winner": 77934,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.124",
+    "odd2": "6.1",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815119",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 52254,
+    "player2Id": 11712,
+    "tournamentId": 15961,
+    "match_winner": 52254,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815124",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 13351,
+    "tournamentId": 15961,
+    "match_winner": 18455,
+    "result": "3-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.089",
+    "odd2": "7.4",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815134",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13541,
+    "player2Id": 14362,
+    "tournamentId": 15961,
+    "match_winner": 13541,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.76",
+    "odd2": "1.27",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815136",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 47742,
+    "player2Id": 16119,
+    "tournamentId": 15961,
+    "match_winner": 47742,
+    "result": "6-0 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815144",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14054,
+    "player2Id": 17503,
+    "tournamentId": 15961,
+    "match_winner": 14054,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815149",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 40156,
+    "player2Id": 23432,
+    "tournamentId": 15961,
+    "match_winner": 40156,
+    "result": "3-6 6-4 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815157",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 53793,
+    "player2Id": 28732,
+    "tournamentId": 15961,
+    "match_winner": 53793,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815164",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 36558,
+    "tournamentId": 15961,
+    "match_winner": 11371,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815111",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 65911,
+    "player2Id": 7944,
+    "tournamentId": 15961,
+    "match_winner": 65911,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.77",
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815123",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14056,
+    "player2Id": 13094,
+    "tournamentId": 15961,
+    "match_winner": 14056,
+    "result": "6-3 4-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815142",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 77934,
+    "player2Id": 17155,
+    "tournamentId": 15961,
+    "match_winner": 77934,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.126",
+    "odd2": "6.05",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815153",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 41888,
+    "player2Id": 24368,
+    "tournamentId": 15961,
+    "match_winner": 41888,
+    "result": "2-6 7-6(2) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815161",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11672,
+    "player2Id": 32480,
+    "tournamentId": 15961,
+    "match_winner": 11672,
+    "result": "7-5 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.95",
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815175",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13498,
+    "player2Id": 42098,
+    "tournamentId": 15961,
+    "match_winner": 13498,
+    "result": "4-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.83",
+    "odd2": "1.43",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815186",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 45866,
+    "tournamentId": 15961,
+    "match_winner": 54663,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815219",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 66597,
+    "tournamentId": 15961,
+    "match_winner": 45854,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815114",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 9357,
+    "tournamentId": 15961,
+    "match_winner": 13541,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815117",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 52254,
+    "player2Id": 11449,
+    "tournamentId": 15961,
+    "match_winner": 52254,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.68",
+    "odd2": "1.47",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815120",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 28732,
+    "player2Id": 12390,
+    "tournamentId": 15961,
+    "match_winner": 28732,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815131",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 14175,
+    "tournamentId": 15961,
+    "match_winner": 14362,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815151",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 24344,
+    "tournamentId": 15961,
+    "match_winner": 16119,
+    "result": "4-6 7-6(1) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815163",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 34747,
+    "tournamentId": 15961,
+    "match_winner": 18455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.066",
+    "odd2": "8.7",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815167",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23432,
+    "player2Id": 38478,
+    "tournamentId": 15961,
+    "match_winner": 23432,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.32",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815168",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 39226,
+    "tournamentId": 15961,
+    "match_winner": 36558,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815170",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 39749,
+    "tournamentId": 15961,
+    "match_winner": 14054,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.49",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815173",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53793,
+    "player2Id": 41564,
+    "tournamentId": 15961,
+    "match_winner": 53793,
+    "result": "6-2 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.45",
+    "odd2": "1.31",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815179",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 44040,
+    "tournamentId": 15961,
+    "match_winner": 13351,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815181",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 44525,
+    "tournamentId": 15961,
+    "match_winner": 11712,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815184",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 45540,
+    "tournamentId": 15961,
+    "match_winner": 17503,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815199",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40156,
+    "player2Id": 53128,
+    "tournamentId": 15961,
+    "match_winner": 40156,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815200",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 53487,
+    "tournamentId": 15961,
+    "match_winner": 47742,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815218",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 66591,
+    "tournamentId": 15961,
+    "match_winner": 11371,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815132",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13094,
+    "player2Id": 14259,
+    "tournamentId": 15961,
+    "match_winner": 13094,
+    "result": "2-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.65",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815139",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 16628,
+    "tournamentId": 15961,
+    "match_winner": 7944,
+    "result": "7-6(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.55",
+    "odd2": "1.2",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815154",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77934,
+    "player2Id": 24572,
+    "tournamentId": 15961,
+    "match_winner": 77934,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.149",
+    "odd2": "5.45",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815155",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 27032,
+    "tournamentId": 15961,
+    "match_winner": 11672,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.4",
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815156",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 28585,
+    "tournamentId": 15961,
+    "match_winner": 24368,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815158",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66597,
+    "player2Id": 30797,
+    "tournamentId": 15961,
+    "match_winner": 66597,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.04",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815165",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 37266,
+    "tournamentId": 15961,
+    "match_winner": 54663,
+    "result": "0-6 6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815189",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13498,
+    "player2Id": 48254,
+    "tournamentId": 15961,
+    "match_winner": 13498,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.32",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815191",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45866,
+    "player2Id": 49081,
+    "tournamentId": 15961,
+    "match_winner": 45866,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815195",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 51151,
+    "tournamentId": 15961,
+    "match_winner": 32480,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815198",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65911,
+    "player2Id": 52790,
+    "tournamentId": 15961,
+    "match_winner": 65911,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.32",
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815204",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41888,
+    "player2Id": 54664,
+    "tournamentId": 15961,
+    "match_winner": 41888,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815206",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 54989,
+    "tournamentId": 15961,
+    "match_winner": 14056,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815208",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17155,
+    "player2Id": 57090,
+    "tournamentId": 15961,
+    "match_winner": 17155,
+    "result": "5-7 7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815220",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 67792,
+    "tournamentId": 15961,
+    "match_winner": 45854,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815227",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 72414,
+    "tournamentId": 15961,
+    "match_winner": 42098,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815105",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39749,
+    "player2Id": 5416,
+    "tournamentId": 15961,
+    "match_winner": 39749,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815108",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 51151,
+    "player2Id": 6651,
+    "tournamentId": 15961,
+    "match_winner": 51151,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.32",
+    "odd2": "1.61",
+    "player1": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815109",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 6740,
+    "tournamentId": 15961,
+    "match_winner": 7944,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.77",
+    "odd2": "1.444",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815112",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52790,
+    "player2Id": 8234,
+    "tournamentId": 15961,
+    "match_winner": 52790,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.22",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815115",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28732,
+    "player2Id": 9503,
+    "tournamentId": 15961,
+    "match_winner": 28732,
+    "result": "6-3 1-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815122",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45866,
+    "player2Id": 12842,
+    "tournamentId": 15961,
+    "match_winner": 45866,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815141",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30797,
+    "player2Id": 17062,
+    "tournamentId": 15961,
+    "match_winner": 30797,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.57",
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815145",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66591,
+    "player2Id": 17614,
+    "tournamentId": 15961,
+    "match_winner": 66591,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815150",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 24112,
+    "tournamentId": 15961,
+    "match_winner": 14259,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24112,
+     "name": "Jana Fett",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815166",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37266,
+    "player2Id": 38210,
+    "tournamentId": 15961,
+    "match_winner": 37266,
+    "result": "7-6(5) 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 38210,
+     "name": "Francesca Jones",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815171",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53487,
+    "player2Id": 39908,
+    "tournamentId": 15961,
+    "match_winner": 53487,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 39908,
+     "name": "Suzan Lamens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815178",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 34747,
+    "player2Id": 43866,
+    "tournamentId": 15961,
+    "match_winner": 34747,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.09",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 43866,
+     "name": "Panna Udvardy",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815187",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 47152,
+    "tournamentId": 15961,
+    "match_winner": 13541,
+    "result": "6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815190",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 48900,
+    "tournamentId": 15961,
+    "match_winner": 39226,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815193",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72414,
+    "player2Id": 49988,
+    "tournamentId": 15961,
+    "match_winner": 72414,
+    "result": "6-2 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.102",
+    "odd2": "6.85",
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 49988,
+     "name": "Carlota Martinez Cirez",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815194",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 49991,
+    "tournamentId": 15961,
+    "match_winner": 14056,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.82",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815211",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 60791,
+    "tournamentId": 15961,
+    "match_winner": 16119,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815212",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52254,
+    "player2Id": 64341,
+    "tournamentId": 15961,
+    "match_winner": 52254,
+    "result": "1-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815213",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 64343,
+    "tournamentId": 15961,
+    "match_winner": 40156,
+    "result": "6-7(7) 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815217",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41888,
+    "player2Id": 65912,
+    "tournamentId": 15961,
+    "match_winner": 41888,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.08",
+    "odd2": "1.75",
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815222",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45540,
+    "player2Id": 70327,
+    "tournamentId": 15961,
+    "match_winner": 45540,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.66",
+    "player1": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815237",
+    "date": "2025-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44525,
+    "player2Id": 87188,
+    "tournamentId": 15961,
+    "match_winner": 44525,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 87188,
+     "name": "Teodora Kostovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815107",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48254,
+    "player2Id": 6019,
+    "tournamentId": 15961,
+    "match_winner": 48254,
+    "result": "6-2 5-7 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815121",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67792,
+    "player2Id": 12432,
+    "tournamentId": 15961,
+    "match_winner": 67792,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815127",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57090,
+    "player2Id": 13706,
+    "tournamentId": 15961,
+    "match_winner": 57090,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815137",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27032,
+    "player2Id": 16430,
+    "tournamentId": 15961,
+    "match_winner": 27032,
+    "result": "6-4 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815143",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 17501,
+    "tournamentId": 15961,
+    "match_winner": 14175,
+    "result": "4-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.64",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815147",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 18403,
+    "tournamentId": 15961,
+    "match_winner": 24572,
+    "result": "6-2 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815148",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53793,
+    "player2Id": 18427,
+    "tournamentId": 15961,
+    "match_winner": 53793,
+    "result": "5-7 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.56",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815169",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 39540,
+    "tournamentId": 15961,
+    "match_winner": 44040,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815180",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38478,
+    "player2Id": 44510,
+    "tournamentId": 15961,
+    "match_winner": 38478,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815202",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 54123,
+    "tournamentId": 15961,
+    "match_winner": 28585,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 54123,
+     "name": "Elina Avanesyan",
+     "countryAcr": "ARM"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "815228",
+    "date": "2025-05-04T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 100477,
+    "player2Id": 73146,
+    "tournamentId": 15961,
+    "match_winner": 100477,
+    "result": "6-7(10) 6-2 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.94",
+    "odd2": "1.36",
+    "player1": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815248",
+    "date": "2025-05-02T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 100477,
+    "player2Id": 98665,
+    "tournamentId": 15961,
+    "match_winner": 100477,
+    "result": "7-6(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.72",
+    "odd2": "1.24",
+    "player1": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815259",
+    "date": "2025-05-02T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 73146,
+    "player2Id": 100480,
+    "tournamentId": 15961,
+    "match_winner": 73146,
+    "result": "4-6 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100480,
+     "name": "Victoria Azarenka/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815235",
+    "date": "2025-04-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 98665,
+    "player2Id": 85361,
+    "tournamentId": 15961,
+    "match_winner": 98665,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.45",
+    "player1": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 85361,
+     "name": "Beatriz Haddad Maia/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815254",
+    "date": "2025-04-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 100477,
+    "player2Id": 99876,
+    "tournamentId": 15961,
+    "match_winner": 100477,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "1.99",
+    "player1": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99876,
+     "name": "Linda Noskova/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815252",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 73146,
+    "player2Id": 99112,
+    "tournamentId": 15961,
+    "match_winner": 73146,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815260",
+    "date": "2025-04-29T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 100480,
+    "player2Id": 100481,
+    "tournamentId": 15961,
+    "match_winner": 100480,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.727",
+    "player1": {
+     "id": 100480,
+     "name": "Victoria Azarenka/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100481,
+     "name": "Cori Gauff/Robin Montgomery",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815236",
+    "date": "2025-04-28T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 100477,
+    "player2Id": 86120,
+    "tournamentId": 15961,
+    "match_winner": 100477,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.82",
+    "player1": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86120,
+     "name": "Ulrikke Eikeri/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815214",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 73146,
+    "player2Id": 65079,
+    "tournamentId": 15961,
+    "match_winner": 73146,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "1.99",
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815223",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 100481,
+    "player2Id": 70346,
+    "tournamentId": 15961,
+    "match_winner": 100481,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 100481,
+     "name": "Cori Gauff/Robin Montgomery",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70346,
+     "name": "Ellen Perez/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815242",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 99876,
+    "player2Id": 93802,
+    "tournamentId": 15961,
+    "match_winner": 99876,
+    "result": "3-6 6-4 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.69",
+    "odd2": "1.42",
+    "player1": {
+     "id": 99876,
+     "name": "Linda Noskova/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93802,
+     "name": "Anna Danilina/Irina Khromacheva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815244",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 85361,
+    "player2Id": 95592,
+    "tournamentId": 15961,
+    "match_winner": 85361,
+    "result": "0-6 7-6(4) 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.625",
+    "odd2": "1.44",
+    "player1": {
+     "id": 85361,
+     "name": "Beatriz Haddad Maia/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95592,
+     "name": "Mirra Andreeva/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815256",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 98665,
+    "player2Id": 100252,
+    "tournamentId": 15961,
+    "match_winner": 98665,
+    "result": "6-1 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.55",
+    "player1": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100252,
+     "name": "Nadiya Kichenok/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815261",
+    "date": "2025-04-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 99112,
+    "player2Id": 100482,
+    "tournamentId": 15961,
+    "match_winner": 99112,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.61",
+    "player1": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100482,
+     "name": "Madison Keys/Maria Sakkari",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815238",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65079,
+    "player2Id": 88510,
+    "tournamentId": 15961,
+    "match_winner": 65079,
+    "result": "6-4 6-7(3) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815239",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100477,
+    "player2Id": 88669,
+    "tournamentId": 15961,
+    "match_winner": 100477,
+    "result": "6-3 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815245",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70346,
+    "player2Id": 95998,
+    "tournamentId": 15961,
+    "match_winner": 70346,
+    "result": "6-7(5) 6-4 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.04",
+    "player1": {
+     "id": 70346,
+     "name": "Ellen Perez/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95998,
+     "name": "Leylah Annie Fernandez/Yulia Putintseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815250",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 86120,
+    "player2Id": 98956,
+    "tournamentId": 15961,
+    "match_winner": 86120,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.61",
+    "odd2": "1.444",
+    "player1": {
+     "id": 86120,
+     "name": "Ulrikke Eikeri/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98956,
+     "name": "Timea Babos/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815253",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99112,
+    "player2Id": 99874,
+    "tournamentId": 15961,
+    "match_winner": 99112,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.56",
+    "player1": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99874,
+     "name": "Monica Niculescu/Katarzyna Piter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815255",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 100480,
+    "player2Id": 99881,
+    "tournamentId": 15961,
+    "match_winner": 100480,
+    "result": "6-3 4-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "1.93",
+    "player1": {
+     "id": 100480,
+     "name": "Victoria Azarenka/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99881,
+     "name": "Ekaterina Alexandrova/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815258",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 93802,
+    "player2Id": 100479,
+    "tournamentId": 15961,
+    "match_winner": 93802,
+    "result": "5-7 7-5 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93802,
+     "name": "Anna Danilina/Irina Khromacheva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100479,
+     "name": "Shuko Aoyama/Cristina Bucsa",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815262",
+    "date": "2025-04-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100482,
+    "player2Id": 100483,
+    "tournamentId": 15961,
+    "match_winner": 100482,
+    "result": "7-6(3) 4-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.12",
+    "odd2": "1.66",
+    "player1": {
+     "id": 100482,
+     "name": "Madison Keys/Maria Sakkari",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100483,
+     "name": "Magda Linette/Rebecca Sramkova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815229",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 85361,
+    "player2Id": 75432,
+    "tournamentId": 15961,
+    "match_winner": 85361,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.363",
+    "odd2": "2.93",
+    "player1": {
+     "id": 85361,
+     "name": "Beatriz Haddad Maia/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75432,
+     "name": "Xinyu Wang/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815241",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100481,
+    "player2Id": 91775,
+    "tournamentId": 15961,
+    "match_winner": 100481,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.6",
+    "player1": {
+     "id": 100481,
+     "name": "Cori Gauff/Robin Montgomery",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815243",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98665,
+    "player2Id": 94430,
+    "tournamentId": 15961,
+    "match_winner": 98665,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.64",
+    "player1": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815246",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 95592,
+    "player2Id": 96663,
+    "tournamentId": 15961,
+    "match_winner": 95592,
+    "result": "7-6(4) 6-7(3) 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 95592,
+     "name": "Mirra Andreeva/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 96663,
+     "name": "Nicole Melichar/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815257",
+    "date": "2025-04-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99876,
+    "player2Id": 100478,
+    "tournamentId": 15961,
+    "match_winner": 99876,
+    "result": "7-6 5-7 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99876,
+     "name": "Linda Noskova/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100478,
+     "name": "Katie Boulter/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815232",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73146,
+    "player2Id": 79446,
+    "tournamentId": 15961,
+    "match_winner": 73146,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.94",
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815240",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100480,
+    "player2Id": 91464,
+    "tournamentId": 15961,
+    "match_winner": 100480,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 100480,
+     "name": "Victoria Azarenka/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815249",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99881,
+    "player2Id": 98768,
+    "tournamentId": 15961,
+    "match_winner": 99881,
+    "result": "6-7(6) 6-2 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.45",
+    "player1": {
+     "id": 99881,
+     "name": "Ekaterina Alexandrova/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98768,
+     "name": "Anna Blinkova/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815251",
+    "date": "2025-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100252,
+    "player2Id": 99110,
+    "tournamentId": 15961,
+    "match_winner": 100252,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.6",
+    "player1": {
+     "id": 100252,
+     "name": "Nadiya Kichenok/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99110,
+     "name": "Alexandra Panova/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "815101",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 49991,
+    "player2Id": 461,
+    "tournamentId": 15961,
+    "match_winner": 49991,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.5",
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815133",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 30797,
+    "player2Id": 14259,
+    "tournamentId": 15961,
+    "match_winner": 30797,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815140",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 72414,
+    "player2Id": 17021,
+    "tournamentId": 15961,
+    "match_winner": 72414,
+    "result": "7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.9",
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815152",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 38210,
+    "player2Id": 24344,
+    "tournamentId": 15961,
+    "match_winner": 38210,
+    "result": "7-6(3) 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38210,
+     "name": "Francesca Jones",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815162",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 87188,
+    "player2Id": 32633,
+    "tournamentId": 15961,
+    "match_winner": 87188,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.48",
+    "odd2": "1.49",
+    "player1": {
+     "id": 87188,
+     "name": "Teodora Kostovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815183",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 43866,
+    "player2Id": 45192,
+    "tournamentId": 15961,
+    "match_winner": 43866,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.68",
+    "player1": {
+     "id": 43866,
+     "name": "Panna Udvardy",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815205",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 51151,
+    "player2Id": 54664,
+    "tournamentId": 15961,
+    "match_winner": 51151,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815209",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 41888,
+    "player2Id": 57147,
+    "tournamentId": 15961,
+    "match_winner": 41888,
+    "result": "7-6(5) 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815215",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24112,
+    "player2Id": 65417,
+    "tournamentId": 15961,
+    "match_winner": 24112,
+    "result": "6-2 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.68",
+    "player1": {
+     "id": 24112,
+     "name": "Jana Fett",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815224",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 28732,
+    "player2Id": 71163,
+    "tournamentId": 15961,
+    "match_winner": 28732,
+    "result": "6-2 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.65",
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 71163,
+     "name": "Sara Bejlek",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815230",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 34747,
+    "player2Id": 77673,
+    "tournamentId": 15961,
+    "match_winner": 34747,
+    "result": "6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.47",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 77673,
+     "name": "Kaitlin Quevedo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815234",
+    "date": "2025-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12842,
+    "player2Id": 84377,
+    "tournamentId": 15961,
+    "match_winner": 12842,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 84377,
+     "name": "Tyra Caterina Grant",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815102",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 84377,
+    "player2Id": 4110,
+    "tournamentId": 15961,
+    "match_winner": 84377,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84377,
+     "name": "Tyra Caterina Grant",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815103",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 72414,
+    "player2Id": 4121,
+    "tournamentId": 15961,
+    "match_winner": 72414,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.81",
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815104",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 38210,
+    "player2Id": 4177,
+    "tournamentId": 15961,
+    "match_winner": 38210,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.57",
+    "player1": {
+     "id": 38210,
+     "name": "Francesca Jones",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815106",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17021,
+    "player2Id": 5650,
+    "tournamentId": 15961,
+    "match_winner": 17021,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815110",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28732,
+    "player2Id": 6933,
+    "tournamentId": 15961,
+    "match_winner": 28732,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815113",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 77673,
+    "player2Id": 8894,
+    "tournamentId": 15961,
+    "match_winner": 77673,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.35",
+    "odd2": "1.54",
+    "player1": {
+     "id": 77673,
+     "name": "Kaitlin Quevedo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 8894,
+     "name": "Nuria Parrizas-Diaz",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815128",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41888,
+    "player2Id": 13810,
+    "tournamentId": 15961,
+    "match_winner": 41888,
+    "result": "2-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815135",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 461,
+    "player2Id": 14609,
+    "tournamentId": 15961,
+    "match_winner": 461,
+    "result": "6-4 6-7(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.03",
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815138",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54664,
+    "player2Id": 16627,
+    "tournamentId": 15961,
+    "match_winner": 54664,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.66",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815146",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 87188,
+    "player2Id": 17774,
+    "tournamentId": 15961,
+    "match_winner": 87188,
+    "result": "6-4 2-6 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 87188,
+     "name": "Teodora Kostovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815159",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 71163,
+    "player2Id": 31728,
+    "tournamentId": 15961,
+    "match_winner": 71163,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.22",
+    "player1": {
+     "id": 71163,
+     "name": "Sara Bejlek",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815160",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 31920,
+    "tournamentId": 15961,
+    "match_winner": 12842,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815176",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 43323,
+    "tournamentId": 15961,
+    "match_winner": 24344,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.28",
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 43323,
+     "name": "Maja Chwalinska",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815177",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 43866,
+    "player2Id": 43865,
+    "tournamentId": 15961,
+    "match_winner": 43866,
+    "result": "6-7(2) 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 43866,
+     "name": "Panna Udvardy",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815182",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24112,
+    "player2Id": 45072,
+    "tournamentId": 15961,
+    "match_winner": 24112,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24112,
+     "name": "Jana Fett",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815192",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 49991,
+    "player2Id": 49864,
+    "tournamentId": 15961,
+    "match_winner": 49991,
+    "result": "7-6(8) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.86",
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 49864,
+     "name": "Leyre Romero Gormaz",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815197",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45192,
+    "player2Id": 52660,
+    "tournamentId": 15961,
+    "match_winner": 45192,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.06",
+    "odd2": "1.7",
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815207",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30797,
+    "player2Id": 55173,
+    "tournamentId": 15961,
+    "match_winner": 30797,
+    "result": "5-7 7-6(7) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 55173,
+     "name": "Daria Snigur",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815210",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 51151,
+    "player2Id": 59448,
+    "tournamentId": 15961,
+    "match_winner": 51151,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 59448,
+     "name": "Oksana Selekhmeteva",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815221",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32633,
+    "player2Id": 69652,
+    "tournamentId": 15961,
+    "match_winner": 32633,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.5",
+    "player1": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815225",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 57147,
+    "player2Id": 71581,
+    "tournamentId": 15961,
+    "match_winner": 57147,
+    "result": "3-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 71581,
+     "name": "Anca Alexia Todoni",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815226",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65417,
+    "player2Id": 72126,
+    "tournamentId": 15961,
+    "match_winner": 65417,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 72126,
+     "name": "Ariana Geerlings",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815233",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 82563,
+    "tournamentId": 15961,
+    "match_winner": 14259,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.05",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 82563,
+     "name": "Ruth Roura Llaverias",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "815247",
+    "date": "2025-04-21T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 96820,
+    "tournamentId": 15961,
+    "match_winner": 34747,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.025",
+    "odd2": "10",
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 96820,
+     "name": "Neus Torner Sensano",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15961,
+     "name": "Mutua Madrid Open - Madrid",
+     "courtId": 2,
+     "date": "2025-04-21T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "ESP",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

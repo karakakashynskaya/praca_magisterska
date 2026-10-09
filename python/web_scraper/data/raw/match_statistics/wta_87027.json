@@ -1,0 +1,685 @@
+[
+ {
+  "id": "762630",
+  "matchId": "762630",
+  "date": "2024-02-16T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 12390,
+  "player2Id": 87027,
+  "tournamentId": 15213,
+  "match_winner": 12390,
+  "result": "6-1 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 12390,
+   "name": "Yulia Putintseva",
+   "countryAcr": "KAZ"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 15213,
+   "name": "Dubai Duty Free Championships - Dubai",
+   "courtId": 1,
+   "date": "2024-02-19T00:00:00.000Z",
+   "rankId": 3,
+   "countryAcr": "UAE",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 00:50:50",
+   "player1": {
+    "firstServe": 22,
+    "firstServeOf": 29,
+    "aces": 0,
+    "doubleFaults": 0,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 21,
+    "winningOnFirstServeOf": 22,
+    "winningOnSecondServe": 7,
+    "winningOnSecondServeOf": 7,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 8,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 54,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 29,
+    "firstServeOf": 44,
+    "aces": 0,
+    "doubleFaults": 3,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 12,
+    "winningOnFirstServeOf": 29,
+    "winningOnSecondServe": 6,
+    "winningOnSecondServeOf": 15,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 19,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "767115",
+  "matchId": "767115",
+  "date": "2024-01-01T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 60356,
+  "player2Id": 87027,
+  "tournamentId": 15265,
+  "match_winner": 60356,
+  "result": "6-0 2-0 ret.",
+  "result_type": "retired",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 60356,
+   "name": "Alexandra Vasilyeva",
+   "countryAcr": "RUS"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 15265,
+   "name": "W15 Monastir 1",
+   "courtId": 1,
+   "date": "2024-01-01T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "767121",
+  "matchId": "767121",
+  "date": "2023-12-31T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 87027,
+  "player2Id": 91402,
+  "tournamentId": 15265,
+  "match_winner": 87027,
+  "result": "7-5 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "player2": {
+   "id": 91402,
+   "name": "Cecile Goloubenko",
+   "countryAcr": "FRA"
+  },
+  "tournament": {
+   "id": 15265,
+   "name": "W15 Monastir 1",
+   "courtId": 1,
+   "date": "2024-01-01T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "761498",
+  "matchId": "761498",
+  "date": "2023-12-25T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 60926,
+  "player2Id": 87027,
+  "tournamentId": 15186,
+  "match_winner": 60926,
+  "result": "6-1 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 60926,
+   "name": "Jiale Zhang",
+   "countryAcr": "CHN"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 15186,
+   "name": "W15 Monastir 44",
+   "courtId": 1,
+   "date": "2023-12-25T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "761258",
+  "matchId": "761258",
+  "date": "2023-12-21T00:00:00.000Z",
+  "roundId": 4,
+  "player1Id": 53771,
+  "player2Id": 87027,
+  "tournamentId": 15183,
+  "match_winner": 53771,
+  "result": "6-1 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 53771,
+   "name": "Stephanie Judith Visscher",
+   "countryAcr": "NED"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 15183,
+   "name": "W15 Monastir 43",
+   "courtId": 1,
+   "date": "2023-12-18T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:15:00",
+   "player1": {
+    "firstServe": 25,
+    "firstServeOf": 41,
+    "aces": 1,
+    "doubleFaults": 1,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 22,
+    "winningOnFirstServeOf": 25,
+    "winningOnSecondServe": 11,
+    "winningOnSecondServeOf": 16,
+    "winners": null,
+    "breakPointsConverted": 4,
+    "breakPointsConvertedOf": 6,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 57,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 29,
+    "firstServeOf": 43,
+    "aces": 1,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 14,
+    "winningOnFirstServeOf": 29,
+    "winningOnSecondServe": 5,
+    "winningOnSecondServeOf": 14,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 27,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "760073",
+  "matchId": "760073",
+  "date": "2023-12-03T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 10629,
+  "player2Id": 87027,
+  "tournamentId": 15167,
+  "match_winner": 10629,
+  "result": "6-2 6-3",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 10629,
+   "name": "Ekaterina Yashina",
+   "countryAcr": "RUS"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 15167,
+   "name": "W100 Dubai 1",
+   "courtId": 1,
+   "date": "2023-12-04T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "UAE",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:11:00",
+   "player1": {
+    "firstServe": 28,
+    "firstServeOf": 47,
+    "aces": 1,
+    "doubleFaults": 4,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 22,
+    "winningOnFirstServeOf": 28,
+    "winningOnSecondServe": 11,
+    "winningOnSecondServeOf": 19,
+    "winners": null,
+    "breakPointsConverted": 4,
+    "breakPointsConvertedOf": 8,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 60,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 40,
+    "firstServeOf": 54,
+    "aces": 3,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 18,
+    "winningOnFirstServeOf": 40,
+    "winningOnSecondServe": 9,
+    "winningOnSecondServeOf": 14,
+    "winners": null,
+    "breakPointsConverted": 1,
+    "breakPointsConvertedOf": 1,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 41,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "710106",
+  "matchId": "710106",
+  "date": "2023-06-27T00:00:00.000Z",
+  "roundId": 4,
+  "player1Id": 60397,
+  "player2Id": 87027,
+  "tournamentId": 14852,
+  "match_winner": 60397,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 60397,
+   "name": "Lucia Llinares Domingo",
+   "countryAcr": "ESP"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 14852,
+   "name": "W15 Monastir 21",
+   "courtId": 1,
+   "date": "2023-06-26T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:02:00",
+   "player1": {
+    "firstServe": 26,
+    "firstServeOf": 39,
+    "aces": 1,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 20,
+    "winningOnFirstServeOf": 26,
+    "winningOnSecondServe": 10,
+    "winningOnSecondServeOf": 13,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 7,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 52,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 18,
+    "firstServeOf": 33,
+    "aces": 0,
+    "doubleFaults": 4,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 6,
+    "winningOnFirstServeOf": 18,
+    "winningOnSecondServe": 5,
+    "winningOnSecondServeOf": 15,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 2,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 20,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "709283",
+  "matchId": "709283",
+  "date": "2023-06-19T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 66887,
+  "player2Id": 87027,
+  "tournamentId": 14841,
+  "match_winner": 66887,
+  "result": "6-2 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 66887,
+   "name": "Gala Arangio",
+   "countryAcr": "MEX"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 14841,
+   "name": "W15 Monastir 20",
+   "courtId": 1,
+   "date": "2023-06-19T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "709282",
+  "matchId": "709282",
+  "date": "2023-06-18T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 87027,
+  "player2Id": 86698,
+  "tournamentId": 14841,
+  "match_winner": 87027,
+  "result": "6-4 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "player2": {
+   "id": 86698,
+   "name": "Unknown Player",
+   "countryAcr": "N/A"
+  },
+  "tournament": {
+   "id": 14841,
+   "name": "W15 Monastir 20",
+   "courtId": 1,
+   "date": "2023-06-19T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "708307",
+  "matchId": "708307",
+  "date": "2023-06-12T00:00:00.000Z",
+  "roundId": 2,
+  "player1Id": 82735,
+  "player2Id": 87027,
+  "tournamentId": 14828,
+  "match_winner": 82735,
+  "result": "6-1 6-2",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 82735,
+   "name": "Karina Jumazhanova",
+   "countryAcr": "KAZ"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 14828,
+   "name": "W15 Monastir 19",
+   "courtId": 1,
+   "date": "2023-06-12T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "708303",
+  "matchId": "708303",
+  "date": "2023-06-11T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 87027,
+  "player2Id": 84885,
+  "tournamentId": 14828,
+  "match_winner": 87027,
+  "result": "6-3 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "player2": {
+   "id": 84885,
+   "name": "Halle Pringle",
+   "countryAcr": "GBR"
+  },
+  "tournament": {
+   "id": 14828,
+   "name": "W15 Monastir 19",
+   "courtId": 1,
+   "date": "2023-06-12T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "707406",
+  "matchId": "707406",
+  "date": "2023-06-04T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 68925,
+  "player2Id": 87027,
+  "tournamentId": 14814,
+  "match_winner": 68925,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": null,
+  "odd2": null,
+  "player1": {
+   "id": 68925,
+   "name": "Vanessa Georgiana Popa Teiusanu",
+   "countryAcr": "ROU"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 14814,
+   "name": "W15 Monastir 18",
+   "courtId": 1,
+   "date": "2023-06-05T00:00:00.000Z",
+   "rankId": 0,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  }
+ },
+ {
+  "id": "705577",
+  "matchId": "705577",
+  "date": "2023-05-28T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 37881,
+  "player2Id": 87027,
+  "tournamentId": 14789,
+  "match_winner": 37881,
+  "result": "6-2 6-1",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.003",
+  "odd2": "12",
+  "player1": {
+   "id": 37881,
+   "name": "Marie Villet",
+   "countryAcr": "FRA"
+  },
+  "player2": {
+   "id": 87027,
+   "name": "Coumba Ben Mamadou Niangadou",
+   "countryAcr": "MLI"
+  },
+  "tournament": {
+   "id": 14789,
+   "name": "W25 La Marsa",
+   "courtId": 1,
+   "date": "2023-05-29T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "TUN",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:05:00",
+   "player1": {
+    "firstServe": 23,
+    "firstServeOf": 35,
+    "aces": 1,
+    "doubleFaults": 0,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 17,
+    "winningOnFirstServeOf": 23,
+    "winningOnSecondServe": 11,
+    "winningOnSecondServeOf": 12,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 7,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 53,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 27,
+    "firstServeOf": 44,
+    "aces": 1,
+    "doubleFaults": 4,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 14,
+    "winningOnFirstServeOf": 27,
+    "winningOnSecondServe": 5,
+    "winningOnSecondServeOf": 17,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 0,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 26,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

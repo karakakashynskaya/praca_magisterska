@@ -1,0 +1,5471 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "817063",
+    "date": "2025-08-18T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 45854,
+    "player2Id": 14362,
+    "tournamentId": 15980,
+    "match_winner": 45854,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.196",
+    "odd2": "4.85",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817065",
+    "date": "2025-08-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 14362,
+    "player2Id": 16119,
+    "tournamentId": 15980,
+    "match_winner": 14362,
+    "result": "6-3 6-7(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817099",
+    "date": "2025-08-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 45854,
+    "player2Id": 36558,
+    "tournamentId": 15980,
+    "match_winner": 45854,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817077",
+    "date": "2025-08-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 36558,
+    "player2Id": 18455,
+    "tournamentId": 15980,
+    "match_winner": 36558,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817096",
+    "date": "2025-08-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45854,
+    "player2Id": 32480,
+    "tournamentId": 15980,
+    "match_winner": 45854,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.138",
+    "odd2": "5.75",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817117",
+    "date": "2025-08-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16119,
+    "player2Id": 44510,
+    "tournamentId": 15980,
+    "match_winner": 16119,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817134",
+    "date": "2025-08-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14362,
+    "player2Id": 54663,
+    "tournamentId": 15980,
+    "match_winner": 14362,
+    "result": "2-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817031",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 16119,
+    "player2Id": 9357,
+    "tournamentId": 15980,
+    "match_winner": 16119,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817052",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 14362,
+    "player2Id": 13267,
+    "tournamentId": 15980,
+    "match_winner": 14362,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.727",
+    "odd2": "2.11",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817088",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 54663,
+    "player2Id": 27032,
+    "tournamentId": 15980,
+    "match_winner": 54663,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817152",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 44510,
+    "player2Id": 72064,
+    "tournamentId": 15980,
+    "match_winner": 44510,
+    "result": "2-6 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817026",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 45854,
+    "player2Id": 6019,
+    "tournamentId": 15980,
+    "match_winner": 45854,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.05",
+    "odd2": "9.9",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817041",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 36558,
+    "player2Id": 11672,
+    "tournamentId": 15980,
+    "match_winner": 36558,
+    "result": "6-7(3) 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.11",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817042",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 9357,
+    "player2Id": 11712,
+    "tournamentId": 15980,
+    "match_winner": 9357,
+    "result": "7-6(5) 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.85",
+    "odd2": "1.26",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817059",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 32480,
+    "player2Id": 14054,
+    "tournamentId": 15980,
+    "match_winner": 32480,
+    "result": "3-6 7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817136",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16119,
+    "player2Id": 54989,
+    "tournamentId": 15980,
+    "match_winner": 16119,
+    "result": "3-6 7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817137",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 18455,
+    "player2Id": 57090,
+    "tournamentId": 15980,
+    "match_winner": 18455,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.149",
+    "odd2": "5.5",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817067",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 27032,
+    "player2Id": 16628,
+    "tournamentId": 15980,
+    "match_winner": 27032,
+    "result": "1-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.62",
+    "odd2": "1.49",
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817078",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 44510,
+    "player2Id": 18482,
+    "tournamentId": 15980,
+    "match_winner": 44510,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.45",
+    "odd2": "1.31",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817127",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 72064,
+    "player2Id": 48900,
+    "tournamentId": 15980,
+    "match_winner": 72064,
+    "result": "6-4 2-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.38",
+    "odd2": "1.32",
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817144",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14362,
+    "player2Id": 64343,
+    "tournamentId": 15980,
+    "match_winner": 14362,
+    "result": "7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817158",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13267,
+    "player2Id": 80381,
+    "tournamentId": 15980,
+    "match_winner": 13267,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817053",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 36558,
+    "player2Id": 13351,
+    "tournamentId": 15980,
+    "match_winner": 36558,
+    "result": "4-6 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.4",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817057",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 57090,
+    "player2Id": 13621,
+    "tournamentId": 15980,
+    "match_winner": 57090,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.78",
+    "player1": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817101",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 6019,
+    "player2Id": 37410,
+    "tournamentId": 15980,
+    "match_winner": 6019,
+    "result": "6-7(2) 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817111",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32480,
+    "player2Id": 41564,
+    "tournamentId": 15980,
+    "match_winner": 32480,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3",
+    "odd2": "1.39",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817132",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 53487,
+    "tournamentId": 15980,
+    "match_winner": 18455,
+    "result": "7-6(3) 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.95",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817140",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11672,
+    "player2Id": 61481,
+    "tournamentId": 15980,
+    "match_winner": 11672,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817153",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14054,
+    "player2Id": 72414,
+    "tournamentId": 15980,
+    "match_winner": 14054,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.909",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817028",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 64343,
+    "player2Id": 7944,
+    "tournamentId": 15980,
+    "match_winner": 64343,
+    "result": "6-4 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817032",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54989,
+    "player2Id": 9503,
+    "tournamentId": 15980,
+    "match_winner": 54989,
+    "result": "6-3 6-7(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817034",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 10455,
+    "tournamentId": 15980,
+    "match_winner": 18482,
+    "result": "7-6(3) 7-6(0)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817039",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 11371,
+    "tournamentId": 15980,
+    "match_winner": 13267,
+    "result": "2-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.04",
+    "odd2": "1.38",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817048",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 37266,
+    "player2Id": 12432,
+    "tournamentId": 15980,
+    "match_winner": 37266,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.83",
+    "player1": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817056",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 13541,
+    "tournamentId": 15980,
+    "match_winner": 14362,
+    "result": "7-6(2) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817060",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 14056,
+    "tournamentId": 15980,
+    "match_winner": 16119,
+    "result": "6-4 7-6(0)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.63",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817068",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9357,
+    "player2Id": 17062,
+    "tournamentId": 15980,
+    "match_winner": 9357,
+    "result": "7-6(4) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.22",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817071",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27032,
+    "player2Id": 17503,
+    "tournamentId": 15980,
+    "match_winner": 27032,
+    "result": "6-3 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817076",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 18427,
+    "tournamentId": 15980,
+    "match_winner": 11712,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817079",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 44510,
+    "player2Id": 23432,
+    "tournamentId": 15980,
+    "match_winner": 44510,
+    "result": "6-7(7) 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817112",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 48900,
+    "player2Id": 41569,
+    "tournamentId": 15980,
+    "match_winner": 48900,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817114",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72064,
+    "player2Id": 42098,
+    "tournamentId": 15980,
+    "match_winner": 72064,
+    "result": "6-4 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817123",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 47152,
+    "tournamentId": 15980,
+    "match_winner": 54663,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817149",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 80381,
+    "player2Id": 66597,
+    "tournamentId": 15980,
+    "match_winner": 80381,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817023",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 4110,
+    "tournamentId": 15980,
+    "match_winner": 47742,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817027",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 61481,
+    "player2Id": 6740,
+    "tournamentId": 15980,
+    "match_winner": 61481,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817051",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72414,
+    "player2Id": 13094,
+    "tournamentId": 15980,
+    "match_winner": 72414,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817069",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6019,
+    "player2Id": 17155,
+    "tournamentId": 15980,
+    "match_winner": 6019,
+    "result": "7-6(4) 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817075",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 18403,
+    "tournamentId": 15980,
+    "match_winner": 36558,
+    "result": "4-6 6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "6.95",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817082",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13621,
+    "player2Id": 24368,
+    "tournamentId": 15980,
+    "match_winner": 13621,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.875",
+    "odd2": "1.42",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817094",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 32168,
+    "tournamentId": 15980,
+    "match_winner": 18455,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.75",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817104",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 38478,
+    "tournamentId": 15980,
+    "match_winner": 14054,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.32",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817107",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53487,
+    "player2Id": 39749,
+    "tournamentId": 15980,
+    "match_winner": 53487,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817109",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 40156,
+    "tournamentId": 15980,
+    "match_winner": 45854,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.052",
+    "odd2": "9.7",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817118",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 44525,
+    "tournamentId": 15980,
+    "match_winner": 11672,
+    "result": "1-6 6-3 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817128",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 57090,
+    "player2Id": 49081,
+    "tournamentId": 15980,
+    "match_winner": 57090,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817133",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 53793,
+    "tournamentId": 15980,
+    "match_winner": 32480,
+    "result": "7-6(4) 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817147",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 37410,
+    "player2Id": 65911,
+    "tournamentId": 15980,
+    "match_winner": 37410,
+    "result": "6-4 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817155",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 73190,
+    "tournamentId": 15980,
+    "match_winner": 13351,
+    "result": "3-6 7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817040",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 11575,
+    "tournamentId": 15980,
+    "match_winner": 13621,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817045",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27032,
+    "player2Id": 12089,
+    "tournamentId": 15980,
+    "match_winner": 27032,
+    "result": "6-7(6) 6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817074",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 17831,
+    "tournamentId": 15980,
+    "match_winner": 7944,
+    "result": "6-4 6-7(6) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.36",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817080",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37410,
+    "player2Id": 24344,
+    "tournamentId": 15980,
+    "match_winner": 37410,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817085",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41569,
+    "player2Id": 25513,
+    "tournamentId": 15980,
+    "match_winner": 41569,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.15",
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817089",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17062,
+    "player2Id": 28585,
+    "tournamentId": 15980,
+    "match_winner": 17062,
+    "result": "1-6 6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817093",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 31728,
+    "tournamentId": 15980,
+    "match_winner": 9503,
+    "result": "7-6(0) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817098",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18427,
+    "player2Id": 34747,
+    "tournamentId": 15980,
+    "match_winner": 18427,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817106",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 39540,
+    "tournamentId": 15980,
+    "match_winner": 47152,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817108",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 39908,
+    "tournamentId": 15980,
+    "match_winner": 16119,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 39908,
+     "name": "Suzan Lamens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817113",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11959,
+    "player2Id": 41888,
+    "tournamentId": 15980,
+    "match_winner": 11959,
+    "result": "7-5 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817119",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 45072,
+    "tournamentId": 15980,
+    "match_winner": 13541,
+    "result": "6-3 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817120",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 45540,
+    "tournamentId": 15980,
+    "match_winner": 13267,
+    "result": "6-4 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817121",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12432,
+    "player2Id": 45866,
+    "tournamentId": 15980,
+    "match_winner": 12432,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817129",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 52254,
+    "tournamentId": 15980,
+    "match_winner": 44040,
+    "result": "7-5 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817131",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 52790,
+    "tournamentId": 15980,
+    "match_winner": 44510,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817139",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72064,
+    "player2Id": 60791,
+    "tournamentId": 15980,
+    "match_winner": 72064,
+    "result": "1-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817142",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 80381,
+    "player2Id": 61881,
+    "tournamentId": 15980,
+    "match_winner": 80381,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 61881,
+     "name": "Solana Sierra",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817146",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38478,
+    "player2Id": 65417,
+    "tournamentId": 15980,
+    "match_winner": 38478,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.2",
+    "odd2": "1.67",
+    "player1": {
+     "id": 38478,
+     "name": "Lulu Sun",
+     "countryAcr": "NZL"
+    },
+    "player2": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817148",
+    "date": "2025-08-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 66591,
+    "tournamentId": 15980,
+    "match_winner": 10455,
+    "result": "5-7 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817021",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57090,
+    "player2Id": 151,
+    "tournamentId": 15980,
+    "match_winner": 57090,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817024",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 4177,
+    "tournamentId": 15980,
+    "match_winner": 40156,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.22",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817047",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18403,
+    "player2Id": 12390,
+    "tournamentId": 15980,
+    "match_winner": 18403,
+    "result": "3-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.84",
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817050",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53793,
+    "player2Id": 12882,
+    "tournamentId": 15980,
+    "match_winner": 53793,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817054",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 13498,
+    "tournamentId": 15980,
+    "match_winner": 6019,
+    "result": "6-1 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.72",
+    "odd2": "1.46",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817061",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39749,
+    "player2Id": 14175,
+    "tournamentId": 15980,
+    "match_winner": 39749,
+    "result": "6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.92",
+    "player1": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817062",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44525,
+    "player2Id": 14259,
+    "tournamentId": 15980,
+    "match_winner": 44525,
+    "result": "6-2 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817072",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 17614,
+    "tournamentId": 15980,
+    "match_winner": 32168,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.52",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817073",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61481,
+    "player2Id": 17774,
+    "tournamentId": 15980,
+    "match_winner": 61481,
+    "result": "6-2 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.57",
+    "player1": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817087",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72414,
+    "player2Id": 26356,
+    "tournamentId": 15980,
+    "match_winner": 72414,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.26",
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817122",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 45990,
+    "tournamentId": 15980,
+    "match_winner": 4110,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817126",
+    "date": "2025-08-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73190,
+    "player2Id": 48254,
+    "tournamentId": 15980,
+    "match_winner": 73190,
+    "result": "6-1 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "817166",
+    "date": "2025-08-17T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 88669,
+    "player2Id": 98617,
+    "tournamentId": 15980,
+    "match_winner": 88669,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98617,
+     "name": "Hanyu Guo/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817145",
+    "date": "2025-08-16T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 98617,
+    "player2Id": 65079,
+    "tournamentId": 15980,
+    "match_winner": 98617,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98617,
+     "name": "Hanyu Guo/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817171",
+    "date": "2025-08-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 88669,
+    "player2Id": 101856,
+    "tournamentId": 15980,
+    "match_winner": 88669,
+    "result": "3-6 6-3 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 101856,
+     "name": "Lyudmyla Kichenok/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817165",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 101856,
+    "player2Id": 96663,
+    "tournamentId": 15980,
+    "match_winner": 101856,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.33",
+    "player1": {
+     "id": 101856,
+     "name": "Lyudmyla Kichenok/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 96663,
+     "name": "Nicole Melichar/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817176",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 65079,
+    "player2Id": 102861,
+    "tournamentId": 15980,
+    "match_winner": 65079,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.85",
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102861,
+     "name": "Peyton Stearns/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817181",
+    "date": "2025-08-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 88669,
+    "player2Id": 103060,
+    "tournamentId": 15980,
+    "match_winner": 88669,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103060,
+     "name": "Caty Mcnally/Linda Noskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817154",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40436,
+    "player2Id": 73146,
+    "tournamentId": 15980,
+    "match_winner": 40436,
+    "result": "6-3 1-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40436,
+     "name": "Barbora Krejcikova/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817162",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 98617,
+    "player2Id": 91464,
+    "tournamentId": 15980,
+    "match_winner": 98617,
+    "result": "6-1 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.571",
+    "player1": {
+     "id": 98617,
+     "name": "Hanyu Guo/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817167",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 102861,
+    "player2Id": 98956,
+    "tournamentId": 15980,
+    "match_winner": 102861,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.63",
+    "player1": {
+     "id": 102861,
+     "name": "Peyton Stearns/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98956,
+     "name": "Timea Babos/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817180",
+    "date": "2025-08-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 101856,
+    "player2Id": 103059,
+    "tournamentId": 15980,
+    "match_winner": 101856,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.86",
+    "player1": {
+     "id": 101856,
+     "name": "Lyudmyla Kichenok/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103059,
+     "name": "Hailey Baptiste/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817164",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 96663,
+    "player2Id": 94922,
+    "tournamentId": 15980,
+    "match_winner": 96663,
+    "result": "6-3 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 96663,
+     "name": "Nicole Melichar/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94922,
+     "name": "Irina Khromacheva/Kamilla Rakhimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817169",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 103060,
+    "player2Id": 100479,
+    "tournamentId": 15980,
+    "match_winner": 103060,
+    "result": "7-6(2) 3-6 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 103060,
+     "name": "Caty Mcnally/Linda Noskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100479,
+     "name": "Shuko Aoyama/Cristina Bucsa",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817173",
+    "date": "2025-08-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 88669,
+    "player2Id": 102557,
+    "tournamentId": 15980,
+    "match_winner": 88669,
+    "result": "3-6 7-6(2) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102557,
+     "name": "Giuliana Olmos/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817143",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65079,
+    "player2Id": 63658,
+    "tournamentId": 15980,
+    "match_winner": 65079,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "2.9",
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63658,
+     "name": "Olga Danilovic/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817151",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98956,
+    "player2Id": 72046,
+    "tournamentId": 15980,
+    "match_winner": 98956,
+    "result": "6-7(2) 6-3 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98956,
+     "name": "Timea Babos/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817156",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 94922,
+    "player2Id": 76356,
+    "tournamentId": 15980,
+    "match_winner": 94922,
+    "result": "3-6 6-2 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94922,
+     "name": "Irina Khromacheva/Kamilla Rakhimova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76356,
+     "name": "Ekaterina Alexandrova/Daria Kasatkina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817160",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 103060,
+    "player2Id": 86120,
+    "tournamentId": 15980,
+    "match_winner": 103060,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.04",
+    "odd2": "1.71",
+    "player1": {
+     "id": 103060,
+     "name": "Caty Mcnally/Linda Noskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86120,
+     "name": "Ulrikke Eikeri/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817178",
+    "date": "2025-08-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98617,
+    "player2Id": 103057,
+    "tournamentId": 15980,
+    "match_winner": 98617,
+    "result": "5-7 6-0 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.333",
+    "odd2": "3.08",
+    "player1": {
+     "id": 98617,
+     "name": "Hanyu Guo/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103057,
+     "name": "Miyu Kato/Galina Voskoboeva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817086",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73146,
+    "player2Id": 26223,
+    "tournamentId": 15980,
+    "match_winner": 73146,
+    "result": "6-4 6-7(5) 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "2.81",
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26223,
+     "name": "Jaqueline Cristian/Elena Gabriela Ruse",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817168",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 101856,
+    "player2Id": 100477,
+    "tournamentId": 15980,
+    "match_winner": 101856,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.88",
+    "player1": {
+     "id": 101856,
+     "name": "Lyudmyla Kichenok/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817170",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91464,
+    "player2Id": 101513,
+    "tournamentId": 15980,
+    "match_winner": 91464,
+    "result": "7-5 2-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 101513,
+     "name": "Storm Hunter/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817172",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100479,
+    "player2Id": 102554,
+    "tournamentId": 15980,
+    "match_winner": 100479,
+    "result": "6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 100479,
+     "name": "Shuko Aoyama/Cristina Bucsa",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102554,
+     "name": "Hao-Ching Chan/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817174",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 96663,
+    "player2Id": 102561,
+    "tournamentId": 15980,
+    "match_winner": 96663,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.81",
+    "odd2": "1.39",
+    "player1": {
+     "id": 96663,
+     "name": "Nicole Melichar/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102561,
+     "name": "Taylor Townsend/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817175",
+    "date": "2025-08-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 102861,
+    "player2Id": 102859,
+    "tournamentId": 15980,
+    "match_winner": 102861,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 102861,
+     "name": "Peyton Stearns/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102859,
+     "name": "Fanny Stollar/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817159",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40436,
+    "player2Id": 80556,
+    "tournamentId": 15980,
+    "match_winner": 40436,
+    "result": "4-6 6-2 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.66",
+    "player1": {
+     "id": 40436,
+     "name": "Barbora Krejcikova/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 80556,
+     "name": "Anna Danilina/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817161",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 102557,
+    "player2Id": 86332,
+    "tournamentId": 15980,
+    "match_winner": 102557,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 102557,
+     "name": "Giuliana Olmos/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 86332,
+     "name": "Emma Navarro/Margaret Navarro",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817163",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 103056,
+    "player2Id": 94430,
+    "tournamentId": 15980,
+    "match_winner": 103056,
+    "result": "4-6 6-2 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 103056,
+     "name": "Magda Linette/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817179",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 103059,
+    "player2Id": 103058,
+    "tournamentId": 15980,
+    "match_winner": 103059,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 103059,
+     "name": "Hailey Baptiste/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103058,
+     "name": "Iva Jovic/Ashlyn Krueger",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817182",
+    "date": "2025-08-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88669,
+    "player2Id": 103061,
+    "tournamentId": 15980,
+    "match_winner": 88669,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103061,
+     "name": "Su-Wei Hsieh/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "817029",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45072,
+    "player2Id": 8549,
+    "tournamentId": 15980,
+    "match_winner": 45072,
+    "result": "3-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.625",
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817043",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 65417,
+    "player2Id": 11930,
+    "tournamentId": 15980,
+    "match_winner": 65417,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.042",
+    "odd2": "8.7",
+    "player1": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 11930,
+     "name": "Eri Hozumi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817046",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28732,
+    "player2Id": 12205,
+    "tournamentId": 15980,
+    "match_winner": 28732,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817049",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45990,
+    "player2Id": 12842,
+    "tournamentId": 15980,
+    "match_winner": 45990,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.5",
+    "player1": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817055",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11959,
+    "player2Id": 13511,
+    "tournamentId": 15980,
+    "match_winner": 11959,
+    "result": "6-1 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "2.99",
+    "player1": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817066",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 72064,
+    "player2Id": 16627,
+    "tournamentId": 15980,
+    "match_winner": 72064,
+    "result": "5-7 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817081",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45990,
+    "player2Id": 24344,
+    "tournamentId": 15980,
+    "match_winner": 45990,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817083",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 61481,
+    "player2Id": 25062,
+    "tournamentId": 15980,
+    "match_winner": 61481,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 25062,
+     "name": "Dalma Galfi",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817084",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65417,
+    "player2Id": 25504,
+    "tournamentId": 15980,
+    "match_winner": 65417,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.158",
+    "odd2": "4.75",
+    "player1": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 25504,
+     "name": "Usue Maitane Arconada",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817090",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11959,
+    "player2Id": 28732,
+    "tournamentId": 15980,
+    "match_winner": 11959,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.625",
+    "odd2": "1.44",
+    "player1": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817095",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4177,
+    "player2Id": 32308,
+    "tournamentId": 15980,
+    "match_winner": 4177,
+    "result": "6-2 6-7(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "3.92",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 32308,
+     "name": "Hanyu Guo",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817102",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 73190,
+    "player2Id": 37410,
+    "tournamentId": 15980,
+    "match_winner": 73190,
+    "result": "3-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817115",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 73190,
+    "player2Id": 43865,
+    "tournamentId": 15980,
+    "match_winner": 73190,
+    "result": "6-7(2) 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.24",
+    "odd2": "1.59",
+    "player1": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817130",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 25513,
+    "player2Id": 52660,
+    "tournamentId": 15980,
+    "match_winner": 25513,
+    "result": "4-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.73",
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817138",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12432,
+    "player2Id": 57147,
+    "tournamentId": 15980,
+    "match_winner": 12432,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817141",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17831,
+    "player2Id": 61881,
+    "tournamentId": 15980,
+    "match_winner": 17831,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 61881,
+     "name": "Solana Sierra",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817157",
+    "date": "2025-08-06T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 44510,
+    "player2Id": 80381,
+    "tournamentId": 15980,
+    "match_winner": 44510,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817022",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 72064,
+    "player2Id": 461,
+    "tournamentId": 15980,
+    "match_winner": 72064,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.07",
+    "odd2": "1.69",
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817025",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44510,
+    "player2Id": 5582,
+    "tournamentId": 15980,
+    "match_winner": 44510,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817030",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25513,
+    "player2Id": 8894,
+    "tournamentId": 15980,
+    "match_winner": 25513,
+    "result": "1-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8894,
+     "name": "Nuria Parrizas-Diaz",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817033",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 80381,
+    "player2Id": 9594,
+    "tournamentId": 15980,
+    "match_winner": 80381,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.025",
+    "odd2": "10",
+    "player1": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817035",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 61881,
+    "player2Id": 10738,
+    "tournamentId": 15980,
+    "match_winner": 61881,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.197",
+    "odd2": "4.2",
+    "player1": {
+     "id": 61881,
+     "name": "Solana Sierra",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817036",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 61481,
+    "player2Id": 10791,
+    "tournamentId": 15980,
+    "match_winner": 61481,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61481,
+     "name": "Aoi Ito",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817037",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17831,
+    "player2Id": 11066,
+    "tournamentId": 15980,
+    "match_winner": 17831,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.533",
+    "player1": {
+     "id": 17831,
+     "name": "Emina Bektas",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817038",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52660,
+    "player2Id": 11071,
+    "tournamentId": 15980,
+    "match_winner": 52660,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817058",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25062,
+    "player2Id": 13937,
+    "tournamentId": 15980,
+    "match_winner": 25062,
+    "result": "2-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "3.72",
+    "player1": {
+     "id": 25062,
+     "name": "Dalma Galfi",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817064",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37410,
+    "player2Id": 14902,
+    "tournamentId": 15980,
+    "match_winner": 37410,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.24",
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817070",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12432,
+    "player2Id": 17345,
+    "tournamentId": 15980,
+    "match_winner": 12432,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817091",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 30238,
+    "tournamentId": 15980,
+    "match_winner": 4177,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.48",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817092",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11930,
+    "player2Id": 30451,
+    "tournamentId": 15980,
+    "match_winner": 11930,
+    "result": "6-4 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "5.8",
+    "odd2": "1.107",
+    "player1": {
+     "id": 11930,
+     "name": "Eri Hozumi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817097",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45072,
+    "player2Id": 33355,
+    "tournamentId": 15980,
+    "match_winner": 45072,
+    "result": "7-6(8) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.73",
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 33355,
+     "name": "Jodie Anna Burrage",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817103",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 37592,
+    "tournamentId": 15980,
+    "match_winner": 24344,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.111",
+    "odd2": "5.7",
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 37592,
+     "name": "Maria Mateas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817105",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 57147,
+    "player2Id": 38911,
+    "tournamentId": 15980,
+    "match_winner": 57147,
+    "result": "2-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.13",
+    "odd2": "1.65",
+    "player1": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817124",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8549,
+    "player2Id": 47153,
+    "tournamentId": 15980,
+    "match_winner": 8549,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817135",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16627,
+    "player2Id": 54664,
+    "tournamentId": 15980,
+    "match_winner": 16627,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817150",
+    "date": "2025-08-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32308,
+    "player2Id": 71581,
+    "tournamentId": 15980,
+    "match_winner": 32308,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.5",
+    "player1": {
+     "id": 32308,
+     "name": "Hanyu Guo",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 71581,
+     "name": "Anca Alexia Todoni",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15980,
+     "name": "Cincinnati Open - Cincinnati",
+     "courtId": 1,
+     "date": "2025-08-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

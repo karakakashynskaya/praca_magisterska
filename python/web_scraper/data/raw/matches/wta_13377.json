@@ -1,0 +1,5506 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "560024",
+    "date": "2021-04-03T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 12966,
+    "player2Id": 39226,
+    "tournamentId": 13377,
+    "match_winner": 12966,
+    "result": "6-3 4-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.64",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559954",
+    "date": "2021-04-01T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12966,
+    "player2Id": 11371,
+    "tournamentId": 13377,
+    "match_winner": 12966,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.666",
+    "odd2": "2.32",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559976",
+    "date": "2021-04-01T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 39226,
+    "player2Id": 13541,
+    "tournamentId": 13377,
+    "match_winner": 39226,
+    "result": "7-6(7) 3-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.49",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559978",
+    "date": "2021-03-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 39226,
+    "player2Id": 13839,
+    "tournamentId": 13377,
+    "match_winner": 39226,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.59",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559992",
+    "date": "2021-03-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 16430,
+    "tournamentId": 13377,
+    "match_winner": 13541,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.74",
+    "odd2": "1.31",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559928",
+    "date": "2021-03-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11371,
+    "player2Id": 7944,
+    "tournamentId": 13377,
+    "match_winner": 11371,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560002",
+    "date": "2021-03-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12966,
+    "player2Id": 18455,
+    "tournamentId": 13377,
+    "match_winner": 12966,
+    "result": "6-4 6-7(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.89",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559917",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 12966,
+    "player2Id": 5416,
+    "tournamentId": 13377,
+    "match_winner": 12966,
+    "result": "6-1 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.39",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559932",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11371,
+    "player2Id": 8234,
+    "tournamentId": 13377,
+    "match_winner": 11371,
+    "result": "2-6 7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559949",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 39226,
+    "player2Id": 10633,
+    "tournamentId": 13377,
+    "match_winner": 39226,
+    "result": "3-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.36",
+    "odd2": "1.363",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559955",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 13839,
+    "player2Id": 11449,
+    "tournamentId": 13377,
+    "match_winner": 13839,
+    "result": "6-4 0-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.33",
+    "odd2": "1.66",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559958",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 13541,
+    "player2Id": 11712,
+    "tournamentId": 13377,
+    "match_winner": 13541,
+    "result": "6-4 2-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559974",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 16430,
+    "player2Id": 13351,
+    "tournamentId": 13377,
+    "match_winner": 16430,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559999",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 7944,
+    "player2Id": 17673,
+    "tournamentId": 13377,
+    "match_winner": 7944,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.9",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560016",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 18455,
+    "player2Id": 32168,
+    "tournamentId": 13377,
+    "match_winner": 18455,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559929",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 7982,
+    "tournamentId": 13377,
+    "match_winner": 11712,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559975",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13351,
+    "player2Id": 13385,
+    "tournamentId": 13377,
+    "match_winner": 13351,
+    "result": "6-2 0-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.52",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560004",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11449,
+    "player2Id": 23432,
+    "tournamentId": 13377,
+    "match_winner": 11449,
+    "result": "6-4 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.3",
+    "odd2": "1.65",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560005",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13541,
+    "player2Id": 24368,
+    "tournamentId": 13377,
+    "match_winner": 13541,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560017",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10633,
+    "player2Id": 32480,
+    "tournamentId": 13377,
+    "match_winner": 10633,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560021",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13839,
+    "player2Id": 36558,
+    "tournamentId": 13377,
+    "match_winner": 13839,
+    "result": "6-1 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.76",
+    "odd2": "1.47",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560027",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 39226,
+    "player2Id": 41564,
+    "tournamentId": 13377,
+    "match_winner": 39226,
+    "result": "7-6(4) 6-7(2) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559911",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 4076,
+    "tournamentId": 13377,
+    "match_winner": 5416,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559927",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8234,
+    "player2Id": 7857,
+    "tournamentId": 13377,
+    "match_winner": 8234,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559980",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 14054,
+    "tournamentId": 13377,
+    "match_winner": 11371,
+    "result": "7-6(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559981",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32168,
+    "player2Id": 14056,
+    "tournamentId": 13377,
+    "match_winner": 32168,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559991",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 16119,
+    "tournamentId": 13377,
+    "match_winner": 18455,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559993",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12966,
+    "player2Id": 16628,
+    "tournamentId": 13377,
+    "match_winner": 12966,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.38",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560031",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17673,
+    "player2Id": 45854,
+    "tournamentId": 13377,
+    "match_winner": 17673,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.5",
+    "odd2": "1.222",
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559906",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 467,
+    "tournamentId": 13377,
+    "match_winner": 36558,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559909",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23432,
+    "player2Id": 945,
+    "tournamentId": 13377,
+    "match_winner": 23432,
+    "result": "6-7(6) 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559921",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 6019,
+    "tournamentId": 13377,
+    "match_winner": 13385,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559925",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 6933,
+    "tournamentId": 13377,
+    "match_winner": 13541,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559926",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 7574,
+    "tournamentId": 13377,
+    "match_winner": 32480,
+    "result": "5-7 6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559938",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 8652,
+    "tournamentId": 13377,
+    "match_winner": 24368,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.375",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559943",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 9503,
+    "tournamentId": 13377,
+    "match_winner": 16430,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559944",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 10033,
+    "tournamentId": 13377,
+    "match_winner": 41564,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559960",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 12144,
+    "tournamentId": 13377,
+    "match_winner": 7982,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559964",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14884,
+    "player2Id": 12390,
+    "tournamentId": 13377,
+    "match_winner": 14884,
+    "result": "5-7 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559966",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 12722,
+    "tournamentId": 13377,
+    "match_winner": 11712,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559968",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 39226,
+    "player2Id": 12997,
+    "tournamentId": 13377,
+    "match_winner": 39226,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559973",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13839,
+    "player2Id": 13325,
+    "tournamentId": 13377,
+    "match_winner": 13839,
+    "result": "3-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559982",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 14175,
+    "tournamentId": 13377,
+    "match_winner": 13351,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.116",
+    "odd2": "6.85",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559996",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 17142,
+    "tournamentId": 13377,
+    "match_winner": 11449,
+    "result": "7-6(6) 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "3.1",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560033",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10633,
+    "player2Id": 47152,
+    "tournamentId": 13377,
+    "match_winner": 10633,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559907",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 902,
+    "tournamentId": 13377,
+    "match_winner": 16628,
+    "result": "6-2 5-7 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "4.15",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559910",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 3867,
+    "tournamentId": 13377,
+    "match_winner": 18455,
+    "result": "0-6 6-3 7-6(9)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559920",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 5817,
+    "tournamentId": 13377,
+    "match_winner": 8234,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559931",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 8208,
+    "tournamentId": 13377,
+    "match_winner": 12966,
+    "result": "6-3 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.06",
+    "odd2": "10.25",
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559937",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 8531,
+    "tournamentId": 13377,
+    "match_winner": 32168,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559941",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 9357,
+    "tournamentId": 13377,
+    "match_winner": 7857,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559945",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 10394,
+    "tournamentId": 13377,
+    "match_winner": 14056,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.66",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559946",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 10455,
+    "tournamentId": 13377,
+    "match_winner": 8324,
+    "result": "3-6 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.285",
+    "odd2": "3.8",
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559956",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 11575,
+    "tournamentId": 13377,
+    "match_winner": 16119,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.58",
+    "odd2": "1.53",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559957",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17673,
+    "player2Id": 11672,
+    "tournamentId": 13377,
+    "match_winner": 17673,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559962",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 12267,
+    "tournamentId": 13377,
+    "match_winner": 11371,
+    "result": "3-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559972",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 13267,
+    "tournamentId": 13377,
+    "match_winner": 45854,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559986",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 14448,
+    "tournamentId": 13377,
+    "match_winner": 14054,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.52",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560000",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 18403,
+    "tournamentId": 13377,
+    "match_winner": 4076,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.73",
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560037",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 54663,
+    "tournamentId": 13377,
+    "match_winner": 7944,
+    "result": "1-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.8",
+    "odd2": "1.46",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559905",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 457,
+    "tournamentId": 13377,
+    "match_winner": 5817,
+    "result": "2-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.615",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559914",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12997,
+    "player2Id": 4174,
+    "tournamentId": 13377,
+    "match_winner": 12997,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559916",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 945,
+    "player2Id": 4263,
+    "tournamentId": 13377,
+    "match_winner": 945,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.87",
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559918",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 5582,
+    "tournamentId": 13377,
+    "match_winner": 10455,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559924",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 6651,
+    "tournamentId": 13377,
+    "match_winner": 32480,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.96",
+    "odd2": "1.42",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559930",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 7983,
+    "tournamentId": 13377,
+    "match_winner": 14175,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559940",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 8696,
+    "tournamentId": 13377,
+    "match_winner": 24368,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559942",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 9458,
+    "tournamentId": 13377,
+    "match_winner": 11575,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559953",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14884,
+    "player2Id": 11071,
+    "tournamentId": 13377,
+    "match_winner": 14884,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559979",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18403,
+    "player2Id": 13937,
+    "tournamentId": 13377,
+    "match_winner": 18403,
+    "result": "6-4 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559983",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13839,
+    "player2Id": 14259,
+    "tournamentId": 13377,
+    "match_winner": 13839,
+    "result": "6-2 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559987",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 14539,
+    "tournamentId": 13377,
+    "match_winner": 10033,
+    "result": "6-7(6) 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.61",
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559994",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12144,
+    "player2Id": 16664,
+    "tournamentId": 13377,
+    "match_winner": 12144,
+    "result": "2-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.7",
+    "player1": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559998",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17673,
+    "player2Id": 17501,
+    "tournamentId": 13377,
+    "match_winner": 17673,
+    "result": "7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560001",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8531,
+    "player2Id": 18452,
+    "tournamentId": 13377,
+    "match_winner": 8531,
+    "result": "6-1 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 18452,
+     "name": "Aliona Bolsova",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560025",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 39749,
+    "tournamentId": 13377,
+    "match_winner": 7944,
+    "result": "6-1 3-6 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560029",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 43872,
+    "tournamentId": 13377,
+    "match_winner": 16628,
+    "result": "6-4 6-7(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.44",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560034",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 3867,
+    "player2Id": 47742,
+    "tournamentId": 13377,
+    "match_winner": 3867,
+    "result": "7-6(4) 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560035",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8208,
+    "player2Id": 48254,
+    "tournamentId": 13377,
+    "match_winner": 8208,
+    "result": "6-4 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560038",
+    "date": "2021-03-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12722,
+    "player2Id": 54664,
+    "tournamentId": 13377,
+    "match_winner": 12722,
+    "result": "6-1 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559903",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10394,
+    "player2Id": 151,
+    "tournamentId": 13377,
+    "match_winner": 10394,
+    "result": "6-2 7-6(10)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.7",
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559923",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 6201,
+    "tournamentId": 13377,
+    "match_winner": 12267,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.38",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559939",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 8665,
+    "tournamentId": 13377,
+    "match_winner": 4177,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559961",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 467,
+    "player2Id": 12205,
+    "tournamentId": 13377,
+    "match_winner": 467,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.44",
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559970",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 13180,
+    "tournamentId": 13377,
+    "match_winner": 47152,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559977",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14448,
+    "player2Id": 13706,
+    "tournamentId": 13377,
+    "match_winner": 14448,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.666",
+    "odd2": "2.26",
+    "player1": {
+     "id": 14448,
+     "name": "Nadia Podoroska",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559995",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17142,
+    "player2Id": 17021,
+    "tournamentId": 13377,
+    "match_winner": 17142,
+    "result": "5-6 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560006",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6933,
+    "player2Id": 24572,
+    "tournamentId": 13377,
+    "match_winner": 6933,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560019",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 34747,
+    "tournamentId": 13377,
+    "match_winner": 13267,
+    "result": "6-1 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "4.15",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560026",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 40156,
+    "tournamentId": 13377,
+    "match_winner": 9503,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560040",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 62169,
+    "tournamentId": 13377,
+    "match_winner": 6019,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "4.05",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 62169,
+     "name": "Katrina Scott",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560042",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 64341,
+    "tournamentId": 13377,
+    "match_winner": 9357,
+    "result": "6-1 3-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "560046",
+    "date": "2021-04-04T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 67099,
+    "player2Id": 68115,
+    "tournamentId": 13377,
+    "match_winner": 67099,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.1",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560054",
+    "date": "2021-04-02T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 67099,
+    "player2Id": 72883,
+    "tournamentId": 13377,
+    "match_winner": 67099,
+    "result": "3-6 7-6(4) 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560061",
+    "date": "2021-04-02T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 68115,
+    "player2Id": 72892,
+    "tournamentId": 13377,
+    "match_winner": 68115,
+    "result": "2-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.8",
+    "odd2": "2.06",
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560009",
+    "date": "2021-03-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72883,
+    "player2Id": 26936,
+    "tournamentId": 13377,
+    "match_winner": 72883,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560051",
+    "date": "2021-03-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 67099,
+    "player2Id": 72222,
+    "tournamentId": 13377,
+    "match_winner": 67099,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72222,
+     "name": "Caroline Garcia/Nadia Podoroska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560003",
+    "date": "2021-03-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 68115,
+    "player2Id": 20506,
+    "tournamentId": 13377,
+    "match_winner": 68115,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "1.95",
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 20506,
+     "name": "Asia Muhammad/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560044",
+    "date": "2021-03-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 72892,
+    "player2Id": 67088,
+    "tournamentId": 13377,
+    "match_winner": 72892,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.36",
+    "odd2": "1.59",
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560052",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72222,
+    "player2Id": 72633,
+    "tournamentId": 13377,
+    "match_winner": 72222,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72222,
+     "name": "Caroline Garcia/Nadia Podoroska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72633,
+     "name": "Timea Babos/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560062",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72892,
+    "player2Id": 72893,
+    "tournamentId": 13377,
+    "match_winner": 72892,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.12",
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72893,
+     "name": "Anna-Lena Friedsam/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560064",
+    "date": "2021-03-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 68115,
+    "player2Id": 72896,
+    "tournamentId": 13377,
+    "match_winner": 68115,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.2",
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72896,
+     "name": "Ekaterina Alexandrova/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559951",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72883,
+    "player2Id": 10853,
+    "tournamentId": 13377,
+    "match_winner": 72883,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.34",
+    "player1": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10853,
+     "name": "Yifan Xu/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560011",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67088,
+    "player2Id": 27301,
+    "tournamentId": 13377,
+    "match_winner": 67088,
+    "result": "6-7(5) 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.86",
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560063",
+    "date": "2021-03-28T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 20506,
+    "player2Id": 72895,
+    "tournamentId": 13377,
+    "match_winner": 20506,
+    "result": "4-6 6-3 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 20506,
+     "name": "Asia Muhammad/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72895,
+     "name": "Petra Martic/Shelby Rogers",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559969",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72893,
+    "player2Id": 13079,
+    "tournamentId": 13377,
+    "match_winner": 72893,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72893,
+     "name": "Anna-Lena Friedsam/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 13079,
+     "name": "Vania King/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559997",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27301,
+    "player2Id": 17196,
+    "tournamentId": 13377,
+    "match_winner": 27301,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17196,
+     "name": "Kiki Bertens/Arantxa Rus",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560022",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72896,
+    "player2Id": 36766,
+    "tournamentId": 13377,
+    "match_winner": 72896,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72896,
+     "name": "Ekaterina Alexandrova/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36766,
+     "name": "Ajla Tomljanovic/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560049",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72222,
+    "player2Id": 71100,
+    "tournamentId": 13377,
+    "match_winner": 72222,
+    "result": "7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72222,
+     "name": "Caroline Garcia/Nadia Podoroska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71100,
+     "name": "Lucie Hradecka/Kristyna Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560050",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 20506,
+    "player2Id": 71299,
+    "tournamentId": 13377,
+    "match_winner": 20506,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.46",
+    "odd2": "1.52",
+    "player1": {
+     "id": 20506,
+     "name": "Asia Muhammad/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71299,
+     "name": "Nicole Melichar/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560057",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70214,
+    "player2Id": 72886,
+    "tournamentId": 13377,
+    "match_winner": 70214,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72886,
+     "name": "Kaitlyn Christian/Alla Kudryavtseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560060",
+    "date": "2021-03-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72895,
+    "player2Id": 72889,
+    "tournamentId": 13377,
+    "match_winner": 72895,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72895,
+     "name": "Petra Martic/Shelby Rogers",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72889,
+     "name": "Hailey Baptiste/Robin Montgomery",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559985",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26936,
+    "player2Id": 14369,
+    "tournamentId": 13377,
+    "match_winner": 26936,
+    "result": "3-6 6-2 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 14369,
+     "name": "Kirsten Flipkens/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560023",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67088,
+    "player2Id": 39060,
+    "tournamentId": 13377,
+    "match_winner": 67088,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.36",
+    "player1": {
+     "id": 67088,
+     "name": "Cori Gauff/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 39060,
+     "name": "Nadiya Kichenok/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560041",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72882,
+    "player2Id": 63696,
+    "tournamentId": 13377,
+    "match_winner": 72882,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72882,
+     "name": "Simona Halep/Angelique Kerber",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560047",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72883,
+    "player2Id": 69913,
+    "tournamentId": 13377,
+    "match_winner": 72883,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72883,
+     "name": "Bethanie Mattek-Sands/Iga Swiatek",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 69913,
+     "name": "Anna Blinkova/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560056",
+    "date": "2021-03-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72633,
+    "player2Id": 72885,
+    "tournamentId": 13377,
+    "match_winner": 72633,
+    "result": "3-6 6-4 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.6",
+    "player1": {
+     "id": 72633,
+     "name": "Timea Babos/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72885,
+     "name": "Ellen Perez/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560039",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72892,
+    "player2Id": 60391,
+    "tournamentId": 13377,
+    "match_winner": 72892,
+    "result": "6-3 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72892,
+     "name": "Gabriela Dabrowski/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60391,
+     "name": "Alexa Guarachi/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560055",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10853,
+    "player2Id": 72884,
+    "tournamentId": 13377,
+    "match_winner": 10853,
+    "result": "4-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10853,
+     "name": "Yifan Xu/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72884,
+     "name": "Sofia Kenin/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560058",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 72887,
+    "tournamentId": 13377,
+    "match_winner": 67099,
+    "result": "6-7(2) 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72887,
+     "name": "Andreja Klepac/Tamara Zidansek",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560059",
+    "date": "2021-03-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68115,
+    "player2Id": 72888,
+    "tournamentId": 13377,
+    "match_winner": 68115,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.78",
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72888,
+     "name": "Elena Rybakina/Maria Sakkari",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "559904",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14884,
+    "player2Id": 448,
+    "tournamentId": 13377,
+    "match_winner": 14884,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559908",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 18452,
+    "player2Id": 902,
+    "tournamentId": 13377,
+    "match_winner": 18452,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18452,
+     "name": "Aliona Bolsova",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559919",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 3867,
+    "player2Id": 5599,
+    "tournamentId": 13377,
+    "match_winner": 3867,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 5599,
+     "name": "Olga Govortsova",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559947",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 39749,
+    "player2Id": 10595,
+    "tournamentId": 13377,
+    "match_winner": 39749,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559948",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 54664,
+    "player2Id": 10600,
+    "tournamentId": 13377,
+    "match_winner": 54664,
+    "result": "2-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559963",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 5582,
+    "player2Id": 12389,
+    "tournamentId": 13377,
+    "match_winner": 5582,
+    "result": "2-6 7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.38",
+    "player1": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559971",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8208,
+    "player2Id": 13265,
+    "tournamentId": 13377,
+    "match_winner": 8208,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.34",
+    "player1": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559988",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12997,
+    "player2Id": 14609,
+    "tournamentId": 13377,
+    "match_winner": 12997,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560008",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 48254,
+    "player2Id": 26356,
+    "tournamentId": 13377,
+    "match_winner": 48254,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.57",
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560010",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14539,
+    "player2Id": 27035,
+    "tournamentId": 13377,
+    "match_winner": 14539,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560014",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 18403,
+    "player2Id": 29373,
+    "tournamentId": 13377,
+    "match_winner": 18403,
+    "result": "6-3 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560030",
+    "date": "2021-03-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24368,
+    "player2Id": 44510,
+    "tournamentId": 13377,
+    "match_winner": 24368,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559912",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 448,
+    "player2Id": 4121,
+    "tournamentId": 13377,
+    "match_winner": 448,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.87",
+    "player1": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559913",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24368,
+    "player2Id": 4158,
+    "tournamentId": 13377,
+    "match_winner": 24368,
+    "result": "2-6 4-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559922",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27035,
+    "player2Id": 6159,
+    "tournamentId": 13377,
+    "match_winner": 27035,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.6",
+    "player1": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559933",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48254,
+    "player2Id": 8262,
+    "tournamentId": 13377,
+    "match_winner": 48254,
+    "result": "1-6 6-0 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559935",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44510,
+    "player2Id": 8476,
+    "tournamentId": 13377,
+    "match_winner": 44510,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 8476,
+     "name": "Gabriela Dabrowski",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559936",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18452,
+    "player2Id": 8503,
+    "tournamentId": 13377,
+    "match_winner": 18452,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18452,
+     "name": "Aliona Bolsova",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559950",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5599,
+    "player2Id": 10738,
+    "tournamentId": 13377,
+    "match_winner": 5599,
+    "result": "4-6 6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5599,
+     "name": "Olga Govortsova",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559952",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13265,
+    "player2Id": 11066,
+    "tournamentId": 13377,
+    "match_winner": 13265,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559959",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14609,
+    "player2Id": 12089,
+    "tournamentId": 13377,
+    "match_winner": 14609,
+    "result": "7-6(10) 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559965",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12997,
+    "player2Id": 12432,
+    "tournamentId": 13377,
+    "match_winner": 12997,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559967",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8208,
+    "player2Id": 12882,
+    "tournamentId": 13377,
+    "match_winner": 8208,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559984",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 39749,
+    "player2Id": 14362,
+    "tournamentId": 13377,
+    "match_winner": 39749,
+    "result": "6-7(2) 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "559990",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18403,
+    "player2Id": 14902,
+    "tournamentId": 13377,
+    "match_winner": 18403,
+    "result": "5-7 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.2",
+    "odd2": "1.67",
+    "player1": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560007",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26356,
+    "player2Id": 25504,
+    "tournamentId": 13377,
+    "match_winner": 26356,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 25504,
+     "name": "Usue Maitane Arconada",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560012",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54664,
+    "player2Id": 27804,
+    "tournamentId": 13377,
+    "match_winner": 54664,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560013",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10600,
+    "player2Id": 28585,
+    "tournamentId": 13377,
+    "match_winner": 10600,
+    "result": "4-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.71",
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560015",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14539,
+    "player2Id": 31920,
+    "tournamentId": 13377,
+    "match_winner": 14539,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 31920,
+     "name": "Mirjam Bjorklund",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560018",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10595,
+    "player2Id": 34746,
+    "tournamentId": 13377,
+    "match_winner": 10595,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10595,
+     "name": "Kristie Ahn",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560020",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12389,
+    "player2Id": 35997,
+    "tournamentId": 13377,
+    "match_winner": 12389,
+    "result": "5-7 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 35997,
+     "name": "Leonie Kung",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560028",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 3867,
+    "player2Id": 41569,
+    "tournamentId": 13377,
+    "match_winner": 3867,
+    "result": "7-6(0) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.34",
+    "player1": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560032",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 902,
+    "player2Id": 45990,
+    "tournamentId": 13377,
+    "match_winner": 902,
+    "result": "4-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.34",
+    "player1": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560036",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5582,
+    "player2Id": 49081,
+    "tournamentId": 13377,
+    "match_winner": 5582,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560043",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14884,
+    "player2Id": 65912,
+    "tournamentId": 13377,
+    "match_winner": 14884,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 14884,
+     "name": "Nina Stojanovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "560045",
+    "date": "2021-03-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 29373,
+    "player2Id": 67792,
+    "tournamentId": 13377,
+    "match_winner": 29373,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "tournament": {
+     "id": 13377,
+     "name": "Miami Open - Miami",
+     "courtId": 1,
+     "date": "2021-03-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

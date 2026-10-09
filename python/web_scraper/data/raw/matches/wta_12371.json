@@ -1,0 +1,2495 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "499620",
+    "matchId": "499620",
+    "date": "2019-04-28T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 8234,
+    "player2Id": 13385,
+    "tournamentId": 12371,
+    "match_winner": 8234,
+    "result": "6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499608",
+    "matchId": "499608",
+    "date": "2019-04-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 8234,
+    "player2Id": 8652,
+    "tournamentId": 12371,
+    "match_winner": 8234,
+    "result": "7-6(3) 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.83",
+    "odd2": "2.06",
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499596",
+    "matchId": "499596",
+    "date": "2019-04-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8652,
+    "player2Id": 4076,
+    "tournamentId": 12371,
+    "match_winner": 8652,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.12",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499600",
+    "matchId": "499600",
+    "date": "2019-04-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13385,
+    "player2Id": 5416,
+    "tournamentId": 12371,
+    "match_winner": 13385,
+    "result": "5-7 7-5 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499605",
+    "matchId": "499605",
+    "date": "2019-04-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 8234,
+    "player2Id": 7944,
+    "tournamentId": 12371,
+    "match_winner": 8234,
+    "result": "2-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499623",
+    "matchId": "499623",
+    "date": "2019-04-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16430,
+    "player2Id": 13498,
+    "tournamentId": 12371,
+    "match_winner": 16430,
+    "result": "6-3 4-6 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.571",
+    "odd2": "2.53",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499593",
+    "matchId": "499593",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 487,
+    "tournamentId": 12371,
+    "match_winner": 16430,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.375",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499595",
+    "matchId": "499595",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 945,
+    "tournamentId": 12371,
+    "match_winner": 4076,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499599",
+    "matchId": "499599",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 4177,
+    "tournamentId": 12371,
+    "match_winner": 7944,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.13",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499603",
+    "matchId": "499603",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 6740,
+    "tournamentId": 12371,
+    "match_winner": 13385,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499606",
+    "matchId": "499606",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 7982,
+    "tournamentId": 12371,
+    "match_winner": 5416,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499627",
+    "matchId": "499627",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8652,
+    "player2Id": 14056,
+    "tournamentId": 12371,
+    "match_winner": 8652,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.57",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499638",
+    "matchId": "499638",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13498,
+    "player2Id": 17503,
+    "tournamentId": 12371,
+    "match_winner": 13498,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499591",
+    "matchId": "499591",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 431,
+    "tournamentId": 12371,
+    "match_winner": 5416,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499594",
+    "matchId": "499594",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 888,
+    "tournamentId": 12371,
+    "match_winner": 14056,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499598",
+    "matchId": "499598",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 4170,
+    "tournamentId": 12371,
+    "match_winner": 13498,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.98",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 4170,
+     "name": "Giulia Gatto-Monticone",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499604",
+    "matchId": "499604",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6740,
+    "player2Id": 7102,
+    "tournamentId": 12371,
+    "match_winner": 6740,
+    "result": "4-6 6-2 4-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.7",
+    "player1": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499607",
+    "matchId": "499607",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 487,
+    "player2Id": 8531,
+    "tournamentId": 12371,
+    "match_winner": 487,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499614",
+    "matchId": "499614",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 10455,
+    "tournamentId": 12371,
+    "match_winner": 13385,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499641",
+    "matchId": "499641",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 26356,
+    "tournamentId": 12371,
+    "match_winner": 8234,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499601",
+    "matchId": "499601",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 26356,
+    "player2Id": 5593,
+    "tournamentId": 12371,
+    "match_winner": 26356,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.92",
+    "odd2": "1.43",
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499612",
+    "matchId": "499612",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 9857,
+    "tournamentId": 12371,
+    "match_winner": 4177,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499616",
+    "matchId": "499616",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8652,
+    "player2Id": 12389,
+    "tournamentId": 12371,
+    "match_winner": 8652,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.65",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499619",
+    "matchId": "499619",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 13351,
+    "tournamentId": 12371,
+    "match_winner": 17503,
+    "result": "7-6(8) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499625",
+    "matchId": "499625",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 945,
+    "player2Id": 13839,
+    "tournamentId": 12371,
+    "match_winner": 945,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499635",
+    "matchId": "499635",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 16628,
+    "tournamentId": 12371,
+    "match_winner": 7944,
+    "result": "6-2 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "2",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "499636",
+    "matchId": "499636",
+    "date": "2019-04-28T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 65071,
+    "player2Id": 16966,
+    "tournamentId": 12371,
+    "match_winner": 65071,
+    "result": "2-6 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65071,
+     "name": "Mona Barthel/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 16966,
+     "name": "Anastasia Pavlyuchenkova/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499649",
+    "matchId": "499649",
+    "date": "2019-04-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 65071,
+    "player2Id": 50962,
+    "tournamentId": 12371,
+    "match_winner": 65071,
+    "result": "4-6 6-2 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.63",
+    "player1": {
+     "id": 65071,
+     "name": "Mona Barthel/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50962,
+     "name": "Gabriela Dabrowski/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499651",
+    "matchId": "499651",
+    "date": "2019-04-27T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 16966,
+    "player2Id": 59045,
+    "tournamentId": 12371,
+    "match_winner": 16966,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16966,
+     "name": "Anastasia Pavlyuchenkova/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 59045,
+     "name": "Anna Blinkova/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499639",
+    "matchId": "499639",
+    "date": "2019-04-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 65071,
+    "player2Id": 18027,
+    "tournamentId": 12371,
+    "match_winner": 65071,
+    "result": "6-3 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.96",
+    "player1": {
+     "id": 65071,
+     "name": "Mona Barthel/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 18027,
+     "name": "Mandy Minella/Andrea Petkovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499653",
+    "matchId": "499653",
+    "date": "2019-04-26T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 59045,
+    "player2Id": 61201,
+    "tournamentId": 12371,
+    "match_winner": 59045,
+    "result": "3-6 6-2 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 59045,
+     "name": "Anna Blinkova/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499654",
+    "matchId": "499654",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16966,
+    "player2Id": 63647,
+    "tournamentId": 12371,
+    "match_winner": 16966,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16966,
+     "name": "Anastasia Pavlyuchenkova/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63647,
+     "name": "Raquel Atawo/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499659",
+    "matchId": "499659",
+    "date": "2019-04-25T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 50962,
+    "player2Id": 65073,
+    "tournamentId": 12371,
+    "match_winner": 50962,
+    "result": "2-6 7-5 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 50962,
+     "name": "Gabriela Dabrowski/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65073,
+     "name": "Belinda Bencic/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499648",
+    "matchId": "499648",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65073,
+    "player2Id": 50841,
+    "tournamentId": 12371,
+    "match_winner": 65073,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65073,
+     "name": "Belinda Bencic/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50841,
+     "name": "Maria-Jose Martinez Sanchez/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499652",
+    "matchId": "499652",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 59045,
+    "player2Id": 60929,
+    "tournamentId": 12371,
+    "match_winner": 59045,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 59045,
+     "name": "Anna Blinkova/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60929,
+     "name": "Shuko Aoyama/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499655",
+    "matchId": "499655",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 50962,
+    "player2Id": 64036,
+    "tournamentId": 12371,
+    "match_winner": 50962,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.66",
+    "player1": {
+     "id": 50962,
+     "name": "Gabriela Dabrowski/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64036,
+     "name": "Anna-Lena Groenefeld/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499657",
+    "matchId": "499657",
+    "date": "2019-04-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65071,
+    "player2Id": 65070,
+    "tournamentId": 12371,
+    "match_winner": 65071,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65071,
+     "name": "Mona Barthel/Anna-Lena Friedsam",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65070,
+     "name": "Kaitlyn Christian/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499617",
+    "matchId": "499617",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16966,
+    "player2Id": 12893,
+    "tournamentId": 12371,
+    "match_winner": 16966,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 16966,
+     "name": "Anastasia Pavlyuchenkova/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499650",
+    "matchId": "499650",
+    "date": "2019-04-23T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61201,
+    "player2Id": 57102,
+    "tournamentId": 12371,
+    "match_winner": 61201,
+    "result": "5-7 7-5 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499656",
+    "matchId": "499656",
+    "date": "2019-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63647,
+    "player2Id": 65069,
+    "tournamentId": 12371,
+    "match_winner": 63647,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.31",
+    "player1": {
+     "id": 63647,
+     "name": "Raquel Atawo/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65069,
+     "name": "Dalila Jakupovic/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499658",
+    "matchId": "499658",
+    "date": "2019-04-22T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18027,
+    "player2Id": 65072,
+    "tournamentId": 12371,
+    "match_winner": 18027,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.52",
+    "player1": {
+     "id": 18027,
+     "name": "Mandy Minella/Andrea Petkovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65072,
+     "name": "Makoto Ninomiya/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "499590",
+    "matchId": "499590",
+    "date": "2019-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 888,
+    "player2Id": 431,
+    "tournamentId": 12371,
+    "match_winner": 888,
+    "result": "6-3 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499597",
+    "matchId": "499597",
+    "date": "2019-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 26356,
+    "player2Id": 4170,
+    "tournamentId": 12371,
+    "match_winner": 26356,
+    "result": "6-1 6-7(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 4170,
+     "name": "Giulia Gatto-Monticone",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499611",
+    "matchId": "499611",
+    "date": "2019-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13839,
+    "player2Id": 9721,
+    "tournamentId": 12371,
+    "match_winner": 13839,
+    "result": "1-6 6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.77",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 9721,
+     "name": "Anna Zaja",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499622",
+    "matchId": "499622",
+    "date": "2019-04-22T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12389,
+    "player2Id": 13478,
+    "tournamentId": 12371,
+    "match_winner": 12389,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.08",
+    "odd2": "1.75",
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13478,
+     "name": "Tereza Smitkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499609",
+    "matchId": "499609",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 13839,
+    "player2Id": 8757,
+    "tournamentId": 12371,
+    "match_winner": 13839,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 8757,
+     "name": "Ekaterine Gorgodze",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499615",
+    "matchId": "499615",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 431,
+    "player2Id": 11278,
+    "tournamentId": 12371,
+    "match_winner": 431,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.77",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11278,
+     "name": "Isabella Shinikova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499621",
+    "matchId": "499621",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 12389,
+    "player2Id": 13456,
+    "tournamentId": 12371,
+    "match_winner": 12389,
+    "result": "6-2 3-6 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.666",
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13456,
+     "name": "Antonia Lottner",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499628",
+    "matchId": "499628",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 9721,
+    "player2Id": 14259,
+    "tournamentId": 12371,
+    "match_winner": 9721,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 9721,
+     "name": "Anna Zaja",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499631",
+    "matchId": "499631",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 13478,
+    "player2Id": 14654,
+    "tournamentId": 12371,
+    "match_winner": 13478,
+    "result": "7-6(6) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13478,
+     "name": "Tereza Smitkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14654,
+     "name": "Jessika Ponchet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499637",
+    "matchId": "499637",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 4170,
+    "player2Id": 17155,
+    "tournamentId": 12371,
+    "match_winner": 4170,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.48",
+    "odd2": "1.54",
+    "player1": {
+     "id": 4170,
+     "name": "Giulia Gatto-Monticone",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499644",
+    "matchId": "499644",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 888,
+    "player2Id": 32480,
+    "tournamentId": 12371,
+    "match_winner": 888,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499645",
+    "matchId": "499645",
+    "date": "2019-04-21T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 26356,
+    "player2Id": 34747,
+    "tournamentId": 12371,
+    "match_winner": 26356,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.49",
+    "odd2": "1.54",
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499592",
+    "matchId": "499592",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8757,
+    "player2Id": 461,
+    "tournamentId": 12371,
+    "match_winner": 8757,
+    "result": "6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8757,
+     "name": "Ekaterine Gorgodze",
+     "countryAcr": "GEO"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499602",
+    "matchId": "499602",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11278,
+    "player2Id": 6037,
+    "tournamentId": 12371,
+    "match_winner": 11278,
+    "result": "3-6 6-3 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11278,
+     "name": "Isabella Shinikova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499610",
+    "matchId": "499610",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13456,
+    "player2Id": 9331,
+    "tournamentId": 12371,
+    "match_winner": 13456,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13456,
+     "name": "Antonia Lottner",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 9331,
+     "name": "Paula Ormaechea",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499613",
+    "matchId": "499613",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4170,
+    "player2Id": 10350,
+    "tournamentId": 12371,
+    "match_winner": 4170,
+    "result": "6-4 6-7(4) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4170,
+     "name": "Giulia Gatto-Monticone",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499618",
+    "matchId": "499618",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 12997,
+    "tournamentId": 12371,
+    "match_winner": 34747,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499624",
+    "matchId": "499624",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13478,
+    "player2Id": 13810,
+    "tournamentId": 12371,
+    "match_winner": 13478,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13478,
+     "name": "Tereza Smitkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499626",
+    "matchId": "499626",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12389,
+    "player2Id": 14054,
+    "tournamentId": 12371,
+    "match_winner": 12389,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499629",
+    "matchId": "499629",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9721,
+    "player2Id": 14316,
+    "tournamentId": 12371,
+    "match_winner": 9721,
+    "result": "7-6(3) 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.14",
+    "player1": {
+     "id": 9721,
+     "name": "Anna Zaja",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14316,
+     "name": "Valentini Grammatikopoulou",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499630",
+    "matchId": "499630",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14654,
+    "player2Id": 14539,
+    "tournamentId": 12371,
+    "match_winner": 14654,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14654,
+     "name": "Jessika Ponchet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14539,
+     "name": "Oceane Dodin",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499632",
+    "matchId": "499632",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13839,
+    "player2Id": 14694,
+    "tournamentId": 12371,
+    "match_winner": 13839,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.38",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499633",
+    "matchId": "499633",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 14852,
+    "tournamentId": 12371,
+    "match_winner": 14259,
+    "result": "6-7(2) 1-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14852,
+     "name": "Varvara Flink",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499640",
+    "matchId": "499640",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26356,
+    "player2Id": 24368,
+    "tournamentId": 12371,
+    "match_winner": 26356,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499642",
+    "matchId": "499642",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 431,
+    "player2Id": 27644,
+    "tournamentId": 12371,
+    "match_winner": 431,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.02",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 27644,
+     "name": "Anastasia Zarycka",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499643",
+    "matchId": "499643",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 888,
+    "player2Id": 27926,
+    "tournamentId": 12371,
+    "match_winner": 888,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "player2": {
+     "id": 27926,
+     "name": "Lena Papadakis",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499646",
+    "matchId": "499646",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32480,
+    "player2Id": 38681,
+    "tournamentId": 12371,
+    "match_winner": 32480,
+    "result": "6-2 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 38681,
+     "name": "Katarina Zavatska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499647",
+    "matchId": "499647",
+    "date": "2019-04-20T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17155,
+    "player2Id": 46151,
+    "tournamentId": 12371,
+    "match_winner": 17155,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 46151,
+     "name": "Mina Hodzic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12371,
+     "name": "Porsche Tennis Grand Prix - Stuttgart",
+     "courtId": 2,
+     "date": "2019-04-22T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "GER",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

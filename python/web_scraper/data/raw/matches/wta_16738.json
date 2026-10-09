@@ -1,0 +1,1955 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "870688",
+    "matchId": "870688",
+    "date": "2026-08-03T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 67792,
+    "player2Id": 11712,
+    "tournamentId": 16738,
+    "match_winner": 67792,
+    "result": "4-6 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870690",
+    "matchId": "870690",
+    "date": "2026-08-01T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 67792,
+    "player2Id": 16430,
+    "tournamentId": 16738,
+    "match_winner": 67792,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870715",
+    "matchId": "870715",
+    "date": "2026-08-01T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11712,
+    "player2Id": 65911,
+    "tournamentId": 16738,
+    "match_winner": 11712,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.3",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870686",
+    "matchId": "870686",
+    "date": "2026-07-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 67792,
+    "player2Id": 11371,
+    "tournamentId": 16738,
+    "match_winner": 67792,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.55",
+    "odd2": "1.51",
+    "player1": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870697",
+    "matchId": "870697",
+    "date": "2026-07-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 65911,
+    "player2Id": 24368,
+    "tournamentId": 16738,
+    "match_winner": 65911,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.07",
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870700",
+    "matchId": "870700",
+    "date": "2026-07-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 32480,
+    "tournamentId": 16738,
+    "match_winner": 11712,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.24",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870709",
+    "matchId": "870709",
+    "date": "2026-07-31T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16430,
+    "player2Id": 54664,
+    "tournamentId": 16738,
+    "match_winner": 16430,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870692",
+    "matchId": "870692",
+    "date": "2026-07-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 17155,
+    "tournamentId": 16738,
+    "match_winner": 11712,
+    "result": "3-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.103",
+    "odd2": "6.75",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870701",
+    "matchId": "870701",
+    "date": "2026-07-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65911,
+    "player2Id": 40156,
+    "tournamentId": 16738,
+    "match_winner": 65911,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.11",
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870712",
+    "matchId": "870712",
+    "date": "2026-07-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 60341,
+    "tournamentId": 16738,
+    "match_winner": 32480,
+    "result": "1-6 6-3 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 60341,
+     "name": "Janice Tjen",
+     "countryAcr": "INA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870713",
+    "matchId": "870713",
+    "date": "2026-07-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 60791,
+    "tournamentId": 16738,
+    "match_winner": 11371,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870702",
+    "matchId": "870702",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54664,
+    "player2Id": 42098,
+    "tournamentId": 16738,
+    "match_winner": 54664,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870706",
+    "matchId": "870706",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24368,
+    "player2Id": 47152,
+    "tournamentId": 16738,
+    "match_winner": 24368,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870707",
+    "matchId": "870707",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67792,
+    "player2Id": 49081,
+    "tournamentId": 16738,
+    "match_winner": 67792,
+    "result": "6-2 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870714",
+    "matchId": "870714",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 64343,
+    "tournamentId": 16738,
+    "match_winner": 16430,
+    "result": "6-3 3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870681",
+    "matchId": "870681",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 151,
+    "tournamentId": 16738,
+    "match_winner": 40156,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.198",
+    "odd2": "4.55",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870693",
+    "matchId": "870693",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32480,
+    "player2Id": 17503,
+    "tournamentId": 16738,
+    "match_winner": 32480,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870696",
+    "matchId": "870696",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60791,
+    "player2Id": 24344,
+    "tournamentId": 16738,
+    "match_winner": 60791,
+    "result": "5-7 7-6(4) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870705",
+    "matchId": "870705",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17155,
+    "player2Id": 45866,
+    "tournamentId": 16738,
+    "match_winner": 17155,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.39",
+    "odd2": "1.57",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870708",
+    "matchId": "870708",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67792,
+    "player2Id": 53128,
+    "tournamentId": 16738,
+    "match_winner": 67792,
+    "result": "4-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870721",
+    "matchId": "870721",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47152,
+    "player2Id": 87232,
+    "tournamentId": 16738,
+    "match_winner": 47152,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 87232,
+     "name": "Julieta Pareja",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870684",
+    "matchId": "870684",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 9357,
+    "tournamentId": 16738,
+    "match_winner": 49081,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.94",
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870687",
+    "matchId": "870687",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 11672,
+    "tournamentId": 16738,
+    "match_winner": 24368,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.74",
+    "odd2": "1.27",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870689",
+    "matchId": "870689",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64343,
+    "player2Id": 14175,
+    "tournamentId": 16738,
+    "match_winner": 64343,
+    "result": "3-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870691",
+    "matchId": "870691",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60341,
+    "player2Id": 17062,
+    "tournamentId": 16738,
+    "match_winner": 60341,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.18",
+    "player1": {
+     "id": 60341,
+     "name": "Janice Tjen",
+     "countryAcr": "INA"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870695",
+    "matchId": "870695",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42098,
+    "player2Id": 23432,
+    "tournamentId": 16738,
+    "match_winner": 42098,
+    "result": "6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.44",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870710",
+    "matchId": "870710",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54664,
+    "player2Id": 54989,
+    "tournamentId": 16738,
+    "match_winner": 54664,
+    "result": "4-6 7-6(2) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.52",
+    "odd2": "1.52",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "870728",
+    "matchId": "870728",
+    "date": "2026-08-01T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 73261,
+    "player2Id": 110579,
+    "tournamentId": 16738,
+    "match_winner": 73261,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73261,
+     "name": "Erin Routliffe/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110579,
+     "name": "Andreja Klepac/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870724",
+    "matchId": "870724",
+    "date": "2026-07-31T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 73261,
+    "player2Id": 106896,
+    "tournamentId": 16738,
+    "match_winner": 73261,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73261,
+     "name": "Erin Routliffe/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 106896,
+     "name": "Qianhui Tang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870729",
+    "matchId": "870729",
+    "date": "2026-07-31T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 110579,
+    "player2Id": 110580,
+    "tournamentId": 16738,
+    "match_winner": 110579,
+    "result": "6-4 5-7 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.76",
+    "odd2": "1.38",
+    "player1": {
+     "id": 110579,
+     "name": "Andreja Klepac/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110580,
+     "name": "Janice Tjen/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870725",
+    "matchId": "870725",
+    "date": "2026-07-30T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 110579,
+    "player2Id": 109540,
+    "tournamentId": 16738,
+    "match_winner": 110579,
+    "result": "1-6 7-6(3) 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 110579,
+     "name": "Andreja Klepac/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 109540,
+     "name": "Sara Errani/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870723",
+    "matchId": "870723",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 110580,
+    "player2Id": 98613,
+    "tournamentId": 16738,
+    "match_winner": 110580,
+    "result": "4-6 6-2 10-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.68",
+    "player1": {
+     "id": 110580,
+     "name": "Janice Tjen/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98613,
+     "name": "Miyu Kato/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870731",
+    "matchId": "870731",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 106896,
+    "player2Id": 110582,
+    "tournamentId": 16738,
+    "match_winner": 106896,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 106896,
+     "name": "Qianhui Tang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110582,
+     "name": "Diana Shnaider/Venus Williams",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870733",
+    "matchId": "870733",
+    "date": "2026-07-29T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 73261,
+    "player2Id": 110584,
+    "tournamentId": 16738,
+    "match_winner": 73261,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73261,
+     "name": "Erin Routliffe/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110584,
+     "name": "Clervie Ngounoue/Alana Smith",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870722",
+    "matchId": "870722",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98613,
+    "player2Id": 92732,
+    "tournamentId": 16738,
+    "match_winner": 98613,
+    "result": "1-6 6-1 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.02",
+    "player1": {
+     "id": 98613,
+     "name": "Miyu Kato/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92732,
+     "name": "Tereza Mihalikova/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870726",
+    "matchId": "870726",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 109540,
+    "player2Id": 110577,
+    "tournamentId": 16738,
+    "match_winner": 109540,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.19",
+    "odd2": "4.05",
+    "player1": {
+     "id": 109540,
+     "name": "Sara Errani/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110577,
+     "name": "Katie Boulter/Polina Iatcenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870730",
+    "matchId": "870730",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 110580,
+    "player2Id": 110581,
+    "tournamentId": 16738,
+    "match_winner": 110580,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "2.88",
+    "player1": {
+     "id": 110580,
+     "name": "Janice Tjen/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110581,
+     "name": "Kamilla Rakhimova/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870732",
+    "matchId": "870732",
+    "date": "2026-07-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 106896,
+    "player2Id": 110583,
+    "tournamentId": 16738,
+    "match_winner": 106896,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.444",
+    "player1": {
+     "id": 106896,
+     "name": "Qianhui Tang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110583,
+     "name": "Anna Danilina/Leylah Annie Fernandez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870718",
+    "matchId": "870718",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 110582,
+    "player2Id": 73263,
+    "tournamentId": 16738,
+    "match_winner": 110582,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.833",
+    "odd2": "1.85",
+    "player1": {
+     "id": 110582,
+     "name": "Diana Shnaider/Venus Williams",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73263,
+     "name": "Ulrikke Eikeri/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870720",
+    "matchId": "870720",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 110584,
+    "player2Id": 81734,
+    "tournamentId": 16738,
+    "match_winner": 110584,
+    "result": "6-2 4-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.75",
+    "player1": {
+     "id": 110584,
+     "name": "Clervie Ngounoue/Alana Smith",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 81734,
+     "name": "Ann Li/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870727",
+    "matchId": "870727",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 110579,
+    "player2Id": 110578,
+    "tournamentId": 16738,
+    "match_winner": 110579,
+    "result": "6-3 6-7(6) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 110579,
+     "name": "Andreja Klepac/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110578,
+     "name": "Carolyn Ansari/Lea Ma",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870734",
+    "matchId": "870734",
+    "date": "2026-07-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73261,
+    "player2Id": 110585,
+    "tournamentId": 16738,
+    "match_winner": 73261,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73261,
+     "name": "Erin Routliffe/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 110585,
+     "name": "Sofia Kenin/Anastasia Potapova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "870682",
+    "matchId": "870682",
+    "date": "2026-07-26T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 60791,
+    "player2Id": 461,
+    "tournamentId": 16738,
+    "match_winner": 60791,
+    "result": "4-6 7-6(7) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.43",
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870685",
+    "matchId": "870685",
+    "date": "2026-07-26T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 87232,
+    "player2Id": 11071,
+    "tournamentId": 16738,
+    "match_winner": 87232,
+    "result": "6-4 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 87232,
+     "name": "Julieta Pareja",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870698",
+    "matchId": "870698",
+    "date": "2026-07-26T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17062,
+    "player2Id": 26509,
+    "tournamentId": 16738,
+    "match_winner": 17062,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 26509,
+     "name": "Gabriela Andrea Knutson",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870699",
+    "matchId": "870699",
+    "date": "2026-07-26T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17503,
+    "player2Id": 30909,
+    "tournamentId": 16738,
+    "match_winner": 17503,
+    "result": "4-6 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.069",
+    "odd2": "6.55",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 30909,
+     "name": "Alana Smith",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870683",
+    "matchId": "870683",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26509,
+    "player2Id": 4263,
+    "tournamentId": 16738,
+    "match_winner": 26509,
+    "result": "6-4 1-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26509,
+     "name": "Gabriela Andrea Knutson",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870694",
+    "matchId": "870694",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17503,
+    "player2Id": 18197,
+    "tournamentId": 16738,
+    "match_winner": 17503,
+    "result": "6-7(3) 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "3.56",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 18197,
+     "name": "Mariam Bolkvadze",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870703",
+    "matchId": "870703",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 60791,
+    "player2Id": 42435,
+    "tournamentId": 16738,
+    "match_winner": 60791,
+    "result": "7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.26",
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 42435,
+     "name": "Mei Yamaguchi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870704",
+    "matchId": "870704",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11071,
+    "player2Id": 45072,
+    "tournamentId": 16738,
+    "match_winner": 11071,
+    "result": "7-6(2) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870711",
+    "matchId": "870711",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30909,
+    "player2Id": 59449,
+    "tournamentId": 16738,
+    "match_winner": 30909,
+    "result": "6-4 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30909,
+     "name": "Alana Smith",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 59449,
+     "name": "Lea Ma",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870716",
+    "matchId": "870716",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 87232,
+    "player2Id": 71437,
+    "tournamentId": 16738,
+    "match_winner": 87232,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.84",
+    "player1": {
+     "id": 87232,
+     "name": "Julieta Pareja",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 71437,
+     "name": "Polina Iatcenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870717",
+    "matchId": "870717",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 461,
+    "player2Id": 73190,
+    "tournamentId": 16738,
+    "match_winner": 461,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "870719",
+    "matchId": "870719",
+    "date": "2026-07-25T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17062,
+    "player2Id": 76967,
+    "tournamentId": 16738,
+    "match_winner": 17062,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 76967,
+     "name": "Carolyn Ansari",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16738,
+     "name": "Mubadala DC Open - Washington",
+     "courtId": 1,
+     "date": "2026-07-27T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

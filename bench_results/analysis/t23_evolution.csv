@@ -1,0 +1,8 @@
+phase,step,architecture,czas_s,wal_mb,nowe_wiersze,przepisane_wiersze,nowe_obiekty,zmienione_obiekty,zmienione
+backfill,DV,DV,0.847,15.684318542480469,14451.0,14376.0,0.0,0.0,
+backfill,STAR,STAR,0.313,8.56768798828125,25.0,14376.0,0.0,0.0,
+backfill,shared,shared,0.004,0.00959014892578125,50.0,0.0,0.0,0.0,
+ddl,00_stg.sql,shared,0.003,0.05980682373046875,0.0,0.0,3.0,0.0,
+ddl,10_dv.sql,DV,0.012,0.06179046630859375,0.0,0.0,8.0,0.0,
+ddl,20_dmart.sql,DV,0.007,0.0214385986328125,0.0,0.0,4.0,2.0,procedure:dbo.sp_load_all_dv_full;table:dmart.fct_match_statistics
+ddl,30_star.sql,STAR,0.008,0.0294036865234375,0.0,0.0,4.0,2.0,procedure:star.sp_load_star_full;table:star.fct_match_statistics

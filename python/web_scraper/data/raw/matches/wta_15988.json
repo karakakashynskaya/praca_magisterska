@@ -1,0 +1,5611 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "817952",
+    "date": "2025-10-05T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 41564,
+    "player2Id": 66597,
+    "tournamentId": 15988,
+    "match_winner": 41564,
+    "result": "6-0 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817850",
+    "date": "2025-10-04T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 66597,
+    "player2Id": 11712,
+    "tournamentId": 15988,
+    "match_winner": 66597,
+    "result": "6-3 1-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817935",
+    "date": "2025-10-04T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 41564,
+    "player2Id": 54663,
+    "tournamentId": 15988,
+    "match_winner": 41564,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817910",
+    "date": "2025-10-03T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 42098,
+    "tournamentId": 15988,
+    "match_winner": 11712,
+    "result": "6-7(2) 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817951",
+    "date": "2025-10-03T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 66597,
+    "player2Id": 66591,
+    "tournamentId": 15988,
+    "match_winner": 66597,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817865",
+    "date": "2025-10-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 41564,
+    "player2Id": 14362,
+    "tournamentId": 15988,
+    "match_winner": 41564,
+    "result": "6-7(4) 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817914",
+    "date": "2025-10-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 54663,
+    "player2Id": 44525,
+    "tournamentId": 15988,
+    "match_winner": 54663,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817907",
+    "date": "2025-10-01T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 66597,
+    "player2Id": 40156,
+    "tournamentId": 15988,
+    "match_winner": 66597,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817917",
+    "date": "2025-10-01T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 42098,
+    "player2Id": 45854,
+    "tournamentId": 15988,
+    "match_winner": 42098,
+    "result": "6-4 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817921",
+    "date": "2025-10-01T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11712,
+    "player2Id": 47742,
+    "tournamentId": 15988,
+    "match_winner": 11712,
+    "result": "6-3 6-7(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817965",
+    "date": "2025-10-01T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 66591,
+    "player2Id": 77934,
+    "tournamentId": 15988,
+    "match_winner": 66591,
+    "result": "7-5 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817863",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 54663,
+    "player2Id": 14056,
+    "tournamentId": 15988,
+    "match_winner": 54663,
+    "result": "4-6 7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817880",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 41564,
+    "player2Id": 18482,
+    "tournamentId": 15988,
+    "match_winner": 41564,
+    "result": "1-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817884",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 14362,
+    "player2Id": 24572,
+    "tournamentId": 15988,
+    "match_winner": 14362,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817924",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 44525,
+    "player2Id": 48900,
+    "tournamentId": 15988,
+    "match_winner": 44525,
+    "result": "4-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.95",
+    "odd2": "1.85",
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817856",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 47742,
+    "player2Id": 12842,
+    "tournamentId": 15988,
+    "match_winner": 47742,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817912",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 45854,
+    "player2Id": 44040,
+    "tournamentId": 15988,
+    "match_winner": 45854,
+    "result": "6-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.03",
+    "odd2": "12.25",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817926",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 40156,
+    "player2Id": 49991,
+    "tournamentId": 15988,
+    "match_winner": 40156,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817931",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 66597,
+    "player2Id": 53128,
+    "tournamentId": 15988,
+    "match_winner": 66597,
+    "result": "6-4 3-6 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.12",
+    "odd2": "1.72",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817932",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 53487,
+    "tournamentId": 15988,
+    "match_winner": 11712,
+    "result": "3-6 7-6(9) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817938",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 77934,
+    "player2Id": 57090,
+    "tournamentId": 15988,
+    "match_winner": 77934,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817944",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 42098,
+    "player2Id": 60758,
+    "tournamentId": 15988,
+    "match_winner": 42098,
+    "result": "6-2 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 60758,
+     "name": "Lois Boisson",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817958",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 66591,
+    "player2Id": 72414,
+    "tournamentId": 15988,
+    "match_winner": 66591,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817841",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 41564,
+    "player2Id": 4263,
+    "tournamentId": 15988,
+    "match_winner": 41564,
+    "result": "7-6(11) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817857",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 48900,
+    "player2Id": 13267,
+    "tournamentId": 15988,
+    "match_winner": 48900,
+    "result": "1-6 7-5 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.5",
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817868",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 24572,
+    "player2Id": 16119,
+    "tournamentId": 15988,
+    "match_winner": 24572,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817870",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14056,
+    "player2Id": 16627,
+    "tournamentId": 15988,
+    "match_winner": 14056,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "3.85",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817873",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18482,
+    "player2Id": 17142,
+    "tournamentId": 15988,
+    "match_winner": 18482,
+    "result": "4-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.26",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817881",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14362,
+    "player2Id": 23432,
+    "tournamentId": 15988,
+    "match_winner": 14362,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.45",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817900",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 44525,
+    "player2Id": 36558,
+    "tournamentId": 15988,
+    "match_winner": 44525,
+    "result": "6-3 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817925",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 54663,
+    "player2Id": 49081,
+    "tournamentId": 15988,
+    "match_winner": 54663,
+    "result": "6-4 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817846",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 9503,
+    "tournamentId": 15988,
+    "match_winner": 11712,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817852",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 77934,
+    "player2Id": 12089,
+    "tournamentId": 15988,
+    "match_winner": 77934,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.16",
+    "odd2": "5.25",
+    "player1": {
+     "id": 77934,
+     "name": "Mirra Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817869",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12842,
+    "player2Id": 16430,
+    "tournamentId": 15988,
+    "match_winner": 12842,
+    "result": "1-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817876",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66591,
+    "player2Id": 17503,
+    "tournamentId": 15988,
+    "match_winner": 66591,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.59",
+    "odd2": "1.5",
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817878",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 17774,
+    "tournamentId": 15988,
+    "match_winner": 42098,
+    "result": "6-3 7-6(0)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817882",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53487,
+    "player2Id": 24344,
+    "tournamentId": 15988,
+    "match_winner": 53487,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817883",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 60758,
+    "player2Id": 24368,
+    "tournamentId": 15988,
+    "match_winner": 60758,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60758,
+     "name": "Lois Boisson",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817897",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 44040,
+    "player2Id": 32480,
+    "tournamentId": 15988,
+    "match_winner": 44040,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817901",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 57090,
+    "player2Id": 37266,
+    "tournamentId": 15988,
+    "match_winner": 57090,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817902",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 37410,
+    "tournamentId": 15988,
+    "match_winner": 45854,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.066",
+    "odd2": "8.7",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817905",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53128,
+    "player2Id": 39540,
+    "tournamentId": 15988,
+    "match_winner": 53128,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817911",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66597,
+    "player2Id": 43872,
+    "tournamentId": 15988,
+    "match_winner": 66597,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.38",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817937",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 49991,
+    "player2Id": 54989,
+    "tournamentId": 15988,
+    "match_winner": 49991,
+    "result": "6-4 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817949",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72414,
+    "player2Id": 65911,
+    "tournamentId": 15988,
+    "match_winner": 72414,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817957",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 72064,
+    "tournamentId": 15988,
+    "match_winner": 47742,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817962",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40156,
+    "player2Id": 74280,
+    "tournamentId": 15988,
+    "match_winner": 40156,
+    "result": "7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.04",
+    "odd2": "1.38",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 74280,
+     "name": "Victoria Mboko",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817842",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 6019,
+    "tournamentId": 15988,
+    "match_winner": 18482,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.36",
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817844",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 7944,
+    "tournamentId": 15988,
+    "match_winner": 14362,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.127",
+    "odd2": "6.05",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817845",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24572,
+    "player2Id": 9357,
+    "tournamentId": 15988,
+    "match_winner": 24572,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.95",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817858",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 48900,
+    "player2Id": 13351,
+    "tournamentId": 15988,
+    "match_winner": 48900,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817860",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 49081,
+    "player2Id": 13541,
+    "tournamentId": 15988,
+    "match_winner": 49081,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.88",
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817862",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 14054,
+    "tournamentId": 15988,
+    "match_winner": 13267,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.09",
+    "odd2": "1.74",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817864",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 14175,
+    "tournamentId": 15988,
+    "match_winner": 41564,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817871",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16627,
+    "player2Id": 16628,
+    "tournamentId": 15988,
+    "match_winner": 16627,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3",
+    "odd2": "1.39",
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817894",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 31728,
+    "tournamentId": 15988,
+    "match_winner": 16119,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.91",
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817908",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 36558,
+    "player2Id": 41569,
+    "tournamentId": 15988,
+    "match_winner": 36558,
+    "result": "7-5 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.171",
+    "odd2": "5.05",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817915",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 54663,
+    "player2Id": 45072,
+    "tournamentId": 15988,
+    "match_winner": 54663,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817920",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4263,
+    "player2Id": 47152,
+    "tournamentId": 15988,
+    "match_winner": 4263,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817930",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 52790,
+    "tournamentId": 15988,
+    "match_winner": 14056,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.68",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817945",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23432,
+    "player2Id": 60791,
+    "tournamentId": 15988,
+    "match_winner": 23432,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817948",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17142,
+    "player2Id": 65417,
+    "tournamentId": 15988,
+    "match_winner": 17142,
+    "result": "6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817966",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 44525,
+    "player2Id": 80381,
+    "tournamentId": 15988,
+    "match_winner": 44525,
+    "result": "6-3 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.666",
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817853",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37410,
+    "player2Id": 12390,
+    "tournamentId": 15988,
+    "match_winner": 37410,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.94",
+    "player1": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817859",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24344,
+    "player2Id": 13498,
+    "tournamentId": 15988,
+    "match_winner": 24344,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817872",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17774,
+    "player2Id": 17062,
+    "tournamentId": 15988,
+    "match_winner": 17774,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17774,
+     "name": "Elena Gabriela Ruse",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 17062,
+     "name": "Rebecca Sramkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817874",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72064,
+    "player2Id": 17155,
+    "tournamentId": 15988,
+    "match_winner": 72064,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817875",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 17501,
+    "tournamentId": 15988,
+    "match_winner": 40156,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817877",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57090,
+    "player2Id": 17614,
+    "tournamentId": 15988,
+    "match_winner": 57090,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.87",
+    "player1": {
+     "id": 57090,
+     "name": "Jessica Bouzas Maneiro",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817885",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60758,
+    "player2Id": 25062,
+    "tournamentId": 15988,
+    "match_winner": 60758,
+    "result": "7-6(6) 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 60758,
+     "name": "Lois Boisson",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 25062,
+     "name": "Dalma Galfi",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817896",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 43872,
+    "player2Id": 32308,
+    "tournamentId": 15988,
+    "match_winner": 43872,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 32308,
+     "name": "Hanyu Guo",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817906",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39540,
+    "player2Id": 39908,
+    "tournamentId": 15988,
+    "match_winner": 39540,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 39908,
+     "name": "Suzan Lamens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817909",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 41888,
+    "tournamentId": 15988,
+    "match_winner": 9503,
+    "result": "7-6(1) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.26",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 41888,
+     "name": "Yuliia Starodubtseva",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817916",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66591,
+    "player2Id": 45540,
+    "tournamentId": 15988,
+    "match_winner": 66591,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.62",
+    "player1": {
+     "id": 66591,
+     "name": "Sonay Kartal",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 45540,
+     "name": "Alycia Parks",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817918",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44040,
+    "player2Id": 45866,
+    "tournamentId": 15988,
+    "match_winner": 44040,
+    "result": "7-5 6-7(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817928",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12089,
+    "player2Id": 52254,
+    "tournamentId": 15988,
+    "match_winner": 12089,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817941",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49991,
+    "player2Id": 58588,
+    "tournamentId": 15988,
+    "match_winner": 49991,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.68",
+    "player1": {
+     "id": 49991,
+     "name": "Zeynep Sonmez",
+     "countryAcr": "TUR"
+    },
+    "player2": {
+     "id": 58588,
+     "name": "Sijia Wei",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817943",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 60341,
+    "tournamentId": 15988,
+    "match_winner": 12842,
+    "result": "6-7(4) 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 60341,
+     "name": "Janice Tjen",
+     "countryAcr": "INA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817955",
+    "date": "2025-09-25T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72414,
+    "player2Id": 70327,
+    "tournamentId": 15988,
+    "match_winner": 72414,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817839",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 4110,
+    "tournamentId": 15988,
+    "match_winner": 24572,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817840",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41569,
+    "player2Id": 4177,
+    "tournamentId": 15988,
+    "match_winner": 41569,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817848",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16627,
+    "player2Id": 10749,
+    "tournamentId": 15988,
+    "match_winner": 16627,
+    "result": "1-6 6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.45",
+    "odd2": "1.55",
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817879",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7944,
+    "player2Id": 18427,
+    "tournamentId": 15988,
+    "match_winner": 7944,
+    "result": "6-3 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.15",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817886",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60791,
+    "player2Id": 25513,
+    "tournamentId": 15988,
+    "match_winner": 60791,
+    "result": "7-5 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817888",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45072,
+    "player2Id": 27032,
+    "tournamentId": 15988,
+    "match_winner": 45072,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817889",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 28585,
+    "tournamentId": 15988,
+    "match_winner": 6019,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817899",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13267,
+    "player2Id": 34747,
+    "tournamentId": 15988,
+    "match_winner": 13267,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.333",
+    "odd2": "3.3",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817903",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 31728,
+    "player2Id": 39226,
+    "tournamentId": 15988,
+    "match_winner": 31728,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.04",
+    "odd2": "1.38",
+    "player1": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817923",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 48254,
+    "tournamentId": 15988,
+    "match_winner": 14175,
+    "result": "7-5 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.97",
+    "odd2": "1.84",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817929",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 52660,
+    "tournamentId": 15988,
+    "match_winner": 4263,
+    "result": "3-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817933",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52790,
+    "player2Id": 53793,
+    "tournamentId": 15988,
+    "match_winner": 52790,
+    "result": "6-4 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.17",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817940",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65417,
+    "player2Id": 57147,
+    "tournamentId": 15988,
+    "match_winner": 65417,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817947",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 64343,
+    "tournamentId": 15988,
+    "match_winner": 13541,
+    "result": "7-6(5) 6-7(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817954",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48900,
+    "player2Id": 67639,
+    "tournamentId": 15988,
+    "match_winner": 48900,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.092",
+    "odd2": "7.3",
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 67639,
+     "name": "Han Shi",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817970",
+    "date": "2025-09-24T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44525,
+    "player2Id": 85882,
+    "tournamentId": 15988,
+    "match_winner": 44525,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 85882,
+     "name": "Ruien Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "817995",
+    "date": "2025-10-05T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 65079,
+    "player2Id": 104273,
+    "tournamentId": 15988,
+    "match_winner": 65079,
+    "result": "6-7(1) 6-3 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 104273,
+     "name": "Miyu Kato/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817981",
+    "date": "2025-10-04T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 65079,
+    "player2Id": 98665,
+    "tournamentId": 15988,
+    "match_winner": 65079,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817975",
+    "date": "2025-10-03T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 98665,
+    "player2Id": 94430,
+    "tournamentId": 15988,
+    "match_winner": 98665,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817967",
+    "date": "2025-10-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 104271,
+    "player2Id": 80556,
+    "tournamentId": 15988,
+    "match_winner": 104271,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 104271,
+     "name": "Priscilla Hon/Karolina Muchova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 80556,
+     "name": "Anna Danilina/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817982",
+    "date": "2025-10-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 104273,
+    "player2Id": 98956,
+    "tournamentId": 15988,
+    "match_winner": 104273,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.93",
+    "odd2": "1.363",
+    "player1": {
+     "id": 104273,
+     "name": "Miyu Kato/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98956,
+     "name": "Timea Babos/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817974",
+    "date": "2025-10-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 104271,
+    "player2Id": 91464,
+    "tournamentId": 15988,
+    "match_winner": 104271,
+    "result": "7-6(4) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.43",
+    "player1": {
+     "id": 104271,
+     "name": "Priscilla Hon/Karolina Muchova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817956",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 98956,
+    "player2Id": 72046,
+    "tournamentId": 15988,
+    "match_winner": 98956,
+    "result": "4-6 6-1 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98956,
+     "name": "Timea Babos/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817979",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 80556,
+    "player2Id": 96663,
+    "tournamentId": 15988,
+    "match_winner": 80556,
+    "result": "7-5 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80556,
+     "name": "Anna Danilina/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 96663,
+     "name": "Nicole Melichar/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817985",
+    "date": "2025-09-30T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 98665,
+    "player2Id": 100479,
+    "tournamentId": 15988,
+    "match_winner": 98665,
+    "result": "6-1 3-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100479,
+     "name": "Shuko Aoyama/Cristina Bucsa",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817960",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 104273,
+    "player2Id": 73146,
+    "tournamentId": 15988,
+    "match_winner": 104273,
+    "result": "2-6 7-6(4) 12-10",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 104273,
+     "name": "Miyu Kato/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817983",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 94430,
+    "player2Id": 99567,
+    "tournamentId": 15988,
+    "match_winner": 94430,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.15",
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99567,
+     "name": "Ulrikke Eikeri/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817987",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65079,
+    "player2Id": 101856,
+    "tournamentId": 15988,
+    "match_winner": 65079,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 101856,
+     "name": "Lyudmyla Kichenok/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817998",
+    "date": "2025-09-29T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 104275,
+    "player2Id": 104276,
+    "tournamentId": 15988,
+    "match_winner": 104275,
+    "result": "6-1 5-7 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.56",
+    "player1": {
+     "id": 104275,
+     "name": "Kamilla Rakhimova/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 104276,
+     "name": "Eri Hozumi/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817973",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72046,
+    "player2Id": 89717,
+    "tournamentId": 15988,
+    "match_winner": 72046,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "1.94",
+    "player1": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89717,
+     "name": "Ashlyn Krueger/Jessica Pegula",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817988",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100479,
+    "player2Id": 102024,
+    "tournamentId": 15988,
+    "match_winner": 100479,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 100479,
+     "name": "Shuko Aoyama/Cristina Bucsa",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102024,
+     "name": "Linda Noskova/Rebecca Sramkova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817991",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 104276,
+    "player2Id": 102865,
+    "tournamentId": 15988,
+    "match_winner": 104276,
+    "result": "7-6(7) 5-7 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 104276,
+     "name": "Eri Hozumi/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102865,
+     "name": "Maya Joint/Caty Mcnally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817992",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 80556,
+    "player2Id": 103056,
+    "tournamentId": 15988,
+    "match_winner": 80556,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 80556,
+     "name": "Anna Danilina/Aleksandra Krunic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 103056,
+     "name": "Magda Linette/Clara Tauson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817994",
+    "date": "2025-09-28T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91464,
+    "player2Id": 104272,
+    "tournamentId": 15988,
+    "match_winner": 91464,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91464,
+     "name": "Asia Muhammad/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 104272,
+     "name": "Yushan Shao/Ruien Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817969",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 104271,
+    "player2Id": 85759,
+    "tournamentId": 15988,
+    "match_winner": 104271,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 104271,
+     "name": "Priscilla Hon/Karolina Muchova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 85759,
+     "name": "Kristina Mladenovic/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817976",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73146,
+    "player2Id": 95261,
+    "tournamentId": 15988,
+    "match_winner": 73146,
+    "result": "6-2 4-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.083",
+    "odd2": "6.6",
+    "player1": {
+     "id": 73146,
+     "name": "Veronika Kudermetova/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95261,
+     "name": "Qianhui Tang/Xiyu Wang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817984",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98956,
+    "player2Id": 100477,
+    "tournamentId": 15988,
+    "match_winner": 98956,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98956,
+     "name": "Timea Babos/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100477,
+     "name": "Sorana Cirstea/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817989",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 98665,
+    "player2Id": 102554,
+    "tournamentId": 15988,
+    "match_winner": 98665,
+    "result": "5-7 6-4 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 98665,
+     "name": "Su-Wei Hsieh/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102554,
+     "name": "Hao-Ching Chan/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817990",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65079,
+    "player2Id": 102864,
+    "tournamentId": 15988,
+    "match_winner": 65079,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102864,
+     "name": "Irina Khromacheva/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817996",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99567,
+    "player2Id": 104274,
+    "tournamentId": 15988,
+    "match_winner": 99567,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 99567,
+     "name": "Ulrikke Eikeri/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 104274,
+     "name": "Sofia Kenin/Mccartney Kessler",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817999",
+    "date": "2025-09-27T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 101856,
+    "player2Id": 104277,
+    "tournamentId": 15988,
+    "match_winner": 101856,
+    "result": "4-6 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 101856,
+     "name": "Lyudmyla Kichenok/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 104277,
+     "name": "Jaqueline Cristian/Leylah Annie Fernandez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817972",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 96663,
+    "player2Id": 88669,
+    "tournamentId": 15988,
+    "match_winner": 96663,
+    "result": "6-3 1-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 96663,
+     "name": "Nicole Melichar/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817977",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 94430,
+    "player2Id": 95592,
+    "tournamentId": 15988,
+    "match_winner": 94430,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 95592,
+     "name": "Mirra Andreeva/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817980",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 104275,
+    "player2Id": 98617,
+    "tournamentId": 15988,
+    "match_winner": 104275,
+    "result": "6-4 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 104275,
+     "name": "Kamilla Rakhimova/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98617,
+     "name": "Hanyu Guo/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817986",
+    "date": "2025-09-26T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 104273,
+    "player2Id": 101513,
+    "tournamentId": 15988,
+    "match_winner": 104273,
+    "result": "5-7 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 104273,
+     "name": "Miyu Kato/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 101513,
+     "name": "Storm Hunter/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "817838",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12842,
+    "player2Id": 461,
+    "tournamentId": 15988,
+    "match_winner": 12842,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817849",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 25062,
+    "player2Id": 11066,
+    "tournamentId": 15988,
+    "match_winner": 25062,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.66",
+    "player1": {
+     "id": 25062,
+     "name": "Dalma Galfi",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817854",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 60341,
+    "player2Id": 12432,
+    "tournamentId": 15988,
+    "match_winner": 60341,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60341,
+     "name": "Janice Tjen",
+     "countryAcr": "INA"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817887",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52660,
+    "player2Id": 26356,
+    "tournamentId": 15988,
+    "match_winner": 52660,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.83",
+    "player1": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817890",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 25513,
+    "player2Id": 28732,
+    "tournamentId": 15988,
+    "match_winner": 25513,
+    "result": "4-6 7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.53",
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817893",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 24344,
+    "player2Id": 30797,
+    "tournamentId": 15988,
+    "match_winner": 24344,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "2.9",
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817904",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 72064,
+    "player2Id": 39540,
+    "tournamentId": 15988,
+    "match_winner": 72064,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817922",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52254,
+    "player2Id": 47998,
+    "tournamentId": 15988,
+    "match_winner": 52254,
+    "result": "6-2 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.06",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 47998,
+     "name": "Joanna Garland",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817927",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 31728,
+    "player2Id": 51151,
+    "tournamentId": 15988,
+    "match_winner": 31728,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.6",
+    "player1": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817936",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16627,
+    "player2Id": 54664,
+    "tournamentId": 15988,
+    "match_winner": 16627,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817939",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 70327,
+    "player2Id": 57147,
+    "tournamentId": 15988,
+    "match_winner": 70327,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "player2": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817953",
+    "date": "2025-09-23T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52790,
+    "player2Id": 66626,
+    "tournamentId": 15988,
+    "match_winner": 52790,
+    "result": "3-6 7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 66626,
+     "name": "Lanlana Tararudee",
+     "countryAcr": "THA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817843",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52660,
+    "player2Id": 6159,
+    "tournamentId": 15988,
+    "match_winner": 52660,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.34",
+    "player1": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817847",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 28732,
+    "player2Id": 10394,
+    "tournamentId": 15988,
+    "match_winner": 28732,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 28732,
+     "name": "Rebeka Masarova",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817851",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 461,
+    "player2Id": 11959,
+    "tournamentId": 15988,
+    "match_winner": 461,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817855",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11066,
+    "player2Id": 12722,
+    "tournamentId": 15988,
+    "match_winner": 11066,
+    "result": "7-6(5) 7-6(0)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11066,
+     "name": "Katarzyna Kawa",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817861",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 54664,
+    "player2Id": 13810,
+    "tournamentId": 15988,
+    "match_winner": 54664,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.22",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817866",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 72064,
+    "player2Id": 14654,
+    "tournamentId": 15988,
+    "match_winner": 72064,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72064,
+     "name": "Ella Seidel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14654,
+     "name": "Jessika Ponchet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817867",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52790,
+    "player2Id": 14902,
+    "tournamentId": 15988,
+    "match_winner": 52790,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817891",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 57147,
+    "player2Id": 30238,
+    "tournamentId": 15988,
+    "match_winner": 57147,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.15",
+    "player1": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817892",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16627,
+    "player2Id": 30451,
+    "tournamentId": 15988,
+    "match_winner": 16627,
+    "result": "3-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817895",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52254,
+    "player2Id": 31790,
+    "tournamentId": 15988,
+    "match_winner": 52254,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.05",
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 31790,
+     "name": "Xinyu Jiang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817898",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 60341,
+    "player2Id": 32633,
+    "tournamentId": 15988,
+    "match_winner": 60341,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60341,
+     "name": "Janice Tjen",
+     "countryAcr": "INA"
+    },
+    "player2": {
+     "id": 32633,
+     "name": "Lucrezia Stefanini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817913",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 66626,
+    "player2Id": 44510,
+    "tournamentId": 15988,
+    "match_winner": 66626,
+    "result": "7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66626,
+     "name": "Lanlana Tararudee",
+     "countryAcr": "THA"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817919",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12432,
+    "player2Id": 45990,
+    "tournamentId": 15988,
+    "match_winner": 12432,
+    "result": "6-3 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.09",
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817934",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25513,
+    "player2Id": 54393,
+    "tournamentId": 15988,
+    "match_winner": 25513,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 25513,
+     "name": "Maddison Inglis",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 54393,
+     "name": "Veronika Erjavec",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817942",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 51151,
+    "player2Id": 59411,
+    "tournamentId": 15988,
+    "match_winner": 51151,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 59411,
+     "name": "Darya Astakhova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817946",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 26356,
+    "player2Id": 60792,
+    "tournamentId": 15988,
+    "match_winner": 26356,
+    "result": "3-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26356,
+     "name": "Greetje Minnen",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 60792,
+     "name": "Maria Timofeeva",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817950",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25062,
+    "player2Id": 65912,
+    "tournamentId": 15988,
+    "match_winner": 25062,
+    "result": "6-2 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.4",
+    "player1": {
+     "id": 25062,
+     "name": "Dalma Galfi",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817959",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 72881,
+    "tournamentId": 15988,
+    "match_winner": 12842,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 72881,
+     "name": "Tatiana Prozorova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817961",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 24344,
+    "player2Id": 73190,
+    "tournamentId": 15988,
+    "match_winner": 24344,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.15",
+    "player1": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817963",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 70327,
+    "player2Id": 75655,
+    "tournamentId": 15988,
+    "match_winner": 70327,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 70327,
+     "name": "Victoria Jimenez Kasintseva",
+     "countryAcr": "AND"
+    },
+    "player2": {
+     "id": 75655,
+     "name": "Zongyu Li",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817964",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47998,
+    "player2Id": 76098,
+    "tournamentId": 15988,
+    "match_winner": 47998,
+    "result": "6-2 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47998,
+     "name": "Joanna Garland",
+     "countryAcr": "TPE"
+    },
+    "player2": {
+     "id": 76098,
+     "name": "Xinxin Yao",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817968",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 30797,
+    "player2Id": 83274,
+    "tournamentId": 15988,
+    "match_winner": 30797,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 30797,
+     "name": "Maria Lourdes Carle",
+     "countryAcr": "ARG"
+    },
+    "player2": {
+     "id": 83274,
+     "name": "Yufei Ren",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817971",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 31728,
+    "player2Id": 87202,
+    "tournamentId": 15988,
+    "match_winner": 31728,
+    "result": "7-6(8) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.172",
+    "odd2": "4.5",
+    "player1": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 87202,
+     "name": "Unknown Player",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "817978",
+    "date": "2025-09-22T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 39540,
+    "player2Id": 96133,
+    "tournamentId": 15988,
+    "match_winner": 39540,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.047",
+    "odd2": "8.3",
+    "player1": {
+     "id": 39540,
+     "name": "Emiliana Arango",
+     "countryAcr": "COL"
+    },
+    "player2": {
+     "id": 96133,
+     "name": "Yushan Shao",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15988,
+     "name": "China Open - Beijing",
+     "courtId": 1,
+     "date": "2025-09-22T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,1955 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "869326",
+    "matchId": "869326",
+    "date": "2026-05-23T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 42098,
+    "player2Id": 74280,
+    "tournamentId": 16723,
+    "match_winner": 42098,
+    "result": "6-0 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 74280,
+     "name": "Victoria Mboko",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869296",
+    "matchId": "869296",
+    "date": "2026-05-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 74280,
+    "player2Id": 17614,
+    "tournamentId": 16723,
+    "match_winner": 74280,
+    "result": "7-6(3) 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.76",
+    "player1": {
+     "id": 74280,
+     "name": "Victoria Mboko",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869304",
+    "matchId": "869304",
+    "date": "2026-05-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 42098,
+    "player2Id": 45866,
+    "tournamentId": 16723,
+    "match_winner": 42098,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869286",
+    "matchId": "869286",
+    "date": "2026-05-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 42098,
+    "player2Id": 4263,
+    "tournamentId": 16723,
+    "match_winner": 42098,
+    "result": "2-6 7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869295",
+    "matchId": "869295",
+    "date": "2026-05-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17614,
+    "player2Id": 17503,
+    "tournamentId": 16723,
+    "match_winner": 17614,
+    "result": "7-6(3) 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.25",
+    "odd2": "1.64",
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869301",
+    "matchId": "869301",
+    "date": "2026-05-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 45866,
+    "player2Id": 24572,
+    "tournamentId": 16723,
+    "match_winner": 45866,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869307",
+    "matchId": "869307",
+    "date": "2026-05-21T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 74280,
+    "player2Id": 49081,
+    "tournamentId": 16723,
+    "match_winner": 74280,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.15",
+    "player1": {
+     "id": 74280,
+     "name": "Victoria Mboko",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869308",
+    "matchId": "869308",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4263,
+    "player2Id": 51151,
+    "tournamentId": 16723,
+    "match_winner": 4263,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.29",
+    "odd2": "1.62",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869309",
+    "matchId": "869309",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 24572,
+    "player2Id": 51696,
+    "tournamentId": 16723,
+    "match_winner": 24572,
+    "result": "3-1 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.73",
+    "odd2": "2.1",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 51696,
+     "name": "Oleksandra Oliynykova",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869314",
+    "matchId": "869314",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17614,
+    "player2Id": 54989,
+    "tournamentId": 16723,
+    "match_winner": 17614,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 54989,
+     "name": "Clara Tauson",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869329",
+    "matchId": "869329",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 80381,
+    "tournamentId": 16723,
+    "match_winner": 42098,
+    "result": "6-4 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.85",
+    "odd2": "1.42",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 80381,
+     "name": "Iva Jovic",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869292",
+    "matchId": "869292",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45866,
+    "player2Id": 14054,
+    "tournamentId": 16723,
+    "match_winner": 45866,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869293",
+    "matchId": "869293",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 49081,
+    "player2Id": 17155,
+    "tournamentId": 16723,
+    "match_winner": 49081,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869299",
+    "matchId": "869299",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 24344,
+    "tournamentId": 16723,
+    "match_winner": 4263,
+    "result": "2-6 7-6(7) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.29",
+    "odd2": "1.62",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869312",
+    "matchId": "869312",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 51151,
+    "player2Id": 53487,
+    "tournamentId": 16723,
+    "match_winner": 51151,
+    "result": "6-4 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.66",
+    "player1": {
+     "id": 51151,
+     "name": "Diane Parry",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 53487,
+     "name": "Emma Raducanu",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869313",
+    "matchId": "869313",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 53793,
+    "tournamentId": 16723,
+    "match_winner": 17503,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869317",
+    "matchId": "869317",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 74280,
+    "player2Id": 60758,
+    "tournamentId": 16723,
+    "match_winner": 74280,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.94",
+    "player1": {
+     "id": 74280,
+     "name": "Victoria Mboko",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 60758,
+     "name": "Lois Boisson",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869294",
+    "matchId": "869294",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24572,
+    "player2Id": 17501,
+    "tournamentId": 16723,
+    "match_winner": 24572,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.07",
+    "odd2": "1.75",
+    "player1": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869300",
+    "matchId": "869300",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 24368,
+    "tournamentId": 16723,
+    "match_winner": 17503,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "1.99",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869306",
+    "matchId": "869306",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17614,
+    "player2Id": 48900,
+    "tournamentId": 16723,
+    "match_winner": 17614,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869318",
+    "matchId": "869318",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17155,
+    "player2Id": 63749,
+    "tournamentId": 16723,
+    "match_winner": 17155,
+    "result": "7-6(0) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 63749,
+     "name": "Talia Gibson",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869320",
+    "matchId": "869320",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 51696,
+    "player2Id": 67792,
+    "tournamentId": 16723,
+    "match_winner": 51696,
+    "result": "3-6 7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51696,
+     "name": "Oleksandra Oliynykova",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 67792,
+     "name": "Alexandra Eala",
+     "countryAcr": "PHI"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869288",
+    "matchId": "869288",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49081,
+    "player2Id": 11959,
+    "tournamentId": 16723,
+    "match_winner": 49081,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 11959,
+     "name": "Leolia Jeanjean",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869291",
+    "matchId": "869291",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53793,
+    "player2Id": 13541,
+    "tournamentId": 16723,
+    "match_winner": 53793,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869305",
+    "matchId": "869305",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60758,
+    "player2Id": 47152,
+    "tournamentId": 16723,
+    "match_winner": 60758,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60758,
+     "name": "Lois Boisson",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869323",
+    "matchId": "869323",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42098,
+    "player2Id": 71163,
+    "tournamentId": 16723,
+    "match_winner": 42098,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 71163,
+     "name": "Sara Bejlek",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869324",
+    "matchId": "869324",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45866,
+    "player2Id": 72414,
+    "tournamentId": 16723,
+    "match_winner": 45866,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 72414,
+     "name": "Maya Joint",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "869325",
+    "matchId": "869325",
+    "date": "2026-05-23T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 71500,
+    "player2Id": 73263,
+    "tournamentId": 16723,
+    "match_winner": 71500,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73263,
+     "name": "Ulrikke Eikeri/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869327",
+    "matchId": "869327",
+    "date": "2026-05-22T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 71500,
+    "player2Id": 79117,
+    "tournamentId": 16723,
+    "match_winner": 71500,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79117,
+     "name": "Ekaterina Alexandrova/Anna Danilina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869332",
+    "matchId": "869332",
+    "date": "2026-05-21T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 73263,
+    "player2Id": 102553,
+    "tournamentId": 16723,
+    "match_winner": 73263,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73263,
+     "name": "Ulrikke Eikeri/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102553,
+     "name": "Maya Joint/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869321",
+    "matchId": "869321",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 71500,
+    "player2Id": 68286,
+    "tournamentId": 16723,
+    "match_winner": 71500,
+    "result": "7-5 2-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.43",
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68286,
+     "name": "Lyudmyla Kichenok/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869337",
+    "matchId": "869337",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 79117,
+    "player2Id": 108715,
+    "tournamentId": 16723,
+    "match_winner": 79117,
+    "result": "7-5 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79117,
+     "name": "Ekaterina Alexandrova/Anna Danilina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 108715,
+     "name": "Asia Muhammad/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869338",
+    "matchId": "869338",
+    "date": "2026-05-20T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 102553,
+    "player2Id": 108716,
+    "tournamentId": 16723,
+    "match_winner": 102553,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "1.84",
+    "player1": {
+     "id": 102553,
+     "name": "Maya Joint/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 108716,
+     "name": "Maria Kozyreva/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869311",
+    "matchId": "869311",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 73263,
+    "player2Id": 53375,
+    "tournamentId": 16723,
+    "match_winner": 73263,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.69",
+    "player1": {
+     "id": 73263,
+     "name": "Ulrikke Eikeri/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 53375,
+     "name": "Miriam Skoch/Jesika Maleckova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869331",
+    "matchId": "869331",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68286,
+    "player2Id": 94430,
+    "tournamentId": 16723,
+    "match_winner": 68286,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68286,
+     "name": "Lyudmyla Kichenok/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869333",
+    "matchId": "869333",
+    "date": "2026-05-19T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 108716,
+    "player2Id": 102560,
+    "tournamentId": 16723,
+    "match_winner": 108716,
+    "result": "6-4 1-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.48",
+    "odd2": "1.25",
+    "player1": {
+     "id": 108716,
+     "name": "Maria Kozyreva/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 102560,
+     "name": "Cristina Bucsa/Nicole Melichar",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869302",
+    "matchId": "869302",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 102553,
+    "player2Id": 39560,
+    "tournamentId": 16723,
+    "match_winner": 102553,
+    "result": "6-7(7) 6-2 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.49",
+    "player1": {
+     "id": 102553,
+     "name": "Maya Joint/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 39560,
+     "name": "Hao-Ching Chan/Andreja Klepac",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869334",
+    "matchId": "869334",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 108715,
+    "player2Id": 104276,
+    "tournamentId": 16723,
+    "match_winner": 108715,
+    "result": "6-3 4-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.2",
+    "player1": {
+     "id": 108715,
+     "name": "Asia Muhammad/Fanny Stollar",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 104276,
+     "name": "Eri Hozumi/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869335",
+    "matchId": "869335",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79117,
+    "player2Id": 107405,
+    "tournamentId": 16723,
+    "match_winner": 79117,
+    "result": "7-6(5) 5-7 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.24",
+    "player1": {
+     "id": 79117,
+     "name": "Ekaterina Alexandrova/Anna Danilina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 107405,
+     "name": "Xinyu Jiang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869336",
+    "matchId": "869336",
+    "date": "2026-05-18T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71500,
+    "player2Id": 108714,
+    "tournamentId": 16723,
+    "match_winner": 71500,
+    "result": "6-2 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71500,
+     "name": "Gabriela Dabrowski/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 108714,
+     "name": "Antonia Ruzic/Oksana Selekhmeteva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869322",
+    "matchId": "869322",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73263,
+    "player2Id": 70854,
+    "tournamentId": 16723,
+    "match_winner": 73263,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.43",
+    "player1": {
+     "id": 73263,
+     "name": "Ulrikke Eikeri/Quinn Gleason",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70854,
+     "name": "Estelle Cascino/Elsa Jacquemot",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869339",
+    "matchId": "869339",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53375,
+    "player2Id": 108717,
+    "tournamentId": 16723,
+    "match_winner": 53375,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.55",
+    "odd2": "1.44",
+    "player1": {
+     "id": 53375,
+     "name": "Miriam Skoch/Jesika Maleckova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 108717,
+     "name": "Erin Routliffe/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "869287",
+    "matchId": "869287",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 63749,
+    "player2Id": 4263,
+    "tournamentId": 16723,
+    "match_winner": 63749,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.33",
+    "odd2": "1.52",
+    "player1": {
+     "id": 63749,
+     "name": "Talia Gibson",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869289",
+    "matchId": "869289",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 51696,
+    "player2Id": 12390,
+    "tournamentId": 16723,
+    "match_winner": 51696,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51696,
+     "name": "Oleksandra Oliynykova",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869310",
+    "matchId": "869310",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17503,
+    "player2Id": 52660,
+    "tournamentId": 16723,
+    "match_winner": 17503,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869316",
+    "matchId": "869316",
+    "date": "2026-05-17T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 48900,
+    "player2Id": 59448,
+    "tournamentId": 16723,
+    "match_winner": 48900,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.666",
+    "odd2": "2.05",
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 59448,
+     "name": "Oksana Selekhmeteva",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869290",
+    "matchId": "869290",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4263,
+    "player2Id": 13094,
+    "tournamentId": 16723,
+    "match_winner": 4263,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869297",
+    "matchId": "869297",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48900,
+    "player2Id": 18403,
+    "tournamentId": 16723,
+    "match_winner": 48900,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.375",
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18403,
+     "name": "Renata Zarazua",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869298",
+    "matchId": "869298",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 59448,
+    "player2Id": 23432,
+    "tournamentId": 16723,
+    "match_winner": 59448,
+    "result": "1-6 6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.77",
+    "player1": {
+     "id": 59448,
+     "name": "Oksana Selekhmeteva",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869303",
+    "matchId": "869303",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 63749,
+    "player2Id": 44525,
+    "tournamentId": 16723,
+    "match_winner": 63749,
+    "result": "6-2 3-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.55",
+    "player1": {
+     "id": 63749,
+     "name": "Talia Gibson",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 44525,
+     "name": "Eva Lys",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869315",
+    "matchId": "869315",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52660,
+    "player2Id": 57147,
+    "tournamentId": 16723,
+    "match_winner": 52660,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52660,
+     "name": "Anastasia Zakharova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 57147,
+     "name": "Elsa Jacquemot",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869319",
+    "matchId": "869319",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12390,
+    "player2Id": 65417,
+    "tournamentId": 16723,
+    "match_winner": 12390,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 65417,
+     "name": "Antonia Ruzic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869328",
+    "matchId": "869328",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17503,
+    "player2Id": 80301,
+    "tournamentId": 16723,
+    "match_winner": 17503,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 80301,
+     "name": "Valentina Steiner",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "869330",
+    "matchId": "869330",
+    "date": "2026-05-16T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 51696,
+    "player2Id": 90658,
+    "tournamentId": 16723,
+    "match_winner": 51696,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 51696,
+     "name": "Oleksandra Oliynykova",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 90658,
+     "name": "Ksenia Efremova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 16723,
+     "name": "Internationaux de Strasbourg - Strasbourg",
+     "courtId": 2,
+     "date": "2026-05-18T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "FRA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,2776 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "814874",
+    "date": "2025-04-06T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11712,
+    "player2Id": 23432,
+    "tournamentId": 15957,
+    "match_winner": 11712,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814858",
+    "date": "2025-04-05T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11712,
+    "player2Id": 14054,
+    "tournamentId": 15957,
+    "match_winner": 11712,
+    "result": "6-2 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814886",
+    "date": "2025-04-05T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 23432,
+    "player2Id": 41564,
+    "tournamentId": 15957,
+    "match_winner": 23432,
+    "result": "5-2 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814850",
+    "date": "2025-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 11575,
+    "tournamentId": 15957,
+    "match_winner": 11712,
+    "result": "1-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814882",
+    "date": "2025-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 23432,
+    "player2Id": 32480,
+    "tournamentId": 15957,
+    "match_winner": 23432,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814888",
+    "date": "2025-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 41564,
+    "player2Id": 42098,
+    "tournamentId": 15957,
+    "match_winner": 41564,
+    "result": "7-5 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "2",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814896",
+    "date": "2025-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14054,
+    "player2Id": 53128,
+    "tournamentId": 15957,
+    "match_winner": 14054,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814847",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 9503,
+    "tournamentId": 15957,
+    "match_winner": 11712,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814851",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32480,
+    "player2Id": 11672,
+    "tournamentId": 15957,
+    "match_winner": 32480,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.125",
+    "odd2": "1.363",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814854",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 41564,
+    "player2Id": 12390,
+    "tournamentId": 15957,
+    "match_winner": 41564,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.79",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814856",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 53128,
+    "player2Id": 13351,
+    "tournamentId": 15957,
+    "match_winner": 53128,
+    "result": "6-3 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.14",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814868",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11575,
+    "player2Id": 16628,
+    "tournamentId": 15957,
+    "match_winner": 11575,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814871",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 23432,
+    "player2Id": 17503,
+    "tournamentId": 15957,
+    "match_winner": 23432,
+    "result": "6-3 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814902",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 42098,
+    "player2Id": 64343,
+    "tournamentId": 15957,
+    "match_winner": 42098,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814903",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14054,
+    "player2Id": 65911,
+    "tournamentId": 15957,
+    "match_winner": 14054,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.68",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814843",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 4263,
+    "tournamentId": 15957,
+    "match_winner": 12390,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814853",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 12205,
+    "tournamentId": 15957,
+    "match_winner": 17503,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.188",
+    "odd2": "4.75",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814857",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53128,
+    "player2Id": 13541,
+    "tournamentId": 15957,
+    "match_winner": 53128,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.04",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814859",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23432,
+    "player2Id": 14056,
+    "tournamentId": 15957,
+    "match_winner": 23432,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.68",
+    "odd2": "1.47",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814870",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 17345,
+    "tournamentId": 15957,
+    "match_winner": 16628,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.164",
+    "odd2": "5.15",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814873",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 18454,
+    "tournamentId": 15957,
+    "match_winner": 11712,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.066",
+    "odd2": "8.7",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18454,
+     "name": "Iryna Shymanovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814887",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32480,
+    "player2Id": 41569,
+    "tournamentId": 15957,
+    "match_winner": 32480,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.24",
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814892",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 44510,
+    "tournamentId": 15957,
+    "match_winner": 13351,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814893",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 45866,
+    "tournamentId": 15957,
+    "match_winner": 14054,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.4",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814894",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 48254,
+    "tournamentId": 15957,
+    "match_winner": 42098,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814895",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 64343,
+    "player2Id": 52790,
+    "tournamentId": 15957,
+    "match_winner": 64343,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814897",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9503,
+    "player2Id": 53793,
+    "tournamentId": 15957,
+    "match_winner": 9503,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.62",
+    "odd2": "1.49",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 53793,
+     "name": "Peyton Stearns",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814900",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 65911,
+    "player2Id": 60791,
+    "tournamentId": 15957,
+    "match_winner": 65911,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814849",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 18454,
+    "player2Id": 11071,
+    "tournamentId": 15957,
+    "match_winner": 18454,
+    "result": "7-6(8) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18454,
+     "name": "Iryna Shymanovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814860",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 14259,
+    "tournamentId": 15957,
+    "match_winner": 23432,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.2",
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814861",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12205,
+    "player2Id": 14504,
+    "tournamentId": 15957,
+    "match_winner": 12205,
+    "result": "3-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14504,
+     "name": "Jamie Loeb",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814867",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 41564,
+    "player2Id": 16119,
+    "tournamentId": 15957,
+    "match_winner": 41564,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814876",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 27032,
+    "tournamentId": 15957,
+    "match_winner": 4263,
+    "result": "7-5 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.41",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814879",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11672,
+    "player2Id": 28585,
+    "tournamentId": 15957,
+    "match_winner": 11672,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814883",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 45866,
+    "player2Id": 34747,
+    "tournamentId": 15957,
+    "match_winner": 45866,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.63",
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814890",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48254,
+    "player2Id": 43865,
+    "tournamentId": 15957,
+    "match_winner": 48254,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48254,
+     "name": "Hailey Baptiste",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814901",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 64341,
+    "tournamentId": 15957,
+    "match_winner": 11575,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814904",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 66176,
+    "tournamentId": 15957,
+    "match_winner": 13541,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.52",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 66176,
+     "name": "Marina Stakusic",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814905",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17345,
+    "player2Id": 69652,
+    "tournamentId": 15957,
+    "match_winner": 17345,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.48",
+    "odd2": "1.54",
+    "player1": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814845",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60791,
+    "player2Id": 6651,
+    "tournamentId": 15957,
+    "match_winner": 60791,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.6",
+    "player1": {
+     "id": 60791,
+     "name": "Polina Kudermetova",
+     "countryAcr": "UZB"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814855",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64341,
+    "player2Id": 12432,
+    "tournamentId": 15957,
+    "match_winner": 64341,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64341,
+     "name": "Robin Montgomery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814862",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 14609,
+    "tournamentId": 15957,
+    "match_winner": 44510,
+    "result": "6-1 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814865",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 15642,
+    "tournamentId": 15957,
+    "match_winner": 9503,
+    "result": "3-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.52",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 15642,
+     "name": "Kyoka Okamura",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814866",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41569,
+    "player2Id": 16043,
+    "tournamentId": 15957,
+    "match_winner": 41569,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814880",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52790,
+    "player2Id": 29178,
+    "tournamentId": 15957,
+    "match_winner": 52790,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814885",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 37592,
+    "tournamentId": 15957,
+    "match_winner": 16119,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 37592,
+     "name": "Maria Mateas",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814898",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 54664,
+    "tournamentId": 15957,
+    "match_winner": 28585,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.09",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "814909",
+    "date": "2025-04-06T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 100000,
+    "player2Id": 91775,
+    "tournamentId": 15957,
+    "match_winner": 100000,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2",
+    "player1": {
+     "id": 100000,
+     "name": "Jelena Ostapenko/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814906",
+    "date": "2025-04-05T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 100000,
+    "player2Id": 73060,
+    "tournamentId": 15957,
+    "match_winner": 100000,
+    "result": "6-2 5-7 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.33",
+    "player1": {
+     "id": 100000,
+     "name": "Jelena Ostapenko/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73060,
+     "name": "Hailey Baptiste/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814916",
+    "date": "2025-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 73060,
+    "player2Id": 99112,
+    "tournamentId": 15957,
+    "match_winner": 73060,
+    "result": "7-6(6) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73060,
+     "name": "Hailey Baptiste/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814920",
+    "date": "2025-04-04T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 91775,
+    "player2Id": 100003,
+    "tournamentId": 15957,
+    "match_winner": 91775,
+    "result": "1-6 6-4 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.73",
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100003,
+     "name": "Diana Shnaider/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814884",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 91775,
+    "player2Id": 36813,
+    "tournamentId": 15957,
+    "match_winner": 91775,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36813,
+     "name": "Bethanie Mattek-Sands/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814910",
+    "date": "2025-04-03T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 100003,
+    "player2Id": 92863,
+    "tournamentId": 15957,
+    "match_winner": 100003,
+    "result": "4-6 6-3 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "1.86",
+    "player1": {
+     "id": 100003,
+     "name": "Diana Shnaider/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814907",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 92863,
+    "player2Id": 78126,
+    "tournamentId": 15957,
+    "match_winner": 92863,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78126,
+     "name": "Harriet Dart/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814908",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 100000,
+    "player2Id": 84303,
+    "tournamentId": 15957,
+    "match_winner": 100000,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.54",
+    "odd2": "2.35",
+    "player1": {
+     "id": 100000,
+     "name": "Jelena Ostapenko/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84303,
+     "name": "Ekaterina Alexandrova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814915",
+    "date": "2025-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91775,
+    "player2Id": 98642,
+    "tournamentId": 15957,
+    "match_winner": 91775,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 98642,
+     "name": "Maria Mateas/Alana Smith",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814912",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100003,
+    "player2Id": 94430,
+    "tournamentId": 15957,
+    "match_winner": 100003,
+    "result": "5-7 6-1 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.72",
+    "player1": {
+     "id": 100003,
+     "name": "Diana Shnaider/Peyton Stearns",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94430,
+     "name": "Tereza Mihalikova/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814913",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36813,
+    "player2Id": 94490,
+    "tournamentId": 15957,
+    "match_winner": 36813,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "2.89",
+    "player1": {
+     "id": 36813,
+     "name": "Bethanie Mattek-Sands/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 94490,
+     "name": "Sophie Chang/Rasheeda Mcadoo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814917",
+    "date": "2025-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 99112,
+    "player2Id": 99873,
+    "tournamentId": 15957,
+    "match_winner": 99112,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.375",
+    "player1": {
+     "id": 99112,
+     "name": "Sofia Kenin/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 99873,
+     "name": "Nadiya Kichenok/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814911",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 73060,
+    "player2Id": 93113,
+    "tournamentId": 15957,
+    "match_winner": 73060,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.6",
+    "player1": {
+     "id": 73060,
+     "name": "Hailey Baptiste/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93113,
+     "name": "Fang-Hsien Wu/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814918",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 100000,
+    "player2Id": 100001,
+    "tournamentId": 15957,
+    "match_winner": 100000,
+    "result": "2-6 6-3 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.148",
+    "odd2": "4.9",
+    "player1": {
+     "id": 100000,
+     "name": "Jelena Ostapenko/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100001,
+     "name": "Viktoriya Tomova/Katie Volynets",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814919",
+    "date": "2025-03-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84303,
+    "player2Id": 100002,
+    "tournamentId": 15957,
+    "match_winner": 84303,
+    "result": "3-6 6-2 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84303,
+     "name": "Ekaterina Alexandrova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 100002,
+     "name": "Olivia Gadecki/Eri Hozumi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "814842",
+    "date": "2025-03-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4263,
+    "player2Id": 448,
+    "tournamentId": 15957,
+    "match_winner": 4263,
+    "result": "4-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.124",
+    "odd2": "5.4",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814852",
+    "date": "2025-03-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14504,
+    "player2Id": 11930,
+    "tournamentId": 15957,
+    "match_winner": 14504,
+    "result": "6-2 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14504,
+     "name": "Jamie Loeb",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11930,
+     "name": "Eri Hozumi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814864",
+    "date": "2025-03-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 29178,
+    "player2Id": 15642,
+    "tournamentId": 15957,
+    "match_winner": 29178,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 15642,
+     "name": "Kyoka Okamura",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814869",
+    "date": "2025-03-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17345,
+    "player2Id": 17282,
+    "tournamentId": 15957,
+    "match_winner": 17345,
+    "result": "6-7(4) 6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "2.73",
+    "player1": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17282,
+     "name": "Kajsa Rinaldo Persson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814878",
+    "date": "2025-03-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 41569,
+    "player2Id": 27804,
+    "tournamentId": 15957,
+    "match_winner": 41569,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.64",
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814899",
+    "date": "2025-03-30T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 18454,
+    "player2Id": 55186,
+    "tournamentId": 15957,
+    "match_winner": 18454,
+    "result": "7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.24",
+    "player1": {
+     "id": 18454,
+     "name": "Iryna Shymanovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 55186,
+     "name": "Elvina Kalieva",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814844",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41569,
+    "player2Id": 6159,
+    "tournamentId": 15957,
+    "match_winner": 41569,
+    "result": "6-1 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814846",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18454,
+    "player2Id": 9099,
+    "tournamentId": 15957,
+    "match_winner": 18454,
+    "result": "6-2 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.085",
+    "odd2": "6.5",
+    "player1": {
+     "id": 18454,
+     "name": "Iryna Shymanovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9099,
+     "name": "Lyudmyla Kichenok",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814848",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 55186,
+    "player2Id": 10084,
+    "tournamentId": 15957,
+    "match_winner": 55186,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 55186,
+     "name": "Elvina Kalieva",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10084,
+     "name": "Hao-Ching Chan",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814863",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 29178,
+    "player2Id": 14697,
+    "tournamentId": 15957,
+    "match_winner": 29178,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814872",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17345,
+    "player2Id": 17673,
+    "tournamentId": 15957,
+    "match_winner": 17345,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.74",
+    "player1": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814875",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 448,
+    "player2Id": 25351,
+    "tournamentId": 15957,
+    "match_winner": 448,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.15",
+    "odd2": "1.32",
+    "player1": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25351,
+     "name": "Sophie Chang",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814877",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17282,
+    "player2Id": 27043,
+    "tournamentId": 15957,
+    "match_winner": 17282,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17282,
+     "name": "Kajsa Rinaldo Persson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 27043,
+     "name": "Fernanda Contreras Gomez",
+     "countryAcr": "MEX"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814881",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 30909,
+    "tournamentId": 15957,
+    "match_winner": 27804,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 30909,
+     "name": "Alana Smith",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814889",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14504,
+    "player2Id": 42435,
+    "tournamentId": 15957,
+    "match_winner": 14504,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.74",
+    "player1": {
+     "id": 14504,
+     "name": "Jamie Loeb",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 42435,
+     "name": "Mei Yamaguchi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814891",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4263,
+    "player2Id": 44197,
+    "tournamentId": 15957,
+    "match_winner": 4263,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.119",
+    "odd2": "5.5",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 44197,
+     "name": "Haley Giavara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "814914",
+    "date": "2025-03-29T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 15642,
+    "player2Id": 94655,
+    "tournamentId": 15957,
+    "match_winner": 15642,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.034",
+    "odd2": "9.2",
+    "player1": {
+     "id": 15642,
+     "name": "Kyoka Okamura",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 94655,
+     "name": "Anna Dvorackova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15957,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2025-03-31T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

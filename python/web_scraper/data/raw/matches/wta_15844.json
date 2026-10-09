@@ -1,0 +1,1060 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "807748",
+    "date": "2024-11-09T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 54663,
+    "player2Id": 53128,
+    "tournamentId": 15844,
+    "match_winner": 54663,
+    "result": "3-6 6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.36",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807735",
+    "date": "2024-11-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 53128,
+    "player2Id": 13267,
+    "tournamentId": 15844,
+    "match_winner": 53128,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.52",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807741",
+    "date": "2024-11-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 54663,
+    "player2Id": 18455,
+    "tournamentId": 15844,
+    "match_winner": 54663,
+    "result": "7-6(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807739",
+    "date": "2024-11-07T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 45854,
+    "player2Id": 17503,
+    "tournamentId": 15844,
+    "match_winner": 45854,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.2",
+    "odd2": "4.55",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807750",
+    "date": "2024-11-07T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 13267,
+    "player2Id": 54663,
+    "tournamentId": 15844,
+    "match_winner": 13267,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807738",
+    "date": "2024-11-06T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 53128,
+    "player2Id": 14362,
+    "tournamentId": 15844,
+    "match_winner": 53128,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807740",
+    "date": "2024-11-06T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 36558,
+    "player2Id": 18455,
+    "tournamentId": 15844,
+    "match_winner": 36558,
+    "result": "6-4 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807734",
+    "date": "2024-11-05T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 13267,
+    "player2Id": 11712,
+    "tournamentId": 15844,
+    "match_winner": 13267,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807747",
+    "date": "2024-11-05T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 54663,
+    "player2Id": 45854,
+    "tournamentId": 15844,
+    "match_winner": 54663,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807737",
+    "date": "2024-11-04T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 18455,
+    "player2Id": 14362,
+    "tournamentId": 15844,
+    "match_winner": 18455,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.119",
+    "odd2": "6.25",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807746",
+    "date": "2024-11-04T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 53128,
+    "player2Id": 36558,
+    "tournamentId": 15844,
+    "match_winner": 53128,
+    "result": "7-6(4) 3-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807733",
+    "date": "2024-11-03T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 54663,
+    "player2Id": 11712,
+    "tournamentId": 15844,
+    "match_winner": 54663,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.17",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807736",
+    "date": "2024-11-03T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 45854,
+    "player2Id": 13267,
+    "tournamentId": 15844,
+    "match_winner": 45854,
+    "result": "4-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807745",
+    "date": "2024-11-02T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 14362,
+    "player2Id": 36558,
+    "tournamentId": 15844,
+    "match_winner": 14362,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.5",
+    "odd2": "1.53",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807749",
+    "date": "2024-11-02T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 18455,
+    "player2Id": 53128,
+    "tournamentId": 15844,
+    "match_winner": 18455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.14",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "807762",
+    "date": "2024-11-09T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 88669,
+    "player2Id": 93781,
+    "tournamentId": 15844,
+    "match_winner": 88669,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807755",
+    "date": "2024-11-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 88669,
+    "player2Id": 78908,
+    "tournamentId": 15844,
+    "match_winner": 88669,
+    "result": "7-6(7) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807760",
+    "date": "2024-11-08T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 93781,
+    "player2Id": 92863,
+    "tournamentId": 15844,
+    "match_winner": 93781,
+    "result": "6-0 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.94",
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807751",
+    "date": "2024-11-07T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 92863,
+    "player2Id": 65079,
+    "tournamentId": 15844,
+    "match_winner": 92863,
+    "result": "3-6 7-6(3) 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807759",
+    "date": "2024-11-07T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 88669,
+    "player2Id": 91775,
+    "tournamentId": 15844,
+    "match_winner": 88669,
+    "result": "4-6 6-3 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.3",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807742",
+    "date": "2024-11-06T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 78908,
+    "player2Id": 26936,
+    "tournamentId": 15844,
+    "match_winner": 78908,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807754",
+    "date": "2024-11-06T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 93781,
+    "player2Id": 73265,
+    "tournamentId": 15844,
+    "match_winner": 93781,
+    "result": "3-6 6-3 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807752",
+    "date": "2024-11-05T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 88669,
+    "player2Id": 65079,
+    "tournamentId": 15844,
+    "match_winner": 88669,
+    "result": "1-6 7-6(1) 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.05",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807757",
+    "date": "2024-11-05T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 92863,
+    "player2Id": 91775,
+    "tournamentId": 15844,
+    "match_winner": 92863,
+    "result": "3-6 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807743",
+    "date": "2024-11-04T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 73265,
+    "player2Id": 26936,
+    "tournamentId": 15844,
+    "match_winner": 73265,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807756",
+    "date": "2024-11-04T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 93781,
+    "player2Id": 78908,
+    "tournamentId": 15844,
+    "match_winner": 93781,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807758",
+    "date": "2024-11-03T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 65079,
+    "player2Id": 91775,
+    "tournamentId": 15844,
+    "match_winner": 65079,
+    "result": "1-6 6-1 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.59",
+    "player1": {
+     "id": 65079,
+     "name": "Sara Errani/Jasmine Paolini",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807761",
+    "date": "2024-11-03T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 88669,
+    "player2Id": 92863,
+    "tournamentId": 15844,
+    "match_winner": 88669,
+    "result": "7-6(6) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.1",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807744",
+    "date": "2024-11-02T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 93781,
+    "player2Id": 26936,
+    "tournamentId": 15844,
+    "match_winner": 93781,
+    "result": "3-6 6-3 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 93781,
+     "name": "Katerina Siniakova/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "807753",
+    "date": "2024-11-02T00:00:00.000Z",
+    "roundId": 8,
+    "player1Id": 78908,
+    "player2Id": 73265,
+    "tournamentId": 15844,
+    "match_winner": 78908,
+    "result": "1-6 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 73265,
+     "name": "Su-Wei Hsieh/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15844,
+     "name": "WTA Finals - Riyadh",
+     "courtId": 3,
+     "date": "2024-11-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "KSA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

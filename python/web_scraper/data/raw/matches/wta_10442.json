@@ -1,0 +1,5681 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "365121",
+    "date": "2016-03-20T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 5416,
+    "player2Id": 241,
+    "tournamentId": 10442,
+    "match_winner": 5416,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365168",
+    "date": "2016-03-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 241,
+    "player2Id": 5915,
+    "tournamentId": 10442,
+    "match_winner": 241,
+    "result": "6-4 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.19",
+    "odd2": "5.7",
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365184",
+    "date": "2016-03-18T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 5416,
+    "player2Id": 7982,
+    "tournamentId": 10442,
+    "match_winner": 5416,
+    "result": "7-6(1) 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "3.02",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365167",
+    "date": "2016-03-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 5416,
+    "player2Id": 5900,
+    "tournamentId": 10442,
+    "match_winner": 5416,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365259",
+    "date": "2016-03-17T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 7982,
+    "player2Id": 17503,
+    "tournamentId": 10442,
+    "match_winner": 7982,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365186",
+    "date": "2016-03-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 5915,
+    "player2Id": 8234,
+    "tournamentId": 10442,
+    "match_winner": 5915,
+    "result": "6-2 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.94",
+    "player1": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365188",
+    "date": "2016-03-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 241,
+    "player2Id": 8324,
+    "tournamentId": 10442,
+    "match_winner": 241,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.95",
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365124",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 5915,
+    "player2Id": 444,
+    "tournamentId": 10442,
+    "match_winner": 5915,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "3.125",
+    "player1": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365128",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 5900,
+    "player2Id": 480,
+    "tournamentId": 10442,
+    "match_winner": 5900,
+    "result": "6-2 2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "3.16",
+    "odd2": "1.42",
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 480,
+     "name": "Roberta Vinci",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365131",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 5416,
+    "player2Id": 495,
+    "tournamentId": 10442,
+    "match_winner": 5416,
+    "result": "6-1 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "4.4",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365138",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 241,
+    "player2Id": 1014,
+    "tournamentId": 10442,
+    "match_winner": 241,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.045",
+    "odd2": "16",
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365139",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 8324,
+    "player2Id": 1058,
+    "tournamentId": 10442,
+    "match_winner": 8324,
+    "result": "6-3 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365144",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 17503,
+    "player2Id": 4090,
+    "tournamentId": 10442,
+    "match_winner": 17503,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.7",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365180",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 7982,
+    "player2Id": 7857,
+    "tournamentId": 10442,
+    "match_winner": 7982,
+    "result": "7-6(2) 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.28",
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365200",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 8234,
+    "player2Id": 9579,
+    "tournamentId": 10442,
+    "match_winner": 8234,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365155",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 4227,
+    "tournamentId": 10442,
+    "match_winner": 7982,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4227,
+     "name": "Ana Ivanovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365157",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 4263,
+    "tournamentId": 10442,
+    "match_winner": 5416,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "8.9",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365193",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 495,
+    "player2Id": 8665,
+    "tournamentId": 10442,
+    "match_winner": 495,
+    "result": "6-4 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.66",
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365206",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17503,
+    "player2Id": 10222,
+    "tournamentId": 10442,
+    "match_winner": 17503,
+    "result": "6-4 3-6 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.84",
+    "odd2": "2.1",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365216",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 4090,
+    "player2Id": 10814,
+    "tournamentId": 10442,
+    "match_winner": 4090,
+    "result": "6-2 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365221",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 480,
+    "player2Id": 11371,
+    "tournamentId": 10442,
+    "match_winner": 480,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 480,
+     "name": "Roberta Vinci",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365241",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7857,
+    "player2Id": 13109,
+    "tournamentId": 10442,
+    "match_winner": 7857,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.571",
+    "odd2": "2.6",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 13109,
+     "name": "Denisa Satralova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365250",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5900,
+    "player2Id": 14056,
+    "tournamentId": 10442,
+    "match_winner": 5900,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365146",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8234,
+    "player2Id": 4117,
+    "tournamentId": 10442,
+    "match_winner": 8234,
+    "result": "6-3 4-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4117,
+     "name": "Johanna Larsson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365151",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5915,
+    "player2Id": 4158,
+    "tournamentId": 10442,
+    "match_winner": 5915,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "4.55",
+    "player1": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365152",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8324,
+    "player2Id": 4159,
+    "tournamentId": 10442,
+    "match_winner": 8324,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365153",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 9579,
+    "player2Id": 4174,
+    "tournamentId": 10442,
+    "match_winner": 9579,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365189",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 1058,
+    "player2Id": 8353,
+    "tournamentId": 10442,
+    "match_winner": 1058,
+    "result": "3-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365190",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 444,
+    "player2Id": 8503,
+    "tournamentId": 10442,
+    "match_winner": 444,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.23",
+    "player1": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365203",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 1014,
+    "player2Id": 9857,
+    "tournamentId": 10442,
+    "match_winner": 1014,
+    "result": "3-6 6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "2.01",
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365236",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 241,
+    "player2Id": 12390,
+    "tournamentId": 10442,
+    "match_winner": 241,
+    "result": "7-6(2) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.055",
+    "odd2": "14",
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365140",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4090,
+    "player2Id": 3867,
+    "tournamentId": 10442,
+    "match_winner": 4090,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365142",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13109,
+    "player2Id": 4076,
+    "tournamentId": 10442,
+    "match_winner": 13109,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.55",
+    "odd2": "1.25",
+    "player1": {
+     "id": 13109,
+     "name": "Denisa Satralova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365164",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4263,
+    "player2Id": 5600,
+    "tournamentId": 10442,
+    "match_winner": 4263,
+    "result": "4-6 7-6(8) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.8",
+    "odd2": "1.32",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365166",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 495,
+    "player2Id": 5650,
+    "tournamentId": 10442,
+    "match_winner": 495,
+    "result": "2-6 6-4 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.28",
+    "player1": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365172",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 6201,
+    "tournamentId": 10442,
+    "match_winner": 7857,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.48",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365195",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4227,
+    "player2Id": 8696,
+    "tournamentId": 10442,
+    "match_winner": 4227,
+    "result": "2-6 6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 4227,
+     "name": "Ana Ivanovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365205",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10814,
+    "player2Id": 10033,
+    "tournamentId": 10442,
+    "match_winner": 10814,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365207",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5900,
+    "player2Id": 10334,
+    "tournamentId": 10442,
+    "match_winner": 5900,
+    "result": "2-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.4",
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365208",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 10394,
+    "tournamentId": 10442,
+    "match_winner": 5416,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.1",
+    "odd2": "8.9",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365212",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8665,
+    "player2Id": 10633,
+    "tournamentId": 10442,
+    "match_winner": 8665,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.15",
+    "odd2": "1.285",
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365224",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 11688,
+    "tournamentId": 10442,
+    "match_winner": 11371,
+    "result": "4-6 7-6(0) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "3.02",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11688,
+     "name": "Annika Beck",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365231",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 12205,
+    "tournamentId": 10442,
+    "match_winner": 14056,
+    "result": "6-3 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.153",
+    "odd2": "6.5",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365232",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 12267,
+    "tournamentId": 10442,
+    "match_winner": 7982,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365235",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 12389,
+    "tournamentId": 10442,
+    "match_winner": 17503,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365242",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10222,
+    "player2Id": 13265,
+    "tournamentId": 10442,
+    "match_winner": 10222,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.17",
+    "odd2": "1.79",
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365244",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 480,
+    "player2Id": 13484,
+    "tournamentId": 10442,
+    "match_winner": 480,
+    "result": "6-3 6-7(7) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 480,
+     "name": "Roberta Vinci",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365119",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8353,
+    "player2Id": 151,
+    "tournamentId": 10442,
+    "match_winner": 8353,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365127",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8503,
+    "player2Id": 457,
+    "tournamentId": 10442,
+    "match_winner": 8503,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.49",
+    "odd2": "1.6",
+    "player1": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 457,
+     "name": "Svetlana Kuznetsova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365136",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 1058,
+    "player2Id": 945,
+    "tournamentId": 10442,
+    "match_winner": 1058,
+    "result": "5-7 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.81",
+    "player1": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365141",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4159,
+    "player2Id": 3913,
+    "tournamentId": 10442,
+    "match_winner": 4159,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.85",
+    "player1": {
+     "id": 4159,
+     "name": "Ekaterina Makarova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365143",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4174,
+    "player2Id": 4089,
+    "tournamentId": 10442,
+    "match_winner": 4174,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 4089,
+     "name": "Lucie Safarova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365148",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9857,
+    "player2Id": 4121,
+    "tournamentId": 10442,
+    "match_winner": 9857,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.27",
+    "odd2": "1.71",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365154",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 241,
+    "player2Id": 4177,
+    "tournamentId": 10442,
+    "match_winner": 241,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.055",
+    "odd2": "13",
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365156",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 4229,
+    "tournamentId": 10442,
+    "match_winner": 8324,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 4229,
+     "name": "Vania King",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365162",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5915,
+    "player2Id": 5593,
+    "tournamentId": 10442,
+    "match_winner": 5915,
+    "result": "6-3 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "3.125",
+    "player1": {
+     "id": 5915,
+     "name": "Agnieszka Radwanska",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365169",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4117,
+    "player2Id": 6037,
+    "tournamentId": 10442,
+    "match_winner": 4117,
+    "result": "5-7 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4117,
+     "name": "Johanna Larsson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 6037,
+     "name": "Sabine Lisicki",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365176",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 1014,
+    "player2Id": 6740,
+    "tournamentId": 10442,
+    "match_winner": 1014,
+    "result": "6-2 6-7(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365199",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12390,
+    "player2Id": 9458,
+    "tournamentId": 10442,
+    "match_winner": 12390,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.57",
+    "odd2": "1.57",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365218",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4158,
+    "player2Id": 11071,
+    "tournamentId": 10442,
+    "match_winner": 4158,
+    "result": "6-4 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365223",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9579,
+    "player2Id": 11672,
+    "tournamentId": 10442,
+    "match_winner": 9579,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.06",
+    "odd2": "1.43",
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365233",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 444,
+    "player2Id": 12353,
+    "tournamentId": 10442,
+    "match_winner": 444,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "4.45",
+    "player1": {
+     "id": 444,
+     "name": "Jelena Jankovic",
+     "countryAcr": "SRB"
+    },
+    "player2": {
+     "id": 12353,
+     "name": "Carina Witthoeft",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365238",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8234,
+    "player2Id": 12525,
+    "tournamentId": 10442,
+    "match_winner": 8234,
+    "result": "6-3 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365120",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10222,
+    "player2Id": 180,
+    "tournamentId": 10442,
+    "match_winner": 10222,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.96",
+    "odd2": "1.96",
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 180,
+     "name": "Mirjana Lucic-Baroni",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365122",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 379,
+    "tournamentId": 10442,
+    "match_winner": 17503,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "3.125",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 379,
+     "name": "Daniela Hantuchova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365125",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11688,
+    "player2Id": 448,
+    "tournamentId": 10442,
+    "match_winner": 11688,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11688,
+     "name": "Annika Beck",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 448,
+     "name": "Bethanie Mattek-Sands",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365137",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13109,
+    "player2Id": 985,
+    "tournamentId": 10442,
+    "match_winner": 13109,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.72",
+    "player1": {
+     "id": 13109,
+     "name": "Denisa Satralova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 985,
+     "name": "Petra Cetkovska",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365147",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 4120,
+    "tournamentId": 10442,
+    "match_winner": 4263,
+    "result": "7-6(5) ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.26",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365163",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13484,
+    "player2Id": 5599,
+    "tournamentId": 10442,
+    "match_winner": 13484,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5599,
+     "name": "Olga Govortsova",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365171",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 6125,
+    "tournamentId": 10442,
+    "match_winner": 12267,
+    "result": "6-1 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.81",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6125,
+     "name": "Mariana Duque-Marino",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365178",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8696,
+    "player2Id": 7102,
+    "tournamentId": 10442,
+    "match_winner": 8696,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365182",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5650,
+    "player2Id": 7926,
+    "tournamentId": 10442,
+    "match_winner": 5650,
+    "result": "0-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365187",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6201,
+    "player2Id": 8262,
+    "tournamentId": 10442,
+    "match_winner": 6201,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365210",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8665,
+    "player2Id": 10455,
+    "tournamentId": 10442,
+    "match_winner": 8665,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365214",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5900,
+    "player2Id": 10748,
+    "tournamentId": 10442,
+    "match_winner": 5900,
+    "result": "7-6(3) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 10748,
+     "name": "Laura Robson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365237",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10814,
+    "player2Id": 12404,
+    "tournamentId": 10442,
+    "match_winner": 10814,
+    "result": "2-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "5",
+    "player1": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 12404,
+     "name": "Risa Ozaki",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365245",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 3867,
+    "player2Id": 13498,
+    "tournamentId": 10442,
+    "match_winner": 3867,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 3867,
+     "name": "Tsvetana Pironkova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365248",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12205,
+    "player2Id": 13937,
+    "tournamentId": 10442,
+    "match_winner": 12205,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365253",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10394,
+    "player2Id": 14504,
+    "tournamentId": 10442,
+    "match_winner": 10394,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 14504,
+     "name": "Jamie Loeb",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365130",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 491,
+    "tournamentId": 10442,
+    "match_winner": 12390,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 491,
+     "name": "Shuai Peng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365135",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11071,
+    "player2Id": 914,
+    "tournamentId": 10442,
+    "match_winner": 11071,
+    "result": "7-6(4) 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 914,
+     "name": "Galina Voskoboeva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365145",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4117,
+    "player2Id": 4110,
+    "tournamentId": 10442,
+    "match_winner": 4117,
+    "result": "6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4117,
+     "name": "Johanna Larsson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365150",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8353,
+    "player2Id": 4135,
+    "tournamentId": 10442,
+    "match_winner": 8353,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 4135,
+     "name": "Teliana Pereira",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365173",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 6651,
+    "tournamentId": 10442,
+    "match_winner": 4177,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.51",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365174",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9579,
+    "player2Id": 6655,
+    "tournamentId": 10442,
+    "match_winner": 9579,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.26",
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6655,
+     "name": "Alexandra Dulgheru",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365185",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4174,
+    "player2Id": 7983,
+    "tournamentId": 10442,
+    "match_winner": 4174,
+    "result": "6-3 6-7(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4174,
+     "name": "Yaroslava Shvedova",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365191",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12353,
+    "player2Id": 8591,
+    "tournamentId": 10442,
+    "match_winner": 12353,
+    "result": "0-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.86",
+    "odd2": "2.07",
+    "player1": {
+     "id": 12353,
+     "name": "Carina Witthoeft",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 8591,
+     "name": "Irina Falconi",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365192",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8503,
+    "player2Id": 8652,
+    "tournamentId": 10442,
+    "match_winner": 8503,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.41",
+    "player1": {
+     "id": 8503,
+     "name": "Coco Vandeweghe",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365202",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 3913,
+    "player2Id": 9772,
+    "tournamentId": 10442,
+    "match_winner": 3913,
+    "result": "7-6(4) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.909",
+    "player1": {
+     "id": 3913,
+     "name": "Lucie Hradecka",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365211",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9857,
+    "player2Id": 10600,
+    "tournamentId": 10442,
+    "match_winner": 9857,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.15",
+    "odd2": "1.8",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365239",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 1014,
+    "player2Id": 12635,
+    "tournamentId": 10442,
+    "match_winner": 1014,
+    "result": "6-2 6-7(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365240",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 1058,
+    "player2Id": 12842,
+    "tournamentId": 10442,
+    "match_winner": 1058,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.98",
+    "player1": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365247",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4229,
+    "player2Id": 13621,
+    "tournamentId": 10442,
+    "match_winner": 4229,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4229,
+     "name": "Vania King",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365252",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12525,
+    "player2Id": 14289,
+    "tournamentId": 10442,
+    "match_winner": 12525,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 14289,
+     "name": "Samantha Crawford",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365258",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5593,
+    "player2Id": 17501,
+    "tournamentId": 10442,
+    "match_winner": 5593,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.58",
+    "player1": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "365272",
+    "date": "2016-03-19T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 44023,
+    "player2Id": 42087,
+    "tournamentId": 10442,
+    "match_winner": 44023,
+    "result": "4-6 6-4 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44023,
+     "name": "Bethanie Mattek-Sands/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365265",
+    "date": "2016-03-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 44023,
+    "player2Id": 27931,
+    "tournamentId": 10442,
+    "match_winner": 44023,
+    "result": "2-6 6-4 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44023,
+     "name": "Bethanie Mattek-Sands/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27931,
+     "name": "Timea Babos/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365278",
+    "date": "2016-03-17T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 42087,
+    "player2Id": 44447,
+    "tournamentId": 10442,
+    "match_winner": 42087,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.43",
+    "player1": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44447,
+     "name": "Sara Errani/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365204",
+    "date": "2016-03-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 42087,
+    "player2Id": 9880,
+    "tournamentId": 10442,
+    "match_winner": 42087,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 9880,
+     "name": "Vania King/Alla Kudryavtseva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365209",
+    "date": "2016-03-16T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 44447,
+    "player2Id": 10412,
+    "tournamentId": 10442,
+    "match_winner": 44447,
+    "result": "3-6 6-3 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44447,
+     "name": "Sara Errani/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365213",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 44023,
+    "player2Id": 10718,
+    "tournamentId": 10442,
+    "match_winner": 44023,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44023,
+     "name": "Bethanie Mattek-Sands/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365251",
+    "date": "2016-03-15T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27931,
+    "player2Id": 14120,
+    "tournamentId": 10442,
+    "match_winner": 27931,
+    "result": "5-7 6-4 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27931,
+     "name": "Timea Babos/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 14120,
+     "name": "Andreja Klepac/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365219",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 44023,
+    "player2Id": 11101,
+    "tournamentId": 10442,
+    "match_winner": 44023,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.33",
+    "odd2": "1.63",
+    "player1": {
+     "id": 44023,
+     "name": "Bethanie Mattek-Sands/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365226",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 44447,
+    "player2Id": 11769,
+    "tournamentId": 10442,
+    "match_winner": 44447,
+    "result": "7-6(5) 5-7 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.14",
+    "player1": {
+     "id": 44447,
+     "name": "Sara Errani/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11769,
+     "name": "Kateryna Volodko/Olga Savchuk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365262",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27931,
+    "player2Id": 23522,
+    "tournamentId": 10442,
+    "match_winner": 27931,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27931,
+     "name": "Timea Babos/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23522,
+     "name": "Yifan Xu/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365276",
+    "date": "2016-03-14T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10412,
+    "player2Id": 44218,
+    "tournamentId": 10442,
+    "match_winner": 10412,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.63",
+    "player1": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44218,
+     "name": "Margarita Gasparyan/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365270",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9880,
+    "player2Id": 37593,
+    "tournamentId": 10442,
+    "match_winner": 9880,
+    "result": "7-6(7) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9880,
+     "name": "Vania King/Alla Kudryavtseva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365274",
+    "date": "2016-03-13T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42087,
+    "player2Id": 42544,
+    "tournamentId": 10442,
+    "match_winner": 42087,
+    "result": "6-1 6-7(5) 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42544,
+     "name": "Daria Kasatkina/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365264",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14120,
+    "player2Id": 27659,
+    "tournamentId": 10442,
+    "match_winner": 14120,
+    "result": "5-7 7-5 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.98",
+    "odd2": "1.86",
+    "player1": {
+     "id": 14120,
+     "name": "Andreja Klepac/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27659,
+     "name": "Kiki Bertens/Johanna Larsson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365280",
+    "date": "2016-03-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10718,
+    "player2Id": 44449,
+    "tournamentId": 10442,
+    "match_winner": 10718,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.84",
+    "player1": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44449,
+     "name": "Denisa Satralova/Petra Kvitova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365159",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11769,
+    "player2Id": 5114,
+    "tournamentId": 10442,
+    "match_winner": 11769,
+    "result": "7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11769,
+     "name": "Kateryna Volodko/Olga Savchuk",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 5114,
+     "name": "Anabel Medina Garrigues/Arantxa Parra-Santonja",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365179",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42544,
+    "player2Id": 7421,
+    "tournamentId": 10442,
+    "match_winner": 42544,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.72",
+    "player1": {
+     "id": 42544,
+     "name": "Daria Kasatkina/Elena Vesnina",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 7421,
+     "name": "Anastasia Rodionova/Galina Voskoboeva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365255",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37593,
+    "player2Id": 16781,
+    "tournamentId": 10442,
+    "match_winner": 37593,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.3",
+    "player1": {
+     "id": 37593,
+     "name": "Martina Hingis/Sania Mirza",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 16781,
+     "name": "Casey Dellacqua/Samantha Stosur",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365275",
+    "date": "2016-03-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44023,
+    "player2Id": 44118,
+    "tournamentId": 10442,
+    "match_winner": 44023,
+    "result": "7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.6",
+    "player1": {
+     "id": 44023,
+     "name": "Bethanie Mattek-Sands/Coco Vandeweghe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44118,
+     "name": "Gabriela Dabrowski/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365160",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23522,
+    "player2Id": 5233,
+    "tournamentId": 10442,
+    "match_winner": 23522,
+    "result": "7-5 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.46",
+    "player1": {
+     "id": 23522,
+     "name": "Yifan Xu/Saisai Zheng",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 5233,
+     "name": "Klaudia Jans-Ignacik/Alicja Rosolska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365220",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44447,
+    "player2Id": 11102,
+    "tournamentId": 10442,
+    "match_winner": 44447,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.8",
+    "player1": {
+     "id": 44447,
+     "name": "Sara Errani/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11102,
+     "name": "Su-Wei Hsieh/Shuai Peng",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365249",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27659,
+    "player2Id": 13976,
+    "tournamentId": 10442,
+    "match_winner": 27659,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27659,
+     "name": "Kiki Bertens/Johanna Larsson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 13976,
+     "name": "Svetlana Kuznetsova/Anastasia Pavlyuchenkova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365256",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 17170,
+    "tournamentId": 10442,
+    "match_winner": 11101,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17170,
+     "name": "Angelique Kerber/Andrea Petkovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365266",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10412,
+    "player2Id": 30137,
+    "tournamentId": 10442,
+    "match_winner": 10412,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.46",
+    "player1": {
+     "id": 10412,
+     "name": "Andrea Hlavackova/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30137,
+     "name": "Kirsten Flipkens/Ana Ivanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365267",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 42087,
+    "player2Id": 31032,
+    "tournamentId": 10442,
+    "match_winner": 42087,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.35",
+    "odd2": "1.61",
+    "player1": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 31032,
+     "name": "Garbine Muguruza/Carla Suarez Navarro",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365269",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27931,
+    "player2Id": 37082,
+    "tournamentId": 10442,
+    "match_winner": 27931,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27931,
+     "name": "Timea Babos/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37082,
+     "name": "Darija Jurak Schreiber/Laura Siegemund",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365271",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44449,
+    "player2Id": 40965,
+    "tournamentId": 10442,
+    "match_winner": 44449,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44449,
+     "name": "Denisa Satralova/Petra Kvitova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 40965,
+     "name": "Irina-Camelia Begu/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365273",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10718,
+    "player2Id": 42090,
+    "tournamentId": 10442,
+    "match_winner": 10718,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.27",
+    "player1": {
+     "id": 10718,
+     "name": "Raquel Atawo/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42090,
+     "name": "Vera Dushevina/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365277",
+    "date": "2016-03-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9880,
+    "player2Id": 44446,
+    "tournamentId": 10442,
+    "match_winner": 9880,
+    "result": "4-6 6-3 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.46",
+    "odd2": "1.56",
+    "player1": {
+     "id": 9880,
+     "name": "Vania King/Alla Kudryavtseva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44446,
+     "name": "Anna-Lena Groenefeld/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365268",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44218,
+    "player2Id": 35095,
+    "tournamentId": 10442,
+    "match_winner": 44218,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 44218,
+     "name": "Margarita Gasparyan/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 35095,
+     "name": "Chia-Jung Chuang/Chen Liang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365279",
+    "date": "2016-03-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14120,
+    "player2Id": 44448,
+    "tournamentId": 10442,
+    "match_winner": 14120,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14120,
+     "name": "Andreja Klepac/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 44448,
+     "name": "Ekaterina Makarova/Lucie Safarova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "365123",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 1014,
+    "player2Id": 400,
+    "tournamentId": 10442,
+    "match_winner": 1014,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.5",
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 400,
+     "name": "Lourdes Dominguez-Lino",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365132",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8652,
+    "player2Id": 857,
+    "tournamentId": 10442,
+    "match_winner": 8652,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 857,
+     "name": "Aleksandra Wozniak",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365134",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12842,
+    "player2Id": 902,
+    "tournamentId": 10442,
+    "match_winner": 12842,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365175",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 7983,
+    "player2Id": 6687,
+    "tournamentId": 10442,
+    "match_winner": 7983,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 6687,
+     "name": "Xinyun Han",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365183",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13621,
+    "player2Id": 7944,
+    "tournamentId": 10442,
+    "match_winner": 13621,
+    "result": "6-2 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365194",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 17501,
+    "player2Id": 8667,
+    "tournamentId": 10442,
+    "match_winner": 17501,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8667,
+     "name": "Julia Boserup",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365196",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8353,
+    "player2Id": 8951,
+    "tournamentId": 10442,
+    "match_winner": 8353,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.88",
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 8951,
+     "name": "Veronica Cepede Royg",
+     "countryAcr": "PAR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365228",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13498,
+    "player2Id": 11960,
+    "tournamentId": 10442,
+    "match_winner": 13498,
+    "result": "6-3 2-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.93",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 11960,
+     "name": "Jana Cepelova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365230",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4120,
+    "player2Id": 12144,
+    "tournamentId": 10442,
+    "match_winner": 4120,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365234",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9579,
+    "player2Id": 12389,
+    "tournamentId": 10442,
+    "match_winner": 9579,
+    "result": "6-4 5-7 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365243",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12404,
+    "player2Id": 13385,
+    "tournamentId": 10442,
+    "match_winner": 12404,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12404,
+     "name": "Risa Ozaki",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365254",
+    "date": "2016-03-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4177,
+    "player2Id": 16430,
+    "tournamentId": 10442,
+    "match_winner": 4177,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.12",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365126",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8951,
+    "player2Id": 454,
+    "tournamentId": 10442,
+    "match_winner": 8951,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.43",
+    "odd2": "1.6",
+    "player1": {
+     "id": 8951,
+     "name": "Veronica Cepede Royg",
+     "countryAcr": "PAR"
+    },
+    "player2": {
+     "id": 454,
+     "name": "Klara Koukalova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365129",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6687,
+    "player2Id": 487,
+    "tournamentId": 10442,
+    "match_winner": 6687,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6687,
+     "name": "Xinyun Han",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365133",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 884,
+    "tournamentId": 10442,
+    "match_winner": 4177,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.88",
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 884,
+     "name": "Jarmila Wolfe",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365149",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8667,
+    "player2Id": 4123,
+    "tournamentId": 10442,
+    "match_winner": 8667,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8667,
+     "name": "Julia Boserup",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4123,
+     "name": "Elena Vesnina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365158",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12842,
+    "player2Id": 4975,
+    "tournamentId": 10442,
+    "match_winner": 12842,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 4975,
+     "name": "Sesil Karatantcheva",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365161",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13621,
+    "player2Id": 5548,
+    "tournamentId": 10442,
+    "match_winner": 13621,
+    "result": "6-2 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.02",
+    "odd2": "1.42",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365165",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16430,
+    "player2Id": 5604,
+    "tournamentId": 10442,
+    "match_winner": 16430,
+    "result": "5-7 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 5604,
+     "name": "Tamira Paszek",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365170",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11960,
+    "player2Id": 6084,
+    "tournamentId": 10442,
+    "match_winner": 11960,
+    "result": "2-6 7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.43",
+    "player1": {
+     "id": 11960,
+     "name": "Jana Cepelova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 6084,
+     "name": "Anna Tatishvili",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365177",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12389,
+    "player2Id": 6820,
+    "tournamentId": 10442,
+    "match_winner": 12389,
+    "result": "4-6 6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.43",
+    "player1": {
+     "id": 12389,
+     "name": "Anna-Lena Friedsam",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 6820,
+     "name": "Julia Glushko",
+     "countryAcr": "ISR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365181",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 400,
+    "player2Id": 7908,
+    "tournamentId": 10442,
+    "match_winner": 400,
+    "result": "7-6(3) 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 400,
+     "name": "Lourdes Dominguez-Lino",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 7908,
+     "name": "Maria Sanchez",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365197",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8652,
+    "player2Id": 9324,
+    "tournamentId": 10442,
+    "match_winner": 8652,
+    "result": "3-6 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 9324,
+     "name": "Yingying Duan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365198",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12404,
+    "player2Id": 9357,
+    "tournamentId": 10442,
+    "match_winner": 12404,
+    "result": "2-6 7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.93",
+    "player1": {
+     "id": 12404,
+     "name": "Risa Ozaki",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365201",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 1014,
+    "player2Id": 9750,
+    "tournamentId": 10442,
+    "match_winner": 1014,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "3.02",
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 9750,
+     "name": "Paula Kania",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365215",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9579,
+    "player2Id": 10749,
+    "tournamentId": 10442,
+    "match_winner": 9579,
+    "result": "7-5 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365217",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13498,
+    "player2Id": 11014,
+    "tournamentId": 10442,
+    "match_winner": 13498,
+    "result": "6-3 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.55",
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 11014,
+     "name": "An-Sophie Mestach",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365222",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4120,
+    "player2Id": 11372,
+    "tournamentId": 10442,
+    "match_winner": 4120,
+    "result": "1-6 7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365225",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7944,
+    "player2Id": 11712,
+    "tournamentId": 10442,
+    "match_winner": 7944,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.88",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365227",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8353,
+    "player2Id": 11944,
+    "tournamentId": 10442,
+    "match_winner": 8353,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.25",
+    "player1": {
+     "id": 8353,
+     "name": "Kurumi Nara",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11944,
+     "name": "Patricia Maria Tig",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365229",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 7983,
+    "player2Id": 12116,
+    "tournamentId": 10442,
+    "match_winner": 7983,
+    "result": "6-0 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365246",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13385,
+    "player2Id": 13541,
+    "tournamentId": 10442,
+    "match_winner": 13385,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.7",
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365257",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 902,
+    "player2Id": 17345,
+    "tournamentId": 10442,
+    "match_winner": 902,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.38",
+    "player1": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 17345,
+     "name": "Louisa Chirico",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365260",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 857,
+    "player2Id": 17673,
+    "tournamentId": 10442,
+    "match_winner": 857,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 857,
+     "name": "Aleksandra Wozniak",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 17673,
+     "name": "Ana Konjuh",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365261",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12144,
+    "player2Id": 23432,
+    "tournamentId": 10442,
+    "match_winner": 12144,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.07",
+    "odd2": "9.8",
+    "player1": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "365263",
+    "date": "2016-03-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17501,
+    "player2Id": 25502,
+    "tournamentId": 10442,
+    "match_winner": 17501,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 25502,
+     "name": "Raveena Kingsley",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 10442,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2016-03-07T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

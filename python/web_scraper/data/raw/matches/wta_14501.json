@@ -1,0 +1,2461 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "636467",
+    "date": "2023-01-08T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 18455,
+    "player2Id": 66597,
+    "tournamentId": 14501,
+    "match_winner": 18455,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636417",
+    "date": "2023-01-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 18455,
+    "player2Id": 6651,
+    "tournamentId": 14501,
+    "match_winner": 18455,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636423",
+    "date": "2023-01-07T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 66597,
+    "player2Id": 11449,
+    "tournamentId": 14501,
+    "match_winner": 66597,
+    "result": "6-3 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636415",
+    "date": "2023-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 66597,
+    "player2Id": 5416,
+    "tournamentId": 14501,
+    "match_winner": 66597,
+    "result": "6-4 6-7(3) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.69",
+    "odd2": "1.47",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636435",
+    "date": "2023-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 6651,
+    "player2Id": 16119,
+    "tournamentId": 14501,
+    "match_winner": 6651,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.32",
+    "odd2": "1.333",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636451",
+    "date": "2023-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 18455,
+    "player2Id": 32168,
+    "tournamentId": 14501,
+    "match_winner": 18455,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636462",
+    "date": "2023-01-06T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11449,
+    "player2Id": 47742,
+    "tournamentId": 14501,
+    "match_winner": 11449,
+    "result": "7-6(5) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.363",
+    "odd2": "3.14",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636416",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 6019,
+    "tournamentId": 14501,
+    "match_winner": 11449,
+    "result": "7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.4",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636437",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6651,
+    "player2Id": 16628,
+    "tournamentId": 14501,
+    "match_winner": 6651,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636448",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 66597,
+    "player2Id": 27804,
+    "tournamentId": 14501,
+    "match_winner": 66597,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.99",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636463",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 53128,
+    "tournamentId": 14501,
+    "match_winner": 5416,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636413",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 467,
+    "tournamentId": 14501,
+    "match_winner": 32168,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.31",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636445",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 24368,
+    "tournamentId": 14501,
+    "match_winner": 18455,
+    "result": "7-6(8) 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636453",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47742,
+    "player2Id": 36558,
+    "tournamentId": 14501,
+    "match_winner": 47742,
+    "result": "6-7(5) 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.46",
+    "odd2": "1.31",
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636458",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 39226,
+    "tournamentId": 14501,
+    "match_winner": 16119,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636418",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 7982,
+    "tournamentId": 14501,
+    "match_winner": 16628,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.11",
+    "odd2": "1.73",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636422",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 10749,
+    "tournamentId": 14501,
+    "match_winner": 6019,
+    "result": "6-0 7-6(1)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.82",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636428",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53128,
+    "player2Id": 13385,
+    "tournamentId": 14501,
+    "match_winner": 53128,
+    "result": "6-1 4-6 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.08",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636431",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 14054,
+    "tournamentId": 14501,
+    "match_winner": 32168,
+    "result": "4-6 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636434",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 16043,
+    "tournamentId": 14501,
+    "match_winner": 5416,
+    "result": "7-6(9) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636436",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27804,
+    "player2Id": 16627,
+    "tournamentId": 14501,
+    "match_winner": 27804,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.54",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636414",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 4263,
+    "tournamentId": 14501,
+    "match_winner": 24368,
+    "result": "5-7 6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636424",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 11575,
+    "tournamentId": 14501,
+    "match_winner": 36558,
+    "result": "5-7 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.59",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636425",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 12267,
+    "tournamentId": 14501,
+    "match_winner": 6651,
+    "result": "3-6 7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.38",
+    "odd2": "1.58",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636442",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 66597,
+    "player2Id": 17503,
+    "tournamentId": 14501,
+    "match_winner": 66597,
+    "result": "6-3 6-7(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636449",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47742,
+    "player2Id": 31267,
+    "tournamentId": 14501,
+    "match_winner": 47742,
+    "result": "6-1 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 31267,
+     "name": "Jaimee Fourlis",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636460",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16119,
+    "player2Id": 41564,
+    "tournamentId": 14501,
+    "match_winner": 16119,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636421",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 10633,
+    "tournamentId": 14501,
+    "match_winner": 39226,
+    "result": "0-6 7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636427",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 467,
+    "player2Id": 12842,
+    "tournamentId": 14501,
+    "match_winner": 467,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.92",
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "636473",
+    "date": "2023-01-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 29261,
+    "player2Id": 78378,
+    "tournamentId": 14501,
+    "match_winner": 29261,
+    "result": "6-2 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636446",
+    "date": "2023-01-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 29261,
+    "player2Id": 26936,
+    "tournamentId": 14501,
+    "match_winner": 29261,
+    "result": "6-4 1-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.99",
+    "odd2": "1.76",
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636466",
+    "date": "2023-01-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 78378,
+    "player2Id": 57394,
+    "tournamentId": 14501,
+    "match_winner": 78378,
+    "result": "6-4 1-6 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.32",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57394,
+     "name": "Lidziya Marozava/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636457",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78378,
+    "player2Id": 38986,
+    "tournamentId": 14501,
+    "match_winner": 78378,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.71",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 38986,
+     "name": "Miriam Skoch/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636469",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 29261,
+    "player2Id": 67099,
+    "tournamentId": 14501,
+    "match_winner": 29261,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.09",
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636479",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 57394,
+    "player2Id": 84299,
+    "tournamentId": 14501,
+    "match_winner": 57394,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57394,
+     "name": "Lidziya Marozava/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84299,
+     "name": "Cristina Bucsa/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636482",
+    "date": "2023-01-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 26936,
+    "player2Id": 84303,
+    "tournamentId": 14501,
+    "match_winner": 26936,
+    "result": "5-7 7-6(4) 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84303,
+     "name": "Ekaterina Alexandrova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636447",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 26936,
+    "player2Id": 27121,
+    "tournamentId": 14501,
+    "match_winner": 26936,
+    "result": "6-2 3-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27121,
+     "name": "Kaitlyn Christian/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636468",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 84303,
+    "player2Id": 66734,
+    "tournamentId": 14501,
+    "match_winner": 84303,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84303,
+     "name": "Ekaterina Alexandrova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 66734,
+     "name": "Anastasia Potapova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636476",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 67099,
+    "player2Id": 82933,
+    "tournamentId": 14501,
+    "match_winner": 67099,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 82933,
+     "name": "Nadiya Kichenok/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636478",
+    "date": "2023-01-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 38986,
+    "player2Id": 84298,
+    "tournamentId": 14501,
+    "match_winner": 38986,
+    "result": "3-6 7-5 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.01",
+    "player1": {
+     "id": 38986,
+     "name": "Miriam Skoch/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84298,
+     "name": "Anna Danilina/Anna Kalinskaya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636439",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 29261,
+    "player2Id": 17085,
+    "tournamentId": 14501,
+    "match_winner": 29261,
+    "result": "5-7 6-2 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.16",
+    "player1": {
+     "id": 29261,
+     "name": "Asia Muhammad/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636465",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 57394,
+    "player2Id": 57391,
+    "tournamentId": 14501,
+    "match_winner": 57394,
+    "result": "4-6 6-1 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.93",
+    "odd2": "1.8",
+    "player1": {
+     "id": 57394,
+     "name": "Lidziya Marozava/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57391,
+     "name": "Hao-Ching Chan/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636471",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 78378,
+    "player2Id": 76352,
+    "tournamentId": 14501,
+    "match_winner": 78378,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.31",
+    "player1": {
+     "id": 78378,
+     "name": "Storm Hunter/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636474",
+    "date": "2023-01-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 84299,
+    "player2Id": 78908,
+    "tournamentId": 14501,
+    "match_winner": 84299,
+    "result": "3-6 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84299,
+     "name": "Cristina Bucsa/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636454",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27121,
+    "player2Id": 36819,
+    "tournamentId": 14501,
+    "match_winner": 27121,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27121,
+     "name": "Kaitlyn Christian/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 36819,
+     "name": "Kimberly Birrell/Priscilla Hon",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636472",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57394,
+    "player2Id": 77509,
+    "tournamentId": 14501,
+    "match_winner": 57394,
+    "result": "4-6 6-4 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 57394,
+     "name": "Lidziya Marozava/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77509,
+     "name": "Anna Bondar/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636475",
+    "date": "2023-01-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38986,
+    "player2Id": 80092,
+    "tournamentId": 14501,
+    "match_winner": 38986,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.55",
+    "odd2": "2.34",
+    "player1": {
+     "id": 38986,
+     "name": "Miriam Skoch/Marketa Vondrousova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 80092,
+     "name": "Tereza Mihalikova/Aliaksandra Sasnovich",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636464",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84299,
+    "player2Id": 55291,
+    "tournamentId": 14501,
+    "match_winner": 84299,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84299,
+     "name": "Cristina Bucsa/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 55291,
+     "name": "Alicia Barnett/Olivia Nicholls",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636470",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 84303,
+    "player2Id": 75285,
+    "tournamentId": 14501,
+    "match_winner": 84303,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 84303,
+     "name": "Ekaterina Alexandrova/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75285,
+     "name": "Natela Dzalamidze/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636477",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76352,
+    "player2Id": 84297,
+    "tournamentId": 14501,
+    "match_winner": 76352,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84297,
+     "name": "Marta Kostyuk/Mayar Sherif",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636480",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17085,
+    "player2Id": 84301,
+    "tournamentId": 14501,
+    "match_winner": 17085,
+    "result": "6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.125",
+    "player1": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84301,
+     "name": "Angelina Gabueva/Alison Riske",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636481",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 82933,
+    "player2Id": 84302,
+    "tournamentId": 14501,
+    "match_winner": 82933,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 82933,
+     "name": "Nadiya Kichenok/Kimberley Zimmermann",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84302,
+     "name": "Xinyun Han/Vivian Heisen",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "636426",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10749,
+    "player2Id": 12722,
+    "tournamentId": 14501,
+    "match_winner": 10749,
+    "result": "4-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.82",
+    "odd2": "1.909",
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636430",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 47742,
+    "player2Id": 13706,
+    "tournamentId": 14501,
+    "match_winner": 47742,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636441",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 27804,
+    "player2Id": 17501,
+    "tournamentId": 14501,
+    "match_winner": 27804,
+    "result": "0-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636443",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12267,
+    "player2Id": 18427,
+    "tournamentId": 14501,
+    "match_winner": 12267,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.16",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636450",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16043,
+    "player2Id": 31728,
+    "tournamentId": 14501,
+    "match_winner": 16043,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.3",
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636459",
+    "date": "2023-01-01T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 66597,
+    "player2Id": 40156,
+    "tournamentId": 14501,
+    "match_winner": 66597,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636419",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 18427,
+    "player2Id": 9728,
+    "tournamentId": 14501,
+    "match_winner": 18427,
+    "result": "2-6 6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.91",
+    "odd2": "1.37",
+    "player1": {
+     "id": 18427,
+     "name": "Kimberly Birrell",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636420",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 9772,
+    "tournamentId": 14501,
+    "match_winner": 10749,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636429",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 40156,
+    "player2Id": 13621,
+    "tournamentId": 14501,
+    "match_winner": 40156,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.18",
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636432",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 31728,
+    "player2Id": 14362,
+    "tournamentId": 14501,
+    "match_winner": 31728,
+    "result": "3-6 7-6(6) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.65",
+    "player1": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636433",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12722,
+    "player2Id": 14694,
+    "tournamentId": 14501,
+    "match_winner": 12722,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.85",
+    "player1": {
+     "id": 12722,
+     "name": "Storm Hunter",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636438",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13706,
+    "player2Id": 16971,
+    "tournamentId": 14501,
+    "match_winner": 13706,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "2.875",
+    "player1": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "player2": {
+     "id": 16971,
+     "name": "Lizette Cabrera",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636440",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 17155,
+    "tournamentId": 14501,
+    "match_winner": 27804,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636444",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 47742,
+    "player2Id": 24344,
+    "tournamentId": 14501,
+    "match_winner": 47742,
+    "result": "7-6(9) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 47742,
+     "name": "Marta Kostyuk",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636452",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 66597,
+    "player2Id": 32480,
+    "tournamentId": 14501,
+    "match_winner": 66597,
+    "result": "3-6 6-2 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.23",
+    "odd2": "1.6",
+    "player1": {
+     "id": 66597,
+     "name": "Linda Noskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636455",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16043,
+    "player2Id": 37266,
+    "tournamentId": 14501,
+    "match_winner": 16043,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.71",
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636456",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12267,
+    "player2Id": 37410,
+    "tournamentId": 14501,
+    "match_winner": 12267,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.54",
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 37410,
+     "name": "Yue Yuan",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "636461",
+    "date": "2022-12-31T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 17501,
+    "player2Id": 45072,
+    "tournamentId": 14501,
+    "match_winner": 17501,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.31",
+    "player1": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 14501,
+     "name": "Adelaide International 1 - Adelaide",
+     "courtId": 1,
+     "date": "2023-01-02T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,160 @@
+[
+ {
+  "id": "900501",
+  "matchId": "900501",
+  "date": "2026-08-05T00:00:00.000Z",
+  "roundId": 4,
+  "player1Id": 43010,
+  "player2Id": 85263,
+  "tournamentId": 17193,
+  "match_winner": 43010,
+  "result": "6-3 6-4",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.122",
+  "odd2": "5.1",
+  "player1": {
+   "id": 43010,
+   "name": "Ekaterina Ovcharenko",
+   "countryAcr": "RUS"
+  },
+  "player2": {
+   "id": 85263,
+   "name": "Stephanie Yakoff",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 17193,
+   "name": "W100 Landisville",
+   "courtId": 1,
+   "date": "2026-08-03T00:00:00.000Z",
+   "rankId": 1,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:28:24",
+   "player1": {
+    "firstServe": 48,
+    "firstServeOf": 69,
+    "aces": 4,
+    "doubleFaults": 2,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 30,
+    "winningOnFirstServeOf": 48,
+    "winningOnSecondServe": 10,
+    "winningOnSecondServeOf": 21,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 7,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 64,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 29,
+    "firstServeOf": 49,
+    "aces": 0,
+    "doubleFaults": 7,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 19,
+    "winningOnFirstServeOf": 29,
+    "winningOnSecondServe": 6,
+    "winningOnSecondServeOf": 20,
+    "winners": null,
+    "breakPointsConverted": 3,
+    "breakPointsConvertedOf": 6,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 54,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ },
+ {
+  "id": "637808",
+  "matchId": "637808",
+  "date": "2023-03-06T00:00:00.000Z",
+  "roundId": 1,
+  "player1Id": 13265,
+  "player2Id": 85263,
+  "tournamentId": 14516,
+  "match_winner": 13265,
+  "result": "6-1 6-0",
+  "result_type": "completed",
+  "best_of": null,
+  "odd1": "1.039",
+  "odd2": "9",
+  "player1": {
+   "id": 13265,
+   "name": "Anna Schmiedlova",
+   "countryAcr": "SVK"
+  },
+  "player2": {
+   "id": 85263,
+   "name": "Stephanie Yakoff",
+   "countryAcr": "USA"
+  },
+  "tournament": {
+   "id": 14516,
+   "name": "BNP Paribas Open - Indian Wells",
+   "courtId": 1,
+   "date": "2023-03-06T00:00:00.000Z",
+   "rankId": 3,
+   "countryAcr": "USA",
+   "court": null,
+   "rank": null,
+   "country": null
+  },
+  "stats": {
+   "duration": "0000-00-00 01:00:55",
+   "player1": {
+    "firstServe": 29,
+    "firstServeOf": 50,
+    "aces": 0,
+    "doubleFaults": 3,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 22,
+    "winningOnFirstServeOf": 29,
+    "winningOnSecondServe": 12,
+    "winningOnSecondServeOf": 21,
+    "winners": null,
+    "breakPointsConverted": 5,
+    "breakPointsConvertedOf": 6,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 57,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   },
+   "player2": {
+    "firstServe": 24,
+    "firstServeOf": 35,
+    "aces": 0,
+    "doubleFaults": 5,
+    "unforcedErrors": null,
+    "winningOnFirstServe": 9,
+    "winningOnFirstServeOf": 24,
+    "winningOnSecondServe": 3,
+    "winningOnSecondServeOf": 11,
+    "winners": null,
+    "breakPointsConverted": 0,
+    "breakPointsConvertedOf": 2,
+    "netApproaches": null,
+    "netApproachesOf": null,
+    "totalPointsWon": 28,
+    "fastestServe": null,
+    "averageFirstServeSpeed": null,
+    "averageSecondServeSpeed": null
+   }
+  }
+ }
+]

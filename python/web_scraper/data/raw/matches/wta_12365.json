@@ -1,0 +1,5646 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "498984",
+    "date": "2019-03-17T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 39226,
+    "player2Id": 4076,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499043",
+    "date": "2019-03-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 39226,
+    "player2Id": 11371,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "6-3 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.29",
+    "odd2": "1.68",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499073",
+    "date": "2019-03-15T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 4076,
+    "player2Id": 14056,
+    "tournamentId": 12365,
+    "match_winner": 4076,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498973",
+    "date": "2019-03-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 4076,
+    "player2Id": 151,
+    "tournamentId": 12365,
+    "match_winner": 4076,
+    "result": "7-6(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499013",
+    "date": "2019-03-14T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14056,
+    "player2Id": 7982,
+    "tournamentId": 12365,
+    "match_winner": 14056,
+    "result": "6-3 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.72",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499037",
+    "date": "2019-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 39226,
+    "player2Id": 10633,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499102",
+    "date": "2019-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11371,
+    "player2Id": 32168,
+    "tournamentId": 12365,
+    "match_winner": 11371,
+    "result": "4-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.54",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499017",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 32168,
+    "player2Id": 8324,
+    "tournamentId": 12365,
+    "match_winner": 32168,
+    "result": "6-2 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.54",
+    "odd2": "1.34",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499018",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 39226,
+    "player2Id": 8531,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499019",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 10633,
+    "player2Id": 8652,
+    "tournamentId": 12365,
+    "match_winner": 10633,
+    "result": "5-7 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499026",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 151,
+    "player2Id": 9669,
+    "tournamentId": 12365,
+    "match_winner": 151,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.78",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499061",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 11371,
+    "player2Id": 12966,
+    "tournamentId": 12365,
+    "match_winner": 11371,
+    "result": "7-6(8) 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.85",
+    "odd2": "2.04",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499066",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 7982,
+    "player2Id": 13385,
+    "tournamentId": 12365,
+    "match_winner": 7982,
+    "result": "7-6(0) 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499078",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 14056,
+    "player2Id": 16430,
+    "tournamentId": 12365,
+    "match_winner": 14056,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499087",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 7,
+    "player1Id": 4076,
+    "player2Id": 18455,
+    "tournamentId": 12365,
+    "match_winner": 4076,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499009",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 9669,
+    "player2Id": 7102,
+    "tournamentId": 12365,
+    "match_winner": 9669,
+    "result": "7-5 1-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.58",
+    "odd2": "1.31",
+    "player1": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499012",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13385,
+    "player2Id": 7944,
+    "tournamentId": 12365,
+    "match_winner": 13385,
+    "result": "5-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499020",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 151,
+    "player2Id": 8665,
+    "tournamentId": 12365,
+    "match_winner": 151,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.44",
+    "odd2": "2.875",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499028",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18455,
+    "player2Id": 9857,
+    "tournamentId": 12365,
+    "match_winner": 18455,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.32",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499046",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16430,
+    "player2Id": 11575,
+    "tournamentId": 12365,
+    "match_winner": 16430,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.66",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499056",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 7982,
+    "player2Id": 12402,
+    "tournamentId": 12365,
+    "match_winner": 7982,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 12402,
+     "name": "Ysaline Bonaventure",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499072",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14056,
+    "player2Id": 14054,
+    "tournamentId": 12365,
+    "match_winner": 14056,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.444",
+    "odd2": "2.86",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499089",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 4076,
+    "player2Id": 23230,
+    "tournamentId": 12365,
+    "match_winner": 4076,
+    "result": "3-6 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498974",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 10633,
+    "player2Id": 241,
+    "tournamentId": 12365,
+    "match_winner": 10633,
+    "result": "6-3 1-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "2.55",
+    "odd2": "1.54",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498993",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 39226,
+    "player2Id": 5369,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499011",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8652,
+    "player2Id": 7857,
+    "tournamentId": 12365,
+    "match_winner": 8652,
+    "result": "7-6(10) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.47",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499032",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 10334,
+    "tournamentId": 12365,
+    "match_winner": 11371,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499044",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8324,
+    "player2Id": 11372,
+    "tournamentId": 12365,
+    "match_winner": 8324,
+    "result": "7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499064",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 12966,
+    "player2Id": 13325,
+    "tournamentId": 12365,
+    "match_winner": 12966,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499065",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8531,
+    "player2Id": 13351,
+    "tournamentId": 12365,
+    "match_winner": 8531,
+    "result": "7-6(4) 6-7(4) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499080",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 32168,
+    "player2Id": 16628,
+    "tournamentId": 12365,
+    "match_winner": 32168,
+    "result": "4-6 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.29",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498977",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7102,
+    "player2Id": 467,
+    "tournamentId": 12365,
+    "match_winner": 7102,
+    "result": "6-3 2-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7102,
+     "name": "Julia Goerges",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498981",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 902,
+    "tournamentId": 12365,
+    "match_winner": 11575,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498998",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 5600,
+    "tournamentId": 12365,
+    "match_winner": 14054,
+    "result": "7-5 2-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.05",
+    "odd2": "1.4",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499001",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 23230,
+    "player2Id": 5873,
+    "tournamentId": 12365,
+    "match_winner": 23230,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 5873,
+     "name": "Carla Suarez Navarro",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499004",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7944,
+    "player2Id": 6201,
+    "tournamentId": 12365,
+    "match_winner": 7944,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.92",
+    "player1": {
+     "id": 7944,
+     "name": "Anastasija Sevastova",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499006",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8665,
+    "player2Id": 6740,
+    "tournamentId": 12365,
+    "match_winner": 8665,
+    "result": "6-4 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.1",
+    "odd2": "1.39",
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6740,
+     "name": "Anastasia Pavlyuchenkova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499015",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 151,
+    "player2Id": 8234,
+    "tournamentId": 12365,
+    "match_winner": 151,
+    "result": "4-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499016",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7982,
+    "player2Id": 8262,
+    "tournamentId": 12365,
+    "match_winner": 7982,
+    "result": "6-7(4) 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7982,
+     "name": "Karolina Pliskova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499022",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 9458,
+    "tournamentId": 12365,
+    "match_winner": 16430,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499023",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18455,
+    "player2Id": 9503,
+    "tournamentId": 12365,
+    "match_winner": 18455,
+    "result": "6-3 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499031",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 10222,
+    "tournamentId": 12365,
+    "match_winner": 13385,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499047",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9669,
+    "player2Id": 11672,
+    "tournamentId": 12365,
+    "match_winner": 9669,
+    "result": "3-6 6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499048",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9857,
+    "player2Id": 11712,
+    "tournamentId": 12365,
+    "match_winner": 9857,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499055",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4076,
+    "player2Id": 12390,
+    "tournamentId": 12365,
+    "match_winner": 4076,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4076,
+     "name": "Angelique Kerber",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499057",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 12635,
+    "tournamentId": 12365,
+    "match_winner": 14056,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.76",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499067",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12402,
+    "player2Id": 13498,
+    "tournamentId": 12365,
+    "match_winner": 12402,
+    "result": "1-6 7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12402,
+     "name": "Ysaline Bonaventure",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498978",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 487,
+    "tournamentId": 12365,
+    "match_winner": 7857,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.83",
+    "odd2": "2.02",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 487,
+     "name": "Su-Wei Hsieh",
+     "countryAcr": "TPE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498983",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 1058,
+    "tournamentId": 12365,
+    "match_winner": 8324,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498986",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12966,
+    "player2Id": 4110,
+    "tournamentId": 12365,
+    "match_winner": 12966,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12966,
+     "name": "Ashleigh Barty",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498992",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 4263,
+    "tournamentId": 12365,
+    "match_winner": 16628,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498994",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 241,
+    "player2Id": 5416,
+    "tournamentId": 12365,
+    "match_winner": 241,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 241,
+     "name": "Serena Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498996",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10334,
+    "player2Id": 5582,
+    "tournamentId": 12365,
+    "match_winner": 10334,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.94",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498997",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 39226,
+    "player2Id": 5593,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 5593,
+     "name": "Dominika Cibulkova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499021",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8652,
+    "player2Id": 9357,
+    "tournamentId": 12365,
+    "match_winner": 8652,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.168",
+    "odd2": "5.4",
+    "player1": {
+     "id": 8652,
+     "name": "Kiki Bertens",
+     "countryAcr": "NED"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499030",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5369,
+    "player2Id": 10033,
+    "tournamentId": 12365,
+    "match_winner": 5369,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.5",
+    "odd2": "1.22",
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499035",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13325,
+    "player2Id": 10455,
+    "tournamentId": 12365,
+    "match_winner": 13325,
+    "result": "6-3 3-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499054",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10633,
+    "player2Id": 12205,
+    "tournamentId": 12365,
+    "match_winner": 10633,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.193",
+    "odd2": "4.9",
+    "player1": {
+     "id": 10633,
+     "name": "Garbine Muguruza",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499058",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11372,
+    "player2Id": 12842,
+    "tournamentId": 12365,
+    "match_winner": 11372,
+    "result": "6-4 2-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499076",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8531,
+    "player2Id": 14259,
+    "tournamentId": 12365,
+    "match_winner": 8531,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499086",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 32168,
+    "player2Id": 17503,
+    "tournamentId": 12365,
+    "match_winner": 32168,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499091",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 23432,
+    "tournamentId": 12365,
+    "match_winner": 11371,
+    "result": "3-6 7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.52",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499108",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 41564,
+    "tournamentId": 12365,
+    "match_winner": 13351,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.93",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498979",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6201,
+    "player2Id": 495,
+    "tournamentId": 12365,
+    "match_winner": 6201,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.77",
+    "player1": {
+     "id": 6201,
+     "name": "Madison Brengle",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 495,
+     "name": "Samantha Stosur",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498982",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 151,
+    "player2Id": 945,
+    "tournamentId": 12365,
+    "match_winner": 151,
+    "result": "6-4 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.66",
+    "player1": {
+     "id": 151,
+     "name": "Venus Williams",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498987",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 467,
+    "player2Id": 4117,
+    "tournamentId": 12365,
+    "match_winner": 467,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 4117,
+     "name": "Johanna Larsson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498995",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10222,
+    "player2Id": 5548,
+    "tournamentId": 12365,
+    "match_winner": 10222,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.39",
+    "odd2": "3.1",
+    "player1": {
+     "id": 10222,
+     "name": "Monica Puig",
+     "countryAcr": "PUR"
+    },
+    "player2": {
+     "id": 5548,
+     "name": "Evgeniya Rodina",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499000",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9503,
+    "player2Id": 5817,
+    "tournamentId": 12365,
+    "match_winner": 9503,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.94",
+    "player1": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499027",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12635,
+    "player2Id": 9772,
+    "tournamentId": 12365,
+    "match_winner": 12635,
+    "result": "7-6(1) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 9772,
+     "name": "Alison Riske",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499034",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11712,
+    "player2Id": 10394,
+    "tournamentId": 12365,
+    "match_winner": 11712,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.66",
+    "odd2": "1.5",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499036",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12390,
+    "player2Id": 10600,
+    "tournamentId": 12365,
+    "match_winner": 12390,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.615",
+    "odd2": "2.375",
+    "player1": {
+     "id": 12390,
+     "name": "Yulia Putintseva",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499040",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 902,
+    "player2Id": 10814,
+    "tournamentId": 12365,
+    "match_winner": 902,
+    "result": "7-5 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.76",
+    "odd2": "1.47",
+    "player1": {
+     "id": 902,
+     "name": "Kirsten Flipkens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 10814,
+     "name": "Eugenie Bouchard",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499045",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8262,
+    "player2Id": 11449,
+    "tournamentId": 12365,
+    "match_winner": 8262,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.47",
+    "odd2": "1.57",
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499051",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9669,
+    "player2Id": 12089,
+    "tournamentId": 12365,
+    "match_winner": 9669,
+    "result": "6-4 6-7(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9669,
+     "name": "Mona Barthel",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499053",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9458,
+    "player2Id": 12144,
+    "tournamentId": 12365,
+    "match_winner": 9458,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.89",
+    "odd2": "1.95",
+    "player1": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499062",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 13180,
+    "tournamentId": 12365,
+    "match_winner": 14054,
+    "result": "7-5 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499068",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8665,
+    "player2Id": 13541,
+    "tournamentId": 12365,
+    "match_winner": 8665,
+    "result": "7-5 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.28",
+    "odd2": "1.66",
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499069",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12402,
+    "player2Id": 13621,
+    "tournamentId": 12365,
+    "match_winner": 12402,
+    "result": "6-7(3) 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.71",
+    "player1": {
+     "id": 12402,
+     "name": "Ysaline Bonaventure",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499079",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23230,
+    "player2Id": 16627,
+    "tournamentId": 12365,
+    "match_winner": 23230,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.57",
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498988",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7857,
+    "player2Id": 4120,
+    "tournamentId": 12365,
+    "match_winner": 7857,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.26",
+    "odd2": "4.05",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 4120,
+     "name": "Pauline Parmentier",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498991",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 32168,
+    "player2Id": 4177,
+    "tournamentId": 12365,
+    "match_winner": 32168,
+    "result": "6-4 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "3.05",
+    "player1": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499002",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4110,
+    "player2Id": 5900,
+    "tournamentId": 12365,
+    "match_winner": 4110,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "2.08",
+    "player1": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 5900,
+     "name": "Magdalena Rybarikova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499005",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 39226,
+    "player2Id": 6651,
+    "tournamentId": 12365,
+    "match_winner": 39226,
+    "result": "6-7(3) 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.26",
+    "player1": {
+     "id": 39226,
+     "name": "Bianca Vanessa Andreescu",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499010",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 7574,
+    "tournamentId": 12365,
+    "match_winner": 9357,
+    "result": "6-3 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499038",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 1058,
+    "player2Id": 10749,
+    "tournamentId": 12365,
+    "match_winner": 1058,
+    "result": "6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.79",
+    "odd2": "2.07",
+    "player1": {
+     "id": 1058,
+     "name": "Barbora Strycova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499039",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 10791,
+    "tournamentId": 12365,
+    "match_winner": 41564,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10791,
+     "name": "Aleksandra Krunic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499052",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5369,
+    "player2Id": 12116,
+    "tournamentId": 12365,
+    "match_winner": 5369,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.7",
+    "odd2": "2.21",
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499059",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23432,
+    "player2Id": 12882,
+    "tournamentId": 12365,
+    "match_winner": 23432,
+    "result": "1-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499063",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12205,
+    "player2Id": 13265,
+    "tournamentId": 12365,
+    "match_winner": 12205,
+    "result": "7-6(2) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499071",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13325,
+    "player2Id": 13937,
+    "tournamentId": 12365,
+    "match_winner": 13325,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13325,
+     "name": "Jennifer Brady",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499085",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11372,
+    "player2Id": 17501,
+    "tournamentId": 12365,
+    "match_winner": 11372,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 17501,
+     "name": "Katerina Siniakova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499097",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4263,
+    "player2Id": 29373,
+    "tournamentId": 12365,
+    "match_winner": 4263,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.29",
+    "player1": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499100",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5416,
+    "player2Id": 30915,
+    "tournamentId": 12365,
+    "match_winner": 5416,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 30915,
+     "name": "Vera Lapko",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499105",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 37266,
+    "tournamentId": 12365,
+    "match_winner": 10334,
+    "result": "6-2 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.15",
+    "odd2": "1.38",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499109",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 41569,
+    "tournamentId": 12365,
+    "match_winner": 14259,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.19",
+    "odd2": "1.71",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "499093",
+    "date": "2019-03-16T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 63696,
+    "player2Id": 27301,
+    "tournamentId": 12365,
+    "match_winner": 63696,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499042",
+    "date": "2019-03-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 27301,
+    "player2Id": 11101,
+    "tournamentId": 12365,
+    "match_winner": 27301,
+    "result": "5-7 7-6(5) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499118",
+    "date": "2019-03-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 63696,
+    "player2Id": 51399,
+    "tournamentId": 12365,
+    "match_winner": 63696,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499127",
+    "date": "2019-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 63696,
+    "player2Id": 63654,
+    "tournamentId": 12365,
+    "match_winner": 63696,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63654,
+     "name": "Kaitlyn Christian/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499131",
+    "date": "2019-03-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27301,
+    "player2Id": 64410,
+    "tournamentId": 12365,
+    "match_winner": 27301,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64410,
+     "name": "Kiki Bertens/Donna Vekic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499122",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11101,
+    "player2Id": 57865,
+    "tournamentId": 12365,
+    "match_winner": 11101,
+    "result": "4-6 6-2 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499125",
+    "date": "2019-03-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 51399,
+    "player2Id": 61201,
+    "tournamentId": 12365,
+    "match_winner": 51399,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.53",
+    "player1": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499114",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 64410,
+    "player2Id": 48539,
+    "tournamentId": 12365,
+    "match_winner": 64410,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64410,
+     "name": "Kiki Bertens/Donna Vekic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48539,
+     "name": "Jennifer Brady/Alison Riske",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499129",
+    "date": "2019-03-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27301,
+    "player2Id": 64408,
+    "tournamentId": 12365,
+    "match_winner": 27301,
+    "result": "7-6(2) 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.15",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64408,
+     "name": "Alicja Rosolska/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499060",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11101,
+    "player2Id": 12893,
+    "tournamentId": 12365,
+    "match_winner": 11101,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499090",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 61201,
+    "player2Id": 23268,
+    "tournamentId": 12365,
+    "match_winner": 61201,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 23268,
+     "name": "Kirsten Flipkens/Johanna Larsson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499120",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 57865,
+    "player2Id": 56132,
+    "tournamentId": 12365,
+    "match_winner": 57865,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.25",
+    "odd2": "3.95",
+    "player1": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 56132,
+     "name": "Dalila Jakupovic/Irina Khromacheva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499126",
+    "date": "2019-03-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 63696,
+    "player2Id": 63647,
+    "tournamentId": 12365,
+    "match_winner": 63696,
+    "result": "5-7 6-3 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 63647,
+     "name": "Raquel Atawo/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499117",
+    "date": "2019-03-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 51399,
+    "player2Id": 50536,
+    "tournamentId": 12365,
+    "match_winner": 51399,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50536,
+     "name": "Monica Niculescu/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499088",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63647,
+    "player2Id": 19870,
+    "tournamentId": 12365,
+    "match_winner": 63647,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63647,
+     "name": "Raquel Atawo/Katarina Srebotnik",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 19870,
+     "name": "Miyu Kato/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499123",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11101,
+    "player2Id": 60929,
+    "tournamentId": 12365,
+    "match_winner": 11101,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60929,
+     "name": "Shuko Aoyama/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499124",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48539,
+    "player2Id": 61055,
+    "tournamentId": 12365,
+    "match_winner": 48539,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48539,
+     "name": "Jennifer Brady/Alison Riske",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 61055,
+     "name": "Anastasia Pavlyuchenkova/Anastasija Sevastova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499132",
+    "date": "2019-03-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 56132,
+    "player2Id": 64411,
+    "tournamentId": 12365,
+    "match_winner": 56132,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.49",
+    "odd2": "1.51",
+    "player1": {
+     "id": 56132,
+     "name": "Dalila Jakupovic/Irina Khromacheva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64411,
+     "name": "Anna-Lena Groenefeld/Lucie Hradecka",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499082",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 51399,
+    "player2Id": 16727,
+    "tournamentId": 12365,
+    "match_winner": 51399,
+    "result": "7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.54",
+    "player1": {
+     "id": 51399,
+     "name": "Gabriela Dabrowski/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 16727,
+     "name": "Irina-Camelia Begu/Mihaela Buzarnescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499096",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64410,
+    "player2Id": 28606,
+    "tournamentId": 12365,
+    "match_winner": 64410,
+    "result": "7-6(3) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.2",
+    "odd2": "1.33",
+    "player1": {
+     "id": 64410,
+     "name": "Kiki Bertens/Donna Vekic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499110",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57865,
+    "player2Id": 42087,
+    "tournamentId": 12365,
+    "match_winner": 57865,
+    "result": "6-4 3-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.64",
+    "player1": {
+     "id": 57865,
+     "name": "Su-Wei Hsieh/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42087,
+     "name": "Julia Goerges/Karolina Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499128",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27301,
+    "player2Id": 64407,
+    "tournamentId": 12365,
+    "match_winner": 27301,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.78",
+    "odd2": "1.99",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64407,
+     "name": "Ashleigh Barty/Caroline Garcia",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499130",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64408,
+    "player2Id": 64409,
+    "tournamentId": 12365,
+    "match_winner": 64408,
+    "result": "7-5 4-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.65",
+    "odd2": "2.18",
+    "player1": {
+     "id": 64408,
+     "name": "Alicja Rosolska/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64409,
+     "name": "Victoria Azarenka/Elina Svitolina",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499134",
+    "date": "2019-03-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 31032,
+    "player2Id": 64414,
+    "tournamentId": 12365,
+    "match_winner": 31032,
+    "result": "7-6(0) 4-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 31032,
+     "name": "Garbine Muguruza/Carla Suarez Navarro",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64414,
+     "name": "Lara Arruabarrena/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499083",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63696,
+    "player2Id": 17085,
+    "tournamentId": 12365,
+    "match_winner": 63696,
+    "result": "6-1 6-7(4) 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.9",
+    "odd2": "1.39",
+    "player1": {
+     "id": 63696,
+     "name": "Elise Mertens/Aryna Sabalenka",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 17085,
+     "name": "Timea Babos/Kristina Mladenovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499113",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12893,
+    "player2Id": 48200,
+    "tournamentId": 12365,
+    "match_winner": 12893,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.12",
+    "player1": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48200,
+     "name": "Desirae Krawczyk/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499116",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 63654,
+    "player2Id": 50494,
+    "tournamentId": 12365,
+    "match_winner": 63654,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 63654,
+     "name": "Kaitlyn Christian/Asia Muhammad",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 50494,
+     "name": "Andreja Klepac/Maria-Jose Martinez Sanchez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499119",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 23268,
+    "player2Id": 53932,
+    "tournamentId": 12365,
+    "match_winner": 23268,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23268,
+     "name": "Kirsten Flipkens/Johanna Larsson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 53932,
+     "name": "Eugenie Bouchard/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499121",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 61201,
+    "player2Id": 57102,
+    "tournamentId": 12365,
+    "match_winner": 61201,
+    "result": "6-2 4-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.52",
+    "odd2": "1.5",
+    "player1": {
+     "id": 61201,
+     "name": "Darija Jurak Schreiber/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57102,
+     "name": "Nicole Melichar/Kveta Peschke",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499133",
+    "date": "2019-03-06T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 50536,
+    "player2Id": 64412,
+    "tournamentId": 12365,
+    "match_winner": 50536,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.09",
+    "player1": {
+     "id": 50536,
+     "name": "Monica Niculescu/Abigail Spears",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64412,
+     "name": "Veronika Kudermetova/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "498975",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8665,
+    "player2Id": 431,
+    "tournamentId": 12365,
+    "match_winner": 8665,
+    "result": "6-0 2-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498985",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 41569,
+    "player2Id": 4090,
+    "tournamentId": 12365,
+    "match_winner": 41569,
+    "result": "4-6 6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.32",
+    "odd2": "1.61",
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498989",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 5369,
+    "player2Id": 4121,
+    "tournamentId": 12365,
+    "match_winner": 5369,
+    "result": "6-2 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.08",
+    "odd2": "1.75",
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498999",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 8262,
+    "player2Id": 5650,
+    "tournamentId": 12365,
+    "match_winner": 8262,
+    "result": "7-6(2) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499003",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13937,
+    "player2Id": 6019,
+    "tournamentId": 12365,
+    "match_winner": 13937,
+    "result": "4-6 6-1 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499025",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10394,
+    "player2Id": 9579,
+    "tournamentId": 12365,
+    "match_winner": 10394,
+    "result": "7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.5",
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499033",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 23230,
+    "player2Id": 10350,
+    "tournamentId": 12365,
+    "match_winner": 23230,
+    "result": "7-6(2) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499070",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 11372,
+    "player2Id": 13839,
+    "tournamentId": 12365,
+    "match_winner": 11372,
+    "result": "6-1 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499075",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10749,
+    "player2Id": 14175,
+    "tournamentId": 12365,
+    "match_winner": 10749,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499077",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 16627,
+    "player2Id": 16119,
+    "tournamentId": 12365,
+    "match_winner": 16627,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.31",
+    "odd2": "1.615",
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499104",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12089,
+    "player2Id": 34747,
+    "tournamentId": 12365,
+    "match_winner": 12089,
+    "result": "4-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.86",
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499112",
+    "date": "2019-03-05T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12402,
+    "player2Id": 45854,
+    "tournamentId": 12365,
+    "match_winner": 12402,
+    "result": "1-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12402,
+     "name": "Ysaline Bonaventure",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498976",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10394,
+    "player2Id": 461,
+    "tournamentId": 12365,
+    "match_winner": 10394,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 10394,
+     "name": "Zarina Diyas",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498980",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5650,
+    "player2Id": 888,
+    "tournamentId": 12365,
+    "match_winner": 5650,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 5650,
+     "name": "Yanina Wickmayer",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 888,
+     "name": "Mandy Minella",
+     "countryAcr": "LUX"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "498990",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 34747,
+    "player2Id": 4158,
+    "tournamentId": 12365,
+    "match_winner": 34747,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 34747,
+     "name": "Anna Blinkova",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499007",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13839,
+    "player2Id": 6820,
+    "tournamentId": 12365,
+    "match_winner": 13839,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.84",
+    "player1": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "player2": {
+     "id": 6820,
+     "name": "Julia Glushko",
+     "countryAcr": "ISR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499008",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10350,
+    "player2Id": 6933,
+    "tournamentId": 12365,
+    "match_winner": 10350,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.24",
+    "player1": {
+     "id": 10350,
+     "name": "Dalila Jakupovic",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499014",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41569,
+    "player2Id": 7983,
+    "tournamentId": 12365,
+    "match_winner": 41569,
+    "result": "2-6 7-6(6) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 7983,
+     "name": "Kristyna Pliskova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499024",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4090,
+    "player2Id": 9533,
+    "tournamentId": 12365,
+    "match_winner": 4090,
+    "result": "5-7 6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4090,
+     "name": "Timea Bacsinszky",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 9533,
+     "name": "Conny Perrin",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499029",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45854,
+    "player2Id": 10008,
+    "tournamentId": 12365,
+    "match_winner": 45854,
+    "result": "6-1 6-7(6) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 10008,
+     "name": "Lara Arruabarrena",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499041",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4121,
+    "player2Id": 11071,
+    "tournamentId": 12365,
+    "match_winner": 4121,
+    "result": "6-2 6-7(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.63",
+    "odd2": "2.29",
+    "player1": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499049",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 431,
+    "player2Id": 11961,
+    "tournamentId": 12365,
+    "match_winner": 431,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.33",
+    "odd2": "3.4",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11961,
+     "name": "Irina Khromacheva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499050",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 6019,
+    "player2Id": 11966,
+    "tournamentId": 12365,
+    "match_winner": 6019,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.1",
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11966,
+     "name": "Danielle Lao",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499074",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14175,
+    "player2Id": 14093,
+    "tournamentId": 12365,
+    "match_winner": 14175,
+    "result": "7-5 5-7 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.95",
+    "odd2": "1.85",
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 14093,
+     "name": "Allie Kiick",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499081",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9579,
+    "player2Id": 16664,
+    "tournamentId": 12365,
+    "match_winner": 9579,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.26",
+    "player1": {
+     "id": 9579,
+     "name": "Nicole Gibbs",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 16664,
+     "name": "Fiona Ferro",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499084",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16119,
+    "player2Id": 17142,
+    "tournamentId": 12365,
+    "match_winner": 16119,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499092",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10749,
+    "player2Id": 24572,
+    "tournamentId": 12365,
+    "match_winner": 10749,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10749,
+     "name": "Viktorija Golubic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 24572,
+     "name": "Marie Bouzkova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499094",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13937,
+    "player2Id": 27804,
+    "tournamentId": 12365,
+    "match_winner": 13937,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499095",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 5369,
+    "player2Id": 28585,
+    "tournamentId": 12365,
+    "match_winner": 5369,
+    "result": "6-2 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.09",
+    "player1": {
+     "id": 5369,
+     "name": "Stefanie Voegele",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499098",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8665,
+    "player2Id": 30232,
+    "tournamentId": 12365,
+    "match_winner": 8665,
+    "result": "6-0 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.75",
+    "player1": {
+     "id": 8665,
+     "name": "Christina Mchale",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 30232,
+     "name": "Fanny Stollar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499099",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11372,
+    "player2Id": 30514,
+    "tournamentId": 12365,
+    "match_winner": 11372,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11372,
+     "name": "Kateryna Baindl",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 30514,
+     "name": "Ashley Kratzer",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499103",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8262,
+    "player2Id": 34746,
+    "tournamentId": 12365,
+    "match_winner": 8262,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8262,
+     "name": "Misaki Doi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 34746,
+     "name": "Francesca Di Lorenzo",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499106",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12402,
+    "player2Id": 39749,
+    "tournamentId": 12365,
+    "match_winner": 12402,
+    "result": "6-7(8) 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.43",
+    "odd2": "1.56",
+    "player1": {
+     "id": 12402,
+     "name": "Ysaline Bonaventure",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 39749,
+     "name": "Olga Danilovic",
+     "countryAcr": "SRB"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499107",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 16627,
+    "player2Id": 40156,
+    "tournamentId": 12365,
+    "match_winner": 16627,
+    "result": "6-7(3) 6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16627,
+     "name": "Priscilla Hon",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499111",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12089,
+    "player2Id": 43872,
+    "tournamentId": 12365,
+    "match_winner": 12089,
+    "result": "3-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.48",
+    "odd2": "2.65",
+    "player1": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 43872,
+     "name": "Xiyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "499115",
+    "date": "2019-03-04T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23230,
+    "player2Id": 49526,
+    "tournamentId": 12365,
+    "match_winner": 23230,
+    "result": "6-0 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 49526,
+     "name": "Zoe Kruger",
+     "countryAcr": "RSA"
+    },
+    "tournament": {
+     "id": 12365,
+     "name": "BNP Paribas Open - Indian Wells",
+     "courtId": 1,
+     "date": "2019-03-04T00:00:00.000Z",
+     "rankId": 3,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

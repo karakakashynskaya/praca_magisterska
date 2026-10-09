@@ -1,0 +1,2705 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "557811",
+    "date": "2021-02-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 13351,
+    "player2Id": 467,
+    "tournamentId": 13348,
+    "match_winner": 13351,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557842",
+    "date": "2021-02-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 467,
+    "player2Id": 14054,
+    "tournamentId": 13348,
+    "match_winner": 467,
+    "result": "6-3 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557819",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16430,
+    "player2Id": 6651,
+    "tournamentId": 13348,
+    "match_winner": 16430,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557822",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14054,
+    "player2Id": 8324,
+    "tournamentId": 13348,
+    "match_winner": 14054,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557832",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13351,
+    "player2Id": 11371,
+    "tournamentId": 13348,
+    "match_winner": 13351,
+    "result": "6-3 5-7 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.94",
+    "odd2": "1.94",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557815",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 8324,
+    "player2Id": 4177,
+    "tournamentId": 13348,
+    "match_winner": 8324,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.195",
+    "odd2": "4.9",
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557820",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 6651,
+    "player2Id": 7857,
+    "tournamentId": 13348,
+    "match_winner": 6651,
+    "result": "4-6 7-6(10) 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557828",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13351,
+    "player2Id": 10455,
+    "tournamentId": 13348,
+    "match_winner": 13351,
+    "result": "7-6(1) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.96",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557843",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16430,
+    "player2Id": 14175,
+    "tournamentId": 13348,
+    "match_winner": 16430,
+    "result": "3-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557845",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 18482,
+    "player2Id": 14362,
+    "tournamentId": 13348,
+    "match_winner": 18482,
+    "result": "6-2 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557849",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11371,
+    "player2Id": 16628,
+    "tournamentId": 13348,
+    "match_winner": 11371,
+    "result": "6-7(4) 6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557851",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 467,
+    "player2Id": 17503,
+    "tournamentId": 13348,
+    "match_winner": 467,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.84",
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557865",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 14054,
+    "player2Id": 45854,
+    "tournamentId": 13348,
+    "match_winner": 14054,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.375",
+    "odd2": "1.61",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557817",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16430,
+    "player2Id": 5817,
+    "tournamentId": 13348,
+    "match_winner": 16430,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16430,
+     "name": "Naomi Osaka",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557821",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 7926,
+    "tournamentId": 13348,
+    "match_winner": 17503,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.66",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557829",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10455,
+    "player2Id": 10600,
+    "tournamentId": 13348,
+    "match_winner": 10455,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557836",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6651,
+    "player2Id": 12842,
+    "tournamentId": 13348,
+    "match_winner": 6651,
+    "result": "5-7 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557844",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 7857,
+    "player2Id": 14259,
+    "tournamentId": 13348,
+    "match_winner": 7857,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 7857,
+     "name": "Johanna Konta",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557846",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 14600,
+    "tournamentId": 13348,
+    "match_winner": 13351,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.066",
+    "odd2": "9.6",
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 14600,
+     "name": "Mayo Hibi",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557852",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 467,
+    "player2Id": 18455,
+    "tournamentId": 13348,
+    "match_winner": 467,
+    "result": "6-1 2-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 18455,
+     "name": "Aryna Sabalenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557856",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4177,
+    "player2Id": 30238,
+    "tournamentId": 13348,
+    "match_winner": 4177,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557859",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 45854,
+    "player2Id": 38911,
+    "tournamentId": 13348,
+    "match_winner": 45854,
+    "result": "2-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45854,
+     "name": "Iga Swiatek",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557870",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14175,
+    "player2Id": 54663,
+    "tournamentId": 13348,
+    "match_winner": 14175,
+    "result": "3-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557810",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14600,
+    "player2Id": 461,
+    "tournamentId": 13348,
+    "match_winner": 14600,
+    "result": "6-4 6-7(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14600,
+     "name": "Mayo Hibi",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 461,
+     "name": "Varvara Lepchenko",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557812",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 945,
+    "tournamentId": 13348,
+    "match_winner": 11371,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557814",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 4158,
+    "tournamentId": 13348,
+    "match_winner": 4177,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 4158,
+     "name": "Monica Niculescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557823",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 8531,
+    "tournamentId": 13348,
+    "match_winner": 14362,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 8531,
+     "name": "Qiang Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557825",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5817,
+    "player2Id": 9503,
+    "tournamentId": 13348,
+    "match_winner": 5817,
+    "result": "5-7 6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.92",
+    "odd2": "1.92",
+    "player1": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9503,
+     "name": "Ajla Tomljanovic",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557835",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 12525,
+    "tournamentId": 13348,
+    "match_winner": 16628,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.2",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557838",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14054,
+    "player2Id": 13265,
+    "tournamentId": 13348,
+    "match_winner": 14054,
+    "result": "4-6 6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.3",
+    "odd2": "3.66",
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557840",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 30238,
+    "player2Id": 13810,
+    "tournamentId": 13348,
+    "match_winner": 30238,
+    "result": "6-1 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.6",
+    "player1": {
+     "id": 30238,
+     "name": "Destanee Aiava",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 13810,
+     "name": "Chloe Paquet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557850",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54663,
+    "player2Id": 17021,
+    "tournamentId": 13348,
+    "match_winner": 54663,
+    "result": "6-3 6-7(6) 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.35",
+    "odd2": "3.32",
+    "player1": {
+     "id": 54663,
+     "name": "Cori Gauff",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557857",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14175,
+    "player2Id": 32480,
+    "tournamentId": 13348,
+    "match_winner": 14175,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14175,
+     "name": "Katie Boulter",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557860",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 8324,
+    "player2Id": 40156,
+    "tournamentId": 13348,
+    "match_winner": 8324,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.168",
+    "odd2": "5.4",
+    "player1": {
+     "id": 8324,
+     "name": "Simona Halep",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557862",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 18482,
+    "player2Id": 41569,
+    "tournamentId": 13348,
+    "match_winner": 18482,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 18482,
+     "name": "Karolina Muchova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557813",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 4121,
+    "tournamentId": 13348,
+    "match_winner": 16628,
+    "result": "4-6 6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.34",
+    "odd2": "3.38",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 4121,
+     "name": "Sara Errani",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557816",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 5582,
+    "tournamentId": 13348,
+    "match_winner": 17503,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 5582,
+     "name": "Mihaela Buzarnescu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557818",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10455,
+    "player2Id": 6159,
+    "tournamentId": 13348,
+    "match_winner": 10455,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557824",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14362,
+    "player2Id": 8549,
+    "tournamentId": 13348,
+    "match_winner": 14362,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.92",
+    "odd2": "1.43",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 8549,
+     "name": "Rebecca Marino",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557826",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13265,
+    "player2Id": 9752,
+    "tournamentId": 13348,
+    "match_winner": 13265,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.84",
+    "player1": {
+     "id": 13265,
+     "name": "Anna Schmiedlova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 9752,
+     "name": "Valeria Savinykh",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557827",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 9857,
+    "tournamentId": 13348,
+    "match_winner": 12842,
+    "result": "3-6 6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557830",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 945,
+    "player2Id": 10738,
+    "tournamentId": 13348,
+    "match_winner": 945,
+    "result": "6-1 3-6 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 10738,
+     "name": "Martina Trevisan",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557833",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10600,
+    "player2Id": 11944,
+    "tournamentId": 13348,
+    "match_winner": 10600,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 11944,
+     "name": "Patricia Maria Tig",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557834",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 12144,
+    "tournamentId": 13348,
+    "match_winner": 6651,
+    "result": "3-6 7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.28",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12144,
+     "name": "Saisai Zheng",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557837",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38911,
+    "player2Id": 12882,
+    "tournamentId": 13348,
+    "match_winner": 38911,
+    "result": "4-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.28",
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 12882,
+     "name": "Yafan Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557839",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7926,
+    "player2Id": 13484,
+    "tournamentId": 13348,
+    "match_winner": 7926,
+    "result": "2-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7926,
+     "name": "Polona Hercog",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 13484,
+     "name": "Margarita Betova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557841",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41569,
+    "player2Id": 13839,
+    "tournamentId": 13348,
+    "match_winner": 41569,
+    "result": "6-2 6-7(3) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13839,
+     "name": "Sara Sorribes Tormo",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557847",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 467,
+    "player2Id": 14902,
+    "tournamentId": 13348,
+    "match_winner": 467,
+    "result": "1-6 7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 467,
+     "name": "Kaia Kanepi",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557854",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12525,
+    "player2Id": 27035,
+    "tournamentId": 13348,
+    "match_winner": 12525,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.7",
+    "odd2": "1.49",
+    "player1": {
+     "id": 12525,
+     "name": "Danka Kovinic",
+     "countryAcr": "MNE"
+    },
+    "player2": {
+     "id": 27035,
+     "name": "Tamara Zidansek",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557864",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14259,
+    "player2Id": 43865,
+    "tournamentId": 13348,
+    "match_winner": 14259,
+    "result": "6-7(2) 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.27",
+    "odd2": "3.92",
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 43865,
+     "name": "Olivia Gadecki",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557866",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40156,
+    "player2Id": 45990,
+    "tournamentId": 13348,
+    "match_winner": 40156,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "player2": {
+     "id": 45990,
+     "name": "Whitney Osuigwe",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "557831",
+    "date": "2021-02-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 27301,
+    "player2Id": 11101,
+    "tournamentId": 13348,
+    "match_winner": 27301,
+    "result": "6-3 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2",
+    "odd2": "1.85",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557867",
+    "date": "2021-02-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11101,
+    "player2Id": 47871,
+    "tournamentId": 13348,
+    "match_winner": 11101,
+    "result": "6-2 3-6 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 47871,
+     "name": "Anna Blinkova/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557871",
+    "date": "2021-02-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 27301,
+    "player2Id": 57390,
+    "tournamentId": 13348,
+    "match_winner": 27301,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.29",
+    "odd2": "3.74",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 57390,
+     "name": "Mihaela Buzarnescu/Alize Cornet",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557868",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 47871,
+    "player2Id": 49259,
+    "tournamentId": 13348,
+    "match_winner": 47871,
+    "result": "2-6 6-2 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.14",
+    "odd2": "1.71",
+    "player1": {
+     "id": 47871,
+     "name": "Anna Blinkova/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 49259,
+     "name": "Monica Niculescu/Patricia Maria Tig",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557880",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 27301,
+    "player2Id": 71166,
+    "tournamentId": 13348,
+    "match_winner": 27301,
+    "result": "3-6 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.67",
+    "odd2": "2.2",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557889",
+    "date": "2021-02-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11101,
+    "player2Id": 72225,
+    "tournamentId": 13348,
+    "match_winner": 11101,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557876",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 72225,
+    "player2Id": 65497,
+    "tournamentId": 13348,
+    "match_winner": 72225,
+    "result": "7-5 2-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65497,
+     "name": "Arina Rodionova/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557878",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11101,
+    "player2Id": 70214,
+    "tournamentId": 13348,
+    "match_winner": 11101,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11101,
+     "name": "Hao-Ching Chan/Latisha Chan",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557884",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 40969,
+    "player2Id": 72220,
+    "tournamentId": 13348,
+    "match_winner": 40969,
+    "result": "7-6(4) 2-6 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40969,
+     "name": "Daria Saville/Simona Halep",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72220,
+     "name": "Gabriela Dabrowski/Bethanie Mattek-Sands",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557885",
+    "date": "2021-02-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 47871,
+    "player2Id": 72221,
+    "tournamentId": 13348,
+    "match_winner": 47871,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.168",
+    "odd2": "5.1",
+    "player1": {
+     "id": 47871,
+     "name": "Anna Blinkova/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72221,
+     "name": "Abbie Myers/Ivana Popovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557858",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 47871,
+    "player2Id": 35510,
+    "tournamentId": 13348,
+    "match_winner": 47871,
+    "result": "6-1 2-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.3",
+    "player1": {
+     "id": 47871,
+     "name": "Anna Blinkova/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 35510,
+     "name": "Alison Riske/Ajla Tomljanovic",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557863",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 40969,
+    "player2Id": 42085,
+    "tournamentId": 13348,
+    "match_winner": 40969,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 40969,
+     "name": "Daria Saville/Simona Halep",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 42085,
+     "name": "Belinda Bencic/Barbora Strycova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557873",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 71166,
+    "player2Id": 64038,
+    "tournamentId": 13348,
+    "match_winner": 71166,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 64038,
+     "name": "Lara Arruabarrena/Kaitlyn Christian",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557874",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 27301,
+    "player2Id": 65099,
+    "tournamentId": 13348,
+    "match_winner": 27301,
+    "result": "6-4 2-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.4",
+    "player1": {
+     "id": 27301,
+     "name": "Barbora Krejcikova/Katerina Siniakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65099,
+     "name": "Destanee Aiava/Astra Sharma",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557875",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72221,
+    "player2Id": 65186,
+    "tournamentId": 13348,
+    "match_winner": 72221,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.26",
+    "odd2": "1.32",
+    "player1": {
+     "id": 72221,
+     "name": "Abbie Myers/Ivana Popovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 65186,
+     "name": "Georgina Garcia-Perez/Oksana Kalashnikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557877",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 57390,
+    "player2Id": 68115,
+    "tournamentId": 13348,
+    "match_winner": 57390,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 57390,
+     "name": "Mihaela Buzarnescu/Alize Cornet",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557883",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 70214,
+    "player2Id": 72047,
+    "tournamentId": 13348,
+    "match_winner": 70214,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.71",
+    "odd2": "2.09",
+    "player1": {
+     "id": 70214,
+     "name": "Darija Jurak Schreiber/Nina Stojanovic",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72047,
+     "name": "Elena Rybakina/Yaroslava Shvedova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557887",
+    "date": "2021-02-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 49259,
+    "player2Id": 72223,
+    "tournamentId": 13348,
+    "match_winner": 49259,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.62",
+    "odd2": "1.49",
+    "player1": {
+     "id": 49259,
+     "name": "Monica Niculescu/Patricia Maria Tig",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72223,
+     "name": "Andreja Klepac/Elise Mertens",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557855",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65497,
+    "player2Id": 28606,
+    "tournamentId": 13348,
+    "match_winner": 65497,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65497,
+     "name": "Arina Rodionova/Storm Hunter",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 28606,
+     "name": "Samantha Stosur/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557872",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 71166,
+    "player2Id": 59309,
+    "tournamentId": 13348,
+    "match_winner": 71166,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 59309,
+     "name": "Irina-Camelia Begu/Qiang Wang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557886",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 49259,
+    "player2Id": 72222,
+    "tournamentId": 13348,
+    "match_winner": 49259,
+    "result": "5-7 7-6(3) 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.72",
+    "odd2": "2.07",
+    "player1": {
+     "id": 49259,
+     "name": "Monica Niculescu/Patricia Maria Tig",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72222,
+     "name": "Caroline Garcia/Nadia Podoroska",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557888",
+    "date": "2021-02-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72225,
+    "player2Id": 72224,
+    "tournamentId": 13348,
+    "match_winner": 72225,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72225,
+     "name": "Marie Bouzkova/Sara Sorribes Tormo",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72224,
+     "name": "Mona Barthel/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557869",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 57390,
+    "player2Id": 53333,
+    "tournamentId": 13348,
+    "match_winner": 57390,
+    "result": "6-4 2-6 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.22",
+    "odd2": "1.63",
+    "player1": {
+     "id": 57390,
+     "name": "Mihaela Buzarnescu/Alize Cornet",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 53333,
+     "name": "Makoto Ninomiya/Renata Voracova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557879",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 68115,
+    "player2Id": 71100,
+    "tournamentId": 13348,
+    "match_winner": 68115,
+    "result": "6-1 7-6(4)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 68115,
+     "name": "Hayley Carter/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71100,
+     "name": "Lucie Hradecka/Kristyna Pliskova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557881",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64038,
+    "player2Id": 71688,
+    "tournamentId": 13348,
+    "match_winner": 64038,
+    "result": "5-7 6-1 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 64038,
+     "name": "Lara Arruabarrena/Kaitlyn Christian",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71688,
+     "name": "Caroline Dolehide/Shelby Rogers",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "557882",
+    "date": "2021-01-31T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65099,
+    "player2Id": 72041,
+    "tournamentId": 13348,
+    "match_winner": 65099,
+    "result": "6-4 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65099,
+     "name": "Destanee Aiava/Astra Sharma",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72041,
+     "name": "Kateryna Volodko/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13348,
+     "name": "Gippsland Trophy - Melbourne",
+     "courtId": 1,
+     "date": "2021-02-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "AUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,2076 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "712107",
+    "date": "2023-10-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 53128,
+    "player2Id": 13267,
+    "tournamentId": 14865,
+    "match_winner": 53128,
+    "result": "2-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712127",
+    "date": "2023-10-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 53128,
+    "player2Id": 14362,
+    "tournamentId": 14865,
+    "match_winner": 53128,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.15",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712148",
+    "date": "2023-10-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13267,
+    "player2Id": 17503,
+    "tournamentId": 14865,
+    "match_winner": 13267,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.81",
+    "odd2": "2",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712065",
+    "date": "2023-10-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 14362,
+    "player2Id": 4177,
+    "tournamentId": 14865,
+    "match_winner": 14362,
+    "result": "6-0 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712079",
+    "date": "2023-10-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13267,
+    "player2Id": 9857,
+    "tournamentId": 14865,
+    "match_winner": 13267,
+    "result": "6-3 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712143",
+    "date": "2023-10-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 53128,
+    "player2Id": 16043,
+    "tournamentId": 14865,
+    "match_winner": 53128,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712069",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13267,
+    "player2Id": 7574,
+    "tournamentId": 14865,
+    "match_winner": 13267,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.38",
+    "odd2": "3.05",
+    "player1": {
+     "id": 13267,
+     "name": "Barbora Krejcikova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712160",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 4177,
+    "player2Id": 24368,
+    "tournamentId": 14865,
+    "match_winner": 4177,
+    "result": "3-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712164",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11449,
+    "player2Id": 27032,
+    "tournamentId": 14865,
+    "match_winner": 11449,
+    "result": "6-3 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.2",
+    "player1": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "player2": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712200",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 65910,
+    "tournamentId": 14865,
+    "match_winner": 17503,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 65910,
+     "name": "Zhuoxuan Bai",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712057",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16043,
+    "player2Id": 431,
+    "tournamentId": 14865,
+    "match_winner": 16043,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712087",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14362,
+    "player2Id": 10455,
+    "tournamentId": 14865,
+    "match_winner": 14362,
+    "result": "3-6 6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.79",
+    "odd2": "1.44",
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 10455,
+     "name": "Caroline Garcia",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712109",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9857,
+    "player2Id": 13498,
+    "tournamentId": 14865,
+    "match_winner": 9857,
+    "result": "7-6(4) 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.36",
+    "odd2": "1.59",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712119",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 53128,
+    "player2Id": 13541,
+    "tournamentId": 14865,
+    "match_winner": 53128,
+    "result": "7-6(2) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.9",
+    "odd2": "1.9",
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712061",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 24368,
+    "player2Id": 4110,
+    "tournamentId": 14865,
+    "match_winner": 24368,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "4.1",
+    "player1": {
+     "id": 24368,
+     "name": "Liudmila Samsonova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 4110,
+     "name": "Tatjana Maria",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712073",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7574,
+    "player2Id": 9357,
+    "tournamentId": 14865,
+    "match_winner": 7574,
+    "result": "7-6(5) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.1",
+    "odd2": "1.74",
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712091",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17503,
+    "player2Id": 10600,
+    "tournamentId": 14865,
+    "match_winner": 17503,
+    "result": "6-1 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712103",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 4177,
+    "player2Id": 12089,
+    "tournamentId": 14865,
+    "match_winner": 4177,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712133",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 65910,
+    "player2Id": 14694,
+    "tournamentId": 14865,
+    "match_winner": 65910,
+    "result": "1-6 7-6(3) 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65910,
+     "name": "Zhuoxuan Bai",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712144",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 431,
+    "player2Id": 16119,
+    "tournamentId": 14865,
+    "match_winner": 431,
+    "result": "6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712059",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 53128,
+    "player2Id": 1014,
+    "tournamentId": 14865,
+    "match_winner": 53128,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 53128,
+     "name": "Qinwen Zheng",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712123",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13498,
+    "player2Id": 13937,
+    "tournamentId": 14865,
+    "match_winner": 13498,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13498,
+     "name": "Donna Vekic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712139",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16043,
+    "player2Id": 15212,
+    "tournamentId": 14865,
+    "match_winner": 16043,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.19",
+    "odd2": "4.7",
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712177",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 27032,
+    "player2Id": 32308,
+    "tournamentId": 14865,
+    "match_winner": 27032,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.21",
+    "odd2": "4.45",
+    "player1": {
+     "id": 27032,
+     "name": "Lucia Bronzetti",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 32308,
+     "name": "Hanyu Guo",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712193",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14362,
+    "player2Id": 52254,
+    "tournamentId": 14865,
+    "match_winner": 14362,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14362,
+     "name": "Jasmine Paolini",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712204",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9857,
+    "player2Id": 65911,
+    "tournamentId": 14865,
+    "match_winner": 9857,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.76",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "712216",
+    "date": "2023-10-15T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 88669,
+    "player2Id": 67099,
+    "tournamentId": 14865,
+    "match_winner": 88669,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712187",
+    "date": "2023-10-14T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 88669,
+    "player2Id": 48573,
+    "tournamentId": 14865,
+    "match_winner": 88669,
+    "result": "6-2 4-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.5",
+    "odd2": "2.48",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712225",
+    "date": "2023-10-13T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 67099,
+    "player2Id": 76352,
+    "tournamentId": 14865,
+    "match_winner": 67099,
+    "result": "6-3 5-7 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.53",
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712231",
+    "date": "2023-10-13T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 48573,
+    "player2Id": 79446,
+    "tournamentId": 14865,
+    "match_winner": 48573,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.61",
+    "player1": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712181",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 88669,
+    "player2Id": 37535,
+    "tournamentId": 14865,
+    "match_winner": 88669,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.49",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 37535,
+     "name": "Ingrid Martins/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712237",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 67099,
+    "player2Id": 89972,
+    "tournamentId": 14865,
+    "match_winner": 67099,
+    "result": "3-6 6-2 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89972,
+     "name": "Maria Camila Osorio Serrano/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712241",
+    "date": "2023-10-12T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 76352,
+    "player2Id": 89975,
+    "tournamentId": 14865,
+    "match_winner": 76352,
+    "result": "6-7(5) 6-3 11-9",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89975,
+     "name": "Timea Babos/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712220",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 48573,
+    "player2Id": 71166,
+    "tournamentId": 14865,
+    "match_winner": 48573,
+    "result": "6-2 2-6 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 48573,
+     "name": "Hanyu Guo/Xinyu Jiang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71166,
+     "name": "Laura Siegemund/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712227",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76352,
+    "player2Id": 78230,
+    "tournamentId": 14865,
+    "match_winner": 76352,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.2",
+    "odd2": "1.615",
+    "player1": {
+     "id": 76352,
+     "name": "Veronika Kudermetova/Liudmila Samsonova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78230,
+     "name": "Desirae Krawczyk/Demi Schuurs",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712235",
+    "date": "2023-10-11T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79446,
+    "player2Id": 88510,
+    "tournamentId": 14865,
+    "match_winner": 79446,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 88510,
+     "name": "Hao-Ching Chan/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712221",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 37535,
+    "player2Id": 71499,
+    "tournamentId": 14865,
+    "match_winner": 37535,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.25",
+    "player1": {
+     "id": 37535,
+     "name": "Ingrid Martins/Luisa Stefani",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 71499,
+     "name": "Nadiya Kichenok/Monica Niculescu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712229",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89975,
+    "player2Id": 78908,
+    "tournamentId": 14865,
+    "match_winner": 89975,
+    "result": "6-4 4-6 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.01",
+    "odd2": "1.74",
+    "player1": {
+     "id": 89975,
+     "name": "Timea Babos/Lyudmyla Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712238",
+    "date": "2023-10-10T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 89972,
+    "player2Id": 89973,
+    "tournamentId": 14865,
+    "match_winner": 89972,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 89972,
+     "name": "Maria Camila Osorio Serrano/Diana Shnaider",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89973,
+     "name": "Lucia Bronzetti/Lin Zhu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712233",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 88669,
+    "player2Id": 84744,
+    "tournamentId": 14865,
+    "match_winner": 88669,
+    "result": "6-4 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.61",
+    "player1": {
+     "id": 88669,
+     "name": "Gabriela Dabrowski/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 84744,
+     "name": "Tereza Mihalikova/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712240",
+    "date": "2023-10-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 67099,
+    "player2Id": 89974,
+    "tournamentId": 14865,
+    "match_winner": 67099,
+    "result": "4-6 6-1 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 67099,
+     "name": "Shuko Aoyama/Ena Shibahara",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 89974,
+     "name": "Latisha Chan/Ulrikke Eikeri",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "712093",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 431,
+    "player2Id": 10600,
+    "tournamentId": 14865,
+    "match_winner": 431,
+    "result": "6-7(3) 6-2 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.27",
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712117",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13937,
+    "player2Id": 13511,
+    "tournamentId": 14865,
+    "match_winner": 13937,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.61",
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712129",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 15212,
+    "player2Id": 14694,
+    "tournamentId": 14865,
+    "match_winner": 15212,
+    "result": "6-4 5-7 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712156",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 1014,
+    "player2Id": 23430,
+    "tournamentId": 14865,
+    "match_winner": 1014,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.08",
+    "odd2": "1.69",
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 23430,
+     "name": "Xiaodi You",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712189",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 9857,
+    "player2Id": 52254,
+    "tournamentId": 14865,
+    "match_winner": 9857,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.96",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712212",
+    "date": "2023-10-08T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 4177,
+    "player2Id": 65911,
+    "tournamentId": 14865,
+    "match_winner": 4177,
+    "result": "6-2 3-0 ret.",
+    "result_type": "retired",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712067",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52254,
+    "player2Id": 5632,
+    "tournamentId": 14865,
+    "match_winner": 52254,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52254,
+     "name": "Moyuka Uchijima",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 5632,
+     "name": "Sofia Shapatava",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712075",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9857,
+    "player2Id": 9594,
+    "tournamentId": 14865,
+    "match_winner": 9857,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.002",
+    "odd2": "13.25",
+    "player1": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712105",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10600,
+    "player2Id": 12465,
+    "tournamentId": 14865,
+    "match_winner": 10600,
+    "result": "6-7(2) 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10600,
+     "name": "Timea Babos",
+     "countryAcr": "HUN"
+    },
+    "player2": {
+     "id": 12465,
+     "name": "Miyu Kato",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712137",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 1014,
+    "player2Id": 14943,
+    "tournamentId": 14865,
+    "match_winner": 1014,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 1014,
+     "name": "Kateryna Volodko",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 14943,
+     "name": "Erin Routliffe",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712168",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 15212,
+    "player2Id": 29825,
+    "tournamentId": 14865,
+    "match_winner": 15212,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.05",
+    "odd2": "1.71",
+    "player1": {
+     "id": 15212,
+     "name": "Ellen Perez",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 29825,
+     "name": "Yexin Ma",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712172",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14694,
+    "player2Id": 30451,
+    "tournamentId": 14865,
+    "match_winner": 14694,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.149",
+    "odd2": "4.95",
+    "player1": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 30451,
+     "name": "Ena Shibahara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712176",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13511,
+    "player2Id": 31790,
+    "tournamentId": 14865,
+    "match_winner": 13511,
+    "result": "6-3 4-6 7-6(8)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13511,
+     "name": "Carol Zhao",
+     "countryAcr": "CAN"
+    },
+    "player2": {
+     "id": 31790,
+     "name": "Xinyu Jiang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712183",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 431,
+    "player2Id": 44040,
+    "tournamentId": 14865,
+    "match_winner": 431,
+    "result": "1-6 6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 44040,
+     "name": "Maria Camila Osorio Serrano",
+     "countryAcr": "COL"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712185",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 4177,
+    "player2Id": 46169,
+    "tournamentId": 14865,
+    "match_winner": 4177,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 4177,
+     "name": "Laura Siegemund",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 46169,
+     "name": "Meiling Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712199",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23430,
+    "player2Id": 58588,
+    "tournamentId": 14865,
+    "match_winner": 23430,
+    "result": "6-1 4-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23430,
+     "name": "Xiaodi You",
+     "countryAcr": "CHN"
+    },
+    "player2": {
+     "id": 58588,
+     "name": "Sijia Wei",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712218",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65911,
+    "player2Id": 70753,
+    "tournamentId": 14865,
+    "match_winner": 65911,
+    "result": "6-0 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 70753,
+     "name": "Zijun Jiang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "712223",
+    "date": "2023-10-07T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13937,
+    "player2Id": 75653,
+    "tournamentId": 14865,
+    "match_winner": 13937,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13937,
+     "name": "Nao Hibino",
+     "countryAcr": "JPN"
+    },
+    "player2": {
+     "id": 75653,
+     "name": "Xichen Zhao",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 14865,
+     "name": "Zhengzhou Open - Zhengzhou",
+     "courtId": 1,
+     "date": "2023-10-09T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "CHN",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

@@ -1,0 +1,2566 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "592217",
+    "date": "2022-02-13T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 13385,
+    "player2Id": 13541,
+    "tournamentId": 13837,
+    "match_winner": 13385,
+    "result": "5-7 7-6(4) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592195",
+    "date": "2022-02-12T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13541,
+    "player2Id": 6651,
+    "tournamentId": 13837,
+    "match_winner": 13541,
+    "result": "6-4 6-7(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.47",
+    "odd2": "2.85",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592224",
+    "date": "2022-02-12T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 13385,
+    "player2Id": 16628,
+    "tournamentId": 13837,
+    "match_winner": 13385,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592212",
+    "date": "2022-02-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 16628,
+    "player2Id": 12842,
+    "tournamentId": 13837,
+    "match_winner": 16628,
+    "result": "7-6(5) 4-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.68",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592213",
+    "date": "2022-02-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 6651,
+    "player2Id": 12997,
+    "tournamentId": 13837,
+    "match_winner": 6651,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592216",
+    "date": "2022-02-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 13351,
+    "tournamentId": 13837,
+    "match_winner": 13541,
+    "result": "7-6(7) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.49",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592219",
+    "date": "2022-02-11T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13385,
+    "player2Id": 14056,
+    "tournamentId": 13837,
+    "match_winner": 13385,
+    "result": "7-6(7) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592191",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16628,
+    "player2Id": 945,
+    "tournamentId": 13837,
+    "match_winner": 16628,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.41",
+    "odd2": "3",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592198",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 6651,
+    "player2Id": 8234,
+    "tournamentId": 13837,
+    "match_winner": 6651,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.76",
+    "odd2": "1.47",
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592226",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 12842,
+    "player2Id": 17614,
+    "tournamentId": 13837,
+    "match_winner": 12842,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.45",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592194",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13385,
+    "player2Id": 6019,
+    "tournamentId": 13837,
+    "match_winner": 13385,
+    "result": "6-4 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592196",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 7574,
+    "tournamentId": 13837,
+    "match_winner": 13351,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592218",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 14054,
+    "tournamentId": 13837,
+    "match_winner": 13541,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.84",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592242",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14056,
+    "player2Id": 38911,
+    "tournamentId": 13837,
+    "match_winner": 14056,
+    "result": "6-1 7-6(2)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.58",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592245",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 36558,
+    "player2Id": 44510,
+    "tournamentId": 13837,
+    "match_winner": 36558,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.52",
+    "player1": {
+     "id": 36558,
+     "name": "Elena Rybakina",
+     "countryAcr": "KAZ"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592190",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12997,
+    "player2Id": 431,
+    "tournamentId": 13837,
+    "match_winner": 12997,
+    "result": "2-6 6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.34",
+    "odd2": "1.63",
+    "player1": {
+     "id": 12997,
+     "name": "Tereza Martincova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 431,
+     "name": "Vera Zvonareva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592192",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6651,
+    "player2Id": 4263,
+    "tournamentId": 13837,
+    "match_winner": 6651,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6651,
+     "name": "Irina-Camelia Begu",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 4263,
+     "name": "Shuai Zhang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592202",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12842,
+    "player2Id": 9357,
+    "tournamentId": 13837,
+    "match_winner": 12842,
+    "result": "7-5 4-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.375",
+    "player1": {
+     "id": 12842,
+     "name": "Aliaksandra Sasnovich",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592211",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 38911,
+    "player2Id": 12635,
+    "tournamentId": 13837,
+    "match_winner": 38911,
+    "result": "4-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.96",
+    "odd2": "1.88",
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 12635,
+     "name": "Alison Van Uytvanck",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592214",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 945,
+    "player2Id": 13180,
+    "tournamentId": 13837,
+    "match_winner": 945,
+    "result": "7-6(5) 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.76",
+    "odd2": "1.47",
+    "player1": {
+     "id": 945,
+     "name": "Andrea Petkovic",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592221",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17614,
+    "player2Id": 14259,
+    "tournamentId": 13837,
+    "match_winner": 17614,
+    "result": "7-6(3) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592237",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 6019,
+    "player2Id": 32168,
+    "tournamentId": 13837,
+    "match_winner": 6019,
+    "result": "7-5 3-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 6019,
+     "name": "Sorana Cirstea",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 32168,
+     "name": "Marketa Vondrousova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592243",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13541,
+    "player2Id": 40156,
+    "tournamentId": 13837,
+    "match_winner": 13541,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "4.4",
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 40156,
+     "name": "Anastasia Potapova",
+     "countryAcr": "AUT"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592246",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 7574,
+    "player2Id": 45072,
+    "tournamentId": 13837,
+    "match_winner": 7574,
+    "result": "6-4 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "player2": {
+     "id": 45072,
+     "name": "Kamilla Rakhimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592247",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 8234,
+    "player2Id": 45192,
+    "tournamentId": 13837,
+    "match_winner": 8234,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8234,
+     "name": "Petra Kvitova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592248",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 16628,
+    "player2Id": 47152,
+    "tournamentId": 13837,
+    "match_winner": 16628,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.57",
+    "odd2": "2.47",
+    "player1": {
+     "id": 16628,
+     "name": "Jelena Ostapenko",
+     "countryAcr": "LAT"
+    },
+    "player2": {
+     "id": 47152,
+     "name": "Xinyu Wang",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592193",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13351,
+    "player2Id": 5817,
+    "tournamentId": 13837,
+    "match_winner": 13351,
+    "result": "3-6 6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592199",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14054,
+    "player2Id": 8696,
+    "tournamentId": 13837,
+    "match_winner": 14054,
+    "result": "6-2 1-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 8696,
+     "name": "Camila Giorgi",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592223",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14056,
+    "player2Id": 16119,
+    "tournamentId": 13837,
+    "match_winner": 14056,
+    "result": "6-2 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.31",
+    "player1": {
+     "id": 14056,
+     "name": "Belinda Bencic",
+     "countryAcr": "SUI"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592225",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13385,
+    "player2Id": 17021,
+    "tournamentId": 13837,
+    "match_winner": 13385,
+    "result": "6-3 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13385,
+     "name": "Anett Kontaveit",
+     "countryAcr": "EST"
+    },
+    "player2": {
+     "id": 17021,
+     "name": "Jil Teichmann",
+     "countryAcr": "SUI"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "592259",
+    "date": "2022-02-13T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 77734,
+    "player2Id": 76361,
+    "tournamentId": 13837,
+    "match_winner": 77734,
+    "result": "6-3 6-7(5) 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592257",
+    "date": "2022-02-12T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 76361,
+    "player2Id": 75285,
+    "tournamentId": 13837,
+    "match_winner": 76361,
+    "result": "7-5 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75285,
+     "name": "Natela Dzalamidze/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592251",
+    "date": "2022-02-11T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 77734,
+    "player2Id": 60598,
+    "tournamentId": 13837,
+    "match_winner": 77734,
+    "result": "6-2 5-7 14-12",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.21",
+    "odd2": "1.7",
+    "player1": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 60598,
+     "name": "Anastasia Potapova/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592208",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 60598,
+    "player2Id": 11719,
+    "tournamentId": 13837,
+    "match_winner": 60598,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.77",
+    "odd2": "2.05",
+    "player1": {
+     "id": 60598,
+     "name": "Anastasia Potapova/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 11719,
+     "name": "Sorana Cirstea/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592255",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 75285,
+    "player2Id": 72048,
+    "tournamentId": 13837,
+    "match_winner": 75285,
+    "result": "2-6 7-5 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75285,
+     "name": "Natela Dzalamidze/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72048,
+     "name": "Ekaterina Alexandrova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592261",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 76361,
+    "player2Id": 77731,
+    "tournamentId": 13837,
+    "match_winner": 76361,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.88",
+    "odd2": "1.92",
+    "player1": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77731,
+     "name": "Ulrikke Eikeri/Viktoria Hruncakova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592263",
+    "date": "2022-02-10T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 77734,
+    "player2Id": 77733,
+    "tournamentId": 13837,
+    "match_winner": 77734,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77733,
+     "name": "Kamilla Rakhimova/Ekaterina Shalimova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592227",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77734,
+    "player2Id": 21932,
+    "tournamentId": 13837,
+    "match_winner": 77734,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 77734,
+     "name": "Anna Kalinskaya/Caty McNally",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592254",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 76361,
+    "player2Id": 72046,
+    "tournamentId": 13837,
+    "match_winner": 76361,
+    "result": "6-4 3-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 76361,
+     "name": "Alicja Rosolska/Erin Routliffe",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72046,
+     "name": "Yifan Xu/Zhaoxuan Yang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592258",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 75285,
+    "player2Id": 75980,
+    "tournamentId": 13837,
+    "match_winner": 75285,
+    "result": "7-5 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 75285,
+     "name": "Natela Dzalamidze/Alexandra Panova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 75980,
+     "name": "Elixane Lechemia/Sabrina Santamaria",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592260",
+    "date": "2022-02-09T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77731,
+    "player2Id": 77220,
+    "tournamentId": 13837,
+    "match_winner": 77731,
+    "result": "7-6(4) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77731,
+     "name": "Ulrikke Eikeri/Viktoria Hruncakova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77220,
+     "name": "Kaitlyn Christian/Lidziya Marozava",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592250",
+    "date": "2022-02-08T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 72048,
+    "player2Id": 58661,
+    "tournamentId": 13837,
+    "match_winner": 72048,
+    "result": "6-1 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 72048,
+     "name": "Ekaterina Alexandrova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 58661,
+     "name": "Vivian Heisen/Julia Lohoff",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592230",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11719,
+    "player2Id": 26936,
+    "tournamentId": 13837,
+    "match_winner": 11719,
+    "result": "2-6 6-4 10-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.64",
+    "player1": {
+     "id": 11719,
+     "name": "Sorana Cirstea/Raluca Olaru",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 26936,
+     "name": "Lyudmyla Kichenok/Jelena Ostapenko",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592235",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 60598,
+    "player2Id": 30501,
+    "tournamentId": 13837,
+    "match_winner": 60598,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 60598,
+     "name": "Anastasia Potapova/Vera Zvonareva",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 30501,
+     "name": "Irina Maria Bara/Ekaterine Gorgodze",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592262",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 77733,
+    "player2Id": 77732,
+    "tournamentId": 13837,
+    "match_winner": 77733,
+    "result": "3-6 6-3 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 77733,
+     "name": "Kamilla Rakhimova/Ekaterina Shalimova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 77732,
+     "name": "Alison Van Uytvanck/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "592205",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 44510,
+    "player2Id": 9728,
+    "tournamentId": 13837,
+    "match_winner": 44510,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.03",
+    "odd2": "1.79",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592220",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 13180,
+    "player2Id": 14259,
+    "tournamentId": 13837,
+    "match_winner": 13180,
+    "result": "5-7 6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.61",
+    "odd2": "2.32",
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592244",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 38911,
+    "player2Id": 41569,
+    "tournamentId": 13837,
+    "match_winner": 38911,
+    "result": "6-4 3-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592253",
+    "date": "2022-02-07T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 45192,
+    "player2Id": 69652,
+    "tournamentId": 13837,
+    "match_winner": 45192,
+    "result": "4-6 6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.32",
+    "odd2": "3.38",
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592200",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 13180,
+    "player2Id": 8757,
+    "tournamentId": 13837,
+    "match_winner": 13180,
+    "result": "6-3 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 8757,
+     "name": "Ekaterine Gorgodze",
+     "countryAcr": "GEO"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592204",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 9728,
+    "player2Id": 9594,
+    "tournamentId": 13837,
+    "match_winner": 9728,
+    "result": "7-5 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592215",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 44510,
+    "player2Id": 13310,
+    "tournamentId": 13837,
+    "match_winner": 44510,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 13310,
+     "name": "Irina Maria Bara",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592228",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 45192,
+    "player2Id": 23230,
+    "tournamentId": 13837,
+    "match_winner": 45192,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592232",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 69652,
+    "player2Id": 29373,
+    "tournamentId": 13837,
+    "match_winner": 69652,
+    "result": "7-5 4-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592238",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 41569,
+    "player2Id": 32480,
+    "tournamentId": 13837,
+    "match_winner": 41569,
+    "result": "6-4 2-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.4",
+    "odd2": "1.57",
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592239",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 14259,
+    "player2Id": 32675,
+    "tournamentId": 13837,
+    "match_winner": 14259,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 32675,
+     "name": "Ekaterina Kazionova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592241",
+    "date": "2022-02-06T00:00:00.000Z",
+    "roundId": 2,
+    "player1Id": 38911,
+    "player2Id": 37907,
+    "tournamentId": 13837,
+    "match_winner": 38911,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 37907,
+     "name": "Ekaterina Shalimova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592197",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 41569,
+    "player2Id": 8208,
+    "tournamentId": 13837,
+    "match_winner": 41569,
+    "result": "4-6 7-5 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41569,
+     "name": "Caty McNally",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 8208,
+     "name": "Kristina Kucova",
+     "countryAcr": "SVK"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592201",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 38911,
+    "player2Id": 9247,
+    "tournamentId": 13837,
+    "match_winner": 38911,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 38911,
+     "name": "Kaja Juvan",
+     "countryAcr": "SLO"
+    },
+    "player2": {
+     "id": 9247,
+     "name": "Vitalia Diatchenko",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592203",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 69652,
+    "player2Id": 9458,
+    "tournamentId": 13837,
+    "match_winner": 69652,
+    "result": "6-3 6-7(8) 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.53",
+    "odd2": "1.52",
+    "player1": {
+     "id": 69652,
+     "name": "Erika Andreeva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 9458,
+     "name": "Kristina Mladenovic",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592206",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13180,
+    "player2Id": 9752,
+    "tournamentId": 13837,
+    "match_winner": 13180,
+    "result": "6-3 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.156",
+    "odd2": "5.35",
+    "player1": {
+     "id": 13180,
+     "name": "Rebecca Peterson",
+     "countryAcr": "SWE"
+    },
+    "player2": {
+     "id": 9752,
+     "name": "Valeria Savinykh",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592207",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32480,
+    "player2Id": 11205,
+    "tournamentId": 13837,
+    "match_winner": 32480,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32480,
+     "name": "Anna Kalinskaya",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 11205,
+     "name": "Nigina Abduraimova",
+     "countryAcr": "UZB"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592209",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9728,
+    "player2Id": 12089,
+    "tournamentId": 13837,
+    "match_winner": 9728,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12089,
+     "name": "Lin Zhu",
+     "countryAcr": "CHN"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592210",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14259,
+    "player2Id": 12432,
+    "tournamentId": 13837,
+    "match_winner": 14259,
+    "result": "3-6 6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14259,
+     "name": "Bernarda Pera",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592222",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 9594,
+    "player2Id": 14609,
+    "tournamentId": 13837,
+    "match_winner": 9594,
+    "result": "6-1 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.2",
+    "odd2": "1.23",
+    "player1": {
+     "id": 9594,
+     "name": "Ulrikke Eikeri",
+     "countryAcr": "NOR"
+    },
+    "player2": {
+     "id": 14609,
+     "name": "Harriet Dart",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592229",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 29373,
+    "player2Id": 24344,
+    "tournamentId": 13837,
+    "match_winner": 29373,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 29373,
+     "name": "Viktoria Hruncakova",
+     "countryAcr": "SVK"
+    },
+    "player2": {
+     "id": 24344,
+     "name": "Cristina Bucsa",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592231",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44510,
+    "player2Id": 28124,
+    "tournamentId": 13837,
+    "match_winner": 44510,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.22",
+    "odd2": "4.3",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 28124,
+     "name": "Amina Anshba",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592233",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 32675,
+    "player2Id": 29385,
+    "tournamentId": 13837,
+    "match_winner": 32675,
+    "result": "6-4 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 32675,
+     "name": "Ekaterina Kazionova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 29385,
+     "name": "Anastasia Gasanova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592234",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 23230,
+    "player2Id": 29547,
+    "tournamentId": 13837,
+    "match_winner": 23230,
+    "result": "7-5 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 23230,
+     "name": "Natalia Vikhlyantseva",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 29547,
+     "name": "Seone Mendez",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592236",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45192,
+    "player2Id": 31728,
+    "tournamentId": 13837,
+    "match_winner": 45192,
+    "result": "6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45192,
+     "name": "Jule Niemeier",
+     "countryAcr": "GER"
+    },
+    "player2": {
+     "id": 31728,
+     "name": "Anna Bondar",
+     "countryAcr": "HUN"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592249",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 37907,
+    "player2Id": 50297,
+    "tournamentId": 13837,
+    "match_winner": 37907,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 37907,
+     "name": "Ekaterina Shalimova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 50297,
+     "name": "Anastasia Tikhonova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592252",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 13310,
+    "player2Id": 65911,
+    "tournamentId": 13837,
+    "match_winner": 13310,
+    "result": "6-4 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.66",
+    "odd2": "2.22",
+    "player1": {
+     "id": 13310,
+     "name": "Irina Maria Bara",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 65911,
+     "name": "Diana Shnaider",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "592256",
+    "date": "2022-02-05T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 8757,
+    "player2Id": 72510,
+    "tournamentId": 13837,
+    "match_winner": 8757,
+    "result": "6-2 0-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 8757,
+     "name": "Ekaterine Gorgodze",
+     "countryAcr": "GEO"
+    },
+    "player2": {
+     "id": 72510,
+     "name": "Yara Bartashevich",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 13837,
+     "name": "St. Petersburg Ladies Trophy - St. Petersburg",
+     "courtId": 3,
+     "date": "2022-02-07T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "RUS",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}

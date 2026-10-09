@@ -1,0 +1,2811 @@
+{
+ "data": {
+  "singles": [
+   {
+    "id": "763133",
+    "date": "2024-04-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 11575,
+    "player2Id": 17503,
+    "tournamentId": 15218,
+    "match_winner": 11575,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763111",
+    "date": "2024-04-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 17503,
+    "player2Id": 11712,
+    "tournamentId": 15218,
+    "match_winner": 17503,
+    "result": "6-4 4-6 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763121",
+    "date": "2024-04-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 11575,
+    "player2Id": 13541,
+    "tournamentId": 15218,
+    "match_winner": 11575,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763095",
+    "date": "2024-04-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11712,
+    "player2Id": 5416,
+    "tournamentId": 15218,
+    "match_winner": 11712,
+    "result": "6-4 3-6 7-6(7)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.46",
+    "odd2": "2.72",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763120",
+    "date": "2024-04-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 11575,
+    "player2Id": 13351,
+    "tournamentId": 15218,
+    "match_winner": 11575,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763130",
+    "date": "2024-04-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 13541,
+    "player2Id": 16119,
+    "tournamentId": 15218,
+    "match_winner": 13541,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763134",
+    "date": "2024-04-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 17503,
+    "player2Id": 17614,
+    "tournamentId": 15218,
+    "match_winner": 17503,
+    "result": "6-7(4) 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.46",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763101",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11712,
+    "player2Id": 9357,
+    "tournamentId": 15218,
+    "match_winner": 11712,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.46",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763104",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 11575,
+    "player2Id": 10033,
+    "tournamentId": 15218,
+    "match_winner": 11575,
+    "result": "6-2 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763105",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11371,
+    "player2Id": 10334,
+    "tournamentId": 15218,
+    "match_winner": 11371,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.37",
+    "odd2": "3.1",
+    "player1": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763108",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13351,
+    "player2Id": 11371,
+    "tournamentId": 15218,
+    "match_winner": 13351,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 11371,
+     "name": "Elina Svitolina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763109",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11575,
+    "player2Id": 11449,
+    "tournamentId": 15218,
+    "match_winner": 11575,
+    "result": "6-3 1-6 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.42",
+    "odd2": "2.875",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11449,
+     "name": "Ons Jabeur",
+     "countryAcr": "TUN"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763119",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 16119,
+    "player2Id": 13094,
+    "tournamentId": 15218,
+    "match_winner": 16119,
+    "result": "7-5 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763122",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 5416,
+    "player2Id": 13621,
+    "tournamentId": 15218,
+    "match_winner": 5416,
+    "result": "6-7(5) 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.6",
+    "odd2": "2.34",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763127",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 13541,
+    "player2Id": 14902,
+    "tournamentId": 15218,
+    "match_winner": 13541,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763129",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17503,
+    "player2Id": 16043,
+    "tournamentId": 15218,
+    "match_winner": 17503,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.533",
+    "odd2": "2.5",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763149",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 6,
+    "player1Id": 17614,
+    "player2Id": 42098,
+    "tournamentId": 15218,
+    "match_winner": 17614,
+    "result": "6-3 5-7 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763151",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13351,
+    "player2Id": 44510,
+    "tournamentId": 15218,
+    "match_winner": 13351,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13351,
+     "name": "Elise Mertens",
+     "countryAcr": "BEL"
+    },
+    "player2": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763156",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 10033,
+    "player2Id": 49081,
+    "tournamentId": 15218,
+    "match_winner": 10033,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 49081,
+     "name": "Leylah Annie Fernandez",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763096",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16043,
+    "player2Id": 5600,
+    "tournamentId": 15218,
+    "match_winner": 16043,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16043,
+     "name": "Anhelina Kalinina",
+     "countryAcr": "UKR"
+    },
+    "player2": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763103",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 14902,
+    "player2Id": 9857,
+    "tournamentId": 15218,
+    "match_winner": 14902,
+    "result": "6-4 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 9857,
+     "name": "Lesya Tsurenko",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763116",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 16119,
+    "player2Id": 12267,
+    "tournamentId": 15218,
+    "match_winner": 16119,
+    "result": "7-6(5) 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 16119,
+     "name": "Veronika Kudermetova",
+     "countryAcr": "RUS"
+    },
+    "player2": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763124",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13621,
+    "player2Id": 14054,
+    "tournamentId": 15218,
+    "match_winner": 13621,
+    "result": "7-5 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.26",
+    "odd2": "1.64",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14054,
+     "name": "Ekaterina Alexandrova",
+     "countryAcr": "RUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763140",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13094,
+    "player2Id": 28585,
+    "tournamentId": 15218,
+    "match_winner": 13094,
+    "result": "6-2 7-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.31",
+    "odd2": "3.46",
+    "player1": {
+     "id": 13094,
+     "name": "Beatriz Haddad Maia",
+     "countryAcr": "BRA"
+    },
+    "player2": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763157",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 42098,
+    "player2Id": 52790,
+    "tournamentId": 15218,
+    "match_winner": 42098,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.45",
+    "odd2": "2.76",
+    "player1": {
+     "id": 42098,
+     "name": "Emma Navarro",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763158",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 5416,
+    "player2Id": 54664,
+    "tournamentId": 15218,
+    "match_winner": 5416,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.64",
+    "odd2": "2.26",
+    "player1": {
+     "id": 5416,
+     "name": "Victoria Azarenka",
+     "countryAcr": "BLR"
+    },
+    "player2": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763159",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17503,
+    "player2Id": 64343,
+    "tournamentId": 15218,
+    "match_winner": 17503,
+    "result": "6-3 0-6 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.4",
+    "odd2": "2.96",
+    "player1": {
+     "id": 17503,
+     "name": "Daria Kasatkina",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763098",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 14902,
+    "player2Id": 6159,
+    "tournamentId": 15218,
+    "match_winner": 14902,
+    "result": "6-4 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 6159,
+     "name": "Arina Rodionova",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763102",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 54664,
+    "player2Id": 9728,
+    "tournamentId": 15218,
+    "match_winner": 54664,
+    "result": "2-6 6-1 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.56",
+    "odd2": "2.43",
+    "player1": {
+     "id": 54664,
+     "name": "Elisabetta Cocciaretto",
+     "countryAcr": "ITA"
+    },
+    "player2": {
+     "id": 9728,
+     "name": "Ana Bogdan",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763110",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 17614,
+    "player2Id": 11672,
+    "tournamentId": 15218,
+    "match_winner": 17614,
+    "result": "3-6 6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "3.78",
+    "odd2": "1.27",
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 11672,
+     "name": "Madison Keys",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763117",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 13541,
+    "player2Id": 12432,
+    "tournamentId": 15218,
+    "match_winner": 13541,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 13541,
+     "name": "Maria Sakkari",
+     "countryAcr": "GRE"
+    },
+    "player2": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763126",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 64343,
+    "player2Id": 14697,
+    "tournamentId": 15218,
+    "match_winner": 64343,
+    "result": "7-6(0) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "3.16",
+    "player1": {
+     "id": 64343,
+     "name": "Ashlyn Krueger",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763131",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 11575,
+    "player2Id": 17142,
+    "tournamentId": 15218,
+    "match_winner": 11575,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.49",
+    "odd2": "2.625",
+    "player1": {
+     "id": 11575,
+     "name": "Danielle Rose Collins",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17142,
+     "name": "Paula Badosa Gibert",
+     "countryAcr": "ESP"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763132",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10033,
+    "player2Id": 17155,
+    "tournamentId": 15218,
+    "match_winner": 10033,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10033,
+     "name": "Sloane Stephens",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 17155,
+     "name": "Magdalena Frech",
+     "countryAcr": "POL"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763136",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 13621,
+    "player2Id": 23432,
+    "tournamentId": 15218,
+    "match_winner": 13621,
+    "result": "6-3 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.62",
+    "odd2": "2.3",
+    "player1": {
+     "id": 13621,
+     "name": "Taylor Townsend",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 23432,
+     "name": "Sofia Kenin",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763142",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 28585,
+    "player2Id": 30510,
+    "tournamentId": 15218,
+    "match_winner": 28585,
+    "result": "6-3 0-6 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.74",
+    "odd2": "2.1",
+    "player1": {
+     "id": 28585,
+     "name": "Caroline Dolehide",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 30510,
+     "name": "Kayla Day",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763145",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 9357,
+    "player2Id": 37266,
+    "tournamentId": 15218,
+    "match_winner": 9357,
+    "result": "0-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.909",
+    "odd2": "1.909",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 37266,
+     "name": "Dayana Yastremska",
+     "countryAcr": "UKR"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763148",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 5,
+    "player1Id": 11712,
+    "player2Id": 41564,
+    "tournamentId": 15218,
+    "match_winner": 11712,
+    "result": "3-6 6-4 7-6(3)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.51",
+    "odd2": "2.57",
+    "player1": {
+     "id": 11712,
+     "name": "Jessica Pegula",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763097",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 41564,
+    "player2Id": 5817,
+    "tournamentId": 15218,
+    "match_winner": 41564,
+    "result": "6-3 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 41564,
+     "name": "Amanda Anisimova",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 5817,
+     "name": "Alize Cornet",
+     "countryAcr": "FRA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763099",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 52790,
+    "player2Id": 6933,
+    "tournamentId": 15218,
+    "match_winner": 52790,
+    "result": "6-2 6-7(6) 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 6933,
+     "name": "Arantxa Rus",
+     "countryAcr": "NED"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763100",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 9357,
+    "player2Id": 7574,
+    "tournamentId": 15218,
+    "match_winner": 9357,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.75",
+    "odd2": "2.08",
+    "player1": {
+     "id": 9357,
+     "name": "Magda Linette",
+     "countryAcr": "POL"
+    },
+    "player2": {
+     "id": 7574,
+     "name": "Petra Martic",
+     "countryAcr": "CRO"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763114",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 17614,
+    "player2Id": 12116,
+    "tournamentId": 15218,
+    "match_winner": 17614,
+    "result": "6-1 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 17614,
+     "name": "Jaqueline Cristian",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763123",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12432,
+    "player2Id": 13706,
+    "tournamentId": 15218,
+    "match_winner": 12432,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12432,
+     "name": "Viktoriya Tomova",
+     "countryAcr": "BUL"
+    },
+    "player2": {
+     "id": 13706,
+     "name": "Mayar Sherif",
+     "countryAcr": "EGY"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763125",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 10334,
+    "player2Id": 14694,
+    "tournamentId": 15218,
+    "match_winner": 10334,
+    "result": "6-4 3-6 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 14694,
+     "name": "Tamara Korpatsch",
+     "countryAcr": "GER"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763139",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12267,
+    "player2Id": 27804,
+    "tournamentId": 15218,
+    "match_winner": 12267,
+    "result": "6-1 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12267,
+     "name": "Shelby Rogers",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763155",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 5600,
+    "player2Id": 48900,
+    "tournamentId": 15218,
+    "match_winner": 5600,
+    "result": "6-0 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.363",
+    "odd2": "3.14",
+    "player1": {
+     "id": 5600,
+     "name": "Caroline Wozniacki",
+     "countryAcr": "DEN"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763162",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 44510,
+    "player2Id": 73190,
+    "tournamentId": 15218,
+    "match_winner": 44510,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.68",
+    "odd2": "2.19",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 73190,
+     "name": "Clervie Ngounoue",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doubles": [
+   {
+    "id": "763118",
+    "date": "2024-04-07T00:00:00.000Z",
+    "roundId": 12,
+    "player1Id": 91396,
+    "player2Id": 12893,
+    "tournamentId": 15218,
+    "match_winner": 91396,
+    "result": "1-6 6-3 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763135",
+    "date": "2024-04-06T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 91396,
+    "player2Id": 21932,
+    "tournamentId": 15218,
+    "match_winner": 91396,
+    "result": "5-7 6-0 10-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.02",
+    "odd2": "1.74",
+    "player1": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763163",
+    "date": "2024-04-05T00:00:00.000Z",
+    "roundId": 10,
+    "player1Id": 12893,
+    "player2Id": 78908,
+    "tournamentId": 15218,
+    "match_winner": 12893,
+    "result": "7-6(4) 6-7(2) 13-11",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763166",
+    "date": "2024-04-05T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 91396,
+    "player2Id": 91156,
+    "tournamentId": 15218,
+    "match_winner": 91396,
+    "result": "6-7(5) 6-2 10-6",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91156,
+     "name": "Olivia Nicholls/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763165",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 12893,
+    "player2Id": 79449,
+    "tournamentId": 15218,
+    "match_winner": 12893,
+    "result": "3-6 6-1 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79449,
+     "name": "Madison Keys/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763170",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 78908,
+    "player2Id": 92859,
+    "tournamentId": 15218,
+    "match_winner": 78908,
+    "result": "6-2 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.43",
+    "odd2": "2.69",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92859,
+     "name": "Magda Linette/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763174",
+    "date": "2024-04-04T00:00:00.000Z",
+    "roundId": 9,
+    "player1Id": 21932,
+    "player2Id": 92863,
+    "tournamentId": 15218,
+    "match_winner": 21932,
+    "result": "6-4 0-6 10-5",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763171",
+    "date": "2024-04-03T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 92859,
+    "player2Id": 92860,
+    "tournamentId": 15218,
+    "match_winner": 92859,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.59",
+    "odd2": "2.26",
+    "player1": {
+     "id": 92859,
+     "name": "Magda Linette/Shuai Zhang",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92860,
+     "name": "Ingrid Martins/Tereza Mihalikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763161",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 92863,
+    "player2Id": 72048,
+    "tournamentId": 15218,
+    "match_winner": 92863,
+    "result": "6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.58",
+    "odd2": "2.28",
+    "player1": {
+     "id": 92863,
+     "name": "Hao-Ching Chan/Veronika Kudermetova",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 72048,
+     "name": "Ekaterina Alexandrova/Yana Sizikova",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763167",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 21932,
+    "player2Id": 91775,
+    "tournamentId": 15218,
+    "match_winner": 21932,
+    "result": "5-7 6-4 10-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.47",
+    "odd2": "1.5",
+    "player1": {
+     "id": 21932,
+     "name": "Eri Hozumi/Makoto Ninomiya",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91775,
+     "name": "Caroline Dolehide/Desirae Krawczyk",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763169",
+    "date": "2024-04-02T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 78908,
+    "player2Id": 92858,
+    "tournamentId": 15218,
+    "match_winner": 78908,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.15",
+    "odd2": "4.95",
+    "player1": {
+     "id": 78908,
+     "name": "Nicole Melichar/Ellen Perez",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92858,
+     "name": "Mccartney Kessler/Clervie Ngounoue",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763164",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 79449,
+    "player2Id": 79446,
+    "tournamentId": 15218,
+    "match_winner": 79449,
+    "result": "6-1 2-6 10-7",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 79449,
+     "name": "Madison Keys/Taylor Townsend",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 79446,
+     "name": "Miyu Kato/Aldila Sutjiadi",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763168",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91396,
+    "player2Id": 91973,
+    "tournamentId": 15218,
+    "match_winner": 91396,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.53",
+    "odd2": "2.4",
+    "player1": {
+     "id": 91396,
+     "name": "Ashlyn Krueger/Sloane Stephens",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 91973,
+     "name": "Ulrikke Eikeri/Fang-Hsien Wu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763172",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 12893,
+    "player2Id": 92861,
+    "tournamentId": 15218,
+    "match_winner": 12893,
+    "result": "6-4 1-6 10-8",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12893,
+     "name": "Lyudmyla Kichenok/Nadiya Kichenok",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92861,
+     "name": "Sophie Chang/Yifan Xu",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763173",
+    "date": "2024-04-01T00:00:00.000Z",
+    "roundId": 4,
+    "player1Id": 91156,
+    "player2Id": 92862,
+    "tournamentId": 15218,
+    "match_winner": 91156,
+    "result": "6-4 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.69",
+    "odd2": "2.09",
+    "player1": {
+     "id": 91156,
+     "name": "Olivia Nicholls/Heather Watson",
+     "countryAcr": "N/A"
+    },
+    "player2": {
+     "id": 92862,
+     "name": "Anna Danilina/Giuliana Olmos",
+     "countryAcr": "N/A"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "qualifying": [
+   {
+    "id": "763106",
+    "date": "2024-03-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 10334,
+    "player2Id": 11071,
+    "tournamentId": 15218,
+    "match_winner": 10334,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.52",
+    "odd2": "2.42",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763128",
+    "date": "2024-03-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 14697,
+    "player2Id": 14902,
+    "tournamentId": 15218,
+    "match_winner": 14697,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "2.73",
+    "odd2": "1.42",
+    "player1": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763138",
+    "date": "2024-03-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 44510,
+    "player2Id": 25504,
+    "tournamentId": 15218,
+    "match_winner": 44510,
+    "result": "6-2 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.24",
+    "odd2": "3.78",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 25504,
+     "name": "Usue Maitane Arconada",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763152",
+    "date": "2024-03-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 52790,
+    "player2Id": 45866,
+    "tournamentId": 15218,
+    "match_winner": 52790,
+    "result": "2-6 6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.36",
+    "odd2": "2.98",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763154",
+    "date": "2024-03-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 12116,
+    "player2Id": 48900,
+    "tournamentId": 15218,
+    "match_winner": 12116,
+    "result": "7-6(5) 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763160",
+    "date": "2024-03-31T00:00:00.000Z",
+    "roundId": 3,
+    "player1Id": 27804,
+    "player2Id": 65912,
+    "tournamentId": 15218,
+    "match_winner": 27804,
+    "result": "3-6 6-4 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.87",
+    "odd2": "1.87",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763107",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 10334,
+    "player2Id": 11350,
+    "tournamentId": 15218,
+    "match_winner": 10334,
+    "result": "6-1 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.063",
+    "odd2": "7.7",
+    "player1": {
+     "id": 10334,
+     "name": "Daria Saville",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 11350,
+     "name": "Grace Min",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763112",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 45866,
+    "player2Id": 11931,
+    "tournamentId": 15218,
+    "match_winner": 45866,
+    "result": "7-6(9) 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 45866,
+     "name": "Ann Li",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 11931,
+     "name": "Robin Anderson",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763113",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 65912,
+    "player2Id": 11991,
+    "tournamentId": 15218,
+    "match_winner": 65912,
+    "result": "7-5 4-6 6-0",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 65912,
+     "name": "Linda Fruhvirtova",
+     "countryAcr": "CZE"
+    },
+    "player2": {
+     "id": 11991,
+     "name": "Nicole Melichar",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763115",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 12116,
+    "player2Id": 12205,
+    "tournamentId": 15218,
+    "match_winner": 12116,
+    "result": "6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 12116,
+     "name": "Sachia Vickery",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 12205,
+     "name": "Lauren Davis",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763137",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 27804,
+    "player2Id": 25351,
+    "tournamentId": 15218,
+    "match_winner": 27804,
+    "result": "6-3 4-6 7-6(6)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.107",
+    "odd2": "5.95",
+    "player1": {
+     "id": 27804,
+     "name": "Claire Liu",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 25351,
+     "name": "Sophie Chang",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763141",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 52790,
+    "player2Id": 29178,
+    "tournamentId": 15218,
+    "match_winner": 52790,
+    "result": "6-3 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.23",
+    "odd2": "3.88",
+    "player1": {
+     "id": 52790,
+     "name": "Katie Volynets",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 29178,
+     "name": "Katherine Sebov",
+     "countryAcr": "CAN"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763143",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14902,
+    "player2Id": 30808,
+    "tournamentId": 15218,
+    "match_winner": 14902,
+    "result": "6-0 6-2",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14902,
+     "name": "Astra Sharma",
+     "countryAcr": "AUS"
+    },
+    "player2": {
+     "id": 30808,
+     "name": "Jessie Aney",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763144",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 11071,
+    "player2Id": 30909,
+    "tournamentId": 15218,
+    "match_winner": 11071,
+    "result": "6-0 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 11071,
+     "name": "Heather Watson",
+     "countryAcr": "GBR"
+    },
+    "player2": {
+     "id": 30909,
+     "name": "Alana Smith",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763146",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 14697,
+    "player2Id": 39326,
+    "tournamentId": 15218,
+    "match_winner": 14697,
+    "result": "5-7 6-3 6-4",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": null,
+    "odd2": null,
+    "player1": {
+     "id": 14697,
+     "name": "Gabriela Lee",
+     "countryAcr": "ROU"
+    },
+    "player2": {
+     "id": 39326,
+     "name": "Mai Hontama",
+     "countryAcr": "JPN"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763147",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 44510,
+    "player2Id": 40565,
+    "tournamentId": 15218,
+    "match_winner": 44510,
+    "result": "4-6 6-2 6-3",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.28",
+    "odd2": "3.45",
+    "player1": {
+     "id": 44510,
+     "name": "Varvara Gracheva",
+     "countryAcr": "FRA"
+    },
+    "player2": {
+     "id": 40565,
+     "name": "Dalayna Hewitt",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763150",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 48900,
+    "player2Id": 44197,
+    "tournamentId": 15218,
+    "match_winner": 48900,
+    "result": "6-2 6-1",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "1.005",
+    "odd2": "13.25",
+    "player1": {
+     "id": 48900,
+     "name": "Mccartney Kessler",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 44197,
+     "name": "Haley Giavara",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   },
+   {
+    "id": "763153",
+    "date": "2024-03-30T00:00:00.000Z",
+    "roundId": 1,
+    "player1Id": 25504,
+    "player2Id": 47153,
+    "tournamentId": 15218,
+    "match_winner": 25504,
+    "result": "7-5 7-6(5)",
+    "result_type": "completed",
+    "best_of": null,
+    "odd1": "4.95",
+    "odd2": "1.15",
+    "player1": {
+     "id": 25504,
+     "name": "Usue Maitane Arconada",
+     "countryAcr": "USA"
+    },
+    "player2": {
+     "id": 47153,
+     "name": "Elizabeth Mandlik",
+     "countryAcr": "USA"
+    },
+    "tournament": {
+     "id": 15218,
+     "name": "Credit One Charleston Open - Charleston",
+     "courtId": 2,
+     "date": "2024-04-01T00:00:00.000Z",
+     "rankId": 2,
+     "countryAcr": "USA",
+     "court": null,
+     "rank": null,
+     "country": null
+    }
+   }
+  ],
+  "doublesQualifying": []
+ }
+}
